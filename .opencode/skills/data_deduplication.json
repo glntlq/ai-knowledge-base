@@ -1,0 +1,20 @@
+{
+  "name": "data_deduplication",
+  "description": "数据去重技能：基于内容哈希和相似度检测去除重复条目",
+  "implementation": {
+    "module": "src.storages.deduplicator",
+    "class": "Deduplicator",
+    "functions": ["compute_content_hash", "find_duplicates", "merge_entries"]
+  },
+  "dependencies": ["hashlib", "simhash", "numpy"],
+  "config": {
+    "hash_algorithm": "sha256",
+    "similarity_threshold": 0.9,
+    "fields_for_deduplication": ["title", "summary", "source_url"]
+  },
+  "strategies": {
+    "exact_match": ["content_hash"],
+    "fuzzy_match": ["title_similarity", "summary_similarity"],
+    "resolution": "keep_newest"
+  }
+}

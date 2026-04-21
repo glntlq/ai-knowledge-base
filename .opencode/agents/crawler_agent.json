@@ -1,0 +1,35 @@
+{
+  "name": "crawler_agent",
+  "description": "采集 Agent：定时从 GitHub Trending 和 Hacker News 抓取 AI/LLM/Agent 领域技术动态",
+  "type": "periodic",
+  "schedule": "0 */2 * * *",
+  "tools": [
+    "fetch_github_trending",
+    "fetch_hacker_news",
+    "html2markdown"
+  ],
+  "skills": [
+    "web_crawling",
+    "data_extraction"
+  ],
+  "config": {
+    "github_trending_url": "https://github.com/trending",
+    "hacker_news_url": "https://news.ycombinator.com",
+    "target_topics": ["ai", "llm", "agent", "machine-learning"],
+    "request_interval_seconds": 5,
+    "output_dir": "knowledge/raw/"
+  },
+  "output_spec": {
+    "raw_html": "knowledge/raw/{date}/{source}_{timestamp}.html",
+    "metadata": "knowledge/raw/{date}/{source}_{timestamp}_meta.json"
+  },
+  "error_handling": {
+    "retry_attempts": 3,
+    "retry_delay_seconds": 30,
+    "fallback_strategy": "skip_and_log"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "json"
+  }
+}
