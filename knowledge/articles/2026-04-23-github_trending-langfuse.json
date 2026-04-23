@@ -1,0 +1,39 @@
+{
+  "id": "20260423-github_trending-langfuse",
+  "title": "langfuse/langfuse",
+  "source_url": "https://github.com/langfuse/langfuse",
+  "source_type": "github_trending",
+  "summary": "Langfuse 是一个开源 LLM 工程平台，提供 LLM 可观测性、指标监控、评估、Prompt 管理、Playground 和数据集管理等核心功能。它与 OpenTelemetry、LangChain、OpenAI SDK、LiteLLM 等主流工具集成，帮助开发团队构建、监控和优化 LLM 应用。适用于需要精细化管理和调优 LLM 生产环境的工程团队。YC W23 孵化项目。",
+  "content_markdown": "",
+  "tags": ["llm", "observability", "prompt-management", "typescript", "evaluation"],
+  "language": "zh",
+  "author": "langfuse",
+  "published_at": null,
+  "collected_at": "2026-04-23T12:00:00Z",
+  "analyzed_at": "2026-04-23T12:00:00Z",
+  "organized_at": "2026-04-23T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 25867,
+    "today_stars": null,
+    "language": "TypeScript",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "intermediate",
+    "quality_score": 9,
+    "highlights": [
+      {
+        "title": "LLM 可观测性",
+        "description": "提供全面的 LLM 调用监控、追踪和性能指标"
+      },
+      {
+        "title": "Prompt 管理",
+        "description": "支持 Prompt 版本管理、测试和优化工作流"
+      },
+      {
+        "title": "生态集成",
+        "description": "与 OpenTelemetry、LangChain、OpenAI SDK 等深度集成"
+      }
+    ]
+  }
+}

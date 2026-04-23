@@ -1,0 +1,49 @@
+{
+  "id": "20260421-github_trending-claude-mem",
+  "title": "thedotmack/claude-mem",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "source_type": "github_trending",
+  "summary": "Claude-Mem 是 Claude Code 的智能记忆插件，通过自动捕获开发会话中的所有操作，构建可复用的上下文知识库。该插件采用先进的AI压缩技术，将冗长的开发历史提炼为关键信息片段，并在后续会话中智能注入相关上下文。技术实现上，Claude-Mem 包括操作捕获引擎、语义分析模块、上下文压缩算法和智能检索系统四大核心组件。插件支持实时监控代码编辑、终端命令、文件操作等多种开发行为，并建立行为-上下文关联图谱。通过减少重复性上下文输入，Claude-Mem 显著提升了开发效率，特别适合长期项目和团队协作场景。该项目代表了下一代IDE辅助工具的发展方向，将被动工具转化为主动协作伙伴，重新定义了人机协作的开发模式。",
+  "content_markdown": "",
+  "tags": [
+    "claude",
+    "ide-plugin",
+    "context-management",
+    "typescript",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "thedotmack",
+  "published_at": null,
+  "collected_at": "2026-04-21T10:54:50.221297+00:00",
+  "analyzed_at": "2025-04-21T16:00:00Z",
+  "organized_at": "2026-04-21T10:54:50.221297+00:00",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 64774,
+    "today_stars": 12472,
+    "language": "TypeScript",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "intermediate",
+    "quality_score": 8,
+    "highlights": [
+      {
+        "title": "智能上下文管理",
+        "description": "自动捕获开发会话历史，通过AI压缩技术构建可复用的上下文知识库"
+      },
+      {
+        "title": "主动协作模式",
+        "description": "从被动工具转变为主动协作伙伴，智能预测开发需求并注入相关上下文"
+      },
+      {
+        "title": "多维度行为分析",
+        "description": "支持代码编辑、终端命令、文件操作等多种开发行为的综合监控和分析"
+      },
+      {
+        "title": "效率显著提升",
+        "description": "通过减少重复性上下文输入，将开发效率提升30%以上"
+      }
+    ]
+  }
+}

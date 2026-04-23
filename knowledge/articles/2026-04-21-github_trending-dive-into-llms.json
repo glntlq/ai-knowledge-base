@@ -1,0 +1,49 @@
+{
+  "id": "20260421-github_trending-dive-into-llms",
+  "title": "Lordog/dive-into-llms",
+  "source_url": "https://github.com/Lordog/dive-into-llms",
+  "source_type": "github_trending",
+  "summary": "《动手学大模型》是一套系统性的LLM编程实践教程，通过丰富的实际案例引导开发者深入理解大模型的技术原理和应用开发。教程内容涵盖从基础理论到高级应用的完整知识体系，包括Transformer架构详解、预训练技术、微调策略、提示工程、应用部署等核心主题。每个章节都配备了完整的代码示例和实验环境，支持Jupyter Notebook交互式学习。教程特别强调实践导向，通过真实项目案例展示LLM在文本生成、代码补全、智能问答、多模态理解等场景的应用。在教学方法上，采用循序渐进的知识递进模式，从基础概念到复杂系统逐步深入，适合不同层次的开发者学习。该教程填补了中文LLM实践教育的空白，为大模型技术普及和人才培养提供了高质量的学习资源，对推动国内AI技术发展有重要意义。",
+  "content_markdown": "",
+  "tags": [
+    "llm",
+    "tutorial",
+    "education",
+    "jupyter-notebook",
+    "chinese"
+  ],
+  "language": "zh",
+  "author": "Lordog",
+  "published_at": null,
+  "collected_at": "2026-04-21T10:54:50.221297+00:00",
+  "analyzed_at": "2025-04-21T16:00:00Z",
+  "organized_at": "2026-04-21T10:54:50.221297+00:00",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 33183,
+    "today_stars": 5703,
+    "language": "Jupyter Notebook",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "intermediate",
+    "quality_score": 8,
+    "highlights": [
+      {
+        "title": "系统化知识体系",
+        "description": "涵盖从基础理论到高级应用的完整LLM知识体系，结构清晰，层次分明"
+      },
+      {
+        "title": "实践导向设计",
+        "description": "每个知识点都配备完整代码示例和实验环境，强调动手实践"
+      },
+      {
+        "title": "交互式学习体验",
+        "description": "基于Jupyter Notebook的交互式学习模式，支持实时代码执行和结果验证"
+      },
+      {
+        "title": "中文教育资源",
+        "description": "填补了中文LLM实践教育的空白，对国内AI技术普及有重要价值"
+      }
+    ]
+  }
+}

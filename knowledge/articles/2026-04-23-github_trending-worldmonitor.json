@@ -1,0 +1,35 @@
+{
+  "id": "20260423-github_trending-worldmonitor",
+  "title": "koala73/worldmonitor",
+  "source_url": "https://github.com/koala73/worldmonitor",
+  "source_type": "github_trending",
+  "summary": "WorldMonitor 是一个实时全球情报仪表盘，集成了 AI 驱动的新闻聚合、地缘政治监控和基础设施追踪功能。系统提供统一态势感知界面，帮助用户快速掌握全球动态。适用于安全分析、情报研究和新闻监测等场景。该项目采用 TypeScript 开发，界面现代化，数据可视化能力强。",
+  "content_markdown": "",
+  "tags": ["ai", "monitoring", "intelligence", "typescript", "dashboard"],
+  "language": "zh",
+  "author": "koala73",
+  "published_at": null,
+  "collected_at": "2026-04-23T12:00:00Z",
+  "analyzed_at": "2026-04-23T12:00:00Z",
+  "organized_at": "2026-04-23T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 52084,
+    "today_stars": null,
+    "language": "TypeScript",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "beginner",
+    "quality_score": 7,
+    "highlights": [
+      {
+        "title": "实时情报",
+        "description": "AI 驱动的全球新闻聚合和地缘政治实时监控"
+      },
+      {
+        "title": "态势感知",
+        "description": "统一仪表盘界面，提供全景式情报可视化"
+      }
+    ]
+  }
+}

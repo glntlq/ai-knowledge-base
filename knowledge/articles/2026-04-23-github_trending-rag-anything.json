@@ -1,0 +1,35 @@
+{
+  "id": "20260423-github_trending-rag-anything",
+  "title": "HKUDS/RAG-Anything",
+  "source_url": "https://github.com/HKUDS/RAG-Anything",
+  "source_type": "github_trending",
+  "summary": "RAG-Anything 是一站式检索增强生成（RAG）框架，由香港大学数据科学团队开发。该框架简化了从文档检索到 LLM 生成的完整流程，提供灵活的组件化架构，支持多种文档格式和向量数据库。适用于构建基于私有知识库的问答系统、文档分析和智能客服等场景。采用 Python 开发，易于集成和扩展。",
+  "content_markdown": "",
+  "tags": ["rag", "llm", "framework", "python", "retrieval"],
+  "language": "zh",
+  "author": "HKUDS",
+  "published_at": null,
+  "collected_at": "2026-04-23T12:00:00Z",
+  "analyzed_at": "2026-04-23T12:00:00Z",
+  "organized_at": "2026-04-23T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 17805,
+    "today_stars": null,
+    "language": "Python",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "intermediate",
+    "quality_score": 7,
+    "highlights": [
+      {
+        "title": "一站式 RAG",
+        "description": "涵盖检索、生成全流程的完整 RAG 框架"
+      },
+      {
+        "title": "学术背景",
+        "description": "由香港大学数据科学团队开发，具有扎实的研究基础"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "20260423-github_trending-shannon",
+  "title": "KeygraphHQ/shannon",
+  "source_url": "https://github.com/KeygraphHQ/shannon",
+  "source_type": "github_trending",
+  "summary": "Shannon 是一个自主 AI 渗透测试工具（白盒），能够自动分析源代码、发现攻击向量并执行真实漏洞利用。它在漏洞到达生产环境之前证明安全风险，帮助开发团队及早修复。支持 Web 应用和 API 安全测试，适用于 DevSecOps 流程中的安全左移实践。采用 TypeScript 开发，提供自动化安全审计能力。",
+  "content_markdown": "",
+  "tags": ["ai", "security", "pentesting", "typescript", "devsecops"],
+  "language": "zh",
+  "author": "KeygraphHQ",
+  "published_at": null,
+  "collected_at": "2026-04-23T12:00:00Z",
+  "analyzed_at": "2026-04-23T12:00:00Z",
+  "organized_at": "2026-04-23T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 39914,
+    "today_stars": null,
+    "language": "TypeScript",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "advanced",
+    "quality_score": 8,
+    "highlights": [
+      {
+        "title": "自动化渗透",
+        "description": "自动分析源码、发现攻击向量并执行漏洞利用"
+      },
+      {
+        "title": "左移安全",
+        "description": "在开发阶段发现安全缺陷，降低修复成本"
+      }
+    ]
+  }
+}

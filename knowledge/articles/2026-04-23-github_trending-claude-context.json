@@ -1,0 +1,35 @@
+{
+  "id": "20260423-github_trending-claude-context",
+  "title": "zilliztech/claude-context",
+  "source_url": "https://github.com/zilliztech/claude-context",
+  "source_type": "github_trending",
+  "summary": "Claude Context 是一个为 Claude Code 设计的代码搜索 MCP（Model Context Protocol）工具，由 Zilliz 开发。它能够将整个代码库转化为编码代理的上下文，让 AI 编程助手更全面地理解项目结构和代码逻辑。该工具通过高效的代码索引和检索机制，帮助开发者快速定位相关代码，提升编码和调试效率。",
+  "content_markdown": "",
+  "tags": ["mcp", "claude", "coding-agent", "typescript", "code-search"],
+  "language": "zh",
+  "author": "zilliztech",
+  "published_at": null,
+  "collected_at": "2026-04-23T12:00:00Z",
+  "analyzed_at": "2026-04-23T12:00:00Z",
+  "organized_at": "2026-04-23T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 8010,
+    "today_stars": null,
+    "language": "TypeScript",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "intermediate",
+    "quality_score": 8,
+    "highlights": [
+      {
+        "title": "MCP 协议",
+        "description": "基于 Model Context Protocol，为编码代理提供代码库级上下文"
+      },
+      {
+        "title": "代码搜索",
+        "description": "将整个代码库索引化，支持高效的代码检索"
+      }
+    ]
+  }
+}

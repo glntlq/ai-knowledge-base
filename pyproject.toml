@@ -1,0 +1,62 @@
+[project]
+name = "ai-knowledge-base"
+version = "0.1.0"
+description = "AI 知识库助手：自动采集 AI/LLM/Agent 领域技术动态"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+    {name = "AI Knowledge Base Team"}
+]
+license = {text = "MIT"}
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=4.9.0",
+    "openai>=1.12.0",
+    "langchain>=0.1.0",
+    "langchain-openai>=0.0.2",
+    "nltk>=3.8.0",
+    "python-dotenv>=1.0.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+    "mypy>=1.5.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.black]
+line-length = 88
+target-version = ['py312']
+
+[tool.ruff]
+target-version = "py312"
+line-length = 88
+select = [
+    "E", "W", "F",   # 基本错误和格式
+    "I",             # import 排序
+    "UP",            # pyupgrade
+    "BLE",           # 不必要的转换
+]
+ignore = ["E501"]    # 行长度由 black 处理
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true

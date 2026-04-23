@@ -1,0 +1,49 @@
+{
+  "id": "20260421-github_trending-genericagent",
+  "title": "lsdefine/GenericAgent",
+  "source_url": "https://github.com/lsdefine/GenericAgent",
+  "source_type": "github_trending",
+  "summary": "GenericAgent 是一个自进化代理系统，采用'从种子生长'的设计理念，从仅3.3K行的基础代码逐步发展出完整的系统控制能力。该系统的核心创新在于高效的知识表示和技能进化机制，通过压缩的技能树表示代理能力，支持动态扩展和优化。GenericAgent 实现了6倍的token消耗减少，大幅提升了代理执行效率，这得益于其精炼的上下文管理和智能的任务分解策略。系统架构采用分层设计，包括核心推理引擎、技能库管理器、环境交互接口和进化监控器。GenericAgent 特别强调通用性，能够适应多种任务场景而无需大量重新训练，通过增量学习机制持续积累和改进技能。该项目展示了AI代理系统效率优化的新思路，为构建资源高效的智能代理提供了重要技术参考，对推动AI代理在实际环境中的部署有重要意义。",
+  "content_markdown": "",
+  "tags": [
+    "self-evolving",
+    "agent-efficiency",
+    "python",
+    "cognitive-architecture",
+    "resource-optimization"
+  ],
+  "language": "zh",
+  "author": "lsdefine",
+  "published_at": null,
+  "collected_at": "2026-04-21T10:54:50.221297+00:00",
+  "analyzed_at": "2025-04-21T16:00:00Z",
+  "organized_at": "2026-04-21T10:54:50.221297+00:00",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 5279,
+    "today_stars": 3914,
+    "language": "Python",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "intermediate",
+    "quality_score": 7,
+    "highlights": [
+      {
+        "title": "高效进化机制",
+        "description": "从少量种子代码自主进化出完整系统能力，展示了高效的技能学习模式"
+      },
+      {
+        "title": "显著效率提升",
+        "description": "实现6倍token消耗减少，大幅提升了代理执行效率和资源利用率"
+      },
+      {
+        "title": "通用性设计",
+        "description": "能够适应多种任务场景而无需大量重新训练，支持跨领域技能迁移"
+      },
+      {
+        "title": "分层架构",
+        "description": "清晰的模块划分和接口设计，支持灵活的功能扩展和定制化开发"
+      }
+    ]
+  }
+}

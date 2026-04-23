@@ -1,0 +1,49 @@
+{
+  "id": "20260421-github_trending-evolver",
+  "title": "EvoMap/evolver",
+  "source_url": "https://github.com/EvoMap/evolver",
+  "source_type": "github_trending",
+  "summary": "Evolver 是一个基于基因组进化协议（GEP）的AI代理自我进化引擎，实现了智能代理的自主学习和能力进化。该系统的核心创新在于将生物进化原理应用于AI代理设计，通过基因组编码表示代理的技能和行为模式，支持交叉、变异和选择等进化操作。Evolver 采用分布式架构，支持大规模代理种群的并行进化，每个代理都具备独立的感知、决策和执行能力。系统内置了环境适应度评估机制，能够根据任务完成效果动态调整进化策略。在技术实现上，Evolver 提供了完整的进化算法库、环境模拟器和可视化监控工具，支持从简单规则到复杂策略的多层次进化。该引擎特别适用于需要长期学习和环境适应的应用场景，如游戏AI、机器人控制、自适应系统等，为构建真正自主的智能系统提供了新的技术路径。",
+  "content_markdown": "",
+  "tags": [
+    "evolutionary-computing",
+    "ai-agents",
+    "javascript",
+    "genetic-algorithm",
+    "autonomous-systems"
+  ],
+  "language": "zh",
+  "author": "EvoMap",
+  "published_at": null,
+  "collected_at": "2026-04-21T10:54:50.221297+00:00",
+  "analyzed_at": "2025-04-21T16:00:00Z",
+  "organized_at": "2026-04-21T10:54:50.221297+00:00",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 6153,
+    "today_stars": 4032,
+    "language": "JavaScript",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "intermediate",
+    "quality_score": 8,
+    "highlights": [
+      {
+        "title": "生物进化启发",
+        "description": "将生物进化原理应用于AI代理设计，实现真正的自主学习和能力进化"
+      },
+      {
+        "title": "基因组编码",
+        "description": "采用基因组编码表示代理技能，支持交叉、变异等标准进化操作"
+      },
+      {
+        "title": "分布式进化",
+        "description": "支持大规模代理种群的并行进化，加速收敛到最优策略"
+      },
+      {
+        "title": "自适应机制",
+        "description": "内置环境适应度评估，动态调整进化策略以适应不同任务需求"
+      }
+    ]
+  }
+}

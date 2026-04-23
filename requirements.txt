@@ -1,0 +1,24 @@
+# AI 知识库助手项目依赖
+# 数据采集
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# AI 分析
+openai>=1.12.0
+langchain>=0.1.0
+langchain-openai>=0.0.2
+nltk>=3.8.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+simhash>=1.0.0
+
+# 日志与配置
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# 测试
+pytest>=7.4.0
+pytest-asyncio>=0.21.0

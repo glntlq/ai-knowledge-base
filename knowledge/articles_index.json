@@ -1,0 +1,216 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-23T12:00:00Z",
+  "total_articles": 18,
+  "articles": [
+    {
+      "id": "20260421-github_trending-andrej-karpathy-skills",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "source": "github_trending",
+      "tags": ["llm", "claude", "best-practices", "developer-tools", "prompt-engineering"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-andrej-karpathy-skills.json"
+    },
+    {
+      "id": "20260421-github_trending-hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "source": "github_trending",
+      "tags": ["agent", "python", "framework", "autonomous-agents", "ai-assistant"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-hermes-agent.json"
+    },
+    {
+      "id": "20260421-github_trending-claude-mem",
+      "title": "thedotmack/claude-mem",
+      "source": "github_trending",
+      "tags": ["claude", "ide-plugin", "context-management", "typescript", "developer-tools"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-claude-mem.json"
+    },
+    {
+      "id": "20260421-github_trending-multica",
+      "title": "multica-ai/multica",
+      "source": "github_trending",
+      "tags": ["agent-platform", "typescript", "team-collaboration", "enterprise-ai", "multi-agent"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-multica.json"
+    },
+    {
+      "id": "20260421-github_trending-voicebox",
+      "title": "jamiepine/voicebox",
+      "source": "github_trending",
+      "tags": ["tts", "voice-synthesis", "typescript", "audio-processing", "open-source"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-voicebox.json"
+    },
+    {
+      "id": "20260421-github_trending-dive-into-llms",
+      "title": "Lordog/dive-into-llms",
+      "source": "github_trending",
+      "tags": ["llm", "tutorial", "education", "jupyter-notebook", "chinese"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-dive-into-llms.json"
+    },
+    {
+      "id": "20260421-github_trending-evolver",
+      "title": "EvoMap/evolver",
+      "source": "github_trending",
+      "tags": ["evolutionary-computing", "ai-agents", "javascript", "genetic-algorithm", "autonomous-systems"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-evolver.json"
+    },
+    {
+      "id": "20260421-github_trending-ai-hedge-fund",
+      "title": "virattt/ai-hedge-fund",
+      "source": "github_trending",
+      "tags": ["quantitative-finance", "ai-trading", "python", "machine-learning", "investment"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-ai-hedge-fund.json"
+    },
+    {
+      "id": "20260421-github_trending-genericagent",
+      "title": "lsdefine/GenericAgent",
+      "source": "github_trending",
+      "tags": ["self-evolving", "agent-efficiency", "python", "cognitive-architecture", "resource-optimization"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-genericagent.json"
+    },
+    {
+      "id": "20260421-github_trending-omi",
+      "title": "BasedHardware/omi",
+      "source": "github_trending",
+      "tags": ["multimodal-ai", "ai-assistant", "dart", "computer-vision", "automation"],
+      "created_at": "2026-04-21T10:54:50.221297+00:00",
+      "file_path": "knowledge/articles/2026-04-21-github_trending-omi.json"
+    },
+    {
+      "id": "20260423-github_trending-trendradar",
+      "title": "sansan0/TrendRadar",
+      "source": "github_trending",
+      "tags": ["ai", "monitoring", "sentiment-analysis", "python", "mcp"],
+      "created_at": "2026-04-23T12:00:00Z",
+      "file_path": "knowledge/articles/2026-04-23-github_trending-trendradar.json"
+    },
+    {
+      "id": "20260423-github_trending-worldmonitor",
+      "title": "koala73/worldmonitor",
+      "source": "github_trending",
+      "tags": ["ai", "monitoring", "intelligence", "typescript", "dashboard"],
+      "created_at": "2026-04-23T12:00:00Z",
+      "file_path": "knowledge/articles/2026-04-23-github_trending-worldmonitor.json"
+    },
+    {
+      "id": "20260423-github_trending-ruview",
+      "title": "ruvnet/RuView",
+      "source": "github_trending",
+      "tags": ["ai", "pose-estimation", "computer-vision", "rust", "sensing"],
+      "created_at": "2026-04-23T12:00:00Z",
+      "file_path": "knowledge/articles/2026-04-23-github_trending-ruview.json"
+    },
+    {
+      "id": "20260423-github_trending-shannon",
+      "title": "KeygraphHQ/shannon",
+      "source": "github_trending",
+      "tags": ["ai", "security", "pentesting", "typescript", "devsecops"],
+      "created_at": "2026-04-23T12:00:00Z",
+      "file_path": "knowledge/articles/2026-04-23-github_trending-shannon.json"
+    },
+    {
+      "id": "20260423-github_trending-langfuse",
+      "title": "langfuse/langfuse",
+      "source": "github_trending",
+      "tags": ["llm", "observability", "prompt-management", "typescript", "evaluation"],
+      "created_at": "2026-04-23T12:00:00Z",
+      "file_path": "knowledge/articles/2026-04-23-github_trending-langfuse.json"
+    },
+    {
+      "id": "20260423-github_trending-rag-anything",
+      "title": "HKUDS/RAG-Anything",
+      "source": "github_trending",
+      "tags": ["rag", "llm", "framework", "python", "retrieval"],
+      "created_at": "2026-04-23T12:00:00Z",
+      "file_path": "knowledge/articles/2026-04-23-github_trending-rag-anything.json"
+    },
+    {
+      "id": "20260423-github_trending-claude-context",
+      "title": "zilliztech/claude-context",
+      "source": "github_trending",
+      "tags": ["mcp", "claude", "coding-agent", "typescript", "code-search"],
+      "created_at": "2026-04-23T12:00:00Z",
+      "file_path": "knowledge/articles/2026-04-23-github_trending-claude-context.json"
+    },
+    {
+      "id": "20260423-github_trending-pixelle-video",
+      "title": "AIDC-AI/Pixelle-Video",
+      "source": "github_trending",
+      "tags": ["ai", "video-generation", "automation", "python", "content-creation"],
+      "created_at": "2026-04-23T12:00:00Z",
+      "file_path": "knowledge/articles/2026-04-23-github_trending-pixelle-video.json"
+    }
+  ],
+  "categories": {
+    "agent": 1,
+    "agent-efficiency": 1,
+    "agent-platform": 1,
+    "ai": 4,
+    "ai-agents": 1,
+    "ai-assistant": 2,
+    "ai-trading": 1,
+    "audio-processing": 1,
+    "automation": 1,
+    "autonomous-agents": 1,
+    "autonomous-systems": 1,
+    "best-practices": 1,
+    "chinese": 1,
+    "claude": 2,
+    "code-search": 1,
+    "coding-agent": 1,
+    "cognitive-architecture": 1,
+    "computer-vision": 2,
+    "content-creation": 1,
+    "context-management": 1,
+    "dashboard": 1,
+    "dart": 1,
+    "developer-tools": 2,
+    "devsecops": 1,
+    "education": 1,
+    "enterprise-ai": 1,
+    "evaluation": 1,
+    "evolutionary-computing": 1,
+    "framework": 2,
+    "genetic-algorithm": 1,
+    "ide-plugin": 1,
+    "intelligence": 1,
+    "investment": 1,
+    "javascript": 1,
+    "jupyter-notebook": 1,
+    "llm": 4,
+    "machine-learning": 1,
+    "mcp": 2,
+    "monitoring": 2,
+    "multi-agent": 1,
+    "multimodal-ai": 1,
+    "observability": 1,
+    "open-source": 1,
+    "pentesting": 1,
+    "pose-estimation": 1,
+    "prompt-engineering": 1,
+    "prompt-management": 1,
+    "python": 7,
+    "quantitative-finance": 1,
+    "rag": 1,
+    "resource-optimization": 1,
+    "retrieval": 1,
+    "rust": 1,
+    "security": 1,
+    "self-evolving": 1,
+    "sensing": 1,
+    "sentiment-analysis": 1,
+    "team-collaboration": 1,
+    "tts": 1,
+    "tutorial": 1,
+    "typescript": 6,
+    "video-generation": 1,
+    "voice-synthesis": 1
+  }
+}

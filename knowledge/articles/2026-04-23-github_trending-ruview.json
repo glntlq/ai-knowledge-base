@@ -1,0 +1,39 @@
+{
+  "id": "20260423-github_trending-ruview",
+  "title": "ruvnet/RuView",
+  "source_url": "https://github.com/ruvnet/RuView",
+  "source_type": "github_trending",
+  "summary": "RuView 是一个利用 WiFi 信号实现实时人体姿态估计与生命体征监测的创新型 AI 项目。它通过普通的 WiFi 信号进行人体感知，无需摄像头即可实现姿态估计、生命体征监测和存在检测。该项目采用 Rust 开发，性能高效，适用于隐私敏感场景如智能家居、医疗监测和安全监控。",
+  "content_markdown": "",
+  "tags": ["ai", "pose-estimation", "computer-vision", "rust", "sensing"],
+  "language": "zh",
+  "author": "ruvnet",
+  "published_at": null,
+  "collected_at": "2026-04-23T12:00:00Z",
+  "analyzed_at": "2026-04-23T12:00:00Z",
+  "organized_at": "2026-04-23T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 49541,
+    "today_stars": null,
+    "language": "Rust",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "advanced",
+    "quality_score": 9,
+    "highlights": [
+      {
+        "title": "无摄像头感知",
+        "description": "利用 WiFi 信号实现人体感知，无需摄像头，保护隐私"
+      },
+      {
+        "title": "多维度监测",
+        "description": "同时支持姿态估计、生命体征监测和存在检测"
+      },
+      {
+        "title": "Rust 实现",
+        "description": "使用 Rust 语言开发，保证高性能和内存安全"
+      }
+    ]
+  }
+}

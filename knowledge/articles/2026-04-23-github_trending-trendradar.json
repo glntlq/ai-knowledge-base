@@ -1,0 +1,39 @@
+{
+  "id": "20260423-github_trending-trendradar",
+  "title": "sansan0/TrendRadar",
+  "source_url": "https://github.com/sansan0/TrendRadar",
+  "source_type": "github_trending",
+  "summary": "TrendRadar 是一个 AI 驱动的公共舆情与趋势监控平台。它聚合多渠道热点和 RSS 订阅，支持关键词过滤、AI 智能筛选、翻译和多语言分析简报推送。系统采用 MCP 架构集成，支持 AI 自然语言对话分析、情感洞察和趋势预测。具备 Docker 部署能力，支持本地/云端数据托管，并可集成微信、飞书、钉钉、Telegram 等多种通知渠道。该平台适用于舆情监测、市场分析和信息采集等场景。",
+  "content_markdown": "",
+  "tags": ["ai", "monitoring", "sentiment-analysis", "python", "mcp"],
+  "language": "zh",
+  "author": "sansan0",
+  "published_at": null,
+  "collected_at": "2026-04-23T12:00:00Z",
+  "analyzed_at": "2026-04-23T12:00:00Z",
+  "organized_at": "2026-04-23T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 54804,
+    "today_stars": null,
+    "language": "Python",
+    "hn_points": null,
+    "hn_comments": null,
+    "difficulty": "beginner",
+    "quality_score": 8,
+    "highlights": [
+      {
+        "title": "多平台聚合",
+        "description": "聚合多平台热点和 RSS 订阅，支持 AI 筛选、翻译和分析"
+      },
+      {
+        "title": "多渠道推送",
+        "description": "支持微信、飞书、钉钉、Telegram 等智能推送渠道"
+      },
+      {
+        "title": "MCP 架构",
+        "description": "采用 MCP 架构，支持 AI 自然语言对话分析"
+      }
+    ]
+  }
+}
