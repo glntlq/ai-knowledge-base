@@ -1,0 +1,86 @@
+sources:
+  # -------------------------------------------------------------------------
+  # 综合技术
+  # -------------------------------------------------------------------------
+  - name: "Hacker News Frontpage (AI/LLM/Agent/RAG)"
+    url: "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+    category: "综合技术"
+    enabled: true
+
+  - name: "Lobsters Tag: ai"
+    url: "https://lobste.rs/t/ai.rss"
+    category: "综合技术"
+    enabled: true
+
+  # Lobsters 的 ml 标签实际是 MetaLanguage/OCaml 方向，且量可能较大，这里默认关闭。
+  - name: "Lobsters Tag: ml (high volume / ambiguous)"
+    url: "https://lobste.rs/t/ml.rss"
+    category: "综合技术"
+    enabled: false
+
+  # -------------------------------------------------------------------------
+  # AI 研究
+  # -------------------------------------------------------------------------
+  - name: "arXiv cs.AI (RSS)"
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    category: "AI 研究"
+    enabled: false
+
+  # -------------------------------------------------------------------------
+  # 公司博客
+  # -------------------------------------------------------------------------
+  - name: "OpenAI News (RSS)"
+    url: "https://openai.com/news/rss.xml"
+    category: "公司博客"
+    enabled: true
+
+  # Anthropic 暂未发现稳定官方 RSS。此处给出第三方聚合源，默认关闭。
+  - name: "Anthropic Research (aggregated)"
+    url: "https://openrss.org/www.anthropic.com/research"
+    category: "公司博客"
+    enabled: false
+
+  - name: "Hugging Face Blog (RSS)"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "公司博客"
+    enabled: true
+
+  # -------------------------------------------------------------------------
+  # 中文社区
+  # -------------------------------------------------------------------------
+  # 机器之心 RSS 在不同环境下可能返回 HTML 页面（需确认可用性），默认关闭。
+  - name: "机器之心 (RSS - to be verified)"
+    url: "https://www.jiqizhixin.com/rss"
+    category: "中文社区"
+    enabled: false
+
+  # 量子位 RSS 可用，但量很大，默认关闭。
+  - name: "量子位 (RSS - high volume)"
+    url: "https://www.qbitai.com/feed"
+    category: "中文社区"
+    enabled: false
+
+  # -------------------------------------------------------------------------
+  # Reddit / 新闻媒体 / 大厂博客（用户追加）
+  # -------------------------------------------------------------------------
+  # Reddit hot 流量通常较大，默认关闭；需要时手动开启 enabled。
+  - name: "Reddit r/MachineLearning (hot)"
+    url: "https://www.reddit.com/r/MachineLearning/hot.rss"
+    category: "research"
+    enabled: false
+
+  - name: "Reddit r/LocalLLaMA (hot)"
+    url: "https://www.reddit.com/r/LocalLLaMA/hot.rss"
+    category: "open-source"
+    enabled: false
+
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    category: "industry"
+    enabled: true
+
+  - name: "The Verge (AI)"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "news"
+    enabled: true
+
