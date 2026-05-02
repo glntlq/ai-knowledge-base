@@ -12,6 +12,7 @@ CLI examples:
   python3 pipeline/pipeline.py --sources rss --limit 10
   python3 pipeline/pipeline.py --sources github --limit 5 --dry-run
   python3 pipeline/pipeline.py --verbose
+  python3 -m pipeline.pipeline --limit 5 --provider qwen
 """
 
 from __future__ import annotations
@@ -31,14 +32,22 @@ from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
 from urllib.parse import urlparse
 
 import httpx
+from dotenv import load_dotenv
 
 # 用 `python pipeline/pipeline.py` 运行时，sys.path[0] 是 `pipeline/` 目录，相对导入会失败；
 # 把仓库根目录放到 path 最前，统一用 `pipeline.model_client` 导入（与 `python -m pipeline.pipeline` 一致）。
 _REPO_ROOT = Path(__file__).resolve().parent.parent
+# 在导入 model_client 之前加载根目录 .env，供 create_provider 等读取
+load_dotenv(_REPO_ROOT / ".env", override=False)
 if str(_REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(_REPO_ROOT))
 
-from pipeline.model_client import chat_with_retry, compute_cost_from_response, create_provider
+from pipeline.model_client import (
+    chat_with_retry,
+    compute_cost_from_response,
+    create_provider,
+    tracker,
+)
 
 try:
     from hooks.validate_json import validate_file as _validate_article_file
@@ -50,7 +59,7 @@ logger = logging.getLogger(__name__)
 httpx_logger = logging.getLogger("httpx")
 
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = _REPO_ROOT
 KNOWLEDGE_DIR = ROOT_DIR / "knowledge"
 RAW_DIR = KNOWLEDGE_DIR / "raw"
 ARTICLES_DIR = KNOWLEDGE_DIR / "articles"
@@ -694,6 +703,12 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         help="Comma-separated sources: github,rss",
     )
     parser.add_argument("--limit", type=int, default=20, help="Max items to process")
+    parser.add_argument(
+        "--provider",
+        choices=("deepseek", "qwen", "openai"),
+        default=None,
+        help="覆盖环境变量 LLM_PROVIDER（未指定时仍从环境变量读取）",
+    )
     parser.add_argument("--dry-run", action="store_true", help="Run without writing files")
     parser.add_argument("--verbose", action="store_true", help="Enable verbose logs")
     return parser.parse_args(argv)
@@ -714,8 +729,17 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     if bad:
         raise ValueError("Unsupported sources: %s" % ",".join(bad))
 
+    if args.provider:
+        os.environ["LLM_PROVIDER"] = str(args.provider).strip().lower()
+
     _step("知识库流水线启动")
-    logger.info("参数: sources=%s, limit=%d, 干跑=%s", sources, args.limit, args.dry_run)
+    logger.info(
+        "参数: sources=%s, limit=%d, 干跑=%s, LLM=%s",
+        sources,
+        args.limit,
+        args.dry_run,
+        (os.getenv("LLM_PROVIDER") or "deepseek").strip().lower(),
+    )
 
     raw_items = step_collect(sources=sources, limit=int(args.limit), dry_run=bool(args.dry_run))
     if not raw_items:
@@ -740,6 +764,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         stats.llm_total_tokens,
         _fmt_usd(stats.llm_cost_usd),
     )
+    tracker.report()
     logger.info("流水线结束。")
     return 0
 
