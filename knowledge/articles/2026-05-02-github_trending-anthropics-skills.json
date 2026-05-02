@@ -1,0 +1,34 @@
+{
+  "id": "913f4b7a3412b59a51bb0fc3b9e1231b20fbb9e9675d530ae5a4d371f181e716",
+  "title": "anthropics/skills",
+  "source_url": "https://github.com/anthropics/skills",
+  "source_type": "github_trending",
+  "summary": "Anthropics 发布的公共仓库，专注于 Agent Skills（智能体技能）的开发与共享。该项目旨在为 AI 智能体提供可复用的技能模块，涵盖工具调用、任务规划、环境交互等核心能力。仓库包含技能定义、示例代码、测试框架及文档，支持开发者快速集成和扩展智能体功能。通过标准化技能接口，降低 AI 应用开发门槛，促进社区协作。当前处于早期阶段，持续更新中。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "skills",
+    "tool-use",
+    "anthropic",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "anthropics",
+  "published_at": "2025-09-22T15:53:31Z",
+  "collected_at": "2026-05-02T13:50:39Z",
+  "analyzed_at": "2026-05-02T13:51:55Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 127182,
+    "github_language": "Python",
+    "github_forks": 14944,
+    "github_open_issues": 798,
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

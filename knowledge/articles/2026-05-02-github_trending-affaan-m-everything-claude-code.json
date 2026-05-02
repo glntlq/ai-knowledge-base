@@ -1,0 +1,29 @@
+{
+  "id": "6801c4644acc9b5f30da6dffef7fbc6b508acbafb257c8f40f3e1f367257be8b",
+  "title": "affaan-m/everything-claude-code",
+  "source_url": "https://github.com/affaan-m/everything-claude-code",
+  "source_type": "github_trending",
+  "summary": "everything-claude-code 是一个为 Claude Code、Codex、Opencode、Cursor 等 AI 编程助手设计的智能体性能优化系统。该项目聚焦于技能、直觉、记忆、安全及研究优先的开发范式，通过提供统一的智能体框架来增强代码生成与执行效率。核心特性包括：模块化技能库（可扩展的指令与工具集）、上下文感知记忆机制（持久化对话与项目状态）、安全沙箱（隔离执行环境与权限控制）以及研究导向的迭代流程（实验追踪与结果分析）。系统支持多种主流 AI 编程助手，旨在解决智能体在复杂软件开发中的一致性、安全性与性能瓶颈问题。项目采用 TypeScript 编写，提供 CLI 与 API 接口，适用于需要高可靠性代码生成与自动化工作流的开发场景。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "code-generation",
+    "performance-optimization",
+    "developer-tools",
+    "typescript"
+  ],
+  "language": "en",
+  "author": "affaan-m",
+  "published_at": null,
+  "collected_at": "2026-05-02T13:50:39Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 171879,
+    "github_language": "JavaScript",
+    "github_forks": 26643,
+    "github_open_issues": 153,
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
