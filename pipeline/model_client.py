@@ -55,6 +55,133 @@ class Usage:
 
 
 @dataclass(frozen=True)
+class PriceCNYPer1M:
+    """Pricing in CNY per 1M tokens (国产模型参考价，可按需调整)."""
+
+    input: Decimal
+    output: Decimal
+
+
+# 默认单价：元 / 百万 tokens（输入 / 输出）
+_DEFAULT_PRICE_CNY: Dict[str, PriceCNYPer1M] = {
+    "deepseek": PriceCNYPer1M(Decimal("1"), Decimal("2")),
+    "qwen": PriceCNYPer1M(Decimal("4"), Decimal("12")),
+    # OpenAI gpt-4o-mini 档位参考
+    "openai": PriceCNYPer1M(Decimal("150"), Decimal("600")),
+}
+
+
+def _normalize_provider_key(provider: str) -> str:
+    """Normalize provider string to internal key: deepseek | qwen | openai."""
+
+    key = (provider or "").strip().lower()
+    if key in _DEFAULT_PRICE_CNY:
+        return key
+    # tolerate common aliases
+    if "deepseek" in key:
+        return "deepseek"
+    if "qwen" in key or "dashscope" in key:
+        return "qwen"
+    if "openai" in key:
+        return "openai"
+    logger.warning("Unknown provider for CostTracker: %s, using 'deepseek' pricing", provider)
+    return "deepseek"
+
+
+class CostTracker:
+    """Tracks cumulative LLM token usage and estimated cost in CNY.
+
+    Costs are computed from per-provider input/output prices (元 per 1M tokens)
+    and recorded ``Usage`` from each successful API response.
+    """
+
+    def __init__(self) -> None:
+        self._prompt: Dict[str, int] = {}
+        self._completion: Dict[str, int] = {}
+        self._calls: Dict[str, int] = {}
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """Record one successful API call for the given provider.
+
+        Args:
+            usage: Token counts returned by the API.
+            provider: Provider name (e.g. ``deepseek``, ``qwen``, ``openai``).
+        """
+
+        key = _normalize_provider_key(provider)
+        self._prompt[key] = self._prompt.get(key, 0) + int(usage.prompt_tokens or 0)
+        self._completion[key] = self._completion.get(key, 0) + int(usage.completion_tokens or 0)
+        self._calls[key] = self._calls.get(key, 0) + 1
+
+    def estimated_cost(self, provider: str) -> Decimal:
+        """Return estimated total cost in CNY for accumulated usage of one provider.
+
+        Args:
+            provider: Provider name.
+
+        Returns:
+            Total estimated cost in CNY (``Decimal``). Returns ``Decimal('0')`` if
+            there is no recorded usage for that provider.
+        """
+
+        key = _normalize_provider_key(provider)
+        pt = Decimal(self._prompt.get(key, 0))
+        ct = Decimal(self._completion.get(key, 0))
+        price = _DEFAULT_PRICE_CNY.get(key)
+        if not price:
+            return Decimal("0")
+        return (pt * price.input + ct * price.output) / Decimal(1_000_000)
+
+    def report(self, provider: Optional[str] = None) -> None:
+        """Log a human-readable cost report via :mod:`logging`.
+
+        Args:
+            provider: If set, only report this provider. If ``None``, report all
+                providers that have recorded usage.
+        """
+
+        if provider is not None:
+            keys = [_normalize_provider_key(provider)]
+        else:
+            keys = sorted(
+                set(self._prompt.keys()) | set(self._completion.keys()) | set(self._calls.keys())
+            )
+
+        if not keys:
+            logger.info("CostTracker 报告: 暂无 LLM 调用记录")
+            return
+
+        logger.info("========== LLM 成本报告（估算，单位：元） ==========")
+        total_cny = Decimal("0")
+        for key in keys:
+            calls = self._calls.get(key, 0)
+            pt = self._prompt.get(key, 0)
+            ct = self._completion.get(key, 0)
+            cny = self.estimated_cost(key)
+            total_cny += cny
+            price = _DEFAULT_PRICE_CNY.get(key)
+            in_p = price.input if price else Decimal("0")
+            out_p = price.output if price else Decimal("0")
+            logger.info(
+                "  [%s] 调用次数=%d | prompt=%d | completion=%d | "
+                "单价(元/百万tokens) 输入=%s 输出=%s | 小计≈%s 元",
+                key,
+                calls,
+                pt,
+                ct,
+                in_p,
+                out_p,
+                format(cny.quantize(Decimal("0.000001")), "f"),
+            )
+        logger.info("  合计（已列出的提供商）≈ %s 元", format(total_cny.quantize(Decimal("0.000001")), "f"))
+        logger.info("====================================================")
+
+
+# Global instance for callers (e.g. pipeline) to summarize costs at shutdown.
+tracker = CostTracker()
+
+
+@dataclass(frozen=True)
 class LLMResponse:
     """Normalized LLM response."""
 
@@ -180,13 +307,15 @@ class OpenAICompatibleProvider(LLMProvider):
             total_tokens=int(usage_obj.get("total_tokens") or 0),
         )
 
-        return LLMResponse(
+        result = LLMResponse(
             content=content,
             usage=usage,
             provider=self._provider_name,
             model=model,
             raw=data,
         )
+        tracker.record(usage, self._provider_name)
+        return result
 
 
 def _safe_json(resp: httpx.Response) -> str:
