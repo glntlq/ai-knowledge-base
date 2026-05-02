@@ -1,0 +1,29 @@
+{
+  "id": "9e8c059f0720cb7910b5deb374416230b7eb99d4c5f73e05a891237b3421b7b4",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "source_type": "github_trending",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个开源的 Stable Diffusion 模型 Web 界面，提供直观的浏览器操作方式，支持文生图、图生图、图像修复、超分辨率、提示词编辑、模型训练（如 Dreambooth、Textual Inversion）等功能。项目基于 Gradio 构建，兼容多种 Stable Diffusion 模型（如 SD1.5、SDXL、SD3），并集成 ControlNet、LoRA、VAE 等扩展生态。用户可通过扩展插件实现自定义工作流，支持批量处理、API 调用、实时预览等高级特性。该项目是 Stable Diffusion 社区最流行的前端工具之一，拥有活跃的贡献者社区和丰富的文档资源，适合从入门到进阶的 AI 图像生成需求。",
+  "content_markdown": null,
+  "tags": [
+    "stable-diffusion",
+    "web-ui",
+    "image-generation",
+    "ai-art",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "AUTOMATIC1111",
+  "published_at": null,
+  "collected_at": "2026-05-02T13:50:39Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 162685,
+    "github_language": "Python",
+    "github_forks": 30312,
+    "github_open_issues": 2482,
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

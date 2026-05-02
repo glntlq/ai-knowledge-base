@@ -1,0 +1,29 @@
+{
+  "id": "9a57ce76ba397858b237d2fcf394aba4485deeb464e4b6cf849dd69a91ffc70d",
+  "title": "langflow-ai/langflow",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "source_type": "github_trending",
+  "summary": "Langflow 是一个开源的低代码平台，专为构建和部署 AI 驱动的智能体与工作流而设计。它提供可视化拖拽界面，让开发者无需深入编码即可快速搭建基于大语言模型（LLM）的复杂应用。Langflow 支持多种 AI 模型和工具集成，包括 OpenAI、Hugging Face 等，并允许用户通过模块化组件组合出问答系统、自动化流程、数据分析管道等。其核心优势在于降低 AI 应用开发门槛，同时保持灵活性和可扩展性，适合快速原型设计与生产部署。项目在 GitHub 上活跃维护，社区贡献丰富，文档完善。",
+  "content_markdown": null,
+  "tags": [
+    "low-code",
+    "ai-agents",
+    "workflow-automation",
+    "llm",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "langflow-ai",
+  "published_at": null,
+  "collected_at": "2026-05-02T13:50:39Z",
+  "analyzed_at": "2025-04-10T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 147621,
+    "github_language": "Python",
+    "github_forks": 8895,
+    "github_open_issues": 947,
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

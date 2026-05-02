@@ -1,0 +1,29 @@
+{
+  "id": "041671ded4d108b6f38fa764141cfe40b77a5781b48df75f4d836ee9bfc8b779",
+  "title": "Snailclimb/JavaGuide",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "source_type": "github_trending",
+  "summary": "JavaGuide 是一个面向 Java 后端开发与面试的综合性知识库，由 Snailclimb 维护。项目系统梳理了计算机基础（操作系统、网络、数据结构与算法）、数据库（MySQL、Redis）、分布式系统、高并发编程、系统设计以及 AI 应用开发等核心领域。内容以面试为导向，兼顾理论深度与实践指导，涵盖 Java 核心、框架（Spring、MyBatis）、微服务、消息队列、容器化等热门技术。文档结构清晰，持续更新，适合初中级开发者系统复习与进阶。项目在 GitHub 上拥有高星标，是 Java 后端学习与面试准备的热门资源。",
+  "content_markdown": null,
+  "tags": [
+    "java",
+    "interview",
+    "backend",
+    "database",
+    "distributed-systems"
+  ],
+  "language": "zh",
+  "author": "Snailclimb",
+  "published_at": null,
+  "collected_at": "2026-05-02T13:50:39Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 155366,
+    "github_language": "Java",
+    "github_forks": 46154,
+    "github_open_issues": 63,
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

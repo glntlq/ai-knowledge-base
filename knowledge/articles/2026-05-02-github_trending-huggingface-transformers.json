@@ -1,0 +1,29 @@
+{
+  "id": "86be575539a9a610fafbde1b99ddd3b234619694f768a4c4e8c506e2f6b828a8",
+  "title": "huggingface/transformers",
+  "source_url": "https://github.com/huggingface/transformers",
+  "source_type": "github_trending",
+  "summary": "Hugging Face Transformers 是一个领先的机器学习框架，支持文本、视觉、音频和多模态领域的最先进模型，涵盖推理与训练。它提供统一的API，集成数千个预训练模型（如BERT、GPT、ViT、Whisper等），并兼容PyTorch、TensorFlow和JAX。该库简化了模型加载、微调和部署流程，广泛应用于自然语言处理、计算机视觉和语音识别等任务。其活跃的社区和持续更新确保了与最新研究同步，成为AI开发者的核心工具。",
+  "content_markdown": null,
+  "tags": [
+    "transformers",
+    "machine-learning",
+    "nlp",
+    "deep-learning",
+    "huggingface"
+  ],
+  "language": "zh",
+  "author": "huggingface",
+  "published_at": null,
+  "collected_at": "2026-05-02T13:50:39Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160177,
+    "github_language": "Python",
+    "github_forks": 33086,
+    "github_open_issues": 2344,
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "424d60c1ee8b96ad70e8ec051fee796f1f08bf4d2971ad72cde217138c392778",
+  "title": "langchain-ai/langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source_type": "github_trending",
+  "summary": "LangChain 是一个用于构建基于大语言模型（LLM）的智能体（Agent）应用的工程平台。它提供了模块化组件（如模型、提示、记忆、链、工具和代理）以及丰富的集成，使开发者能够轻松组合 LLM 与外部数据源、API 和工具，构建复杂的对话系统、检索增强生成（RAG）管道和自动化工作流。LangChain 支持多种编程语言（Python、JavaScript 等），并包含 LangSmith（调试与监控）和 LangServe（部署）等配套工具。该平台强调可组合性与可扩展性，已成为 LLM 应用开发的事实标准之一，广泛应用于聊天机器人、文档问答、代码生成等场景。",
+  "content_markdown": null,
+  "tags": [
+    "langchain",
+    "llm",
+    "agent",
+    "rag",
+    "ai-engineering"
+  ],
+  "language": "zh",
+  "author": "langchain-ai",
+  "published_at": "2022-10-17T02:58:36Z",
+  "collected_at": "2026-05-02T13:50:39Z",
+  "analyzed_at": "2026-05-02T13:51:44Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 135629,
+    "github_language": "Python",
+    "github_forks": 22411,
+    "github_open_issues": 554,
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

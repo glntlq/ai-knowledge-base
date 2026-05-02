@@ -1,0 +1,29 @@
+{
+  "id": "bfd228c3a3fe251aa02a2374cd2c7e2ab081568d4c791140248b2345c428b63e",
+  "title": "firecrawl/firecrawl",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "source_type": "github_trending",
+  "summary": "Firecrawl 是一个专为 AI 应用设计的开源 API 服务，提供网页搜索、抓取和交互功能。它支持将网页内容转换为干净的 Markdown 或结构化数据，便于大型语言模型（LLM）消费。项目主要特性包括：智能爬取（处理 JavaScript 渲染、分页、动态内容）、站点地图生成、批量 URL 抓取、以及针对 AI 工作流的优化输出格式。Firecrawl 可作为传统爬虫工具（如 Puppeteer、Scrapy）的替代方案，特别适合需要为 RAG（检索增强生成）系统构建知识库、训练自定义 AI 模型或进行网页数据监控的场景。其 API 设计简洁，支持 RESTful 调用，并提供 Python/Node.js SDK。项目在 GitHub 上活跃，社区贡献频繁，文档完善。",
+  "content_markdown": null,
+  "tags": [
+    "web-scraping",
+    "api",
+    "ai",
+    "data-extraction",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "firecrawl",
+  "published_at": null,
+  "collected_at": "2026-05-02T13:50:39Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 114062,
+    "github_language": "TypeScript",
+    "github_forks": 7224,
+    "github_open_issues": 303,
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
