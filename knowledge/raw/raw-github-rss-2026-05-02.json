@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-05-02T13:50:38Z",
+  "collected_at": "2026-05-02T15:23:08Z",
   "sources": [
     "github",
     "rss"
@@ -14,12 +14,12 @@
       "author": "openclaw",
       "published_at": "2025-11-24T10:16:47Z",
       "metadata": {
-        "github_stars": 367413,
+        "github_stars": 367442,
         "github_language": "TypeScript",
-        "github_forks": 75553,
-        "github_open_issues": 6587
+        "github_forks": 75565,
+        "github_open_issues": 6589
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -29,12 +29,12 @@
       "author": "n8n-io",
       "published_at": "2019-06-22T09:24:21Z",
       "metadata": {
-        "github_stars": 186456,
+        "github_stars": 186459,
         "github_language": "TypeScript",
-        "github_forks": 57288,
+        "github_forks": 57291,
         "github_open_issues": 1577
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -44,12 +44,12 @@
       "author": "Significant-Gravitas",
       "published_at": "2023-03-16T09:21:07Z",
       "metadata": {
-        "github_stars": 183945,
+        "github_stars": 183937,
         "github_language": "Python",
-        "github_forks": 46240,
-        "github_open_issues": 392
+        "github_forks": 46238,
+        "github_open_issues": 393
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -59,12 +59,12 @@
       "author": "obra",
       "published_at": "2025-10-09T19:45:18Z",
       "metadata": {
-        "github_stars": 176210,
+        "github_stars": 176281,
         "github_language": "Shell",
-        "github_forks": 15595,
+        "github_forks": 15603,
         "github_open_issues": 290
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -74,12 +74,12 @@
       "author": "affaan-m",
       "published_at": "2026-01-18T00:51:51Z",
       "metadata": {
-        "github_stars": 171879,
+        "github_stars": 171919,
         "github_language": "JavaScript",
-        "github_forks": 26643,
+        "github_forks": 26650,
         "github_open_issues": 153
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -89,12 +89,12 @@
       "author": "ollama",
       "published_at": "2023-06-26T19:39:32Z",
       "metadata": {
-        "github_stars": 170553,
+        "github_stars": 170557,
         "github_language": "Go",
-        "github_forks": 15936,
-        "github_open_issues": 3141
+        "github_forks": 15938,
+        "github_open_issues": 3142
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -106,10 +106,10 @@
       "metadata": {
         "github_stars": 162685,
         "github_language": "Python",
-        "github_forks": 30312,
+        "github_forks": 30309,
         "github_open_issues": 2482
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -119,12 +119,12 @@
       "author": "f",
       "published_at": "2022-12-05T13:54:13Z",
       "metadata": {
-        "github_stars": 161375,
+        "github_stars": 161379,
         "github_language": "HTML",
-        "github_forks": 21061,
+        "github_forks": 21060,
         "github_open_issues": 44
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -134,12 +134,12 @@
       "author": "huggingface",
       "published_at": "2018-10-29T13:56:00Z",
       "metadata": {
-        "github_stars": 160177,
+        "github_stars": 160173,
         "github_language": "Python",
-        "github_forks": 33086,
-        "github_open_issues": 2344
+        "github_forks": 33087,
+        "github_open_issues": 2343
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -149,12 +149,12 @@
       "author": "Snailclimb",
       "published_at": "2018-05-07T13:27:00Z",
       "metadata": {
-        "github_stars": 155366,
+        "github_stars": 155367,
         "github_language": "Java",
         "github_forks": 46154,
         "github_open_issues": 63
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -164,12 +164,12 @@
       "author": "anomalyco",
       "published_at": "2025-04-30T20:08:00Z",
       "metadata": {
-        "github_stars": 153368,
+        "github_stars": 153409,
         "github_language": "TypeScript",
-        "github_forks": 17719,
-        "github_open_issues": 6205
+        "github_forks": 17722,
+        "github_open_issues": 6207
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -179,12 +179,12 @@
       "author": "langflow-ai",
       "published_at": "2023-02-08T22:28:03Z",
       "metadata": {
-        "github_stars": 147621,
+        "github_stars": 147626,
         "github_language": "Python",
-        "github_forks": 8895,
+        "github_forks": 8896,
         "github_open_issues": 947
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -194,12 +194,12 @@
       "author": "langgenius",
       "published_at": "2023-04-12T07:40:24Z",
       "metadata": {
-        "github_stars": 139864,
+        "github_stars": 139865,
         "github_language": "TypeScript",
-        "github_forks": 21940,
-        "github_open_issues": 819
+        "github_forks": 21942,
+        "github_open_issues": 818
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -209,12 +209,12 @@
       "author": "x1xhlol",
       "published_at": "2025-03-05T16:38:29Z",
       "metadata": {
-        "github_stars": 136536,
+        "github_stars": 136546,
         "github_language": null,
-        "github_forks": 34105,
+        "github_forks": 34106,
         "github_open_issues": 136
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -224,12 +224,12 @@
       "author": "langchain-ai",
       "published_at": "2022-10-17T02:58:36Z",
       "metadata": {
-        "github_stars": 135629,
+        "github_stars": 135626,
         "github_language": "Python",
         "github_forks": 22411,
         "github_open_issues": 554
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -239,12 +239,12 @@
       "author": "open-webui",
       "published_at": "2023-10-06T22:08:27Z",
       "metadata": {
-        "github_stars": 135185,
+        "github_stars": 135197,
         "github_language": "Python",
-        "github_forks": 19223,
-        "github_open_issues": 342
+        "github_forks": 19225,
+        "github_open_issues": 343
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -254,12 +254,12 @@
       "author": "NousResearch",
       "published_at": "2025-07-22T22:22:28Z",
       "metadata": {
-        "github_stars": 129146,
+        "github_stars": 129268,
         "github_language": "Python",
-        "github_forks": 19473,
-        "github_open_issues": 7739
+        "github_forks": 19497,
+        "github_open_issues": 7757
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -269,12 +269,12 @@
       "author": "anthropics",
       "published_at": "2025-09-22T15:53:31Z",
       "metadata": {
-        "github_stars": 127182,
+        "github_stars": 127211,
         "github_language": "Python",
-        "github_forks": 14944,
+        "github_forks": 14951,
         "github_open_issues": 798
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -284,12 +284,12 @@
       "author": "anthropics",
       "published_at": "2025-02-22T17:41:21Z",
       "metadata": {
-        "github_stars": 119851,
+        "github_stars": 119872,
         "github_language": "Shell",
-        "github_forks": 19874,
-        "github_open_issues": 10744
+        "github_forks": 19877,
+        "github_open_issues": 10758
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     },
     {
       "source": "github",
@@ -299,12 +299,12 @@
       "author": "firecrawl",
       "published_at": "2024-04-15T21:02:29Z",
       "metadata": {
-        "github_stars": 114062,
+        "github_stars": 114094,
         "github_language": "TypeScript",
         "github_forks": 7224,
-        "github_open_issues": 303
+        "github_open_issues": 304
       },
-      "collected_at": "2026-05-02T13:50:39Z"
+      "collected_at": "2026-05-02T15:23:09Z"
     }
   ]
 }
