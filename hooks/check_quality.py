@@ -20,10 +20,13 @@ from __future__ import annotations
 
 import argparse
 import json
+import logging
 import sys
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
+
+logger = logging.getLogger(__name__)
 
 
 # ---------------------------------------------------------------------------
@@ -363,6 +366,11 @@ def _render_bar(score: int, max_score: int, width: int = 20) -> str:
 
 def main() -> int:
     """入口函数。存在 C 级条目返回 1，否则返回 0。"""
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(levelname)s %(message)s",
+        stream=sys.stderr,
+    )
     parser = argparse.ArgumentParser(description="知识条目 5 维度质量评分工具")
     parser.add_argument(
         "files",
@@ -374,7 +382,7 @@ def main() -> int:
     filepaths = _resolve_files(args.files)
 
     if not filepaths:
-        print("错误：未找到匹配的文件。", file=sys.stderr)
+        logger.error("未找到匹配的文件。")
         return 1
 
     json_files = [fp for fp in filepaths if fp.suffix == ".json"]
@@ -382,48 +390,39 @@ def main() -> int:
     total_files = len(json_files)
 
     if total_files == 0:
-        print("错误：没有找到 .json 文件。", file=sys.stderr)
+        logger.error("没有找到 .json 文件。")
         return 1
 
     has_c = False
     results: list[QualityReport] = []
 
-    bar_width = 30
-    for idx, fp in enumerate(json_files, 1):
-        pct = idx * 100 // total_files
-        filled = idx * bar_width // total_files
-        bar = "#" * filled + "-" * (bar_width - filled)
-        print(f"\r[{bar}] {pct:3d}% ({idx}/{total_files}) {fp.name}", end="")
-        sys.stdout.flush()
-
+    for fp in json_files:
         results.append(score_file(fp))
 
-    print()
-
     if skipped:
-        print(f"\n跳过 {skipped} 个非 JSON 文件。")
+        logger.warning("跳过 %d 个非 JSON 文件。", skipped)
 
     total_a = total_b = total_c = 0
 
     for report in results:
-        print(f"\n{'─' * 60}")
-        print(f"文件: {report.filepath.name}")
+        logger.info("%s", "─" * 60)
+        logger.info("文件: %s", report.filepath.name)
 
         if report.errors:
             for err in report.errors:
-                print(f"  错误: {err}")
+                logger.error("  错误: %s", err)
             total_c += 1
             has_c = True
             continue
 
         for dim in report.dimensions:
             bar = _render_bar(dim.score, dim.max_score, width=20)
-            print(f"  {dim.name:<6s} {bar} {dim.score:2d}/{dim.max_score:2d}")
+            logger.info("  %-6s %s %2d/%2d", dim.name, bar, dim.score, dim.max_score)
             for detail in dim.details:
-                print(f"      {detail}")
+                logger.info("      %s", detail)
 
-        print(f"  {'─' * 40}")
-        print(f"  总分: {report.total_score}/100  等级: {report.grade}")
+        logger.info("  %s", "─" * 40)
+        logger.info("  总分: %d/100  等级: %s", report.total_score, report.grade)
 
         if report.grade == "A":
             total_a += 1
@@ -433,12 +432,12 @@ def main() -> int:
             total_c += 1
             has_c = True
 
-    print(f"\n{'=' * 60}")
-    print(f"汇总: 共 {total_files} 个文件")
-    print(f"  A (>= 80): {total_a}")
-    print(f"  B (>= 60): {total_b}")
-    print(f"  C (< 60):  {total_c}")
-    print(f"{'=' * 60}")
+    logger.info("%s", "=" * 60)
+    logger.info("汇总: 共 %d 个文件", total_files)
+    logger.info("  A (>= 80): %d", total_a)
+    logger.info("  B (>= 60): %d", total_b)
+    logger.info("  C (< 60):  %d", total_c)
+    logger.info("%s", "=" * 60)
 
     return 1 if has_c else 0
 

@@ -1,5 +1,6 @@
 # AI 知识库助手项目依赖
 # 数据采集
+httpx>=0.27.0
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 lxml>=4.9.0

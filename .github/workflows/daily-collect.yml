@@ -43,7 +43,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # 若未设置 RSS_URLS，流水线会从 pipeline/rss_sources.yaml 读取 enabled 源
           RSS_URLS: ${{ secrets.RSS_URLS }}
-        run: python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+        # 使用模块方式运行，避免脚本路径下相对导入问题；与本地 `python pipeline/pipeline.py` 等价（已修复 path）
+        run: python -m pipeline.pipeline --sources github,rss --limit 20 --verbose
 
       - name: Validate articles (schema)
         run: python hooks/validate_json.py "knowledge/articles/*.json"

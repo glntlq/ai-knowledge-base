@@ -22,6 +22,9 @@ import json
 import logging
 import os
 import re
+import sys
+from dataclasses import dataclass
+from decimal import Decimal
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Tuple
@@ -29,12 +32,13 @@ from urllib.parse import urlparse
 
 import httpx
 
-try:
-    # When executed as a module: python -m pipeline.pipeline
-    from .model_client import chat_with_retry, create_provider
-except Exception:  # noqa: BLE001
-    # When executed as a script: python3 pipeline/pipeline.py
-    from model_client import chat_with_retry, create_provider  # type: ignore
+# 用 `python pipeline/pipeline.py` 运行时，sys.path[0] 是 `pipeline/` 目录，相对导入会失败；
+# 把仓库根目录放到 path 最前，统一用 `pipeline.model_client` 导入（与 `python -m pipeline.pipeline` 一致）。
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(_REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(_REPO_ROOT))
+
+from pipeline.model_client import chat_with_retry, compute_cost_from_response, create_provider
 
 try:
     from hooks.validate_json import validate_file as _validate_article_file
@@ -43,15 +47,37 @@ except Exception:  # noqa: BLE001 - optional import for validation
 
 
 logger = logging.getLogger(__name__)
+httpx_logger = logging.getLogger("httpx")
 
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 KNOWLEDGE_DIR = ROOT_DIR / "knowledge"
 RAW_DIR = KNOWLEDGE_DIR / "raw"
 ARTICLES_DIR = KNOWLEDGE_DIR / "articles"
+RSS_SOURCES_YAML = ROOT_DIR / "pipeline" / "rss_sources.yaml"
 
 
 ISO8601_Z_RE = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
+
+
+@dataclass
+class PipelineStats:
+    """Pipeline run-time statistics."""
+
+    llm_prompt_tokens: int = 0
+    llm_completion_tokens: int = 0
+    llm_total_tokens: int = 0
+    llm_cost_usd: Decimal = Decimal("0")
+
+
+def _step(title: str) -> None:
+    logger.info("========== %s ==========", title)
+
+
+def _fmt_usd(amount: Optional[Decimal]) -> str:
+    if amount is None:
+        return "N/A"
+    return "$%s" % format(amount.quantize(Decimal("0.000001")), "f")
 
 
 def _utc_now_iso() -> str:
@@ -94,7 +120,7 @@ def _read_existing_articles_source_urls() -> Dict[str, str]:
 
 def _write_json(path: Path, data: Any, *, dry_run: bool) -> None:
     if dry_run:
-        logger.info("dry-run: skip writing %s", path)
+        logger.info("干跑模式：跳过写入 %s", path)
         return
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
@@ -137,7 +163,7 @@ def collect_github_search(
         "page": 1,
     }
 
-    logger.info("Collect GitHub: q=%s limit=%d", query, limit)
+    logger.info("采集 GitHub: q=%s, limit=%d", query, limit)
     r = client.get(url, headers=headers, params=params)
     r.raise_for_status()
     payload = r.json()
@@ -189,7 +215,7 @@ def collect_rss(
 ) -> List[Dict[str, Any]]:
     """Collect RSS items using regex parsing (intentionally lightweight)."""
 
-    logger.info("Collect RSS: %d feed(s), limit=%d", len(rss_urls), limit)
+    logger.info("采集 RSS: %d 个源, limit=%d", len(rss_urls), limit)
 
     out: List[Dict[str, Any]] = []
     for feed_url in rss_urls:
@@ -199,9 +225,13 @@ def collect_rss(
         if not feed_url:
             continue
 
-        r = client.get(feed_url, follow_redirects=True)
-        r.raise_for_status()
-        xml = r.text or ""
+        try:
+            r = client.get(feed_url, follow_redirects=True)
+            r.raise_for_status()
+            xml = r.text or ""
+        except Exception as exc:  # noqa: BLE001 - tolerate individual feed failure
+            logger.warning("RSS fetch failed: %s err=%s", feed_url, exc)
+            continue
 
         for item_xml in _RSS_ITEM_RE.findall(xml):
             if len(out) >= limit:
@@ -236,6 +266,81 @@ def collect_rss(
     return out[:limit]
 
 
+def _load_enabled_rss_urls_from_yaml(path: Path) -> List[str]:
+    """Load enabled RSS URLs from pipeline/rss_sources.yaml.
+
+    This function intentionally avoids adding a hard dependency on PyYAML at
+    runtime. It tries PyYAML first (if available) and falls back to a small,
+    structure-specific parser.
+    """
+
+    if not path.exists():
+        return []
+
+    text = path.read_text(encoding="utf-8")
+
+    # Preferred: PyYAML (if installed).
+    try:
+        import yaml  # type: ignore
+
+        data = yaml.safe_load(text) or {}
+        if not isinstance(data, dict):
+            return []
+        sources = data.get("sources") or []
+        if not isinstance(sources, list):
+            return []
+        urls: List[str] = []
+        for s in sources:
+            if not isinstance(s, dict):
+                continue
+            if not s.get("enabled"):
+                continue
+            url = s.get("url")
+            if isinstance(url, str) and url.strip():
+                urls.append(url.strip())
+        return urls
+    except Exception:
+        pass
+
+    # Fallback: minimal YAML-ish parser for our fixed structure.
+    enabled_urls: List[str] = []
+    in_item = False
+    cur_enabled: Optional[bool] = None
+    cur_url: Optional[str] = None
+
+    for raw_line in text.splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#"):
+            continue
+
+        if line.startswith("- "):
+            # Flush previous item.
+            if in_item and cur_enabled and cur_url:
+                enabled_urls.append(cur_url)
+            in_item = True
+            cur_enabled = None
+            cur_url = None
+
+        if not in_item:
+            continue
+
+        if line.startswith("url:"):
+            v = line[len("url:") :].strip().strip('"').strip("'")
+            cur_url = v or None
+        elif line.startswith("enabled:"):
+            v = line[len("enabled:") :].strip().lower()
+            if v in ("true", "yes", "1"):
+                cur_enabled = True
+            elif v in ("false", "no", "0"):
+                cur_enabled = False
+
+    # Flush last item.
+    if in_item and cur_enabled and cur_url:
+        enabled_urls.append(cur_url)
+
+    return enabled_urls
+
+
 def step_collect(
     *,
     sources: Sequence[str],
@@ -244,6 +349,7 @@ def step_collect(
 ) -> List[Dict[str, Any]]:
     """Collect raw items from configured sources and persist to knowledge/raw/."""
 
+    _step("步骤 1/4：采集（Collect）")
     _ensure_dirs(RAW_DIR)
     collected_at = _utc_now_iso()
 
@@ -253,9 +359,14 @@ def step_collect(
             out.extend(collect_github_search(limit=limit, client=client))
         if "rss" in sources:
             rss_env = (os.getenv("RSS_URLS") or "").strip()
-            if not rss_env:
-                raise ValueError("RSS_URLS is required when --sources includes rss")
-            rss_urls = [u.strip() for u in rss_env.split(",") if u.strip()]
+            if rss_env:
+                rss_urls = [u.strip() for u in rss_env.split(",") if u.strip()]
+            else:
+                rss_urls = _load_enabled_rss_urls_from_yaml(RSS_SOURCES_YAML)
+            if not rss_urls:
+                raise ValueError(
+                    "RSS sources not configured. Set RSS_URLS or enable sources in pipeline/rss_sources.yaml"
+                )
             out.extend(collect_rss(limit=limit, client=client, rss_urls=rss_urls))
 
     # Trim to limit if user provided multiple sources (we keep order by source).
@@ -273,7 +384,7 @@ def step_collect(
         "items": out,
     }
     _write_json(raw_path, raw_payload, dry_run=dry_run)
-    logger.info("Collected %d item(s)", len(out))
+    logger.info("采集完成：共 %d 条", len(out))
     return out
 
 
@@ -319,6 +430,7 @@ def analyze_items(
     *,
     items: Sequence[Mapping[str, Any]],
     limit: int,
+    stats: Optional[PipelineStats] = None,
 ) -> List[Dict[str, Any]]:
     """Analyze items with LLM and return article dicts."""
 
@@ -334,22 +446,53 @@ def analyze_items(
         else:
             model = "gpt-4o-mini"
 
-    logger.info("Analyze: provider=%s model=%s items=%d", os.getenv("LLM_PROVIDER") or "deepseek", model, len(items))
+    provider_name = (os.getenv("LLM_PROVIDER") or "deepseek").strip().lower()
+    _step("步骤 2/4：分析（Analyze）")
+    logger.info("创建 LLM 客户端: provider=%s, model=%s", provider_name, model)
+    logger.info("待分析条目数: %d", len(items))
 
     out: List[Dict[str, Any]] = []
-    for item in list(items)[:limit]:
+    run_stats = stats or PipelineStats()
+
+    for idx, item in enumerate(list(items)[:limit], 1):
         messages = [
             {"role": "system", "content": "只输出严格 JSON。"},
             {"role": "user", "content": _analysis_prompt(item)},
         ]
         resp = chat_with_retry(provider=provider, messages=messages, model=model, temperature=0.2)
+        cost = compute_cost_from_response(resp)
+        run_stats.llm_prompt_tokens += int(resp.usage.prompt_tokens or 0)
+        run_stats.llm_completion_tokens += int(resp.usage.completion_tokens or 0)
+        run_stats.llm_total_tokens += int(resp.usage.total_tokens or 0)
+        if cost is not None:
+            run_stats.llm_cost_usd += cost
+
+        logger.info(
+            "分析进度 %d/%d | Token: %d(prompt)+%d(completion)=%d | 成本: %s | url=%s",
+            idx,
+            min(limit, len(items)),
+            resp.usage.prompt_tokens,
+            resp.usage.completion_tokens,
+            resp.usage.total_tokens,
+            _fmt_usd(cost),
+            item.get("source_url"),
+        )
+
         parsed = _parse_json_object(resp.content)
         if parsed is None:
-            logger.warning("LLM output is not valid JSON, fallback minimal. url=%s", item.get("source_url"))
+            logger.warning("LLM 输出不是合法 JSON，已降级为空结果。url=%s", item.get("source_url"))
             parsed = {}
 
         article = _merge_article_defaults(item=item, llm=parsed)
         out.append(article)
+
+    logger.info(
+        "LLM 汇总 | Token: %d(prompt)+%d(completion)=%d | 总成本: %s",
+        run_stats.llm_prompt_tokens,
+        run_stats.llm_completion_tokens,
+        run_stats.llm_total_tokens,
+        _fmt_usd(run_stats.llm_cost_usd),
+    )
     return out
 
 
@@ -452,6 +595,7 @@ def organize_articles(
 ) -> List[Dict[str, Any]]:
     """Deduplicate, normalize, and validate in-memory article dicts."""
 
+    _step("步骤 3/4：整理（Organize）")
     _ensure_dirs(ARTICLES_DIR)
     existing_urls = _read_existing_articles_source_urls()
     kept: List[Dict[str, Any]] = []
@@ -462,7 +606,7 @@ def organize_articles(
             logger.warning("Skip article without source_url: title=%s", a.get("title"))
             continue
         if url in existing_urls:
-            logger.info("Dedup skip existing url=%s (existing=%s)", url, existing_urls[url])
+            logger.info("去重：已存在，跳过 url=%s (existing=%s)", url, existing_urls[url])
             continue
 
         # Ensure required fields exist with sane defaults.
@@ -477,7 +621,7 @@ def organize_articles(
 
     # Optional validation by writing to temp and calling validate_file() if available.
     if _validate_article_file is None:
-        logger.info("Validation: hooks.validate_json not available, skip validate step")
+        logger.info("校验：hooks.validate_json 不可用，跳过校验步骤")
         return kept
 
     validated: List[Dict[str, Any]] = []
@@ -525,6 +669,7 @@ def save_articles(
     articles: Sequence[Dict[str, Any]],
     dry_run: bool,
 ) -> List[Path]:
+    _step("步骤 4/4：保存（Save）")
     _ensure_dirs(ARTICLES_DIR)
 
     written: List[Path] = []
@@ -532,7 +677,7 @@ def save_articles(
         fp = ARTICLES_DIR / _article_filename(a)
         _write_json(fp, a, dry_run=dry_run)
         written.append(fp)
-    logger.info("Saved %d article(s) to %s", len(written), ARTICLES_DIR)
+    logger.info("保存完成：写入 %d 篇到 %s", len(written), ARTICLES_DIR)
     return written
 
 
@@ -560,6 +705,8 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         level=logging.DEBUG if args.verbose else logging.INFO,
         format="%(levelname)s: %(message)s",
     )
+    # Suppress verbose httpx request logs by default.
+    httpx_logger.setLevel(logging.WARNING if not args.verbose else logging.INFO)
 
     sources = [s.strip().lower() for s in str(args.sources).split(",") if s.strip()]
     allowed = {"github", "rss"}
@@ -567,23 +714,33 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     if bad:
         raise ValueError("Unsupported sources: %s" % ",".join(bad))
 
-    logger.info("Pipeline start: sources=%s limit=%d dry_run=%s", sources, args.limit, args.dry_run)
+    _step("知识库流水线启动")
+    logger.info("参数: sources=%s, limit=%d, 干跑=%s", sources, args.limit, args.dry_run)
 
     raw_items = step_collect(sources=sources, limit=int(args.limit), dry_run=bool(args.dry_run))
     if not raw_items:
-        logger.warning("No items collected.")
+        logger.warning("采集结果为空，结束。")
         return 0
 
     if args.dry_run:
-        logger.info("dry-run: skip Analyze/Organize/Save stages")
-        logger.info("Pipeline done (dry-run).")
+        logger.info("干跑模式：跳过 分析/整理/保存")
+        logger.info("流水线结束（干跑）。")
         return 0
 
-    articles = analyze_items(items=raw_items, limit=int(args.limit))
+    stats = PipelineStats()
+    articles = analyze_items(items=raw_items, limit=int(args.limit), stats=stats)
     organized = organize_articles(articles=articles, dry_run=bool(args.dry_run))
     save_articles(articles=organized, dry_run=bool(args.dry_run))
 
-    logger.info("Pipeline done.")
+    _step("流水线汇总")
+    logger.info(
+        "LLM 总 Token: %d(prompt)+%d(completion)=%d | 总成本: %s",
+        stats.llm_prompt_tokens,
+        stats.llm_completion_tokens,
+        stats.llm_total_tokens,
+        _fmt_usd(stats.llm_cost_usd),
+    )
+    logger.info("流水线结束。")
     return 0
 
 

@@ -13,29 +13,39 @@ from __future__ import annotations
 
 import argparse
 import json
+import logging
 import re
 import sys
+import uuid
 from pathlib import Path
 from typing import Any
 
-# 必填字段：字段名 -> 期望类型
+logger = logging.getLogger(__name__)
+
+# ---------------------------------------------------------------------------
+# Schema (aligned with AGENTS.md)
+# ---------------------------------------------------------------------------
+
 REQUIRED_FIELDS: dict[str, type] = {
     "id": str,
     "title": str,
     "source_url": str,
+    "source_type": str,
     "summary": str,
     "tags": list,
+    "language": str,
     "status": str,
 }
 
-VALID_STATUSES = frozenset({"draft", "review", "published", "archived"})
-VALID_AUDIENCES = frozenset({"beginner", "intermediate", "advanced"})
+VALID_SOURCE_TYPES = frozenset({"github_trending", "hacker_news"})
+VALID_LANGUAGES = frozenset({"zh", "en"})
+VALID_STATUSES = frozenset({"pending", "analyzed", "distributed", "archived"})
+VALID_DIFFICULTIES = frozenset({"beginner", "intermediate", "advanced"})
 
-# id 格式：{source}-{YYYYMMDD}-{NNN}  ，如 github-20260317-001
-_ID_RE = re.compile(r"^[a-z][a-z0-9_]*-\d{8}-\d{3}$")
-
-# url 必须以 http:// 或 https:// 开头
-_URL_RE = re.compile(r"^https?://")
+_URL_RE = re.compile(r"^https?://", flags=re.IGNORECASE)
+_SHA256_RE = re.compile(r"^[a-f0-9]{64}$", flags=re.IGNORECASE)
+# Legacy/alternate id formats seen in this repo, e.g. "20260421-github_trending-foo-bar".
+_LEGACY_ID_RE = re.compile(r"^\d{8}-[a-z][a-z0-9_]*-[a-z0-9-]+$", flags=re.IGNORECASE)
 
 MIN_SUMMARY_CHARS = 20
 MIN_TAGS = 1
@@ -47,11 +57,23 @@ def _validate_id(value: str) -> list[str]:
     if not isinstance(value, str):
         errors.append("id 必须是字符串")
         return errors
-    if not _ID_RE.match(value):
-        errors.append(
-            f"id '{value}' 不符合格式 "
-            "{source}-{YYYYMMDD}-{NNN}（如 github-20260317-001）"
-        )
+    v = value.strip()
+    if not v:
+        errors.append("id 不能为空")
+        return errors
+
+    # Accept uuid v4 or sha256 hex (as documented in AGENTS.md).
+    try:
+        parsed = uuid.UUID(v)
+        if parsed.version != 4:
+            errors.append(f"id '{value}' 是 UUID 但不是 v4")
+        return errors
+    except (ValueError, AttributeError):
+        pass
+
+    if not _SHA256_RE.match(v):
+        if not _LEGACY_ID_RE.match(v):
+            errors.append("id 必须是 UUIDv4、SHA256(64位十六进制) 或 YYYYMMDD-source-slug")
     return errors
 
 
@@ -63,6 +85,30 @@ def _validate_status(value: str) -> list[str]:
     if value not in VALID_STATUSES:
         errors.append(
             f"status '{value}' 不是有效值，允许值为 {sorted(VALID_STATUSES)}"
+        )
+    return errors
+
+
+def _validate_source_type(value: str) -> list[str]:
+    errors: list[str] = []
+    if not isinstance(value, str):
+        errors.append("source_type 必须是字符串")
+        return errors
+    if value not in VALID_SOURCE_TYPES:
+        errors.append(
+            f"source_type '{value}' 不是有效值，允许值为 {sorted(VALID_SOURCE_TYPES)}"
+        )
+    return errors
+
+
+def _validate_language(value: str) -> list[str]:
+    errors: list[str] = []
+    if not isinstance(value, str):
+        errors.append("language 必须是字符串")
+        return errors
+    if value not in VALID_LANGUAGES:
+        errors.append(
+            f"language '{value}' 不是有效值，允许值为 {sorted(VALID_LANGUAGES)}"
         )
     return errors
 
@@ -115,16 +161,16 @@ def _validate_score(value: Any, field_name: str = "score") -> list[str]:
     return errors
 
 
-def _validate_audience(value: Any, field_name: str = "audience") -> list[str]:
+def _validate_difficulty(value: Any, field_name: str) -> list[str]:
     errors: list[str] = []
     if not isinstance(value, str):
         errors.append(
             f"{field_name} 必须是字符串，实际为 {type(value).__name__}"
         )
         return errors
-    if value not in VALID_AUDIENCES:
+    if value not in VALID_DIFFICULTIES:
         errors.append(
-            f"{field_name} '{value}' 不是有效值，允许值为 {sorted(VALID_AUDIENCES)}"
+            f"{field_name} '{value}' 不是有效值，允许值为 {sorted(VALID_DIFFICULTIES)}"
         )
     return errors
 
@@ -165,6 +211,10 @@ def validate_file(filepath: Path) -> list[str]:
         errors.extend(_validate_status(data["status"]))
     if isinstance(data.get("source_url"), str):
         errors.extend(_validate_url(data["source_url"]))
+    if isinstance(data.get("source_type"), str):
+        errors.extend(_validate_source_type(data["source_type"]))
+    if isinstance(data.get("language"), str):
+        errors.extend(_validate_language(data["language"]))
     if isinstance(data.get("summary"), str):
         errors.extend(_validate_summary(data["summary"]))
     if isinstance(data.get("tags"), list):
@@ -178,12 +228,10 @@ def validate_file(filepath: Path) -> list[str]:
             _validate_score(data["metadata"]["quality_score"], "metadata.quality_score")
         )
 
-    # --- 可选字段：audience -------------------------------------------------
-    if "audience" in data:
-        errors.extend(_validate_audience(data["audience"]))
+    # --- 可选字段：difficulty ----------------------------------------------
     if isinstance(data.get("metadata"), dict) and "difficulty" in data["metadata"]:
         errors.extend(
-            _validate_audience(data["metadata"]["difficulty"], "metadata.difficulty")
+            _validate_difficulty(data["metadata"]["difficulty"], "metadata.difficulty")
         )
 
     return errors
@@ -207,6 +255,11 @@ def _resolve_files(paths: list[str]) -> list[Path]:
 
 def main() -> int:
     """入口函数。全部校验通过返回 0，否则返回 1。"""
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(levelname)s %(message)s",
+        stream=sys.stderr,
+    )
     parser = argparse.ArgumentParser(description="知识条目 JSON 文件校验工具")
     parser.add_argument(
         "files",
@@ -218,7 +271,7 @@ def main() -> int:
     filepaths = _resolve_files(args.files)
 
     if not filepaths:
-        print("错误：未找到匹配的文件。", file=sys.stderr)
+        logger.error("未找到匹配的文件。")
         return 1
 
     valid_count = 0
@@ -227,25 +280,25 @@ def main() -> int:
 
     for fp in filepaths:
         if fp.suffix != ".json":
-            print(f"警告：跳过非 JSON 文件：{fp}", file=sys.stderr)
+            logger.warning("跳过非 JSON 文件：%s", fp)
             continue
 
         errs = validate_file(fp)
         if errs:
             invalid_count += 1
             total_errors += len(errs)
-            print(f"\n未通过：{fp}")
+            logger.error("未通过：%s", fp)
             for err in errs:
-                print(f"  - {err}")
+                logger.error("  - %s", err)
         else:
             valid_count += 1
 
     total = valid_count + invalid_count
-    print(f"\n{'=' * 50}")
-    print(f"汇总：共检查 {total} 个文件")
-    print(f"  通过:  {valid_count}")
-    print(f"  未通过: {invalid_count}（{total_errors} 项错误）")
-    print(f"{'=' * 50}")
+    logger.info("%s", "=" * 50)
+    logger.info("汇总：共检查 %d 个文件", total)
+    logger.info("  通过:  %d", valid_count)
+    logger.info("  未通过: %d（%d 项错误）", invalid_count, total_errors)
+    logger.info("%s", "=" * 50)
 
     return 0 if invalid_count == 0 else 1
 

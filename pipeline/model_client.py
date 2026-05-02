@@ -237,6 +237,15 @@ def get_provider_from_env() -> LLMProvider:
     raise ValueError(f"Unsupported LLM_PROVIDER: {provider}")
 
 
+def create_provider() -> LLMProvider:
+    """Create a provider from environment variables.
+
+    This is an alias kept for callers that prefer a verb-based factory name.
+    """
+
+    return get_provider_from_env()
+
+
 def chat_with_retry(
     *,
     provider: Optional[LLMProvider] = None,
