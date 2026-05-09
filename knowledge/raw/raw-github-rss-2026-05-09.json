@@ -1,0 +1,310 @@
+{
+  "collected_at": "2026-05-09T09:17:09Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/openclaw/openclaw",
+      "title": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "author": "openclaw",
+      "published_at": "2025-11-24T10:16:47Z",
+      "metadata": {
+        "github_stars": 370037,
+        "github_language": "TypeScript",
+        "github_forks": 76410,
+        "github_open_issues": 7659
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/n8n-io/n8n",
+      "title": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "author": "n8n-io",
+      "published_at": "2019-06-22T09:24:21Z",
+      "metadata": {
+        "github_stars": 187186,
+        "github_language": "TypeScript",
+        "github_forks": 57484,
+        "github_open_issues": 1466
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "author": "Significant-Gravitas",
+      "published_at": "2023-03-16T09:21:07Z",
+      "metadata": {
+        "github_stars": 184105,
+        "github_language": "Python",
+        "github_forks": 46243,
+        "github_open_issues": 388
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": "2025-10-09T19:45:18Z",
+      "metadata": {
+        "github_stars": 183812,
+        "github_language": "Shell",
+        "github_forks": 16325,
+        "github_open_issues": 294
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/everything-claude-code",
+      "title": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": "2026-01-18T00:51:51Z",
+      "metadata": {
+        "github_stars": 176213,
+        "github_language": "JavaScript",
+        "github_forks": 27266,
+        "github_open_issues": 173
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ollama/ollama",
+      "title": "ollama/ollama",
+      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "author": "ollama",
+      "published_at": "2023-06-26T19:39:32Z",
+      "metadata": {
+        "github_stars": 171036,
+        "github_language": "Go",
+        "github_forks": 16042,
+        "github_open_issues": 3206
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "author": "AUTOMATIC1111",
+      "published_at": "2022-08-22T14:05:26Z",
+      "metadata": {
+        "github_stars": 162785,
+        "github_language": "Python",
+        "github_forks": 30319,
+        "github_open_issues": 2483
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/f/prompts.chat",
+      "title": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "author": "f",
+      "published_at": "2022-12-05T13:54:13Z",
+      "metadata": {
+        "github_stars": 161873,
+        "github_language": "HTML",
+        "github_forks": 21096,
+        "github_open_issues": 45
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/huggingface/transformers",
+      "title": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "author": "huggingface",
+      "published_at": "2018-10-29T13:56:00Z",
+      "metadata": {
+        "github_stars": 160410,
+        "github_language": "Python",
+        "github_forks": 33148,
+        "github_open_issues": 2356
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anomalyco/opencode",
+      "title": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "author": "anomalyco",
+      "published_at": "2025-04-30T20:08:00Z",
+      "metadata": {
+        "github_stars": 157274,
+        "github_language": "TypeScript",
+        "github_forks": 18324,
+        "github_open_issues": 6484
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Snailclimb/JavaGuide",
+      "title": "Snailclimb/JavaGuide",
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "author": "Snailclimb",
+      "published_at": "2018-05-07T13:27:00Z",
+      "metadata": {
+        "github_stars": 155511,
+        "github_language": "Java",
+        "github_forks": 46141,
+        "github_open_issues": 63
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/langflow-ai/langflow",
+      "title": "langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "author": "langflow-ai",
+      "published_at": "2023-02-08T22:28:03Z",
+      "metadata": {
+        "github_stars": 147875,
+        "github_language": "Python",
+        "github_forks": 8933,
+        "github_open_issues": 923
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/langgenius/dify",
+      "title": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "author": "langgenius",
+      "published_at": "2023-04-12T07:40:24Z",
+      "metadata": {
+        "github_stars": 140675,
+        "github_language": "TypeScript",
+        "github_forks": 22077,
+        "github_open_issues": 757
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "author": "NousResearch",
+      "published_at": "2025-07-22T22:22:28Z",
+      "metadata": {
+        "github_stars": 140016,
+        "github_language": "Python",
+        "github_forks": 21667,
+        "github_open_issues": 9371
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "author": "x1xhlol",
+      "published_at": "2025-03-05T16:38:29Z",
+      "metadata": {
+        "github_stars": 136956,
+        "github_language": null,
+        "github_forks": 34169,
+        "github_open_issues": 139
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "author": "open-webui",
+      "published_at": "2023-10-06T22:08:27Z",
+      "metadata": {
+        "github_stars": 136242,
+        "github_language": "Python",
+        "github_forks": 19394,
+        "github_open_issues": 210
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "title": "langchain-ai/langchain",
+      "description": "The agent engineering platform. Available in TypeScript!",
+      "author": "langchain-ai",
+      "published_at": "2022-10-17T02:58:36Z",
+      "metadata": {
+        "github_stars": 136207,
+        "github_language": "Python",
+        "github_forks": 22511,
+        "github_open_issues": 604
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/skills",
+      "title": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "author": "anthropics",
+      "published_at": "2025-09-22T15:53:31Z",
+      "metadata": {
+        "github_stars": 130804,
+        "github_language": "Python",
+        "github_forks": 15390,
+        "github_open_issues": 818
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "author": "anthropics",
+      "published_at": "2025-02-22T17:41:21Z",
+      "metadata": {
+        "github_stars": 121861,
+        "github_language": "Shell",
+        "github_forks": 20147,
+        "github_open_issues": 10900
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "author": "forrestchang",
+      "published_at": "2026-01-27T03:53:13Z",
+      "metadata": {
+        "github_stars": 121521,
+        "github_language": null,
+        "github_forks": 12285,
+        "github_open_issues": 88
+      },
+      "collected_at": "2026-05-09T09:17:10Z"
+    }
+  ]
+}
