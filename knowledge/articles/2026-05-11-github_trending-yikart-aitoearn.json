@@ -1,0 +1,29 @@
+{
+  "id": "38924882b8791597288a7884e6e69ff7462e9a58f9dde568c40ddbc032796ecc",
+  "title": "yikart/AiToEarn",
+  "source_url": "https://github.com/yikart/AiToEarn",
+  "source_type": "github_trending",
+  "summary": "AiToEarn 是一个开源项目，旨在利用人工智能技术创造收益机会。项目提供工具和资源，帮助用户通过 AI 应用、自动化任务或数据服务实现经济回报。内容涵盖 AI 模型集成、工作流优化及变现策略，适合开发者与创业者探索 AI 商业化路径。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "monetization",
+    "open-source",
+    "automation"
+  ],
+  "language": "zh",
+  "author": "yikart",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:18Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410177,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501954,
+    "github_stars_today": 397,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

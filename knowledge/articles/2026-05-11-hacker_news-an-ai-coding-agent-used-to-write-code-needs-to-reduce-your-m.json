@@ -1,0 +1,26 @@
+{
+  "id": "7f1c6e9f47523c8d03f6ee6cee76926163023577b0744d0a7c7b3cb23fc3ad25",
+  "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+  "source_url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了AI编码代理的核心价值在于降低软件维护成本，而非仅提升初始开发速度。作者James Shore指出，当前多数AI工具生成的代码缺乏可维护性，导致长期技术债务增加。他提出，有效的AI编码代理应能理解现有代码库、遵循项目规范、生成可读且易于修改的代码，并主动识别潜在维护问题。文章强调，AI应辅助开发者进行重构、测试和文档编写，从而减少人工维护负担。通过实际案例，作者展示了如何设计AI代理以优先考虑代码质量和长期可持续性。最终，他呼吁行业关注AI在软件生命周期中的维护角色，而非仅聚焦于代码生成速度。",
+  "content_markdown": null,
+  "tags": [
+    "ai-coding-agent",
+    "software-maintenance",
+    "code-quality",
+    "technical-debt",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:19Z",
+  "analyzed_at": "2025-04-14T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

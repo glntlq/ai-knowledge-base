@@ -1,0 +1,30 @@
+{
+  "id": "9ff8ee53060de94ac8bc2c7319db6dc10806c4ac99c55739f023b57cf43e2a73",
+  "title": "rasbt/LLMs-from-scratch",
+  "source_url": "https://github.com/rasbt/LLMs-from-scratch",
+  "source_type": "github_trending",
+  "summary": "该项目提供从零开始实现类ChatGPT大语言模型的完整教程，基于PyTorch框架，逐步指导构建LLM。内容涵盖数据预处理、Transformer架构、自注意力机制、训练与微调等核心环节，适合深度学习开发者深入理解LLM原理。代码开源，配套详细文档，强调实践与理论结合，是学习现代语言模型技术的优质资源。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "pytorch",
+    "transformer",
+    "chatgpt",
+    "deep-learning"
+  ],
+  "language": "zh",
+  "author": "rasbt",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:18Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269492587,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014303,
+    "github_stars_today": 141,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

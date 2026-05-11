@@ -1,0 +1,26 @@
+{
+  "id": "152135348339eccfaaaf7c09a25676dd4277c6b63b9497d19b457113c9c3f83a",
+  "title": "Task Paralysis and AI",
+  "source_url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了任务瘫痪（task paralysis）现象及其与人工智能的关联。任务瘫痪指个体在面对过多选择或复杂任务时，因决策困难而陷入停滞状态。文章指出，AI工具（如智能助手、自动化系统）在提供便利的同时，可能加剧这一问题：过度依赖AI建议、信息过载或算法推荐导致的决策疲劳，反而使用户更难启动或完成任务。作者建议通过设计更简洁的AI交互界面、提供渐进式任务分解、以及增强用户自主控制权来缓解任务瘫痪。文章结合认知心理学与用户体验研究，分析了AI如何影响人类决策过程，并提出了平衡效率与认知负荷的实践策略。",
+  "content_markdown": null,
+  "tags": [
+    "task-paralysis",
+    "artificial-intelligence",
+    "decision-fatigue",
+    "user-experience",
+    "cognitive-load"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:19Z",
+  "analyzed_at": "2025-05-10T13:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

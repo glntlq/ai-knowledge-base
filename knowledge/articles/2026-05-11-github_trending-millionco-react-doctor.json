@@ -1,0 +1,30 @@
+{
+  "id": "863a55fa08c3be8a8f1d936134084df54657ab293238cd6226d15c89a65f0e44",
+  "title": "millionco/react-doctor",
+  "source_url": "https://github.com/millionco/react-doctor",
+  "source_type": "github_trending",
+  "summary": "react-doctor 是一个由 millionco 开发的 React 代码质量分析工具，旨在自动检测并修复 React 应用中的不良实践。它作为智能代理，能够识别性能瓶颈、反模式以及不符合最佳实践的代码片段，并提供具体的改进建议。该工具通过静态分析和运行时检查相结合的方式，帮助开发者优化组件渲染、减少不必要的重渲染、改进状态管理，并确保代码遵循 React 官方推荐的模式。react-doctor 特别关注常见问题如缺少 key 属性、不恰当的 useEffect 依赖、过大的组件拆分等，从而提升应用的可维护性和性能。对于希望提升 React 代码质量的团队和个人开发者而言，这是一个实用的辅助工具。",
+  "content_markdown": null,
+  "tags": [
+    "react",
+    "code-quality",
+    "static-analysis",
+    "performance",
+    "linting"
+  ],
+  "language": "en",
+  "author": "millionco",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:18Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947613,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150240,
+    "github_stars_today": 312,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

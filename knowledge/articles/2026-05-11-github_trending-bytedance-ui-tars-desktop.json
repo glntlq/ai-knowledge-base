@@ -1,0 +1,30 @@
+{
+  "id": "639145493fc708c95da7696b70ad32daccc698cdf8c60db50f9112afc346a717",
+  "title": "bytedance/UI-TARS-desktop",
+  "source_url": "https://github.com/bytedance/UI-TARS-desktop",
+  "source_type": "github_trending",
+  "summary": "UI-TARS-desktop 是字节跳动开源的多模态 AI 代理栈，旨在连接前沿 AI 模型与代理基础设施。该项目提供桌面端应用，支持多模态交互（文本、图像、语音），集成多种大语言模型（如 GPT-4、Claude 等），并具备任务规划、工具调用、记忆管理等核心代理能力。其架构强调模块化与可扩展性，开发者可通过插件系统自定义功能。UI-TARS-desktop 降低了构建复杂 AI 代理的门槛，适用于自动化办公、智能客服、个人助理等场景。项目采用 Apache 2.0 许可证，社区活跃，文档完善，适合希望快速集成多模态 AI 能力的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "multimodal-ai",
+    "ai-agent",
+    "open-source",
+    "desktop-application",
+    "byte-dance"
+  ],
+  "language": "zh",
+  "author": "bytedance",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:18Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432639,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503229,
+    "github_stars_today": 669,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

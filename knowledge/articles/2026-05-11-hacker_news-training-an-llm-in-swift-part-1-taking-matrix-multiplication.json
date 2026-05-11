@@ -1,0 +1,26 @@
+{
+  "id": "acae0732168a0de7e00e4c1b70025ea39e8bb5a84b5d6554f0a8fd8a3f974f27",
+  "title": "Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s",
+  "source_url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+  "source_type": "hacker_news",
+  "summary": "本文是Swift中训练大语言模型系列的第一部分，聚焦于通过优化矩阵乘法运算将性能从Gflop/s提升至Tflop/s。作者详细介绍了在Swift中实现高效矩阵乘法的技术，包括利用Metal Performance Shaders（MPS）和Accelerate框架，以及手动调优循环、内存布局和并行计算策略。文章通过基准测试展示了不同优化方法带来的性能飞跃，并讨论了Swift在机器学习领域的潜力与挑战。内容适合对高性能计算和Swift开发感兴趣的读者，提供了从理论到实践的完整优化路径。",
+  "content_markdown": null,
+  "tags": [
+    "swift",
+    "matrix-multiplication",
+    "high-performance-computing",
+    "metal",
+    "machine-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:20Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

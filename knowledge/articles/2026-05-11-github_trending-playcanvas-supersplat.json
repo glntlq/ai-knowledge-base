@@ -1,0 +1,30 @@
+{
+  "id": "d966d39d4d716dd19ffb42fa596f98a8113e01ef5467a96611c26810a95f7378",
+  "title": "playcanvas/supersplat",
+  "source_url": "https://github.com/playcanvas/supersplat",
+  "source_type": "github_trending",
+  "summary": "Supersplat 是由 PlayCanvas 开发的一款 3D 高斯泼溅编辑器，专注于实时编辑和可视化 3D 高斯泼溅场景。该工具基于 WebGL/WebGPU 技术，支持在浏览器中直接加载、编辑和导出高斯泼溅数据，无需安装额外软件。它提供了点云编辑、场景变换、颜色调整等核心功能，适用于计算机图形学、三维重建和沉浸式体验开发。项目采用 MIT 开源协议，代码托管于 GitHub，社区活跃度高，适合图形学研究人员、游戏开发者及 Web3D 应用开发者使用。",
+  "content_markdown": null,
+  "tags": [
+    "3d-gaussian-splatting",
+    "webgl",
+    "webgpu",
+    "point-cloud-editor",
+    "playcanvas"
+  ],
+  "language": "zh",
+  "author": "playcanvas",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:18Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947045,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150781,
+    "github_stars_today": 579,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

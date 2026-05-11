@@ -1,0 +1,26 @@
+{
+  "id": "170ac872df53825874ba884f5e8613b48cfb1496f285ce6727532fe7a90eec19",
+  "title": "Local AI needs to be the norm",
+  "source_url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+  "source_type": "hacker_news",
+  "summary": "本文主张本地AI应成为常态，强调在本地运行AI模型（如LLM）对隐私、自主性和去中心化的重要性。作者批评当前依赖云AI的趋势，指出其存在数据泄露、服务中断和供应商锁定风险。文章提出本地AI可借助开源模型（如Llama、Mistral）和消费级硬件（如GPU、NPU）实现，并讨论了性能优化、模型压缩和边缘计算等关键技术。作者认为，推动本地AI普及需要更友好的开发者工具、标准化接口和社区驱动的模型生态。最终，本地AI能赋予用户对数据的完全控制权，减少对大型科技公司的依赖，促进更安全、可持续的AI应用。",
+  "content_markdown": null,
+  "tags": [
+    "local-ai",
+    "privacy",
+    "open-source",
+    "edge-computing",
+    "decentralization"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:19Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

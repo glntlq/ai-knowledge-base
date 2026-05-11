@@ -1,0 +1,26 @@
+{
+  "id": "1e248860ac7826127155fbc0e8c113aecfc50b55e2542b33760a84da93bfc460",
+  "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+  "source_url": "https://github.com/adamjgmiller/adamsreview",
+  "source_type": "hacker_news",
+  "summary": "adamsreview 是一个 Claude Code 插件，通过并行子代理、验证传递、持久化 JSON 状态和可选的集成审查（通过 Codex CLI 和 PR 机器人评论）实现更深入的多阶段 PR 审查。它包含六个斜杠命令：review、codex-review、add、promote、walkthrough 和 fix。与 Claude 内置的 /review、/ultrareview、CodeRabbit、Greptile 和 Codex 内置审查相比，adamsreview 在作者自己的 PR 上捕获了更多真实错误，同时误报更少。其 walkthrough 命令利用 Claude 的 AskUserQuestion 功能逐步引导用户处理不确定的发现或需要人工审查的项目。fix 命令则按修复组分配代理，并使用 Opus 重新审查工作，在提交幸存修复前回退任何回归。状态存储在磁盘上的 JSON 工件中，并附带内置脚本保持更新。该插件运行在常规 Claude Code 订阅（推荐 Max 计划）上，与消耗额外使用池的 /ultrareview 不同。项目已开源，可通过插件市场安装。",
+  "content_markdown": null,
+  "tags": [
+    "claude-code",
+    "code-review",
+    "multi-agent",
+    "pr-review",
+    "plugin"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:19Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

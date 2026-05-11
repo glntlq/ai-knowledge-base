@@ -1,0 +1,30 @@
+{
+  "id": "cb223a68b56fd911e0ca28597b92202aa4657e8ffb9e93603f2906a13c769252",
+  "title": "decolua/9router",
+  "source_url": "https://github.com/decolua/9router",
+  "source_type": "github_trending",
+  "summary": "9router 是一个开源 AI 编程路由代理，支持将 Claude Code、Codex、Cursor、Cline、Copilot、Antigravity 等主流 AI 编码工具连接到 40 多个免费或低成本的大模型提供商（包括 Claude、GPT、Gemini 等）。核心特性包括：无限免费使用、自动故障转移（auto-fallback）、实时令牌优化（RTK 可减少 40% 令牌消耗）、无使用限制。该项目旨在解决 AI 编码工具因 API 配额或成本限制而中断工作流的问题，通过智能路由和负载均衡提升开发效率。适合需要频繁调用大模型进行代码生成的开发者，尤其适用于预算敏感或需要高可用性的场景。",
+  "content_markdown": null,
+  "tags": [
+    "ai-coding",
+    "api-routing",
+    "open-source",
+    "developer-tools",
+    "llm-proxy"
+  ],
+  "language": "zh",
+  "author": "decolua",
+  "published_at": null,
+  "collected_at": "2026-05-11T10:59:18Z",
+  "analyzed_at": "2025-04-10T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947773,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501278,
+    "github_stars_today": 803,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
