@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import html
 import json
 import logging
 import os
@@ -139,64 +140,120 @@ def _write_json(path: Path, data: Any, *, dry_run: bool) -> None:
 # ---------------------------------------------------------------------------
 
 
-def collect_github_search(
+GITHUB_TRENDING_URL = "https://github.com/trending"
+
+
+def _html_text_cleanup(value: str) -> str:
+    """Convert a small HTML fragment to normalized plain text."""
+
+    text = re.sub(r"<[^>]+>", " ", value or "")
+    text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def _parse_int_text(value: str) -> Optional[int]:
+    """Parse GitHub UI numbers such as `1,234` into integers."""
+
+    digits = re.sub(r"[^\d]", "", value or "")
+    if not digits:
+        return None
+    return int(digits)
+
+
+def _parse_github_trending_html(html_text: str, *, limit: int) -> List[Dict[str, Any]]:
+    """Parse repository cards from the GitHub Trending HTML page."""
+
+    article_re = re.compile(
+        r"<article\b[^>]*class=[\"'][^\"']*Box-row[^\"']*[\"'][^>]*>(.*?)</article>",
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    repo_href_re = re.compile(r"<h2\b.*?</h2>", flags=re.IGNORECASE | re.DOTALL)
+    href_re = re.compile(r'href=["\'](/[^/"\']+/[^/"\']+)["\']', flags=re.IGNORECASE)
+    paragraph_re = re.compile(r"<p\b[^>]*>(.*?)</p>", flags=re.IGNORECASE | re.DOTALL)
+    language_re = re.compile(
+        r"<span\b[^>]*itemprop=[\"']programmingLanguage[\"'][^>]*>(.*?)</span>",
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    stars_today_re = re.compile(r"([\d,]+)\s+stars?\s+today", flags=re.IGNORECASE)
+
+    out: List[Dict[str, Any]] = []
+    for article in article_re.findall(html_text or ""):
+        if len(out) >= limit:
+            break
+
+        heading = repo_href_re.search(article)
+        href = href_re.search(heading.group(0) if heading else article)
+        if not href:
+            continue
+
+        repo_path = href.group(1).strip("/")
+        if repo_path.count("/") != 1:
+            continue
+
+        owner, repo = repo_path.split("/", 1)
+        title = _html_text_cleanup(heading.group(0) if heading else "")
+        title = re.sub(r"\s*/\s*", "/", title) or f"{owner}/{repo}"
+
+        description_match = paragraph_re.search(article)
+        description = _html_text_cleanup(description_match.group(1)) if description_match else ""
+
+        language_match = language_re.search(article)
+        language = _html_text_cleanup(language_match.group(1)) if language_match else None
+
+        stars_match = re.search(
+            r'href=["\']/%s/stargazers["\'][^>]*>(.*?)</a>' % re.escape(repo_path),
+            article,
+            flags=re.IGNORECASE | re.DOTALL,
+        )
+        forks_match = re.search(
+            r'href=["\']/%s/forks["\'][^>]*>(.*?)</a>' % re.escape(repo_path),
+            article,
+            flags=re.IGNORECASE | re.DOTALL,
+        )
+        stars_today_match = stars_today_re.search(_html_text_cleanup(article))
+
+        out.append(
+            {
+                "source": "github",
+                "source_url": f"https://github.com/{repo_path}",
+                "title": title,
+                "description": description,
+                "author": owner,
+                "published_at": None,
+                "metadata": {
+                    "github_stars": _parse_int_text(stars_match.group(1)) if stars_match else None,
+                    "github_language": language,
+                    "github_forks": _parse_int_text(forks_match.group(1)) if forks_match else None,
+                    "github_stars_today": (
+                        _parse_int_text(stars_today_match.group(1)) if stars_today_match else None
+                    ),
+                    "github_trending_url": GITHUB_TRENDING_URL,
+                },
+            }
+        )
+
+    return out
+
+
+def collect_github_trending(
     *,
     limit: int,
     client: httpx.Client,
 ) -> List[Dict[str, Any]]:
-    """Collect AI-related repos via GitHub Search API.
-
-    Uses env:
-      - GITHUB_TOKEN (optional, recommended to avoid strict rate-limits)
-      - GITHUB_SEARCH_QUERY (optional)
-    """
-
-    token = (os.getenv("GITHUB_TOKEN") or "").strip()
-    query = (os.getenv("GITHUB_SEARCH_QUERY") or "AI OR LLM OR agent OR RAG").strip()
+    """Collect repositories from GitHub Trending."""
 
     headers = {
-        "Accept": "application/vnd.github+json",
+        "Accept": "text/html,application/xhtml+xml",
         "User-Agent": "ai-knowledge-base",
     }
-    if token:
-        headers["Authorization"] = "Bearer %s" % token
-
-    url = "https://api.github.com/search/repositories"
-
-    per_page = min(100, max(1, limit))
-    params = {
-        "q": query,
-        "sort": "stars",
-        "order": "desc",
-        "per_page": per_page,
-        "page": 1,
-    }
-
-    logger.info("采集 GitHub: q=%s, limit=%d", query, limit)
-    r = client.get(url, headers=headers, params=params)
+    logger.info("采集 GitHub Trending: url=%s, limit=%d", GITHUB_TRENDING_URL, limit)
+    r = client.get(GITHUB_TRENDING_URL, headers=headers, follow_redirects=True)
     r.raise_for_status()
-    payload = r.json()
-    items = payload.get("items") or []
-    out: List[Dict[str, Any]] = []
 
-    for it in items[:limit]:
-        out.append(
-            {
-                "source": "github",
-                "source_url": it.get("html_url"),
-                "title": it.get("full_name") or it.get("name") or "",
-                "description": it.get("description") or "",
-                "author": (it.get("owner") or {}).get("login") if isinstance(it.get("owner"), dict) else "",
-                "published_at": it.get("created_at") or None,
-                "metadata": {
-                    "github_stars": it.get("stargazers_count"),
-                    "github_language": it.get("language"),
-                    "github_forks": it.get("forks_count"),
-                    "github_open_issues": it.get("open_issues_count"),
-                },
-                "collected_at": _utc_now_iso(),
-            }
-        )
+    out = _parse_github_trending_html(r.text, limit=limit)
+    for item in out:
+        item["collected_at"] = _utc_now_iso()
     return out
 
 
@@ -365,7 +422,7 @@ def step_collect(
     out: List[Dict[str, Any]] = []
     with httpx.Client(timeout=httpx.Timeout(60.0)) as client:
         if "github" in sources:
-            out.extend(collect_github_search(limit=limit, client=client))
+            out.extend(collect_github_trending(limit=limit, client=client))
         if "rss" in sources:
             rss_env = (os.getenv("RSS_URLS") or "").strip()
             if rss_env:
