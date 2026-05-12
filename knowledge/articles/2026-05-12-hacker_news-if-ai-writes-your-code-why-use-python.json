@@ -1,0 +1,26 @@
+{
+  "id": "f8392a029e300a4462c254420687dee9cdc9852aa883a6a6a6088dec910319ac",
+  "title": "If AI writes your code, why use Python?",
+  "source_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了在AI能够自动生成代码的背景下，为何仍应选择Python作为编程语言。作者指出，尽管AI代码生成工具日益强大，但Python在可读性、生态系统、库支持及社区活跃度方面仍具不可替代的优势。Python的简洁语法使其成为AI模型训练和部署的首选语言，同时其丰富的库（如TensorFlow、PyTorch）和框架为AI开发提供了坚实基础。此外，Python在数据科学、Web开发、自动化等领域的广泛应用，以及其跨平台兼容性和低门槛学习曲线，确保了其在AI时代的持续相关性。文章强调，AI工具是辅助而非替代，Python的灵活性和可维护性使其成为人机协作的理想桥梁。最终，Python不仅是AI的“母语”，更是开发者应对未来技术变革的核心技能。",
+  "content_markdown": null,
+  "tags": [
+    "python",
+    "ai-code-generation",
+    "programming-languages",
+    "developer-tools",
+    "machine-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

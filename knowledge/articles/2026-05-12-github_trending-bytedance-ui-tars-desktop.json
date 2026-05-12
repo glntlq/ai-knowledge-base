@@ -1,0 +1,30 @@
+{
+  "id": "639145493fc708c95da7696b70ad32daccc698cdf8c60db50f9112afc346a717",
+  "title": "bytedance/UI-TARS-desktop",
+  "source_url": "https://github.com/bytedance/UI-TARS-desktop",
+  "source_type": "github_trending",
+  "summary": "UI-TARS-desktop 是字节跳动开源的多模态 AI 代理栈，旨在连接前沿 AI 模型与代理基础设施。该项目提供桌面端应用，支持视觉语言模型驱动的图形用户界面自动化，包括屏幕理解、任务规划和执行。其核心优势在于将多模态感知（如截图、文本）与强化学习结合，实现跨应用操作。技术栈基于 PyTorch 和 Transformers，兼容主流 GPU 环境。该工具适用于自动化测试、工作流编排和智能助手场景，降低了构建多模态代理的门槛。",
+  "content_markdown": null,
+  "tags": [
+    "multimodal-ai",
+    "gui-automation",
+    "open-source",
+    "desktop-app",
+    "agent-framework"
+  ],
+  "language": "zh",
+  "author": "bytedance",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2025-04-01T01:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433389,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503309,
+    "github_stars_today": 956,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

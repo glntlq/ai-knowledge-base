@@ -1,0 +1,30 @@
+{
+  "id": "d966d39d4d716dd19ffb42fa596f98a8113e01ef5467a96611c26810a95f7378",
+  "title": "playcanvas/supersplat",
+  "source_url": "https://github.com/playcanvas/supersplat",
+  "source_type": "github_trending",
+  "summary": "Supersplat 是由 PlayCanvas 开发的一款基于浏览器的 3D 高斯溅射编辑器，专注于实时编辑和可视化 3D 高斯溅射场景。它利用 WebGL 和 WebGPU 技术，在浏览器中实现高性能的 3D 渲染与编辑功能，支持导入、编辑和导出高斯溅射数据。该工具面向 3D 视觉、计算机图形学及实时渲染领域，为开发者提供了一种无需安装即可编辑复杂 3D 场景的轻量级解决方案。项目在 GitHub 上开源，采用 MIT 许可证，适合用于原型设计、教学演示及快速迭代 3D 内容。",
+  "content_markdown": null,
+  "tags": [
+    "3d-graphics",
+    "webgl",
+    "webgpu",
+    "gaussian-splatting",
+    "editor"
+  ],
+  "language": "zh",
+  "author": "playcanvas",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947595,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150823,
+    "github_stars_today": 531,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "collected_at": "2026-05-12T10:29:25Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/bytedance/UI-TARS-desktop",
+      "title": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "author": "bytedance",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433389,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503309,
+        "github_stars_today": 956,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/CloakHQ/CloakBrowser",
+      "title": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "author": "CloakHQ",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946964,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150514,
+        "github_stars_today": 1320,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/yikart/AiToEarn",
+      "title": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "author": "yikart",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411433,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502053,
+        "github_stars_today": 427,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/playcanvas/supersplat",
+      "title": "playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "author": "playcanvas",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947595,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150823,
+        "github_stars_today": 531,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/datawhalechina/easy-vibe",
+      "title": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "author": "datawhalechina",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410331,
+        "github_language": "JavaScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150977,
+        "github_stars_today": 812,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/decolua/9router",
+      "title": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "author": "decolua",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948891,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501382,
+        "github_stars_today": 941,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "author": "tinyhumansai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941917,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150204,
+        "github_stars_today": 366,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/millionco/react-doctor",
+      "title": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "author": "millionco",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948380,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150272,
+        "github_stars_today": 212,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Lordog/dive-into-llms",
+      "title": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "author": "Lordog",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269437572,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504606,
+        "github_stars_today": 422,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "author": "AUTOMATIC1111",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694162988,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015030341,
+        "github_stars_today": 39,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rasbt/LLMs-from-scratch",
+      "title": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "author": "rasbt",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269493333,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014386,
+        "github_stars_today": 337,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "author": "NousResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694145969,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015022839,
+        "github_stars_today": 2065,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/agentmemory",
+      "title": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945174,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150489,
+        "github_stars_today": 430,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "description": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/ Comments URL: https://news.ycombinator.com/item?id=48100662 Points: 185 # Comments: 200",
+      "author": "",
+      "published_at": "Mon, 11 May 2026 21:04:10 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "title": "If AI writes your code, why use Python?",
+      "description": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055 Comments URL: https://news.ycombinator.com/item?id=48100433 Points: 518 # Comments: 562",
+      "author": "",
+      "published_at": "Mon, 11 May 2026 20:45:55 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://bild.ai/jobs",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "description": "Article URL: https://bild.ai/jobs Comments URL: https://news.ycombinator.com/item?id=48098122 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Mon, 11 May 2026 17:43:12 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "description": "Unlocked: https://www.nytimes.com/2026/05/11/us/politics/google-hacker... , https://archive.ph/I4Ui5 https://apnews.com/article/google-ai-cybersecurity-exploitat... https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker... Comments URL: https://news.ycombinator.com/item?id=48094641 Points: 188 # Comments: 140",
+      "author": "",
+      "published_at": "Mon, 11 May 2026 13:20:14 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "description": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 242 # Comments: 12",
+      "author": "",
+      "published_at": "Sun, 10 May 2026 17:05:05 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
+      "description": "Article URL: https://www.coveragecat.com/careers/engineering/fractional-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48035223 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Wed, 06 May 2026 12:00:24 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-12T10:29:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "title": "GitLab Act 2",
+      "description": "<p><a href=\"https://lobste.rs/s/oagkyy/gitlab_act_2\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 12 May 2026 04:19:16 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-12T10:29:29Z"
+    }
+  ]
+}

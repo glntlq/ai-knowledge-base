@@ -1,0 +1,26 @@
+{
+  "id": "191d7fc499fad1302551d879683aa2549283185390ee0d959c7a98f7b0ab1b92",
+  "title": "I let AI build a tool to help me figure out what was waking me up at night",
+  "source_url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+  "source_type": "hacker_news",
+  "summary": "作者因夜间频繁醒来，利用AI（如Claude）构建了一个睡眠追踪工具。该工具通过分析环境数据（温度、湿度、噪音等）和生理数据（心率、运动等），识别出导致睡眠中断的关键因素。文章详细描述了从数据收集、特征工程到模型训练的全过程，并展示了AI如何辅助发现个人睡眠模式中的异常点。最终，作者成功定位了问题（如特定时间段的温度波动），并采取了针对性改善措施。案例体现了AI在个人健康量化与问题诊断中的实用价值，同时强调了数据驱动决策的局限性及人工验证的必要性。",
+  "content_markdown": null,
+  "tags": [
+    "ai-assisted-development",
+    "sleep-tracking",
+    "personal-analytics",
+    "data-driven-health",
+    "machine-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

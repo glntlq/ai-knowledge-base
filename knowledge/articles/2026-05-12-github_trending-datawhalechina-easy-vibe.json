@@ -1,0 +1,35 @@
+{
+  "id": "bdd9de80f0e38357c0e5e2e9a74d103d8b9a60970fc4d97772fe5de906573a70",
+  "title": "datawhalechina/easy-vibe",
+  "source_url": "https://github.com/datawhalechina/easy-vibe",
+  "source_type": "github_trending",
+  "summary": "Datawhale 推出的《Easy Vibe》是一套面向编程初学者的现代编码课程，旨在通过循序渐进的方式帮助零基础用户掌握 Vibe Coding 2026 的核心技能。课程内容覆盖从基础语法到实际项目开发的完整路径，强调实践与理解并重，适合希望系统入门编程的学习者。项目托管于 GitHub，采用开源协作模式，社区活跃，持续更新。",
+  "content_markdown": null,
+  "tags": [
+    "vibe-coding",
+    "beginner-course",
+    "programming",
+    "open-source",
+    "education"
+  ],
+  "language": "zh",
+  "author": "datawhalechina",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2026-05-12T10:29:48Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410331,
+    "github_language": "JavaScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150977,
+    "github_stars_today": 812,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z",
+    "published_at": null
+  }
+}

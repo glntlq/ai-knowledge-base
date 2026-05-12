@@ -1,0 +1,26 @@
+{
+  "id": "a58ce4fa7ab2f9cf55e5cff2155c9b493e300750e193f4c3e7fc39382fe9294c",
+  "title": "GitLab Act 2",
+  "source_url": "https://about.gitlab.com/blog/gitlab-act-2/",
+  "source_type": "hacker_news",
+  "summary": "GitLab 发布 Act 2 更新，聚焦于提升开发者体验与平台协作效率。该版本引入多项关键改进，包括增强的 CI/CD 流水线可视化、更智能的代码审查建议以及优化的项目管理工具。通过集成 AI 辅助功能，GitLab 旨在减少重复性任务，加速软件交付周期。此外，Act 2 强化了安全合规特性，提供更细粒度的访问控制和自动化漏洞扫描。这些更新反映了 GitLab 对 DevSecOps 实践的持续投入，旨在为企业级用户提供更高效、安全的端到端开发平台。",
+  "content_markdown": null,
+  "tags": [
+    "gitlab",
+    "devops",
+    "ci-cd",
+    "developer-experience",
+    "devsecops"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:29Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

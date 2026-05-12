@@ -1,0 +1,26 @@
+{
+  "id": "ef0158a2eb7fb043cba4faa3025a01a80b89d38a44f2395d4334a527771fed2d",
+  "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+  "source_url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+  "source_type": "hacker_news",
+  "summary": "本文是系列教程的第一部分，专注于在 Swift 中优化矩阵乘法，将性能从 Gflop/s 提升至 Tflop/s 级别。作者详细介绍了利用 Swift 的高级特性（如泛型、协议和值语义）以及底层优化技术（包括内存布局、SIMD 指令和循环展开）来加速矩阵运算。文章从基础实现出发，逐步引入缓存友好型分块算法、线程并行和编译器内联等策略，最终在 Apple Silicon 上实现了接近理论峰值的性能。内容涵盖性能分析工具的使用、基准测试方法以及 Swift 与 C/Objective-C 互操作的考量，为后续 LLM 训练组件的构建奠定基础。适合对高性能计算和 Swift 底层优化感兴趣的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "swift",
+    "matrix-multiplication",
+    "high-performance-computing",
+    "simd",
+    "apple-silicon"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

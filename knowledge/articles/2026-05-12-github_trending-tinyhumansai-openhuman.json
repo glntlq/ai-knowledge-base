@@ -1,0 +1,29 @@
+{
+  "id": "6d0e0b6554a63e59fd24241ba14468374fc755a4eae3724376ca0cbc36750d0f",
+  "title": "tinyhumansai/openhuman",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "source_type": "github_trending",
+  "summary": "OpenHuman 是一个开源的个人 AI 超级智能项目，由 tinyhumansai 团队开发。它强调隐私、简洁和强大性能，旨在为用户提供私密且易于使用的 AI 助手。该项目基于 GitHub 平台，代码开源，允许用户自行部署和定制。其核心特点包括：本地化运行以保护数据隐私、简洁的交互界面、以及强大的智能处理能力。OpenHuman 适用于需要个人 AI 助手的场景，如任务管理、信息检索和日常对话。该项目目前处于活跃开发状态，吸引了众多开发者关注。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "ai-assistant",
+    "privacy",
+    "personal-ai"
+  ],
+  "language": "en",
+  "author": "tinyhumansai",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941917,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150204,
+    "github_stars_today": 366,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

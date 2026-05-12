@@ -1,0 +1,26 @@
+{
+  "id": "88119442d55e72fcb2c920547b69fe4d4c6a79f61255461a3b736e2bfd8e978f",
+  "title": "Google says criminal hackers used AI to find a major software flaw",
+  "source_url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+  "source_type": "hacker_news",
+  "summary": "2026年5月11日，谷歌披露其威胁分析小组（TAG）发现并阻止了一起由国家级黑客组织利用AI辅助挖掘零日漏洞的攻击事件。攻击者使用定制化AI模型对谷歌内部系统进行代码审计，成功发现一处此前未知的软件漏洞，并试图用于渗透。谷歌在漏洞被利用前完成修复，并公开了攻击细节。此事件标志着AI被首次大规模用于自动化漏洞发现，引发网络安全界对AI武器化风险的广泛讨论。谷歌同时宣布将加强AI安全防护体系，并呼吁行业建立AI漏洞共享机制。",
+  "content_markdown": null,
+  "tags": [
+    "ai-security",
+    "zero-day",
+    "google",
+    "cybersecurity",
+    "vulnerability-discovery"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-05-11T00:00:00Z",
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2026-05-11T14:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

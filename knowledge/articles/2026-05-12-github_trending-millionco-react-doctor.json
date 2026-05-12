@@ -1,0 +1,30 @@
+{
+  "id": "863a55fa08c3be8a8f1d936134084df54657ab293238cd6226d15c89a65f0e44",
+  "title": "millionco/react-doctor",
+  "source_url": "https://github.com/millionco/react-doctor",
+  "source_type": "github_trending",
+  "summary": "React Doctor 是一个由 Million 团队开发的开源工具，旨在自动检测并修复 React 代码中的不良实践。它通过静态分析识别性能瓶颈、反模式和不必要的重渲染等问题，并提供具体的优化建议。该工具支持与现有项目集成，帮助开发者编写更高效、更可维护的 React 代码。其核心功能包括自动修复常见错误、生成优化报告以及提供实时反馈。适用于 React 项目的性能优化和代码质量提升。",
+  "content_markdown": null,
+  "tags": [
+    "react",
+    "code-analysis",
+    "performance-optimization",
+    "developer-tools",
+    "static-analysis"
+  ],
+  "language": "en",
+  "author": "millionco",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948380,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150272,
+    "github_stars_today": 212,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

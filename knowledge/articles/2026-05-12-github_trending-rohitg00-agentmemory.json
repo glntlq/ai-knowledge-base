@@ -1,0 +1,30 @@
+{
+  "id": "91c8380098109a53ecd9221115419b366fc4be5de51c55a4bb6f5d625de30768",
+  "title": "rohitg00/agentmemory",
+  "source_url": "https://github.com/rohitg00/agentmemory",
+  "source_type": "github_trending",
+  "summary": "AgentMemory 是一个为 AI 编码代理提供持久化记忆的开源库，基于真实世界基准测试设计。它解决了 AI 代理在长时间任务中缺乏上下文记忆的问题，支持存储、检索和更新代理的交互历史、决策和知识。该库提供简单的 API，可与多种后端存储（如文件系统、数据库）集成，并针对性能进行了优化。AgentMemory 旨在提升 AI 代理的连续性和效率，适用于自动化编程、代码审查、持续集成等场景。其基准测试结果显示了在记忆准确性和响应速度上的优势，为构建更智能的 AI 代理提供了基础设施。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "memory-management",
+    "persistent-storage",
+    "developer-tools",
+    "python"
+  ],
+  "language": "en",
+  "author": "rohitg00",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945174,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150489,
+    "github_stars_today": 430,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

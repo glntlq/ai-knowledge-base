@@ -1,0 +1,35 @@
+{
+  "id": "2d32a757e442d427ce7927beb48d972764d9f71a8572798aa84204901842c2f9",
+  "title": "Lordog/dive-into-llms",
+  "source_url": "https://github.com/Lordog/dive-into-llms",
+  "source_type": "github_trending",
+  "summary": "《动手学大模型Dive into LLMs》是一套面向开发者的编程实践教程，专注于大语言模型（LLM）的核心原理与实现。内容涵盖Transformer架构、预训练、微调、强化学习（RLHF）、模型部署等关键环节，通过代码示例和项目实战帮助学习者深入理解LLM的工作机制。教程强调动手实践，提供从基础到进阶的完整学习路径，适合希望掌握LLM开发技能的工程师和研究人员。",
+  "content_markdown": null,
+  "tags": [
+    "large-language-models",
+    "deep-learning",
+    "tutorial",
+    "transformer",
+    "fine-tuning"
+  ],
+  "language": "zh",
+  "author": "Lordog",
+  "published_at": null,
+  "collected_at": "2026-05-12T10:29:28Z",
+  "analyzed_at": "2026-05-12T10:30:04Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269437572,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504606,
+    "github_stars_today": 422,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z",
+    "published_at": null
+  }
+}
