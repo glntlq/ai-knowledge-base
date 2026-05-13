@@ -1,0 +1,34 @@
+{
+  "id": "f403cd362fe741878c13f6ac6f1279d138878cdbe25b23beaf439dd5794701f5",
+  "title": "anonfaded/FadCam",
+  "source_url": "https://github.com/anonfaded/FadCam",
+  "source_type": "github_trending",
+  "summary": "FadCam 是一款开源、无广告的 Android 多媒体录制应用，支持后台视频录制、屏幕录制、直播推流及远程摄像头控制。项目基于 Kotlin 开发，采用现代架构设计，提供简洁的 UI 和丰富的功能配置。后台录制功能允许用户在使用其他应用时持续录制视频，屏幕录制支持内部音频捕获，直播推流兼容 RTMP 协议，远程控制可通过局域网或互联网操作摄像头。该项目旨在替代传统付费录制工具，强调隐私保护与零广告体验。代码完全开源，遵循 GPL-3.0 许可，适合开发者二次定制或集成。",
+  "content_markdown": null,
+  "tags": [
+    "android",
+    "screen-recorder",
+    "video-recording",
+    "live-streaming",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "anonfaded",
+  "published_at": null,
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2026-05-13T10:24:34Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942351,
+    "github_language": "Java",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150177,
+    "github_stars_today": 116,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z"
+  }
+}

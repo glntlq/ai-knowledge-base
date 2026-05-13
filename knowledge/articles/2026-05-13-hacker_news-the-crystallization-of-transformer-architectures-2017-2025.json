@@ -1,0 +1,26 @@
+{
+  "id": "48f9807737bf4d11d18a5e18535dfd03213b7b2d27a359514ed3471b942da13b",
+  "title": "The Crystallization of Transformer Architectures (2017-2025)",
+  "source_url": "https://jytan.net/blog/2025/transformer-architectures/",
+  "source_type": "hacker_news",
+  "summary": "本文回顾了2017年至2025年间Transformer架构的演进与固化过程。从2017年原始Transformer的提出，到BERT、GPT系列等变体的涌现，Transformer逐渐成为自然语言处理乃至多模态领域的核心架构。文章分析了关键创新点，如自注意力机制、位置编码、层归一化等，并探讨了模型规模扩大带来的训练与推理挑战。随着时间推移，Transformer的设计趋于稳定，形成了以预训练-微调范式为主流的标准化流程。同时，文章也指出了当前架构的局限性，如计算成本高、长序列处理困难等，并展望了未来可能的发展方向，包括更高效的注意力变体、稀疏化模型以及与其他架构的融合。整体而言，Transformer的“结晶”标志着深度学习进入了一个相对成熟的阶段，但创新仍在继续。",
+  "content_markdown": null,
+  "tags": [
+    "transformer",
+    "deep-learning",
+    "nlp",
+    "architecture-evolution",
+    "attention-mechanism"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2025-04-10T14:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

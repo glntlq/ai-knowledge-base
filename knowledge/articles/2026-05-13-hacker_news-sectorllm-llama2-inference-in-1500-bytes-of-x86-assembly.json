@@ -1,0 +1,31 @@
+{
+  "id": "7da66ffd3970382ff9f7fb80f322cd4f24013b9b8b3b372ebb96eb7cf6bb90e1",
+  "title": "sectorllm: llama2 inference in < 1500 bytes of x86 assembly",
+  "source_url": "https://github.com/rdmsr/sectorllm",
+  "source_type": "hacker_news",
+  "summary": "SectorLLM 是一个极简的 x86 汇编实现，能在不到 1500 字节的代码中运行 Llama 2 推理。该项目展示了如何通过高度优化的汇编代码，在资源极度受限的环境下执行大型语言模型推理，突破了传统深度学习框架的依赖。其核心价值在于探索 LLM 在嵌入式、边缘设备或引导加载程序等极端场景下的可行性，为低资源推理提供了新的思路。实现细节包括对 Llama 2 模型结构的精简适配、x86 指令集的极致利用以及内存管理的优化。该项目在 Hacker News 上引发讨论，体现了对 AI 模型轻量化部署的社区关注。",
+  "content_markdown": null,
+  "tags": [
+    "llama2",
+    "x86-assembly",
+    "inference",
+    "edge-ai",
+    "minimal-implementation"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": "Mon, 04 May 2026 19:23:59 -0500",
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2026-05-13T10:25:21Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

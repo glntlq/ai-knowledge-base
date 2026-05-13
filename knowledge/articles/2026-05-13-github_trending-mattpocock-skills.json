@@ -1,0 +1,30 @@
+{
+  "id": "5ff0b2e138e2b4767fd18f45f471863097208fdac2b6e5c7fd125dcd141692b1",
+  "title": "mattpocock/skills",
+  "source_url": "https://github.com/mattpocock/skills",
+  "source_type": "github_trending",
+  "summary": "mattpocock/skills 是一个面向真实工程师的技能集合，内容直接源自作者本人的 .claude 目录。该项目旨在提供实用、可操作的技术能力提升资源，涵盖 TypeScript、React 等现代前端开发核心领域。通过整理和分享个人工作流中的最佳实践、代码片段与配置技巧，帮助开发者高效掌握工程化技能。项目以简洁的文档和示例代码呈现，适合有一定基础的工程师快速参考与学习。",
+  "content_markdown": null,
+  "tags": [
+    "typescript",
+    "react",
+    "engineering-skills",
+    "best-practices",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "mattpocock",
+  "published_at": null,
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269477608,
+    "github_language": "Shell",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506693,
+    "github_stars_today": 3867,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

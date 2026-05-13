@@ -1,0 +1,26 @@
+{
+  "id": "4db516a28ba8d0529ec649b5cd592f963881abd43a8b75e3cea52ea7092542ac",
+  "title": "Open weights are quietly closing up - and that's a problem",
+  "source_url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
+  "source_type": "hacker_news",
+  "summary": "文章指出，尽管开源AI模型（如Llama、Mistral）以“开放权重”形式发布，但实际使用中面临日益严格的许可限制和隐性封闭化趋势。例如，Meta的Llama 2和Llama 3的许可协议禁止用于训练其他大模型、限制商业用途，并要求月活超7亿用户需额外申请许可。Mistral AI的模型虽标榜开放，但其许可条款同样包含对竞争性服务的限制。这种“开放权重但封闭使用”的做法，实质上削弱了开源AI的初衷——透明度、可复现性和社区协作。作者认为，这可能导致AI领域的垄断加剧，阻碍学术研究和中小企业的创新。文章呼吁社区重新定义“开源AI”，并警惕许可条款中的陷阱，以维护真正的开放生态。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "ai-ethics",
+    "licensing",
+    "llm",
+    "open-weights"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

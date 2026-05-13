@@ -1,0 +1,30 @@
+{
+  "id": "477bae1abe5effe7494149afab656e38e2025c0830a520995df53588332d5c13",
+  "title": "datawhalechina/hello-agents",
+  "source_url": "https://github.com/datawhalechina/hello-agents",
+  "source_type": "github_trending",
+  "summary": "《从零开始构建智能体》是由Datawhale社区推出的开源教程，系统讲解智能体（Agent）的原理与实现。内容涵盖智能体基础概念、感知-规划-行动循环、工具使用、记忆机制、多智能体协作等核心模块，并配有丰富的代码示例与实战项目。教程从零基础出发，逐步深入，帮助读者掌握构建智能体的完整流程，适合AI开发者、学生及研究人员学习参考。项目在GitHub上持续更新，社区活跃，提供了从理论到实践的全面指导。",
+  "content_markdown": null,
+  "tags": [
+    "agent",
+    "tutorial",
+    "ai",
+    "open-source",
+    "python"
+  ],
+  "language": "zh",
+  "author": "datawhalechina",
+  "published_at": null,
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2025-04-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269448831,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505869,
+    "github_stars_today": 599,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

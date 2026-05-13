@@ -1,0 +1,30 @@
+{
+  "id": "e5e835ab63bbc5a6b6d47afdc2a978a0845fc84f07ab429e6301c5d649bde1d2",
+  "title": "jlearn: Machine Learning Library in J",
+  "source_url": "https://github.com/jonghough/jlearn",
+  "source_type": "hacker_news",
+  "summary": "jlearn 是一个基于 J 语言构建的机器学习库，旨在为 J 语言生态提供原生机器学习能力。该库实现了多种经典算法，包括线性回归、逻辑回归、支持向量机、决策树、随机森林、k-近邻、k-均值聚类以及神经网络等，覆盖监督学习与无监督学习主要任务。jlearn 充分利用 J 语言的数组运算和函数式编程特性，提供简洁高效的 API 接口，适合在数据分析和科学计算场景中快速构建模型。项目托管于 GitHub，采用 MIT 开源许可，便于社区贡献与集成。对于熟悉 J 语言或希望探索函数式编程在机器学习中应用的开发者，jlearn 是一个有价值的工具。",
+  "content_markdown": null,
+  "tags": [
+    "machine-learning",
+    "j-language",
+    "data-science",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": "Thu, 07 May 2026 13:25:16 -0500",
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2026-05-13T10:25:09Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:05:00Z",
+    "published_at": null
+  }
+}

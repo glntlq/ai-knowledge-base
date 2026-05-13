@@ -1,0 +1,31 @@
+{
+  "id": "826e6cbf2c25de665d584317a022de0e23389bfd6526a8826125326a4dbb23ee",
+  "title": "Mojo v1.0.0b1",
+  "source_url": "https://mojolang.org/releases/v1.0.0b1",
+  "source_type": "hacker_news",
+  "summary": "Mojo 编程语言发布 v1.0.0b1 版本，标志着其从早期开发阶段迈向更稳定的里程碑。Mojo 是一种专为高性能计算和 AI/ML 工作负载设计的语言，融合了 Python 的易用性与 C++/Rust 的性能。该版本可能包含核心语法改进、标准库增强、编译器优化以及对 Python 生态系统的更好兼容性。作为 beta 版本，它旨在为开发者提供更可靠的实验平台，同时收集反馈以完善正式版。Mojo 的目标是成为 AI 基础设施和系统编程领域的现代替代方案，尤其适合需要极致性能的数值计算和机器学习任务。",
+  "content_markdown": null,
+  "tags": [
+    "mojo",
+    "programming-language",
+    "high-performance-computing",
+    "ai-ml",
+    "beta-release"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Thu, 07 May 2026 14:23:45 -0500",
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2026-05-13T10:25:06Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

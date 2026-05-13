@@ -1,0 +1,34 @@
+{
+  "id": "03ec683d76eea1b382776a079fc4de423cf9633349470142a4142a337cb4519e",
+  "title": "apernet/hysteria",
+  "source_url": "https://github.com/apernet/hysteria",
+  "source_type": "github_trending",
+  "summary": "Hysteria 是一个基于修改版 QUIC 协议的网络代理工具，专为对抗网络审查和优化弱网环境设计。其核心优势在于利用自定义的 Brutal 拥塞控制算法，在丢包率高、延迟大的网络条件下仍能保持高吞吐量和低延迟，显著优于传统 TCP 代理。支持 SOCKS5/HTTP 代理、端口转发、TUN 虚拟网卡等多种模式，并内置多路复用、带宽自适应、TLS 加密及伪装等特性。项目采用 Go 语言开发，提供客户端与服务端二进制文件，配置简洁，支持全平台部署。适用于需要稳定访问受限网站、加速跨国连接或构建私有代理网络的场景。当前为 GitHub 热门开源项目，社区活跃，持续更新。",
+  "content_markdown": null,
+  "tags": [
+    "proxy",
+    "network-tool",
+    "censorship-circumvention",
+    "quic",
+    "go"
+  ],
+  "language": "zh",
+  "author": "apernet",
+  "published_at": null,
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2026-05-13T10:24:27Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420453,
+    "github_language": "Go",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502116,
+    "github_stars_today": 51,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z"
+  }
+}

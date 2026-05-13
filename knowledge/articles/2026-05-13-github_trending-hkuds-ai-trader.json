@@ -1,0 +1,35 @@
+{
+  "id": "d9e8446cbbbaca249ff22b6694ea78714c908bca38b000b5ac68ed6971f51a64",
+  "title": "HKUDS/AI-Trader",
+  "source_url": "https://github.com/HKUDS/AI-Trader",
+  "source_type": "github_trending",
+  "summary": "AI-Trader 是一个由香港大学数据科学实验室（HKUDS）开发的全自动智能交易代理系统，旨在实现100%完全自动化的代理原生交易。该项目利用大型语言模型（LLM）和强化学习技术，构建能够自主分析市场数据、制定交易策略并执行操作的AI代理。其核心特点包括：端到端自动化，无需人工干预；基于LLM的市场情绪与新闻分析；多策略融合与动态调整；以及可扩展的模块化架构。AI-Trader 适用于股票、加密货币等金融市场的量化交易场景，为交易者提供高效、智能的决策支持。该项目在GitHub上开源，吸引了大量关注，代表了AI在金融交易领域的前沿应用。",
+  "content_markdown": null,
+  "tags": [
+    "ai-trading",
+    "large-language-models",
+    "reinforcement-learning",
+    "automated-trading",
+    "quantitative-finance"
+  ],
+  "language": "zh",
+  "author": "HKUDS",
+  "published_at": null,
+  "collected_at": "2026-05-13T10:24:11Z",
+  "analyzed_at": "2026-05-13T10:24:50Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416925,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502630,
+    "github_stars_today": 229,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z",
+    "published_at": null
+  }
+}
