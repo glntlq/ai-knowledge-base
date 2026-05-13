@@ -10,6 +10,7 @@ import os
 import re
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -287,7 +288,7 @@ def save_node(state: KBState) -> dict[str, Any]:
         if not isinstance(article, Mapping):
             continue
         normalized = _article_with_defaults(article)
-        path = ARTICLES_DIR / f"{normalized['id']}.json"
+        path = ARTICLES_DIR / _article_filename(normalized)
         path.write_text(
             json.dumps(normalized, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
@@ -446,6 +447,39 @@ def _string_list(value: Any) -> list[str]:
     if not isinstance(value, list):
         return []
     return [str(item).strip() for item in value if str(item).strip()]
+
+
+def _article_filename(article: Mapping[str, Any]) -> str:
+    date_prefix = _article_date_prefix(article)
+    source_type = _safe_source_type(str(article.get("source_type") or "unknown"))
+
+    source_url = str(article.get("source_url") or "")
+    parsed = urllib.parse.urlparse(source_url)
+    host_part = parsed.netloc.split(":")[0] if parsed.netloc else "item"
+    slug = _slugify(str(article.get("title") or host_part))
+
+    return f"{date_prefix}-{source_type}-{slug}.json"
+
+
+def _article_date_prefix(article: Mapping[str, Any]) -> str:
+    collected_at = str(article.get("collected_at") or "").strip()
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}.*", collected_at):
+        return collected_at[:10]
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
+def _slugify(text: str, *, max_len: int = 60) -> str:
+    value = (text or "").strip().lower()
+    value = re.sub(r"[^a-z0-9]+", "-", value)
+    value = re.sub(r"-{2,}", "-", value).strip("-")
+    return (value[:max_len] or "item").strip("-")
+
+
+def _safe_source_type(value: str) -> str:
+    source_type = (value or "unknown").strip().lower()
+    source_type = re.sub(r"[^a-z0-9_-]+", "-", source_type)
+    source_type = re.sub(r"-{2,}", "-", source_type).strip("-_")
+    return source_type[:40] or "unknown"
 
 
 def _stable_id(source_url: str, title: str) -> str:

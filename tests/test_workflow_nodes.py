@@ -126,6 +126,8 @@ class WorkflowNodesTest(unittest.TestCase):
                             "id": "article-1",
                             "title": "Article 1",
                             "source_url": "https://example.com/a",
+                            "source_type": "github_trending",
+                            "collected_at": "2026-05-11T10:59:18Z",
                             "summary": "summary",
                             "tags": ["agent"],
                         }
@@ -138,7 +140,9 @@ class WorkflowNodesTest(unittest.TestCase):
         ).hexdigest()
         self.assertEqual(len(update["articles"]), 1)
         self.assertEqual(update["articles"][0]["id"], expected_id)
-        self.assertTrue((Path(temp_dir) / f"{expected_id}.json").exists())
+        self.assertTrue(
+            (Path(temp_dir) / "2026-05-11-github_trending-article-1.json").exists()
+        )
         self.assertTrue((Path(temp_dir) / "index.json").exists())
 
 
