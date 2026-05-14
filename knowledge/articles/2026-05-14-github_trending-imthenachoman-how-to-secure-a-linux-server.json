@@ -1,0 +1,30 @@
+{
+  "id": "df3a619eed73fd3c1c4d1d69aa9b58273e823f9e3066c9ac446c0b5f7fe8de36",
+  "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+  "source_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+  "source_type": "github_trending",
+  "summary": "这是一份持续更新的 Linux 服务器安全加固指南，由社区维护，旨在帮助用户系统性地提升服务器安全性。内容覆盖从基础到进阶的多个层面，包括 SSH 安全配置（如禁用 root 登录、使用密钥认证）、防火墙设置（iptables/UFW）、入侵检测（Fail2ban、AIDE）、日志审计、自动更新、文件权限管理、内核参数优化等。指南强调实践操作，提供清晰的步骤和命令示例，适用于 Debian/Ubuntu 及 RHEL/CentOS 等主流发行版。项目结构清晰，按主题分类，便于按需查阅。适合希望从零开始构建安全服务器的运维人员、开发者及安全爱好者。",
+  "content_markdown": null,
+  "tags": [
+    "linux-security",
+    "server-hardening",
+    "ssh",
+    "firewall",
+    "intrusion-detection"
+  ],
+  "language": "zh",
+  "author": "imthenachoman",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427285,
+    "github_language": null,
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501784,
+    "github_stars_today": 234,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "e0e970b00e914bc1dd8ff3fa0cce4902e0bce7c83e42fc9f0f8ca17c8e2d068b",
+  "title": "supertone-inc/supertonic",
+  "source_url": "https://github.com/supertone-inc/supertonic",
+  "source_type": "github_trending",
+  "summary": "Supertonic 是一个轻量级、设备端运行的多语言文本转语音（TTS）引擎，基于 ONNX 运行时实现原生推理。该项目由 supertone-inc 开发，旨在提供极低延迟的语音合成能力，支持多种语言，无需依赖云端服务。其核心优势在于完全离线运行，保护用户隐私，同时利用 ONNX 的跨平台兼容性，可部署于移动设备、嵌入式系统及桌面环境。Supertonic 采用高效的模型架构，在保持高语音自然度的同时显著降低计算资源消耗，适合实时交互场景如语音助手、无障碍工具及语言学习应用。项目开源，提供简洁的 API 接口，便于开发者集成。",
+  "content_markdown": null,
+  "tags": [
+    "tts",
+    "onnx",
+    "multilingual",
+    "on-device",
+    "speech-synthesis"
+  ],
+  "language": "en",
+  "author": "supertone-inc",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944877,
+    "github_language": "Swift",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150479,
+    "github_stars_today": 859,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

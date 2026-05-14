@@ -1,0 +1,30 @@
+{
+  "id": "98f0b49eb518fa964124af5104bb4a942421e4e25e15ac3fe7005a7b2430626a",
+  "title": "github/spec-kit",
+  "source_url": "https://github.com/github/spec-kit",
+  "source_type": "github_trending",
+  "summary": "Spec-Kit 是 GitHub 官方推出的工具包，旨在帮助开发者快速上手规范驱动开发（Spec-Driven Development）。该工具集成了多种实用功能，包括规范模板生成、验证、测试和文档化，支持 OpenAPI、AsyncAPI 等主流规范格式。通过提供 CLI 和库两种使用方式，Spec-Kit 降低了规范驱动开发的门槛，使团队能够更高效地协作并确保 API 设计的一致性和可维护性。其核心价值在于将规范作为开发流程的中心，从而提升代码质量、减少沟通成本，并加速从设计到部署的整个生命周期。",
+  "content_markdown": null,
+  "tags": [
+    "spec-driven-development",
+    "api-design",
+    "openapi",
+    "toolkit",
+    "github"
+  ],
+  "language": "zh",
+  "author": "github",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269498885,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508606,
+    "github_stars_today": 1120,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

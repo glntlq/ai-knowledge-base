@@ -1,0 +1,26 @@
+{
+  "id": "4bb8b0dce15cc93e68fdce76fd472efdaeb78961cdc105f6a568ae50a34400e4",
+  "title": "The US is winning the AI race where it matters most: commercialization",
+  "source_url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+  "source_type": "hacker_news",
+  "summary": "本文分析美国在人工智能领域的领先地位，重点在于商业化能力而非基础研究。美国凭借强大的科技企业生态、风险投资体系和市场应用场景，在AI技术落地和产业变现方面占据优势。文章指出，尽管中国在论文数量和某些技术指标上接近，但美国在将AI转化为实际经济价值、推动行业应用（如医疗、金融、制造）以及构建全球AI供应链方面表现更突出。商业化成功的关键包括灵活的监管环境、成熟的资本市场以及跨学科人才储备。作者认为，AI竞赛的最终赢家将由商业化效率决定，而非单纯的技术突破。",
+  "content_markdown": null,
+  "tags": [
+    "ai-commercialization",
+    "us-ai-leadership",
+    "technology-competition",
+    "ai-industry",
+    "economic-impact"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

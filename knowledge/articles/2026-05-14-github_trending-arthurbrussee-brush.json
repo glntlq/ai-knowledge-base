@@ -1,0 +1,30 @@
+{
+  "id": "46a36313468d5b4edd509b9967d8d7b0976abaa8aeecc9ef07418e959def55ba",
+  "title": "ArthurBrussee/brush",
+  "source_url": "https://github.com/ArthurBrussee/brush",
+  "source_type": "github_trending",
+  "summary": "ArthurBrussee/brush 是一个面向所有人的 3D 重建开源项目，旨在简化从图像或视频生成三维模型的过程。该项目利用先进的计算机视觉与深度学习技术，提供高效、易用的重建管线，支持多种输入格式，并输出高质量网格或点云。其核心优势在于降低 3D 重建门槛，使非专业用户也能快速获得可用模型，适用于 AR/VR、游戏开发、数字文物保护及逆向工程等场景。项目代码结构清晰，文档完善，社区活跃，持续集成最新研究成果。",
+  "content_markdown": null,
+  "tags": [
+    "3d-reconstruction",
+    "computer-vision",
+    "deep-learning",
+    "open-source",
+    "github-trending"
+  ],
+  "language": "zh",
+  "author": "ArthurBrussee",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944465,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150240,
+    "github_stars_today": 81,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

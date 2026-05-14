@@ -1,0 +1,35 @@
+{
+  "id": "20760b3a59d39e909504cf0cfa67161a1d421efaf1f9ecaac60febf795ad9bd3",
+  "title": "ton-blockchain/acton",
+  "source_url": "https://github.com/ton-blockchain/acton",
+  "source_type": "github_trending",
+  "summary": "acton 是 TON 区块链官方推出的智能合约开发工具链，旨在简化 TON 合约的编写、测试与部署流程。该项目提供完整的编译、调试和部署支持，并扩展了 TON 生态的开发体验。作为 TON 基金会维护的核心工具，acton 降低了开发者进入 TON 生态的门槛，支持高级语言编译至 Fift 或 TVM 字节码，集成测试框架与本地模拟环境。其设计兼顾性能与易用性，适合构建去中心化应用（dApp）及复杂合约逻辑。该工具链持续更新，与 TON 主网及测试网保持兼容，是当前 TON 开发的首选基础设施之一。",
+  "content_markdown": null,
+  "tags": [
+    "ton",
+    "blockchain",
+    "smart-contracts",
+    "toolchain",
+    "compiler"
+  ],
+  "language": "en",
+  "author": "ton-blockchain",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2026-05-14T10:13:47Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694294,
+    "github_language": "Rust",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015038,
+    "github_stars_today": 18,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

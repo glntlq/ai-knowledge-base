@@ -1,0 +1,30 @@
+{
+  "id": "b0b62e548d87f9802a073bd1be64135b6e73e0de617ddd67a91a94541f90a212",
+  "title": "danielmiessler/Personal_AI_Infrastructure",
+  "source_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套用于构建个人AI基础设施的框架，旨在通过代理式AI（Agentic AI）增强人类能力。它整合了多种开源工具和模型，支持本地化部署，使用户能够自主管理AI工作流、数据存储和推理任务。核心组件包括智能代理编排、知识库管理、多模型支持（如LLaMA、Mistral）以及安全隐私控制。该基础设施强调模块化与可扩展性，适用于个人知识管理、自动化任务和创意辅助等场景。通过降低对云服务的依赖，项目提升了数据主权和定制化水平，为个人用户提供了企业级AI能力的简化实现路径。",
+  "content_markdown": null,
+  "tags": [
+    "agentic-ai",
+    "personal-infrastructure",
+    "open-source",
+    "llm",
+    "privacy"
+  ],
+  "language": "zh",
+  "author": "danielmiessler",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413604,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501884,
+    "github_stars_today": 435,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "69fa057be53dd2fc999316559cc62bc4e6123a921a7d7273f91267539af35aaa",
+  "title": "trycua/cua",
+  "source_url": "https://github.com/trycua/cua",
+  "source_type": "github_trending",
+  "summary": "trycua/cua 是一个开源基础设施项目，专为计算机使用代理（Computer-Use Agents）设计。它提供沙箱环境、软件开发工具包（SDK）和基准测试，用于训练和评估能够控制完整桌面操作系统（包括 macOS、Linux 和 Windows）的 AI 代理。该项目旨在降低开发桌面自动化 AI 的门槛，通过标准化的沙箱隔离和评估框架，支持研究人员和开发者构建、测试和比较不同代理的性能。其核心价值在于为复杂桌面交互任务提供可复现的实验环境，推动 AI 代理在真实桌面场景中的应用。",
+  "content_markdown": null,
+  "tags": [
+    "computer-use-agents",
+    "sandbox",
+    "sdk",
+    "benchmark",
+    "desktop-automation"
+  ],
+  "language": "en",
+  "author": "trycua",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2026-05-14T10:13:50Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416680,
+    "github_language": "HTML",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501049,
+    "github_stars_today": 245,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z",
+    "published_at": null
+  }
+}

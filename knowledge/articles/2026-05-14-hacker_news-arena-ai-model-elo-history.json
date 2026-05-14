@@ -1,0 +1,26 @@
+{
+  "id": "0efdfda887b868035b8d5e62b17a9ece1577895fec6767f6114b4fd3437aa296",
+  "title": "Arena AI Model ELO History",
+  "source_url": "https://mayerwin.github.io/AI-Arena-History/",
+  "source_type": "hacker_news",
+  "summary": "该项目构建了一个实时追踪旗舰AI模型性能变化的仪表盘，通过可视化Arena AI的ELO历史评分，揭示模型发布后性能衰减的现象。不同于展示所有模型变体的复杂图表，该工具为每个主要AI实验室绘制单一连续曲线，动态追踪其最高评分旗舰模型，清晰展示代际跃升与性能缓慢下降。项目已开源，并特别关注API基准测试与消费者Web UI体验之间的差异——后者常因系统提示、安全包装或高负载下量化模型而表现不同。作者寻求来自消费者Web UI的ELO或评估数据集，以更准确反映实际用户体验。",
+  "content_markdown": null,
+  "tags": [
+    "ai-model-evaluation",
+    "elo-rating",
+    "performance-tracking",
+    "open-source-dashboard",
+    "llm-benchmark"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

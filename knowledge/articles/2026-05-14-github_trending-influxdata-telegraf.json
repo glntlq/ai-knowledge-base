@@ -1,0 +1,30 @@
+{
+  "id": "f60e0dcb47951ec7f15950ec8d93986cde7c051af8c58341df487eea28ed6f21",
+  "title": "influxdata/telegraf",
+  "source_url": "https://github.com/influxdata/telegraf",
+  "source_type": "github_trending",
+  "summary": "Telegraf 是 InfluxData 开源的指标采集代理，用于收集、处理、聚合和写入指标、日志及其他任意数据。它采用插件驱动架构，支持超过 300 种输入、输出、处理器和聚合器插件，可无缝对接 Kafka、Prometheus、MQTT、Syslog 等主流系统。Telegraf 以低资源占用和高效性能著称，适合在边缘设备、容器和云环境中运行。其核心优势在于灵活的数据管道配置，用户可通过 TOML 文件定义采集规则、过滤条件及数据转换逻辑，并支持多种输出目标如 InfluxDB、Elasticsearch、Graphite 等。该项目在 GitHub 上拥有 15k+ Star，是监控与可观测性领域的基础组件，广泛应用于 DevOps、IoT 和基础设施监控场景。",
+  "content_markdown": null,
+  "tags": [
+    "metrics-collection",
+    "monitoring",
+    "agent",
+    "plugin-architecture",
+    "influxdata"
+  ],
+  "language": "zh",
+  "author": "influxdata",
+  "published_at": null,
+  "collected_at": "2026-05-14T10:12:54Z",
+  "analyzed_at": "2025-04-10T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417091,
+    "github_language": "Go",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505786,
+    "github_stars_today": 13,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}
