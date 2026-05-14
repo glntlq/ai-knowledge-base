@@ -13,11 +13,30 @@ class WorkflowGraphTest(unittest.TestCase):
         self.assertTrue(callable(getattr(app, "stream", None)))
         self.assertTrue(callable(getattr(app, "invoke", None)))
 
-    def test_review_router_uses_review_passed_flag(self) -> None:
+    def test_review_router_branches(self) -> None:
         from workflows.graph import route_after_review
+        from workflows.node_constants import MAX_REVIEW_ITERATIONS
 
-        self.assertEqual(route_after_review({"review_passed": True}), "save")
-        self.assertEqual(route_after_review({"review_passed": False}), "organize")
+        self.assertEqual(
+            route_after_review({"review_passed": True, "iteration": 0}),
+            "organize",
+        )
+        self.assertEqual(
+            route_after_review({"review_passed": False, "iteration": 0}),
+            "revise",
+        )
+        self.assertEqual(
+            route_after_review(
+                {"review_passed": False, "iteration": MAX_REVIEW_ITERATIONS - 1}
+            ),
+            "revise",
+        )
+        self.assertEqual(
+            route_after_review(
+                {"review_passed": False, "iteration": MAX_REVIEW_ITERATIONS}
+            ),
+            "human_flag",
+        )
 
     def test_graph_file_imports_when_loaded_like_direct_script(self) -> None:
         repo_root = Path(__file__).resolve().parents[1]

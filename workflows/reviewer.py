@@ -9,6 +9,7 @@ from typing import Any, Mapping
 from workflows.model_client import accumulate_usage, chat_json
 from workflows.node_constants import MAX_REVIEW_ITERATIONS
 from workflows.node_support import state_int
+from workflows.planner import plan_value
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
@@ -60,25 +61,50 @@ def weighted_total_1_to_10(scores: Mapping[str, float]) -> float:
     return float(sum(scores[k] * w for k, w in _DIM_WEIGHTS.items()))
 
 
+def _planned_review_cap(state: KBState) -> int:
+    """Planner 或缺省下的审核迭代上限（至少为 1）。"""
+
+    raw = plan_value(state, "max_iterations", default=MAX_REVIEW_ITERATIONS)
+    try:
+        n = int(raw)
+    except (TypeError, ValueError):
+        return MAX_REVIEW_ITERATIONS
+    return max(1, min(n, 20))
+
+
+def _force_review_iteration_threshold(cap: int) -> int:
+    """达到该 ``iteration`` 时强制通过（与历史 ``MAX-1`` 语义对齐，且兼容 cap=1）。"""
+
+    return max(1, cap - 1)
+
+
 def review_node(state: KBState) -> dict[str, Any]:
     """审核 `state['analyses']` 中前若干条，按加权总分决定是否通过。"""
 
     logger.info("[ReviewerNode] 审核 analyses 质量（最多 %d 条）", REVIEW_ANALYSES_LIMIT)
 
+    cap = _planned_review_cap(state)
+    force_threshold = _force_review_iteration_threshold(cap)
+
     iteration = state_int(state, "iteration", default=0)
-    if iteration >= MAX_REVIEW_ITERATIONS - 1:
+    if iteration >= force_threshold:
         return {
             "review_passed": True,
             "review_feedback": "已达到最大审核循环次数，强制通过并进入保存阶段。",
-            "iteration": MAX_REVIEW_ITERATIONS,
+            "iteration": cap,
             "cost_tracker": dict(state.get("cost_tracker") or {}),
         }
 
     tracker = dict(state.get("cost_tracker") or {})
     analyses = list(state.get("analyses") or [])[:REVIEW_ANALYSES_LIMIT]
 
-    plan = str(state.get("plan") or "").strip()
-    plan_block = f"\n计划说明（供参考）：\n{plan}\n" if plan else ""
+    plan_raw = state.get("plan")
+    if isinstance(plan_raw, Mapping):
+        plan_block = f"\n运行策略（Planner）：\n{json.dumps(plan_raw, ensure_ascii=False, indent=2)}\n"
+    elif isinstance(plan_raw, str) and plan_raw.strip():
+        plan_block = f"\n计划说明（供参考）：\n{plan_raw.strip()}\n"
+    else:
+        plan_block = ""
 
     system = (
         "你是 AI 知识库质检员。只输出严格 JSON，不要输出 Markdown。"
@@ -108,7 +134,7 @@ def review_node(state: KBState) -> dict[str, Any]:
         return {
             "review_passed": True,
             "review_feedback": "LLM 审核调用失败，已自动通过，不阻塞流程。",
-            "iteration": min(iteration + 1, MAX_REVIEW_ITERATIONS),
+            "iteration": min(iteration + 1, cap),
             "cost_tracker": tracker,
         }
 
@@ -124,7 +150,7 @@ def review_node(state: KBState) -> dict[str, Any]:
                 (feedback + "\n" if feedback else "")
                 + "审核输出缺少完整维度分数，已自动通过，不阻塞流程。"
             ).strip(),
-            "iteration": min(iteration + 1, MAX_REVIEW_ITERATIONS),
+            "iteration": min(iteration + 1, cap),
             "cost_tracker": tracker,
         }
 
@@ -140,6 +166,6 @@ def review_node(state: KBState) -> dict[str, Any]:
     return {
         "review_passed": passed,
         "review_feedback": merged_feedback,
-        "iteration": min(iteration + 1, MAX_REVIEW_ITERATIONS),
+        "iteration": min(iteration + 1, cap),
         "cost_tracker": tracker,
     }

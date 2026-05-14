@@ -14,6 +14,7 @@ from workflows.node_support import (
     quality_score,
     state_int,
 )
+from workflows.planner import plan_value
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
@@ -26,8 +27,13 @@ def organize_node(state: KBState) -> dict[str, Any]:
 
     tracker = dict(state.get("cost_tracker") or {})
     candidates = [analysis_to_article(item) for item in state.get("analyses", [])]
+    rel_raw = plan_value(state, "relevance_threshold", default=0.6)
+    try:
+        relevance_threshold = float(rel_raw)
+    except (TypeError, ValueError):
+        relevance_threshold = 0.6
     articles = dedupe_by_url(
-        article for article in candidates if quality_score(article) >= 0.6
+        article for article in candidates if quality_score(article) >= relevance_threshold
     )
 
     feedback = str(state.get("review_feedback") or "").strip()
@@ -48,7 +54,7 @@ def organize_node(state: KBState) -> dict[str, Any]:
             articles = dedupe_by_url(
                 article_with_defaults(item)
                 for item in revised
-                if isinstance(item, Mapping) and quality_score(item) >= 0.6
+                if isinstance(item, Mapping) and quality_score(item) >= relevance_threshold
             )
 
     return {"articles": articles, "cost_tracker": tracker}

@@ -12,6 +12,7 @@ from typing import Any, Mapping
 
 from workflows.node_constants import GITHUB_TRENDING_URL
 from workflows.node_support import html_text_cleanup, parse_int_text, state_int, utc_now_iso
+from workflows.planner import plan_value
 from workflows.state import KBState
 
 logger = logging.getLogger(__name__)
@@ -139,7 +140,13 @@ def collect_node(state: KBState) -> dict[str, Any]:
 
     logger.info("[CollectNode] 采集 GitHub Trending 数据")
 
-    limit = state_int(state, "limit", default=int(os.getenv("GITHUB_TRENDING_LIMIT") or 10))
+    env_limit = int(os.getenv("GITHUB_TRENDING_LIMIT") or 10)
+    plan_limit = plan_value(state, "per_source_limit", default=None)
+    try:
+        default_limit = int(plan_limit) if plan_limit is not None else env_limit
+    except (TypeError, ValueError):
+        default_limit = env_limit
+    limit = state_int(state, "limit", default=default_limit)
     headers = {
         "Accept": "text/html,application/xhtml+xml",
         "User-Agent": "ai-knowledge-base-langgraph",

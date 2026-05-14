@@ -13,9 +13,16 @@ logger = logging.getLogger(__name__)
 
 
 def save_node(state: KBState) -> dict[str, Any]:
-    """Persist final articles and update the article index."""
+    """Persist final articles and update the article index.
+
+    当 ``needs_human_review`` 为真时跳过写入，避免污染主知识库（快照在 ``knowledge/pending_review/``）。
+    """
 
     from workflows import node_constants
+
+    if bool(state.get("needs_human_review")):
+        logger.info("[SaveNode] needs_human_review 为真，跳过主知识库写入")
+        return {}
 
     articles_dir = node_constants.ARTICLES_DIR
 

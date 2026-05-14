@@ -36,5 +36,14 @@ class KBState(TypedDict):
     # Token 与成本追踪摘要；建议包含 prompt_tokens/completion_tokens/total_tokens/cost/provider/model 等字段，
     # 用于报告成本，不保存单次请求的完整上下文。
 
-    plan: NotRequired[str]
-    # 可选：采集/分析计划或策略说明，供审核节点参考；非必填。
+    plan: NotRequired[dict[str, Any]]
+    # 可选：Planner 输出的策略 dict（tier、per_source_limit、relevance_threshold、max_iterations、rationale 等），只读。
+
+    target_count: NotRequired[int]
+    # 可选：覆盖 Planner 所用的目标采集量；缺省时由 PLANNER_TARGET_COUNT 环境变量决定。
+
+    max_iterations: NotRequired[int]
+    # 可选：与审核循环配套的上限；缺省时各节点使用 node_constants.MAX_REVIEW_ITERATIONS。
+
+    needs_human_review: NotRequired[bool]
+    # 可选：已写入 knowledge/pending_review/ 且流程应避开主库写入时为 True。

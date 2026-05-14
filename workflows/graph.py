@@ -17,8 +17,13 @@ if str(_REPO_ROOT) not in sys.path:
 
 from workflows.analyze import analyze_node
 from workflows.collect import collect_node
+from workflows.human_flag import human_flag_node
+from workflows.node_constants import MAX_REVIEW_ITERATIONS
+from workflows.node_support import state_int
 from workflows.organize import organize_node
+from workflows.planner import plan_value, planner_node
 from workflows.reviewer import review_node
+from workflows.reviser import revise_node
 from workflows.save import save_node
 from workflows.state import KBState
 
@@ -26,10 +31,26 @@ from workflows.state import KBState
 logger = logging.getLogger(__name__)
 
 
-def route_after_review(state: Mapping[str, Any]) -> str:
-    """Route to save when review passes, otherwise loop back to organize."""
+def _default_max_iterations(state: Mapping[str, Any]) -> int:
+    raw = plan_value(state, "max_iterations", default=MAX_REVIEW_ITERATIONS)
+    try:
+        n = int(raw)
+    except (TypeError, ValueError):
+        return MAX_REVIEW_ITERATIONS
+    return max(1, n)
 
-    return "save" if bool(state.get("review_passed")) else "organize"
+
+def route_after_review(state: Mapping[str, Any]) -> str:
+    """在 ``review`` 之后分支：通过→organize；未通过且未满迭代→revise；否则→human_flag。"""
+
+    if bool(state.get("review_passed")):
+        return "organize"
+
+    max_iter = state_int(state, "max_iterations", default=_default_max_iterations(state))
+    iteration = state_int(state, "iteration", default=0)
+    if iteration < max_iter:
+        return "revise"
+    return "human_flag"
 
 
 def build_graph() -> Any:
@@ -37,13 +58,17 @@ def build_graph() -> Any:
 
     graph = StateGraph(KBState)
 
+    graph.add_node("planner", planner_node)
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("organize", organize_node)
     graph.add_node("review", review_node)
+    graph.add_node("revise", revise_node)
+    graph.add_node("human_flag", human_flag_node)
     graph.add_node("save", save_node)
 
-    graph.set_entry_point("collect")
+    graph.set_entry_point("planner")
+    graph.add_edge("planner", "collect")
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "organize")
     graph.add_edge("organize", "review")
@@ -51,10 +76,13 @@ def build_graph() -> Any:
         "review",
         route_after_review,
         {
-            "save": "save",
             "organize": "organize",
+            "revise": "revise",
+            "human_flag": "human_flag",
         },
     )
+    graph.add_edge("revise", "review")
+    graph.add_edge("human_flag", END)
     graph.add_edge("save", END)
 
     return graph.compile()
@@ -84,6 +112,9 @@ def _summarize_value(value: Any) -> Any:
             "sources",
             "analyses",
             "articles",
+            "needs_human_review",
+            "plan",
+            "target_count",
         )
         return {key: _summarize_value(value[key]) for key in keys if key in value}
     return value

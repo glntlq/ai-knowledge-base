@@ -178,6 +178,122 @@ class WorkflowNodesTest(unittest.TestCase):
         self.assertTrue(update["review_passed"])
         self.assertIn("自动通过", update["review_feedback"])
 
+    def test_revise_node_skips_when_analyses_or_feedback_empty(self) -> None:
+        from workflows.reviser import revise_node
+
+        self.assertEqual(
+            revise_node({"analyses": [], "review_feedback": "x", "cost_tracker": {}}),  # type: ignore[arg-type]
+            {},
+        )
+        self.assertEqual(
+            revise_node({"analyses": [{"a": 1}], "review_feedback": "", "cost_tracker": {}}),  # type: ignore[arg-type]
+            {},
+        )
+        self.assertEqual(
+            revise_node({"analyses": [{"a": 1}], "review_feedback": "  ", "cost_tracker": {}}),  # type: ignore[arg-type]
+            {},
+        )
+
+    def test_revise_node_calls_llm_with_temperature_and_returns_analyses(self) -> None:
+        from workflows import reviser as reviser_mod
+        from workflows.reviser import revise_node
+
+        orig = [{"title": "t", "source_url": "https://ex/a", "summary": "old"}]
+        improved = [{"title": "t", "source_url": "https://ex/a", "summary": "new"}]
+        with patch.object(
+            reviser_mod,
+            "chat_json",
+            return_value=(
+                {"analyses": improved},
+                {"prompt_tokens": 1, "completion_tokens": 1, "total_tokens": 2},
+            ),
+        ) as mock_chat:
+            out = revise_node(
+                {
+                    "analyses": orig,
+                    "review_feedback": "加强摘要",
+                    "cost_tracker": {},
+                }  # type: ignore[arg-type]
+            )
+
+        mock_chat.assert_called_once()
+        self.assertEqual(mock_chat.call_args.kwargs.get("temperature"), 0.4)
+        self.assertEqual(out["analyses"], improved)
+        self.assertEqual(out["cost_tracker"]["prompt_tokens"], 1)
+
+    def test_save_node_skips_when_needs_human_review(self) -> None:
+        from workflows import node_constants
+        from workflows.save import save_node
+
+        temp_dir = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, temp_dir)
+
+        with patch.object(node_constants, "ARTICLES_DIR", Path(temp_dir)):
+            update = save_node(
+                {
+                    "needs_human_review": True,
+                    "articles": [
+                        {
+                            "title": "Should not write",
+                            "source_url": "https://example.com/x",
+                            "source_type": "github_trending",
+                            "summary": "x",
+                            "tags": [],
+                        }
+                    ],
+                }  # type: ignore[arg-type]
+            )
+
+        self.assertEqual(update, {})
+        self.assertFalse(any(Path(temp_dir).iterdir()))
+
+    def test_human_flag_node_skips_when_below_max_iterations(self) -> None:
+        from workflows.human_flag import human_flag_node
+
+        out = human_flag_node(
+            {
+                "review_passed": False,
+                "iteration": 1,
+                "max_iterations": 3,
+                "analyses": [{"a": 1}],
+                "articles": [],
+                "sources": [],
+                "review_feedback": "fix",
+                "cost_tracker": {},
+            }  # type: ignore[arg-type]
+        )
+        self.assertEqual(out, {})
+
+    def test_human_flag_node_writes_snapshot_when_at_cap(self) -> None:
+        from workflows import human_flag as hf
+
+        temp_dir = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, temp_dir)
+
+        with patch.object(hf, "PENDING_REVIEW_DIR", Path(temp_dir)):
+            out = hf.human_flag_node(
+                {
+                    "review_passed": False,
+                    "iteration": 3,
+                    "max_iterations": 3,
+                    "review_feedback": "仍不合格",
+                    "analyses": [{"summary": "s"}],
+                    "articles": [{"title": "t", "source_url": "https://ex/u"}],
+                    "sources": [],
+                    "cost_tracker": {"prompt_tokens": 1},
+                }  # type: ignore[arg-type]
+            )
+
+        self.assertTrue(out.get("needs_human_review"))
+        self.assertTrue(out.get("review_passed"))
+        self.assertEqual(out.get("articles"), [])
+        self.assertIn("pending_review", out.get("review_feedback", ""))
+        files = list(Path(temp_dir).glob("flag_*.json"))
+        self.assertEqual(len(files), 1)
+        data = json.loads(files[0].read_text(encoding="utf-8"))
+        self.assertEqual(data["review_feedback"], "仍不合格")
+        self.assertEqual(len(data["analyses"]), 1)
+
     def test_save_node_writes_articles_and_index(self) -> None:
         from workflows import node_constants
         from workflows.save import save_node
