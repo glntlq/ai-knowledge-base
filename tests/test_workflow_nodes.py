@@ -10,7 +10,7 @@ from unittest.mock import patch
 
 class WorkflowNodesTest(unittest.TestCase):
     def test_collect_node_fetches_github_trending_results(self) -> None:
-        from workflows.nodes import collect_node
+        from workflows.collect import collect_node
 
         html = """
         <article class="Box-row">
@@ -41,7 +41,7 @@ class WorkflowNodesTest(unittest.TestCase):
         self.assertEqual(update["sources"][0]["metadata"]["github_stars_today"], 789)
 
     def test_collect_node_retries_timeout(self) -> None:
-        from workflows.nodes import collect_node
+        from workflows.collect import collect_node
 
         html = """
         <article class="Box-row">
@@ -62,7 +62,7 @@ class WorkflowNodesTest(unittest.TestCase):
         self.assertEqual(update["sources"][0]["source_url"], "https://github.com/example/retry")
 
     def test_organize_node_filters_low_score_and_deduplicates_urls(self) -> None:
-        from workflows.nodes import organize_node
+        from workflows.organize import organize_node
 
         state = {
             "analyses": [
@@ -99,10 +99,10 @@ class WorkflowNodesTest(unittest.TestCase):
         self.assertEqual(update["articles"][0]["source_url"], "https://example.com/a")
 
     def test_review_node_forces_pass_after_two_iterations(self) -> None:
-        from workflows.nodes import review_node
+        from workflows.reviewer import review_node
 
         state = {
-            "articles": [{"title": "A", "source_url": "https://example.com/a"}],
+            "analyses": [{"title": "A", "source_url": "https://example.com/a", "summary": "x"}],
             "iteration": 2,
             "cost_tracker": {},
         }
@@ -112,14 +112,81 @@ class WorkflowNodesTest(unittest.TestCase):
         self.assertTrue(update["review_passed"])
         self.assertEqual(update["iteration"], 3)
 
+    def test_reviewer_weighted_pass_uses_code_not_model_total(self) -> None:
+        from workflows import reviewer as reviewer_mod
+        from workflows.reviewer import review_node
+
+        # 模型若谎报高分，仍以代码加权为准；全 8 分 => 加权 8.0 >= 7 通过
+        fake_parsed = {
+            "scores": {
+                "summary_quality": 8,
+                "technical_depth": 8,
+                "relevance": 8,
+                "originality": 8,
+                "formatting": 8,
+            },
+            "feedback": "ok",
+            "overall_score": 10.0,
+        }
+        state = {"analyses": [{"summary": "s"}], "iteration": 0, "cost_tracker": {}}
+
+        with patch.object(
+            reviewer_mod,
+            "chat_json",
+            return_value=(fake_parsed, {"prompt_tokens": 1, "completion_tokens": 1, "total_tokens": 2}),
+        ):
+            update = review_node(state)  # type: ignore[arg-type]
+
+        self.assertTrue(update["review_passed"])
+        self.assertIn("8.00", update["review_feedback"])
+
+    def test_reviewer_weighted_fail_below_threshold(self) -> None:
+        from workflows import reviewer as reviewer_mod
+        from workflows.reviewer import review_node
+
+        fake_parsed = {
+            "scores": {
+                "summary_quality": 6,
+                "technical_depth": 6,
+                "relevance": 6,
+                "originality": 6,
+                "formatting": 6,
+            },
+            "feedback": "需改进",
+        }
+        state = {"analyses": [{"summary": "s"}], "iteration": 0, "cost_tracker": {}}
+
+        with patch.object(
+            reviewer_mod,
+            "chat_json",
+            return_value=(fake_parsed, {"prompt_tokens": 1, "completion_tokens": 1, "total_tokens": 2}),
+        ):
+            update = review_node(state)  # type: ignore[arg-type]
+
+        self.assertFalse(update["review_passed"])
+        self.assertIn("6.00", update["review_feedback"])
+
+    def test_reviewer_llm_failure_auto_passes(self) -> None:
+        from workflows import reviewer as reviewer_mod
+        from workflows.reviewer import review_node
+
+        state = {"analyses": [{"summary": "s"}], "iteration": 0, "cost_tracker": {}}
+
+        with patch.object(reviewer_mod, "chat_json", side_effect=RuntimeError("api down")):
+            update = review_node(state)  # type: ignore[arg-type]
+
+        self.assertTrue(update["review_passed"])
+        self.assertIn("自动通过", update["review_feedback"])
+
     def test_save_node_writes_articles_and_index(self) -> None:
-        from workflows import nodes
+        from workflows import node_constants
+        from workflows.save import save_node
 
         temp_dir = tempfile.mkdtemp()
         self.addCleanup(shutil.rmtree, temp_dir)
 
-        with patch.object(nodes, "ARTICLES_DIR", Path(temp_dir)):
-            update = nodes.save_node(
+        with patch.object(node_constants, "ARTICLES_DIR", Path(temp_dir)):
+            update = save_node(
                 {
                     "articles": [
                         {

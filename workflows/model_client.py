@@ -50,16 +50,22 @@ def _strip_json_fence(text: str) -> str:
     return value.strip()
 
 
-def chat(prompt: str, system: str = "") -> tuple[str, dict[str, Any]]:
+def chat(
+    prompt: str,
+    system: str = "",
+    *,
+    temperature: float | None = None,
+) -> tuple[str, dict[str, Any]]:
     """Call the configured LLM and return `(text, usage)`."""
 
     from pipeline.model_client import compute_cost_from_response, quick_chat
 
+    temp = 0.2 if temperature is None else temperature
     resp = quick_chat(
         prompt,
         model=_default_model(),
         system=system or None,
-        temperature=0.2,
+        temperature=temp,
     )
     usage = _usage_to_dict(resp.usage)
     usage["provider"] = resp.provider
@@ -72,10 +78,15 @@ def chat(prompt: str, system: str = "") -> tuple[str, dict[str, Any]]:
     return resp.content, usage
 
 
-def chat_json(prompt: str, system: str = "") -> tuple[Any, dict[str, Any]]:
+def chat_json(
+    prompt: str,
+    system: str = "",
+    *,
+    temperature: float | None = None,
+) -> tuple[Any, dict[str, Any]]:
     """Call the LLM and parse the response as JSON."""
 
-    text, usage = chat(prompt, system=system)
+    text, usage = chat(prompt, system=system, temperature=temperature)
     return json.loads(_strip_json_fence(text)), usage
 
 

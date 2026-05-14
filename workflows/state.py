@@ -4,7 +4,7 @@
 不在状态中堆叠完整原始页面、长文本正文或未清洗的中间大对象。
 """
 
-from typing import Any, TypedDict
+from typing import Any, NotRequired, TypedDict
 
 
 class KBState(TypedDict):
@@ -35,3 +35,6 @@ class KBState(TypedDict):
     cost_tracker: dict[str, Any]
     # Token 与成本追踪摘要；建议包含 prompt_tokens/completion_tokens/total_tokens/cost/provider/model 等字段，
     # 用于报告成本，不保存单次请求的完整上下文。
+
+    plan: NotRequired[str]
+    # 可选：采集/分析计划或策略说明，供审核节点参考；非必填。

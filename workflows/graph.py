@@ -15,13 +15,11 @@ _REPO_ROOT = Path(__file__).resolve().parents[1]
 if str(_REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(_REPO_ROOT))
 
-from workflows.nodes import (
-    analyze_node,
-    collect_node,
-    organize_node,
-    review_node,
-    save_node,
-)
+from workflows.analyze import analyze_node
+from workflows.collect import collect_node
+from workflows.organize import organize_node
+from workflows.reviewer import review_node
+from workflows.save import save_node
 from workflows.state import KBState
 
 
