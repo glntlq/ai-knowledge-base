@@ -1,0 +1,30 @@
+{
+  "id": "070a73b6280f044781f329daf05b4394787f09e4c7118022bd5f06f0fc600867",
+  "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+  "source_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套参考架构，用于构建GPU加速的视觉智能体和AI驱动的视频分析应用。它包含视频搜索与摘要功能，利用NVIDIA的硬件和软件生态（如CUDA、TensorRT）实现高性能视频处理。核心组件包括视频帧提取、特征嵌入、相似性搜索（基于向量数据库）以及自然语言摘要生成。该套件旨在降低开发门槛，使开发者能够快速搭建实时视频分析管道，适用于监控、媒体内容管理、自动驾驶等场景。项目提供了模块化设计，支持自定义模型和数据处理流程，并包含示例代码和部署指南。",
+  "content_markdown": null,
+  "tags": [
+    "gpu-acceleration",
+    "video-analytics",
+    "vision-ai",
+    "reference-architecture",
+    "nvidia"
+  ],
+  "language": "zh",
+  "author": "NVIDIA-AI-Blueprints",
+  "published_at": null,
+  "collected_at": "2026-05-15T10:20:44Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694973,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150256,
+    "github_stars_today": 62,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "94f99d26500a9e372c0fe898f964d4b3cc326fb0d2084256ce8008d8c9ca9a5c",
+  "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
+  "source_url": "https://relax.ai/docs",
+  "source_type": "hacker_news",
+  "summary": "RelaxAI 是一个英国主权 LLM 推理服务，声称比 OpenAI/Claude 便宜 80%。它专注于在本地或主权云中运行大型语言模型，提供成本效益高的推理能力。该服务可能针对英国或欧洲的数据主权要求，允许用户在不依赖美国云提供商的情况下部署 AI。其技术细节包括支持多种开源模型，并通过优化推理栈（如量化、批处理）降低计算成本。RelaxAI 的文档可能涵盖 API 使用、模型部署和性能基准。该项目在 Hacker News 上获得关注，表明开发者社区对其成本优势和数据主权特性感兴趣。",
+  "content_markdown": null,
+  "tags": [
+    "llm-inference",
+    "sovereign-ai",
+    "cost-optimization",
+    "uk-tech",
+    "open-source-models"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": "Fri, 15 May 2026 09:27:26 +0000",
+  "collected_at": "2026-05-15T10:20:48Z",
+  "analyzed_at": "2026-05-15T10:21:50Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

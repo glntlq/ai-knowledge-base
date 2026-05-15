@@ -1,0 +1,30 @@
+{
+  "id": "80de8c96df1b3bff6ba1eccf82291a8262dab4434665b1d02df0438f0d771255",
+  "title": "Genymobile/scrcpy",
+  "source_url": "https://github.com/Genymobile/scrcpy",
+  "source_type": "github_trending",
+  "summary": "Scrcpy 是一款开源工具，通过 USB 或 TCP/IP 连接在桌面端实时显示并控制 Android 设备，无需 root 权限。它利用 Android 的 ADB 和 MediaCodec API 实现低延迟、高帧率的屏幕镜像，支持鼠标、键盘输入及文件拖放传输。项目采用 C 语言编写，核心功能包括屏幕录制、多设备管理、窗口自适应缩放等。作为 GitHub 上广受关注的项目，Scrcpy 为开发者、测试人员及普通用户提供了高效、轻量的 Android 设备交互方案，尤其适用于应用调试、演示和远程协助场景。其性能优于同类商业软件，且完全免费开源。",
+  "content_markdown": null,
+  "tags": [
+    "android",
+    "screen-mirroring",
+    "adb",
+    "open-source",
+    "remote-control"
+  ],
+  "language": "zh",
+  "author": "Genymobile",
+  "published_at": null,
+  "collected_at": "2026-05-15T10:20:44Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694141591,
+    "github_language": "C",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013068,
+    "github_stars_today": 851,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

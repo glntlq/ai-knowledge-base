@@ -1,0 +1,30 @@
+{
+  "id": "f03b336640059af7ff706649bf2d6bd1f4fafcc33509c86648a07777603c74d3",
+  "title": "roboflow/supervision",
+  "source_url": "https://github.com/roboflow/supervision",
+  "source_type": "github_trending",
+  "summary": "Supervision 是 Roboflow 开发的开源计算机视觉工具库，提供可复用的视觉任务组件，包括目标检测、分割、跟踪、标注和可视化等功能。它封装了常见视觉处理流程，支持与 YOLO、Detectron2 等主流模型集成，降低开发者重复造轮子的成本。项目采用模块化设计，核心模块涵盖检测、标注、跟踪、分类和绘图等，适用于快速搭建视觉应用原型。该库强调易用性和可扩展性，适合计算机视觉工程师和研究人员用于模型评估、数据标注和结果可视化。",
+  "content_markdown": null,
+  "tags": [
+    "computer-vision",
+    "object-detection",
+    "image-segmentation",
+    "visualization",
+    "python"
+  ],
+  "language": "zh",
+  "author": "roboflow",
+  "published_at": null,
+  "collected_at": "2026-05-15T10:20:44Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439076,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503494,
+    "github_stars_today": 83,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

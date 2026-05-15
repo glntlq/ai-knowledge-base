@@ -1,0 +1,30 @@
+{
+  "id": "00fab141efa8ffad1ee33fa2d344a625a5c87c10eda7b53b2d530cd500d5b34b",
+  "title": "garrytan/gstack",
+  "source_url": "https://github.com/garrytan/gstack",
+  "source_type": "github_trending",
+  "summary": "Garry Tan 的 Claude Code 配置集合，包含 23 个高度定制化的工具，覆盖 CEO、设计师、工程经理、发布经理、文档工程师和 QA 等角色。该项目旨在提供一套完整的、有主见的开发工作流，帮助团队或个人快速搭建高效的 AI 辅助开发环境。每个工具都针对特定角色和任务进行了优化，例如代码生成、设计审查、发布管理、文档编写和测试自动化。通过集成这些工具，用户可以直接复用 Garry Tan 在创业和工程管理中的实践经验，减少配置和决策成本。该项目适合希望利用 AI 提升全栈开发效率的中高级开发者，尤其是对 Claude Code 生态感兴趣的用户。",
+  "content_markdown": null,
+  "tags": [
+    "claude-code",
+    "ai-tools",
+    "developer-tools",
+    "workflow-automation",
+    "opinionated-config"
+  ],
+  "language": "en",
+  "author": "garrytan",
+  "published_at": null,
+  "collected_at": "2026-05-15T10:20:44Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269497251,
+    "github_language": "TypeScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014449,
+    "github_stars_today": 915,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

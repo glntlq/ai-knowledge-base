@@ -1,0 +1,26 @@
+{
+  "id": "e9519a555e06a3236ce2a1cbfcef442317a54fbaf62cfe561a9491df08a4694c",
+  "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+  "source_url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+  "source_type": "hacker_news",
+  "summary": "安大略省审计发现，医生使用的AI笔记工具频繁出现基本事实错误，如误诊、药物剂量错误等。审计报告指出，这些AI系统在转录和总结医疗记录时，错误率高达30%以上，可能对患者安全构成严重威胁。问题根源在于AI模型对医疗术语理解不足，以及缺乏有效的质量控制机制。审计建议加强AI工具在医疗领域的监管，并要求供应商提供更透明的错误报告。该事件引发了对AI在关键领域应用可靠性的广泛讨论。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "healthcare",
+    "medical-errors",
+    "audit",
+    "ontario"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-05-14T00:00:00Z",
+  "collected_at": "2026-05-15T10:20:48Z",
+  "analyzed_at": "2026-05-14T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

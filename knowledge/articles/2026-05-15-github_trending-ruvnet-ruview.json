@@ -1,0 +1,30 @@
+{
+  "id": "886fdef57c888fcef741f6647c3522dee21221765245d448c075a67a35fb414d",
+  "title": "ruvnet/RuView",
+  "source_url": "https://github.com/ruvnet/RuView",
+  "source_type": "github_trending",
+  "summary": "RuView 是一个开源项目，利用商用 WiFi 信号实现实时空间感知、生命体征监测和存在检测，无需任何摄像头。该项目通过分析 WiFi 信号的物理层变化（如信道状态信息 CSI），将无线信号转化为空间智能，支持人体定位、呼吸心率监测以及区域占用检测。其核心优势在于非侵入性、隐私保护（无视频数据）和低成本（仅需普通 WiFi 设备）。适用于智能家居、老人看护、安防监控等场景。项目基于深度学习模型处理信号特征，提供实时 API 和可视化界面。",
+  "content_markdown": null,
+  "tags": [
+    "wifi-sensing",
+    "channel-state-information",
+    "presence-detection",
+    "vital-signs-monitoring",
+    "edge-ai"
+  ],
+  "language": "zh",
+  "author": "ruvnet",
+  "published_at": null,
+  "collected_at": "2026-05-15T10:20:44Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269456779,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507477,
+    "github_stars_today": 1715,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

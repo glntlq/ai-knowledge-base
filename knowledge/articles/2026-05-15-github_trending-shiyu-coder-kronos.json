@@ -1,0 +1,35 @@
+{
+  "id": "d51744815b85c7421b1ed9d6da136a2165410b9e35babb3b33b5cac934eac814",
+  "title": "shiyu-coder/Kronos",
+  "source_url": "https://github.com/shiyu-coder/Kronos",
+  "source_type": "github_trending",
+  "summary": "Kronos 是一个面向金融市场的语言基础模型，旨在通过深度学习技术解析金融市场的语言模式。该项目由 shiyu-coder 开发，基于 GitHub 开源，核心目标是利用大语言模型处理金融文本数据，如市场报告、新闻和交易信号，以辅助投资决策和风险分析。模型可能采用 Transformer 架构，针对金融领域的专业术语和时序特征进行优化，支持多语言金融文本理解。其应用场景包括情感分析、事件驱动预测和自动化报告生成。Kronos 的发布为金融科技领域提供了可定制的基础模型，降低了金融 NLP 任务的开发门槛，但具体性能指标和训练数据细节尚未公开。该项目处于早期阶段，需进一步验证其在真实市场环境中的有效性。",
+  "content_markdown": null,
+  "tags": [
+    "large-language-model",
+    "finance",
+    "nlp",
+    "deep-learning",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "shiyu-coder",
+  "published_at": null,
+  "collected_at": "2026-05-15T10:20:44Z",
+  "analyzed_at": "2026-05-15T10:21:12Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424997,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504364,
+    "github_stars_today": 363,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

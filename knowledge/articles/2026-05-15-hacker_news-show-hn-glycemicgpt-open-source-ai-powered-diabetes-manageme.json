@@ -1,0 +1,26 @@
+{
+  "id": "93c8942b8b70ca9705f226b3eec93d24ed2d2975ce1f275e38fc77d5ac335586",
+  "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+  "source_url": "https://github.com/GlycemicGPT/GlycemicGPT",
+  "source_type": "hacker_news",
+  "summary": "GlycemicGPT 是一个开源、自托管的 AI 糖尿病管理平台，由一位 1 型糖尿病软件工程师开发。它连接连续血糖监测仪（如 Dexcom G7）、胰岛素泵（Tandem t:slim X2/Mobi，通过 BLE）和 Nightscout 实例，提供 AI 分析层。核心功能包括每日血糖简报、餐后反应分析、基于 RAG 的临床知识对话、可配置阈值的预测警报及护理人员升级通知。平台仅用于监测与分析，不控制胰岛素输送，不构成闭环系统。架构支持 Docker/K8S 自托管，数据完全在用户硬件上处理；AI 层可选用 Ollama 本地运行（数据不出设备），或接入 Claude/OpenAI 等外部模型。技术栈包括 FastAPI、Python 3.12、PostgreSQL 16、Redis 16、Next.js 15、React 19、Tailwind CSS、shadcn/ui、TypeScript/Express AI 代理、Android（Kotlin/Jetpack Compose/BLE）及 Wear OS 应用。采用 GPL-3.0 许可，无订阅、无供应商锁定。项目正招募 BLE/Android 及糖尿病技术领域的贡献者。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "diabetes",
+    "open-source",
+    "self-hosted",
+    "health-tech"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-15T10:20:48Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

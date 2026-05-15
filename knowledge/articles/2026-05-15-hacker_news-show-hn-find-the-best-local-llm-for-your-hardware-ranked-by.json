@@ -1,0 +1,26 @@
+{
+  "id": "059a6fc461c22fd11e14d2e9773443a6b5a6233400c3b08afb6b98aa0cc4bbfc",
+  "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "source_type": "hacker_news",
+  "summary": "该项目（whichllm）是一个开源工具，旨在帮助用户根据自身硬件配置，通过基准测试排名找到最适合的本地大语言模型（LLM）。它解决了本地部署LLM时模型选择困难的问题，用户只需输入硬件信息（如GPU、内存等），工具即可自动匹配并推荐性能最优的模型，并展示详细的基准测试分数。项目基于GitHub，采用社区驱动的基准数据，支持多种主流模型和硬件平台。该工具对于希望本地运行LLM但缺乏模型选择经验的开发者、研究人员和爱好者具有实用价值，能够显著降低试错成本，提升本地AI应用的部署效率。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "benchmark",
+    "hardware",
+    "open-source",
+    "local-ai"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-15T10:20:48Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

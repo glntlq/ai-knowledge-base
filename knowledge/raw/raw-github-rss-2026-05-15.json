@@ -1,0 +1,310 @@
+{
+  "collected_at": "2026-05-15T10:20:43Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "author": "ruvnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269456779,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507477,
+        "github_stars_today": 1715,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "author": "tinyhumansai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948302,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150673,
+        "github_stars_today": 3329,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/agentmemory",
+      "title": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949340,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150773,
+        "github_stars_today": 1879,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694192043,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017083,
+        "github_stars_today": 1780,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "author": "K-Dense-AI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422073,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502399,
+        "github_stars_today": 654,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "author": "shiyu-coder",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424997,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504364,
+        "github_stars_today": 363,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/roboflow/supervision",
+      "title": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "author": "roboflow",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439076,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503494,
+        "github_stars_today": 83,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/influxdata/telegraf",
+      "title": "influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "author": "influxdata",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417301,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505798,
+        "github_stars_today": 215,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/supertone-inc/supertonic",
+      "title": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "author": "supertone-inc",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945603,
+        "github_language": "Swift",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150556,
+        "github_stars_today": 1128,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Genymobile/scrcpy",
+      "title": "Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "author": "Genymobile",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694141591,
+        "github_language": "C",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013068,
+        "github_stars_today": 851,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "author": "NVIDIA-AI-Blueprints",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694973,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150256,
+        "github_stars_today": 62,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/CloakHQ/CloakBrowser",
+      "title": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "author": "CloakHQ",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411455,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150859,
+        "github_stars_today": 1354,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269483718,
+        "github_language": "Shell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507246,
+        "github_stars_today": 2987,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/github/spec-kit",
+      "title": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "author": "github",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269499882,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508702,
+        "github_stars_today": 1232,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/garrytan/gstack",
+      "title": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "author": "garrytan",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269497251,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014449,
+        "github_stars_today": 915,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-15T10:20:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://relax.ai/docs",
+      "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
+      "description": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 28 # Comments: 11",
+      "author": "",
+      "published_at": "Fri, 15 May 2026 09:27:26 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-15T10:20:48Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/Andyyyy64/whichllm",
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "description": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 6 # Comments: 0",
+      "author": "",
+      "published_at": "Fri, 15 May 2026 09:19:24 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-15T10:20:48Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "description": "I'm a Type 1 diabetic and software engineer. Last year I went months between endocrinologists with no clinician reviewing my data. I'm an engineer, so I built the tool I needed — and now I'm open sourcing it. GlycemicGPT is a self-hosted platform that connects continuous glucose monitors, insulin pumps, and existing Nightscout instances to an AI analysis layer running on your own infrastructure. Data sources: Dexcom G7 (cloud API) Tandem t:slim X2 and Mobi pumps (direct BLE) Nightscout (point it at your existing instance and you're running in minutes) What the AI layer does: Daily briefs summarizing overnight and 24-hour patterns Meal response analysis Conversational chat with RAG-backed clinical knowledge Predictive alerting with configurable thresholds and caregiver escalation Important: this is monitoring and analysis only. GlycemicGPT does not deliver insulin, does not control your pump, and is not a closed-loop system. It reads your data and gives you insight on top of it. Your clinical decisions stay between you and your care team. Architecture: Self-hosted via Docker or K8S — the GlycemicGPT stack runs entirely on your hardware BYOAI — bring your own AI provider. Use Ollama for fully local operation (no data leaves your hardware), or point it at Claude, OpenAI, or any OpenAI-compatible endpoint if you prefer a hosted model. Data flows directly from your instance to the provider you choose; nothing is routed through any centralized service operated by the project. GPL-3.0, no subscriptions, no vendor lock-in Stack: Backend API: FastAPI, Python 3.12, PostgreSQL 16, Redis 7 Web Dashboard: Next.js 15, React 19, Tailwind CSS, shadcn/ui AI Sidecar: TypeScript, Express, multi-provider proxy Android App: Kotlin, Jetpack Compose, BLE Wear OS: Kotlin, Wear Compose, Watch Face Push API Plugin SDK: Kotlin interfaces, capability-based, sandboxed Looking for contributors — especially folks with BLE/Android experience or anyone in the diabetes tech space. Plugin SDK is documented if you want to add support for new devices. GitHub: https://github.com/GlycemicGPT/GlycemicGPT Comments URL: https://news.ycombinator.com/item?id=48144670 Points: 28 # Comments: 9",
+      "author": "",
+      "published_at": "Fri, 15 May 2026 04:48:23 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-15T10:20:48Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://writing.antonleicht.me/p/cut-off",
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "description": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 159 # Comments: 150",
+      "author": "",
+      "published_at": "Fri, 15 May 2026 01:08:04 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-15T10:20:48Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "description": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 236 # Comments: 112",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 22:37:40 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-15T10:20:48Z"
+    }
+  ]
+}
