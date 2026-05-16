@@ -1,0 +1,26 @@
+{
+  "id": "9870f06f22b919d1a73f0f39b9c1f59fc5b9a0212abeb840e120544f0d267ebb",
+  "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+  "source_url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+  "source_type": "hacker_news",
+  "summary": "一篇报道指出，有人将一幅真实的莫奈画作冒充为AI生成作品，发布在网络上并请求评论。该事件引发了对AI艺术鉴别能力、人类对AI生成内容信任度以及艺术真实性认知的讨论。文章探讨了在AI图像生成技术日益成熟的背景下，人们如何区分人类创作与机器生成的艺术品，以及这种混淆对艺术评价体系可能产生的影响。事件凸显了当前社会对AI生成内容既好奇又警惕的复杂心态，也反映了技术发展对传统艺术鉴赏方式的冲击。",
+  "content_markdown": null,
+  "tags": [
+    "ai-art",
+    "art-authentication",
+    "misinformation",
+    "digital-culture",
+    "monet"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-05-14T00:00:00Z",
+  "collected_at": "2026-05-16T09:28:00Z",
+  "analyzed_at": "2026-05-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

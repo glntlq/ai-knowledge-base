@@ -1,0 +1,35 @@
+{
+  "id": "46ce9dfd187bb057319e72a2d21a17ab48644b05cfdbaa455e8e509b54e1cbd6",
+  "title": "joeseesun/qiaomu-anything-to-notebooklm",
+  "source_url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于Claude的NotebookLM内容处理器，支持将微信公众号文章、网页、YouTube视频、PDF、Markdown及搜索查询等多种来源的内容，自动转换为播客、PPT、思维导图、测验等格式。它通过Claude的API实现多模态内容理解与生成，旨在提升信息整理与知识消费的效率。项目采用Python开发，提供了清晰的配置与使用流程，适合需要高效处理碎片化信息的用户。",
+  "content_markdown": null,
+  "tags": [
+    "claude",
+    "notebooklm",
+    "content-processing",
+    "python",
+    "multimodal"
+  ],
+  "language": "zh",
+  "author": "joeseesun",
+  "published_at": null,
+  "collected_at": "2026-05-16T09:27:59Z",
+  "analyzed_at": "2026-05-16T09:28:48Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942907,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150294,
+    "github_stars_today": 438,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

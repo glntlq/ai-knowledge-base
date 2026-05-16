@@ -1,0 +1,30 @@
+{
+  "id": "c6898028bce6b084c8d5f0e1d2730cd7fdab751ca0bd5ef3327eae3ceae9807d",
+  "title": "czlonkowski/n8n-mcp",
+  "source_url": "https://github.com/czlonkowski/n8n-mcp",
+  "source_type": "github_trending",
+  "summary": "czlonkowski/n8n-mcp 是一个开源项目，为 Claude Desktop、Claude Code、Windsurf 和 Cursor 等 AI 编程助手提供模型上下文协议（MCP）接口，使其能够自动构建 n8n 工作流。该项目通过标准化协议桥接大语言模型与 n8n 自动化平台，允许 AI 直接生成、修改和部署 n8n 工作流配置，显著降低低代码自动化开发门槛。核心价值在于将自然语言指令转化为可执行的 n8n 工作流，支持复杂业务逻辑的自动化编排。适用于需要快速原型设计、自动化流程生成以及 AI 辅助开发的场景，尤其适合与 AI 编程工具结合使用，提升 n8n 工作流的开发效率。项目采用 TypeScript 实现，遵循 MCP 规范，提供清晰的 API 接口和文档。",
+  "content_markdown": null,
+  "tags": [
+    "mcp",
+    "n8n",
+    "workflow-automation",
+    "ai-assisted-development",
+    "low-code"
+  ],
+  "language": "en",
+  "author": "czlonkowski",
+  "published_at": null,
+  "collected_at": "2026-05-16T09:27:59Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420971,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503403,
+    "github_stars_today": 68,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

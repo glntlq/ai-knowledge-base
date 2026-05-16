@@ -1,0 +1,26 @@
+{
+  "id": "5d0f1ba382c06b0d4672640990c8109695d43462e05dd904c539f136f7629f56",
+  "title": "Autonomous AI research for nanogpt speedrun",
+  "source_url": "https://www.primeintellect.ai/auto-nanogpt",
+  "source_type": "hacker_news",
+  "summary": "该项目展示了利用自主AI研究框架加速纳米GPT（nanoGPT）训练的过程。通过自动化超参数调优、架构搜索和训练策略优化，实现了在保持模型性能的同时显著缩短训练时间。核心方法包括使用强化学习驱动的探索算法自动调整学习率、批次大小、层数等关键参数，并动态监控训练曲线以避免过拟合。实验表明，该自主研究系统能在数小时内完成传统需要数天调优的任务，最终训练出的nanoGPT模型在文本生成任务上达到与手动调优相当的困惑度。该工作为小型语言模型的快速迭代提供了自动化解决方案，降低了AI研究的实验成本。",
+  "content_markdown": null,
+  "tags": [
+    "autonomous-ml",
+    "nano-gpt",
+    "hyperparameter-optimization",
+    "reinforcement-learning",
+    "training-acceleration"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-16T09:28:00Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

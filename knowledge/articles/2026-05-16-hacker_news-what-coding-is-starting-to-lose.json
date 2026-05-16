@@ -1,0 +1,25 @@
+{
+  "id": "b05d352427dab95efd4e7a724c49fbce2ed88b21a4df9d351b6b64baefb8402c",
+  "title": "What Coding Is Starting to Lose",
+  "source_url": "https://caio.ca/blog/what-coding-is-starting-to-lose",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了编程实践中正在流失的核心价值，包括深度思考、耐心调试和系统理解。作者指出，现代开发工具和框架的便利性可能导致程序员忽视底层原理，过度依赖抽象层和自动化工具，从而削弱了问题解决能力和代码质量。文章呼吁重新重视编程的本质，如算法设计、内存管理和错误处理等基础技能，以保持技术深度和创新力。",
+  "content_markdown": null,
+  "tags": [
+    "programming-culture",
+    "software-craftsmanship",
+    "technical-debt",
+    "developer-skills"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-16T09:28:00Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

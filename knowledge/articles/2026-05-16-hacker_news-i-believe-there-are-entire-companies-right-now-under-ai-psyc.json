@@ -1,0 +1,25 @@
+{
+  "id": "53cc867d55b115748e6b349bb8fd067d55e1fe938652df3c953369e502fa8250",
+  "title": "I believe there are entire companies right now under AI psychosis",
+  "source_url": "https://twitter.com/mitchellh/status/2055380239711457578",
+  "source_type": "hacker_news",
+  "summary": "作者MitchellH在社交平台上指出，当前许多公司正陷入“AI精神病”状态，即盲目追逐人工智能技术，忽视实际业务需求和理性决策。这种现象表现为过度投资AI项目、夸大AI能力、以及将AI作为解决所有问题的万能药。文章引发广泛讨论，Hacker News上获得1329分和649条评论，反映了技术社区对AI泡沫化风险的普遍关注。核心警示是：企业应回归技术本质，避免因炒作而偏离核心价值创造。",
+  "content_markdown": null,
+  "tags": [
+    "ai-hype",
+    "tech-critique",
+    "business-strategy",
+    "startup-culture"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-16T09:28:00Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

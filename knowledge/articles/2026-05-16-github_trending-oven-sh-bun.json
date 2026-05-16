@@ -1,0 +1,30 @@
+{
+  "id": "9b0b65df07c80a6b0adfec2c5061758154445a6ae67e9501aefca440a80aafc3",
+  "title": "oven-sh/bun",
+  "source_url": "https://github.com/oven-sh/bun",
+  "source_type": "github_trending",
+  "summary": "Bun 是一个由 Oven 团队开发的全栈 JavaScript 运行时，集成了运行时、打包器、测试运行器和包管理器于一体。它基于 WebKit 的 JavaScriptCore 引擎，启动速度远超 Node.js 和 Deno，并原生支持 TypeScript、JSX、CommonJS 和 ESM 模块。Bun 内置了高性能的包管理器（bun install），比 npm 快 10-30 倍；其打包器支持代码分割和插件系统；测试运行器兼容 Jest API。Bun 还提供了 Node.js 兼容层，可运行大部分现有 Node.js 应用。该项目在 GitHub 上获得超过 70k 星标，是近年来增长最快的 JavaScript 工具之一。",
+  "content_markdown": null,
+  "tags": [
+    "javascript-runtime",
+    "bundler",
+    "package-manager",
+    "typescript",
+    "performance"
+  ],
+  "language": "zh",
+  "author": "oven-sh",
+  "published_at": null,
+  "collected_at": "2026-05-16T09:27:59Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269490704,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504520,
+    "github_stars_today": 448,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

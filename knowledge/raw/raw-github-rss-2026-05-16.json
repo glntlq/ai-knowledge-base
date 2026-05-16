@@ -1,0 +1,298 @@
+{
+  "collected_at": "2026-05-16T09:27:58Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "author": "tinyhumansai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949673,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150816,
+        "github_stars_today": 1271,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694193295,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017187,
+        "github_stars_today": 1648,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "author": "K-Dense-AI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422700,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502452,
+        "github_stars_today": 646,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/supertone-inc/supertonic",
+      "title": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "author": "supertone-inc",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946289,
+        "github_language": "Swift",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150627,
+        "github_stars_today": 719,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "author": "ruvnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269457783,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507569,
+        "github_stars_today": 1859,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/influxdata/telegraf",
+      "title": "influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "author": "influxdata",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417479,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505803,
+        "github_stars_today": 212,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/skills",
+      "title": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694135497,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015966,
+        "github_stars_today": 689,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/czlonkowski/n8n-mcp",
+      "title": "czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "author": "czlonkowski",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420971,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503403,
+        "github_stars_today": 68,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "author": "NVIDIA-AI-Blueprints",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941259,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150268,
+        "github_stars_today": 308,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/oven-sh/bun",
+      "title": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "author": "oven-sh",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269490704,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504520,
+        "github_stars_today": 448,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269485717,
+        "github_language": "Shell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507433,
+        "github_stars_today": 3132,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+      "title": "joeseesun/qiaomu-anything-to-notebooklm",
+      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+      "author": "joeseesun",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942907,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150294,
+        "github_stars_today": 438,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-16T09:27:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+      "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+      "description": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 10 # Comments: 4",
+      "author": "",
+      "published_at": "Sat, 16 May 2026 08:30:51 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-16T09:28:00Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "title": "Frontier AI has broken the open CTF format",
+      "description": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 100 # Comments: 79",
+      "author": "",
+      "published_at": "Sat, 16 May 2026 07:01:55 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-16T09:28:00Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "description": "https://xcancel.com/mitchellh/status/2055380239711457578 https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1329 # Comments: 649",
+      "author": "",
+      "published_at": "Fri, 15 May 2026 20:26:47 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-16T09:28:00Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.workatastartup.com/companies/terranox-ai",
+      "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+      "description": "Article URL: https://www.workatastartup.com/companies/terranox-ai Comments URL: https://news.ycombinator.com/item?id=48138063 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 17:01:16 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-16T09:28:00Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+      "description": "Article URL: https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship Comments URL: https://news.ycombinator.com/item?id=48107024 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Tue, 12 May 2026 12:00:46 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-16T09:28:00Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://bild.ai/jobs",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "description": "Article URL: https://bild.ai/jobs Comments URL: https://news.ycombinator.com/item?id=48098122 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Mon, 11 May 2026 17:43:12 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-16T09:28:00Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.primeintellect.ai/auto-nanogpt",
+      "title": "Autonomous AI research for nanogpt speedrun",
+      "description": "<p><a href=\"https://lobste.rs/s/fgbrwl/autonomous_ai_research_for_nanogpt\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 23:53:22 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-16T09:28:00Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://caio.ca/blog/what-coding-is-starting-to-lose",
+      "title": "What Coding Is Starting to Lose",
+      "description": "<p><a href=\"https://lobste.rs/s/nxwhuo/what_coding_is_starting_lose\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 19:19:02 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-16T09:28:00Z"
+    }
+  ]
+}

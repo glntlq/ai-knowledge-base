@@ -1,0 +1,31 @@
+{
+  "id": "086f66f786db9ff7eecb4c7b039dd144a8147d9aecb5ba9c0cc581f73b6ceb88",
+  "title": "Frontier AI has broken the open CTF format",
+  "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "source_type": "hacker_news",
+  "summary": "文章指出前沿AI已打破传统开放式CTF（Capture The Flag）竞赛格式。随着AI在漏洞利用、逆向工程等任务中展现出超越人类选手的能力，CTF题目设计面临根本性挑战：AI能快速自动化解决原本需要人类深度推理的挑战，导致竞赛失去公平性和教育意义。作者认为CTF社区需重新思考题目形式，例如引入动态环境、人机协作或侧重AI无法替代的创造性思维。该观点引发Hacker News社区热议，讨论AI对安全竞赛生态的长期影响。",
+  "content_markdown": null,
+  "tags": [
+    "ctf",
+    "ai-security",
+    "capture-the-flag",
+    "hacker-news",
+    "cybersecurity"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Sat, 16 May 2026 07:01:55 +0000",
+  "collected_at": "2026-05-16T09:28:00Z",
+  "analyzed_at": "2026-05-16T09:28:55Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-13T00:00:00Z",
+    "analyzed_at": "2025-04-13T00:00:00Z",
+    "published_at": null
+  }
+}
