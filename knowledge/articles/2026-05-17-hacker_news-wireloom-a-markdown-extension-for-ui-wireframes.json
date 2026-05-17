@@ -1,0 +1,29 @@
+{
+  "id": "8fec8ea534d9dc0c2962263236ae00c3c6834320bcc0e60a66d6bfea58f9836d",
+  "title": "Wireloom: A Markdown extension for UI wireframes",
+  "source_url": "https://github.com/StardockCorp/Wireloom",
+  "source_type": "hacker_news",
+  "summary": "Wireloom 是一个 Markdown 扩展，专为 UI 线框图设计，允许开发者使用简洁的标记语法快速创建界面原型。它通过自定义代码块和指令，将文本描述转换为可视化组件，支持布局、交互元素和样式定义。该工具旨在降低原型设计门槛，使开发者无需切换工具即可在文档中嵌入线框图，提升协作效率。项目托管于 GitHub，由 StardockCorp 维护，适合前端开发者、设计师和产品经理使用。",
+  "content_markdown": null,
+  "tags": [
+    "markdown",
+    "ui-wireframes",
+    "prototyping",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Wed, 13 May 2026 10:22:48 -0500",
+  "collected_at": "2026-05-17T09:44:59Z",
+  "analyzed_at": "2026-05-17T09:46:11Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-13T00:00:00Z",
+    "analyzed_at": "2025-04-13T00:00:00Z"
+  }
+}

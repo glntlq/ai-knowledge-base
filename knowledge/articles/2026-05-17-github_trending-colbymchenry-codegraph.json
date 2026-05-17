@@ -1,0 +1,30 @@
+{
+  "id": "75e40708e0f8877f079cd371ea56c33e6f50f462ae555150fbe47218fa6b1012",
+  "title": "colbymchenry/codegraph",
+  "source_url": "https://github.com/colbymchenry/codegraph",
+  "source_type": "github_trending",
+  "summary": "CodeGraph 是一个为 Claude Code 设计的预索引代码知识图谱工具，旨在减少令牌消耗和工具调用次数，并完全在本地运行。它通过构建代码库的索引图，使 AI 编码助手能够更高效地理解项目结构、依赖关系和代码语义，从而提升代码生成与补全的准确性和速度。该工具特别适合大型代码库场景，能显著降低与 AI 交互时的延迟和成本，同时保障数据隐私。",
+  "content_markdown": null,
+  "tags": [
+    "code-knowledge-graph",
+    "claude-code",
+    "local-ai",
+    "code-indexing",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "colbymchenry",
+  "published_at": null,
+  "collected_at": "2026-05-17T09:44:57Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942865,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150234,
+    "github_stars_today": 416,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

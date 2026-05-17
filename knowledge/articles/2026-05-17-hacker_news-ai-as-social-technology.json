@@ -1,0 +1,26 @@
+{
+  "id": "03389c5349fe35a467fafdbac1897eb85566e1a5e0de71f501725596f412db0b",
+  "title": "AI as Social Technology",
+  "source_url": "https://knightcolumbia.org/content/ai-as-social-technology",
+  "source_type": "hacker_news",
+  "summary": "本文探讨人工智能作为社会技术的本质，强调AI不仅是技术工具，更是重塑社会互动、权力结构和文化规范的媒介。文章指出，AI系统通过算法决策、数据分析和自动化流程，深刻影响就业、隐私、公平性和民主治理。作者呼吁从社会学视角审视AI，关注其如何嵌入社会关系并产生非预期后果，例如算法偏见加剧不平等、监控技术侵蚀公民自由。文章还讨论了AI在公共政策、医疗和教育领域的应用案例，揭示技术设计中的价值选择。最终，作者主张建立跨学科治理框架，确保AI发展符合公共利益，并促进技术民主化。",
+  "content_markdown": null,
+  "tags": [
+    "artificial-intelligence",
+    "social-impact",
+    "ethics",
+    "governance",
+    "sociology"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-17T09:44:59Z",
+  "analyzed_at": "2025-04-14T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

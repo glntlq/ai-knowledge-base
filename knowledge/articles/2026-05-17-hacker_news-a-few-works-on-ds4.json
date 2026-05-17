@@ -1,0 +1,25 @@
+{
+  "id": "786eca9d0a3d0405f2943549b7d89290e75da3f83ef55ce6f4db701261ec5fe7",
+  "title": "A few works on DS4",
+  "source_url": "https://antirez.com/news/165",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了DS4项目，这是一个高度特化的LLM实现，专门针对Deepseek V4 Flash模型优化，能够在DGX Spark或128GB RAM Macbook等普通开发者机器上运行。项目通过精简架构和高效资源利用，降低了大型语言模型的门槛，使得个人开发者无需昂贵硬件即可实验和部署先进AI模型。文章还提供了相关讨论链接，反映了社区对轻量级、可访问AI工具的关注。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "deepseek",
+    "machine-learning",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-17T09:44:59Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

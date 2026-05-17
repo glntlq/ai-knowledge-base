@@ -1,0 +1,26 @@
+{
+  "id": "ac9c397dcec6f92d413ee7ad14578ad6e997244da48be7f2818af3a42679b313",
+  "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+  "source_url": "https://crates.io/crates/zerostack/1.0.0",
+  "source_type": "hacker_news",
+  "summary": "Zerostack 是一个受 Unix 哲学启发的编码代理，完全用 Rust 编写，旨在提供高效、可靠的代码生成与辅助能力。该项目在 Hacker News 上获得 388 分和 158 条评论，引发广泛关注。其核心设计强调模块化与管道化，类似 Unix 工具链的简洁组合，使开发者能灵活构建自动化工作流。Zerostack 利用 Rust 的内存安全性和高性能，适合集成到持续集成/部署流程或本地开发环境中。当前版本 1.0.0 已发布在 crates.io，支持通过命令行接口调用，未来可能扩展更多语言和框架支持。该项目对于追求低开销、高可控性的 AI 辅助编程场景具有参考价值。",
+  "content_markdown": null,
+  "tags": [
+    "rust",
+    "coding-agent",
+    "unix-philosophy",
+    "ai-assistant",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-17T09:44:58Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "f547a3114a90013fe968017bad9d6a39f357c765faad90df8e1cdc981cd60fd9",
+  "title": "Anil-matcha/Open-Generative-AI",
+  "source_url": "https://github.com/Anil-matcha/Open-Generative-AI",
+  "source_type": "github_trending",
+  "summary": "Open-Generative-AI 是一个开源的 AI 图像与视频生成工作室，提供超过 200 种模型（包括 Flux、Midjourney、Kling、Sora、Veo 等），作为 AI 视频平台的开源替代方案。该项目采用 MIT 许可证，支持自托管，且无内容过滤机制，旨在为用户提供自由、无限制的生成体验。它集成了多种前沿生成模型，允许用户通过统一界面进行图像和视频创作，适合需要高度定制化和隐私保护的个人或团队使用。项目在 GitHub 上活跃，持续更新模型支持与功能优化。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "ai-image-generation",
+    "ai-video-generation",
+    "self-hosted",
+    "generative-ai"
+  ],
+  "language": "en",
+  "author": "Anil-matcha",
+  "published_at": null,
+  "collected_at": "2026-05-17T09:44:57Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414708,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502550,
+    "github_stars_today": 317,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

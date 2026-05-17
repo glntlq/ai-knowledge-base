@@ -1,0 +1,282 @@
+{
+  "collected_at": "2026-05-17T09:44:56Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/oven-sh/bun",
+      "title": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "author": "oven-sh",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269491523,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504565,
+        "github_stars_today": 397,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-17T09:44:57Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "author": "K-Dense-AI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423468,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502510,
+        "github_stars_today": 673,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-17T09:44:57Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694194514,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017291,
+        "github_stars_today": 1305,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-17T09:44:57Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "title": "Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "author": "Anil-matcha",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414708,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502550,
+        "github_stars_today": 317,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-17T09:44:57Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/supertone-inc/supertonic",
+      "title": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "author": "supertone-inc",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947158,
+        "github_language": "Swift",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150735,
+        "github_stars_today": 749,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-17T09:44:57Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "author": "tinyhumansai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411340,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150990,
+        "github_stars_today": 1549,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-17T09:44:57Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "author": "ruvnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269458733,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507654,
+        "github_stars_today": 1010,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-17T09:44:57Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/colbymchenry/codegraph",
+      "title": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "author": "colbymchenry",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942865,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150234,
+        "github_stars_today": 416,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-17T09:44:57Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://crates.io/crates/zerostack/1.0.0",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "description": "Article URL: https://crates.io/crates/zerostack/1.0.0 Comments URL: https://news.ycombinator.com/item?id=48164287 Points: 388 # Comments: 158",
+      "author": "",
+      "published_at": "Sat, 16 May 2026 22:23:50 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-17T09:44:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "title": "Frontier AI has broken the open CTF format",
+      "description": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 377 # Comments: 382",
+      "author": "",
+      "published_at": "Sat, 16 May 2026 07:01:55 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-17T09:44:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "description": "https://xcancel.com/mitchellh/status/2055380239711457578 https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1964 # Comments: 1149",
+      "author": "",
+      "published_at": "Fri, 15 May 2026 20:26:47 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-17T09:44:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.workatastartup.com/companies/terranox-ai",
+      "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+      "description": "Article URL: https://www.workatastartup.com/companies/terranox-ai Comments URL: https://news.ycombinator.com/item?id=48138063 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 17:01:16 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-17T09:44:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+      "description": "Article URL: https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship Comments URL: https://news.ycombinator.com/item?id=48107024 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Tue, 12 May 2026 12:00:46 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-17T09:44:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://bild.ai/jobs",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "description": "Article URL: https://bild.ai/jobs Comments URL: https://news.ycombinator.com/item?id=48098122 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Mon, 11 May 2026 17:43:12 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-17T09:44:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.seangoedecke.com/steering-vectors/",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "description": "<p><a href=\"https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sun, 17 May 2026 01:15:12 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-17T09:44:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.primeintellect.ai/auto-nanogpt",
+      "title": "Autonomous AI research for nanogpt speedrun",
+      "description": "<p><a href=\"https://lobste.rs/s/fgbrwl/autonomous_ai_research_for_nanogpt\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 23:53:22 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-17T09:44:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://caio.ca/blog/what-coding-is-starting-to-lose",
+      "title": "What Coding Is Starting to Lose",
+      "description": "<p><a href=\"https://lobste.rs/s/nxwhuo/what_coding_is_starting_lose\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 19:19:02 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-17T09:44:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://antirez.com/news/165",
+      "title": "A few works on DS4",
+      "description": "<p>Neat hyper-specific LLM implementation that runs only Deepseek V4 Flash, on commodity developer machines like DGX Spark / 128 GB RAM Macbooks.</p> <p><a href=\"https://lobste.rs/s/eqnwdd/few_works_on_ds4\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 19:01:55 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-17T09:44:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/StardockCorp/Wireloom",
+      "title": "Wireloom: A Markdown extension for UI wireframes",
+      "description": "<p><a href=\"https://lobste.rs/s/xerf3k/wireloom_markdown_extension_for_ui\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 13 May 2026 10:22:48 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-17T09:44:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://knightcolumbia.org/content/ai-as-social-technology",
+      "title": "AI as Social Technology",
+      "description": "<p><a href=\"https://lobste.rs/s/vlpdgd/ai_as_social_technology\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 13 May 2026 07:19:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-17T09:44:59Z"
+    }
+  ]
+}

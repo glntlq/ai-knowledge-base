@@ -1,0 +1,26 @@
+{
+  "id": "da57e45f2f3f640b9f1296cad9c9d9e1a2eb82a1ab33b376c54c3cc799c65f2c",
+  "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+  "source_url": "https://www.seangoedecke.com/steering-vectors/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了DeepSeek-V4-Flash模型对LLM（大语言模型）控制技术（steering vectors）的复兴意义。作者指出，随着模型能力提升，通过激活工程（activation engineering）调整模型行为的方法重新变得可行且有趣。文章回顾了控制向量的基本原理，即通过识别模型内部表示中的方向性向量来引导输出，并讨论了DeepSeek-V4-Flash在效率与性能上的平衡如何降低了实验门槛。作者认为，该模型使得开发者能够更精细地控制模型行为，例如减少偏见或增强特定能力，而无需微调。文章还提及了控制向量在可解释性和安全性方面的潜力，并警告了潜在滥用风险。总体而言，DeepSeek-V4-Flash被视为推动LLM控制技术实用化的重要里程碑。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "steering-vectors",
+    "activation-engineering",
+    "deepseek",
+    "ai-safety"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-17T09:44:59Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
