@@ -1,0 +1,310 @@
+{
+  "collected_at": "2026-05-18T11:42:35Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "author": "tinyhumansai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269415432,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501325,
+        "github_stars_today": 1690,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Imbad0202/academic-research-skills",
+      "title": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "author": "Imbad0202",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410244,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501105,
+        "github_stars_today": 1302,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/CLI-Anything",
+      "title": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "author": "HKUDS",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436262,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503522,
+        "github_stars_today": 238,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "author": "K-Dense-AI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424133,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502556,
+        "github_stars_today": 762,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/supertone-inc/supertonic",
+      "title": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "author": "supertone-inc",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947950,
+        "github_language": "Swift",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150816,
+        "github_stars_today": 827,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ggml-org/llama.cpp",
+      "title": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "author": "ggml-org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694110743,
+        "github_language": "C++",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015018339,
+        "github_stars_today": 179,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "author": "ruvnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269459510,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507763,
+        "github_stars_today": 963,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/CloakHQ/CloakBrowser",
+      "title": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "author": "CloakHQ",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414496,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501130,
+        "github_stars_today": 1391,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tech-leads-club/agent-skills",
+      "title": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "author": "tech-leads-club",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943798,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150334,
+        "github_stars_today": 225,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "title": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "author": "BigBodyCobain",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947454,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501164,
+        "github_stars_today": 333,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/humanlayer/12-factor-agents",
+      "title": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "author": "humanlayer",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420208,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501530,
+        "github_stars_today": 359,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NVlabs/Sana",
+      "title": "NVlabs/Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "author": "NVlabs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946293,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150446,
+        "github_stars_today": 472,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "title": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269463078,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015021124,
+        "github_stars_today": 485,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "author": "ZhuLinsen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436754,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015036064,
+        "github_stars_today": 290,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/plausible/analytics",
+      "title": "plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "author": "plausible",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425705,
+        "github_language": "Elixir",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501479,
+        "github_stars_today": 186,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-18T11:42:36Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.primeintellect.ai/auto-nanogpt",
+      "title": "Autonomous AI research for nanogpt speedrun",
+      "description": "<p><a href=\"https://lobste.rs/s/fgbrwl/autonomous_ai_research_for_nanogpt\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 23:53:22 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-18T11:42:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://antirez.com/news/165",
+      "title": "A few works on DS4",
+      "description": "<p>Neat hyper-specific LLM implementation that runs only Deepseek V4 Flash, on commodity developer machines like DGX Spark / 128 GB RAM Macbooks.</p> <p><a href=\"https://lobste.rs/s/eqnwdd/few_works_on_ds4\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 14 May 2026 19:01:55 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-18T11:42:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/StardockCorp/Wireloom",
+      "title": "Wireloom: A Markdown extension for UI wireframes",
+      "description": "<p><a href=\"https://lobste.rs/s/xerf3k/wireloom_markdown_extension_for_ui\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 13 May 2026 10:22:48 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-18T11:42:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://knightcolumbia.org/content/ai-as-social-technology",
+      "title": "AI as Social Technology",
+      "description": "<p><a href=\"https://lobste.rs/s/vlpdgd/ai_as_social_technology\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 13 May 2026 07:19:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-18T11:42:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://jytan.net/blog/2025/transformer-architectures/",
+      "title": "The Crystallization of Transformer Architectures (2017-2025)",
+      "description": "<p><a href=\"https://lobste.rs/s/yrbywt/crystallization_transformer\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 11 May 2026 11:20:42 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-18T11:42:37Z"
+    }
+  ]
+}

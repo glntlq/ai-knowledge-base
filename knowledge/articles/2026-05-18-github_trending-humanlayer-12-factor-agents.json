@@ -1,0 +1,35 @@
+{
+  "id": "4cb9bfce41db4948fcb177d9c383686d4078fb178259a636bd9b8a1304b1e791",
+  "title": "humanlayer/12-factor-agents",
+  "source_url": "https://github.com/humanlayer/12-factor-agents",
+  "source_type": "github_trending",
+  "summary": "该项目提出构建生产级LLM应用的12条原则，借鉴软件工程中的12-Factor App方法论，针对AI代理开发中的可维护性、可观测性、安全性和可扩展性等挑战。核心原则包括：明确的代理身份与职责边界、可追溯的决策日志、结构化提示管理、外部工具集成规范、状态持久化策略、错误处理与回退机制、性能基准测试、渐进式部署、多模型适配、用户反馈闭环、成本控制以及合规性检查。项目旨在为开发者提供一套系统化的设计指南，帮助将LLM原型转化为稳定、可靠的生产系统，避免常见陷阱如幻觉传播、上下文溢出和不可复现行为。",
+  "content_markdown": null,
+  "tags": [
+    "llm-agents",
+    "production-ready",
+    "software-engineering",
+    "best-practices",
+    "ai-engineering"
+  ],
+  "language": "zh",
+  "author": "humanlayer",
+  "published_at": null,
+  "collected_at": "2026-05-18T11:42:36Z",
+  "analyzed_at": "2026-05-18T11:43:19Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420208,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501530,
+    "github_stars_today": 359,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3e8d0f561fda2451f3bf4b78aea07ece731014bbe9e272ff48a8f8d94ffafb7a",
+  "title": "HKUDS/CLI-Anything",
+  "source_url": "https://github.com/HKUDS/CLI-Anything",
+  "source_type": "github_trending",
+  "summary": "CLI-Anything 是一个开源项目，旨在将所有软件转化为智能体原生（Agent-Native）的命令行界面（CLI）工具。通过该项目，用户可以将任意图形界面或传统软件封装为 CLI 接口，从而方便 AI 智能体或自动化脚本直接调用。项目提供了 CLI-Hub 平台（clianything.cc）用于托管和共享这些 CLI 封装。核心价值在于降低 AI 与现有软件集成的门槛，推动软件向智能体可操作方向演进。技术实现上可能涉及进程管理、输入输出重定向、API 桥接等。适用于需要将传统软件纳入 AI 工作流的开发者、DevOps 工程师及 AI 应用构建者。",
+  "content_markdown": null,
+  "tags": [
+    "cli",
+    "agent-native",
+    "ai-integration",
+    "open-source",
+    "software-wrapping"
+  ],
+  "language": "zh",
+  "author": "HKUDS",
+  "published_at": null,
+  "collected_at": "2026-05-18T11:42:36Z",
+  "analyzed_at": "2026-05-18T11:42:48Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436262,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503522,
+    "github_stars_today": 238,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z",
+    "published_at": null
+  }
+}

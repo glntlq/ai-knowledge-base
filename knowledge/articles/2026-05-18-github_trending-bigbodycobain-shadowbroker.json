@@ -1,0 +1,30 @@
+{
+  "id": "8960529445cd744b52a3bd7401547c9b8d5e01885fd90582cd9b4fe7c6b62dd2",
+  "title": "BigBodyCobain/Shadowbroker",
+  "source_url": "https://github.com/BigBodyCobain/Shadowbroker",
+  "source_type": "github_trending",
+  "summary": "Shadowbroker 是一个开源情报（OSINT）聚合平台，旨在统一追踪全球范围内的多种数据源，包括富豪的企业/私人飞机、间谍卫星以及地震事件。该项目提供一个统一的界面，允许用户连接 AI 代理来解析数据并发现此前未被注意到的关联。其核心理念是将通常分散且不公开的情报信息进行开放聚合，使知识对所有人可用。该工具适用于安全研究、地缘政治分析、资产追踪等领域，强调通过自动化分析提升情报挖掘效率。",
+  "content_markdown": null,
+  "tags": [
+    "osint",
+    "intelligence-analysis",
+    "data-aggregation",
+    "ai-agent",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "BigBodyCobain",
+  "published_at": null,
+  "collected_at": "2026-05-18T11:42:36Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947454,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501164,
+    "github_stars_today": 333,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

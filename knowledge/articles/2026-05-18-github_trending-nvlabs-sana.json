@@ -1,0 +1,30 @@
+{
+  "id": "a8d675ed1cdfb016da8a200e6be45616c79471319b9be84d80af17b930dc07cb",
+  "title": "NVlabs/Sana",
+  "source_url": "https://github.com/NVlabs/Sana",
+  "source_type": "github_trending",
+  "summary": "Sana 是 NVIDIA 实验室推出的高效高分辨率图像合成框架，核心采用线性扩散变换器（Linear Diffusion Transformer）架构，显著降低计算复杂度与内存占用，同时保持生成质量。该模型支持快速生成 1024×1024 及以上分辨率的逼真图像，适用于文本到图像生成、图像编辑等任务。Sana 在保持高保真度的前提下，推理速度相比传统扩散模型提升数倍，为实时图像生成应用提供了可行方案。项目开源了完整训练与推理代码、预训练模型及使用示例，便于研究者和开发者复现与二次开发。",
+  "content_markdown": null,
+  "tags": [
+    "diffusion-models",
+    "image-generation",
+    "transformer",
+    "nvidia",
+    "high-resolution"
+  ],
+  "language": "zh",
+  "author": "NVlabs",
+  "published_at": null,
+  "collected_at": "2026-05-18T11:42:36Z",
+  "analyzed_at": "2025-04-01T01:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946293,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150446,
+    "github_stars_today": 472,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

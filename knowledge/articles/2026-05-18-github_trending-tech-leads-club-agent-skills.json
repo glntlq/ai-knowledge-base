@@ -1,0 +1,30 @@
+{
+  "id": "a2fee2ba9a3df4cdbeec0bfe64c8c013075cd0849759ee234f7c58407bc1fc68",
+  "title": "tech-leads-club/agent-skills",
+  "source_url": "https://github.com/tech-leads-club/agent-skills",
+  "source_type": "github_trending",
+  "summary": "Agent Skills 是一个为专业 AI 编码代理（如 Antigravity、Claude Code、Cursor、GitHub Copilot 等）提供安全、经过验证的技能注册表。该项目旨在通过一个受信任的中央仓库，让开发者能够以绝对信心扩展这些 AI 代理的能力。它解决了当前 AI 编码工具中技能来源不可靠、安全性难以保证的问题，通过严格的验证流程确保每个注册的技能都是安全且有效的。该注册表支持多种主流 AI 编码代理，降低了开发者集成和共享自定义技能的门槛，促进了 AI 辅助编程生态的健康发展。项目由 tech-leads-club 维护，采用开源模式，鼓励社区贡献和审核，以持续提升技能库的质量和覆盖面。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "code-assistant",
+    "skill-registry",
+    "developer-tools",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "tech-leads-club",
+  "published_at": null,
+  "collected_at": "2026-05-18T11:42:36Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943798,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150334,
+    "github_stars_today": 225,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

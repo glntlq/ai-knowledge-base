@@ -1,0 +1,30 @@
+{
+  "id": "1687baf4b2f06cd9a239f9eff84ae5450970306e9672f55dae519033c000b5b5",
+  "title": "microsoft/ai-agents-for-beginners",
+  "source_url": "https://github.com/microsoft/ai-agents-for-beginners",
+  "source_type": "github_trending",
+  "summary": "微软推出的《AI Agents for Beginners》课程，包含12个课时，旨在帮助初学者快速入门AI代理（AI Agent）的构建。课程内容覆盖AI代理的基本概念、设计模式、开发工具及实践案例，适合希望系统学习AI代理技术的开发者。通过该课程，学习者可以掌握从零开始构建智能代理的核心技能，包括代理架构、任务规划、工具集成等关键知识点。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "microsoft",
+    "beginners-guide",
+    "course",
+    "github-trending"
+  ],
+  "language": "zh",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-05-18T11:42:36Z",
+  "analyzed_at": "2025-04-01T01:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269463078,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015021124,
+    "github_stars_today": 485,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner"
+  }
+}

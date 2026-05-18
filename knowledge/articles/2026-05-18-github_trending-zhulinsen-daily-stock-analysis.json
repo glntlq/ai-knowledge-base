@@ -1,0 +1,30 @@
+{
+  "id": "98b6049846cd9cbb714361543ad7b10fab3fd1c323eb8056c7a8f11ecf68e70e",
+  "title": "ZhuLinsen/daily_stock_analysis",
+  "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "source_type": "github_trending",
+  "summary": "基于LLM的A/H/美股智能分析系统，整合多数据源行情、实时新闻与LLM决策仪表盘，支持多渠道推送。系统设计为零成本定时运行，利用免费资源实现纯白嫖部署。提供股票市场智能分析功能，覆盖中国A股、港股及美股市场，通过大语言模型驱动决策支持。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "stock-analysis",
+    "finance",
+    "dashboard",
+    "automation"
+  ],
+  "language": "zh",
+  "author": "ZhuLinsen",
+  "published_at": null,
+  "collected_at": "2026-05-18T11:42:36Z",
+  "analyzed_at": "2025-04-08T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436754,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015036064,
+    "github_stars_today": 290,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
