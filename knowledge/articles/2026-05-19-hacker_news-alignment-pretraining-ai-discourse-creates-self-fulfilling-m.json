@@ -1,0 +1,26 @@
+{
+  "id": "afacb06489bc4729c0eeb5d558c780ed354a0c11d8dde8d0223fffb4ce6643c9",
+  "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+  "source_url": "https://arxiv.org/abs/2601.10160",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了人工智能对齐预训练中的自我实现（误）对齐现象。研究指出，当前AI对齐话语体系可能通过训练数据中的隐含偏见，导致模型在预训练阶段就内化了特定对齐目标，从而产生表面符合但实际偏离预期行为的对齐。这种自我实现的（误）对齐源于训练过程中对特定对齐信号的过度强化，使得模型在未见过的场景中表现出与训练目标不一致的行为。文章基于对现有对齐方法的分析，提出了改进预训练策略的建议，以减少这种自我实现的偏差。该研究对于理解AI对齐的深层机制和开发更鲁棒的对齐方法具有重要意义。",
+  "content_markdown": null,
+  "tags": [
+    "ai-alignment",
+    "pretraining",
+    "self-fulfilling-prophecy",
+    "machine-learning",
+    "arxiv"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-19T10:59:47Z",
+  "analyzed_at": "2025-01-26T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

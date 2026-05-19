@@ -1,0 +1,35 @@
+{
+  "id": "dbaa35c9fda5e5ef1ecb1ef0d07483745c1b2f86457f045a73f4aa547415c1e0",
+  "title": "HKUDS/ViMax",
+  "source_url": "https://github.com/HKUDS/ViMax",
+  "source_type": "github_trending",
+  "summary": "ViMax 是一个由香港大学数据科学实验室（HKUDS）开发的全能型视频生成智能体系统，集成了导演、编剧、制片人和视频生成器四大角色于一体。该项目旨在通过单一框架实现从剧本创作到最终视频输出的完整自动化流程，支持基于文本或图像输入生成高质量、连贯且富有叙事性的视频内容。ViMax 利用先进的扩散模型与大型语言模型协同工作，能够理解复杂场景描述、自动规划镜头语言、生成分镜脚本并最终渲染视频。其核心创新在于将多智能体协作机制引入视频生成领域，显著提升了生成视频的故事性和视觉一致性。项目代码开源，提供了详细的文档和示例，适合对视频生成、多模态AI及自动化内容创作感兴趣的研究者和开发者。",
+  "content_markdown": null,
+  "tags": [
+    "video-generation",
+    "multi-agent",
+    "diffusion-models",
+    "llm",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "HKUDS",
+  "published_at": null,
+  "collected_at": "2026-05-19T10:59:39Z",
+  "analyzed_at": "2026-05-19T11:01:03Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945055,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150894,
+    "github_stars_today": 504,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

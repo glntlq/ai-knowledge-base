@@ -1,0 +1,35 @@
+{
+  "id": "bd0cf6d10cf85ca5529f9a3fea9b614e28ed789802bd44d90cac5e3d9bcbef28",
+  "title": "Diolinux/PhotoGIMP",
+  "source_url": "https://github.com/Diolinux/PhotoGIMP",
+  "source_type": "github_trending",
+  "summary": "PhotoGIMP 是一个针对 GIMP 3+ 的补丁项目，旨在为从 Adobe Photoshop 迁移的用户提供更熟悉的界面和快捷键布局。该项目通过修改 GIMP 的配置文件，将默认的工具栏、菜单、快捷键以及部分预设（如画笔、字体）调整为与 Photoshop 相似，从而降低学习曲线。它并非独立软件，而是 GIMP 的配置增强包，适用于 Linux、Windows 和 macOS 平台。项目在 GitHub 上开源，社区活跃，持续更新以适配 GIMP 新版本。对于希望免费替代 Photoshop 的用户，PhotoGIMP 提供了实用的过渡方案。",
+  "content_markdown": null,
+  "tags": [
+    "gimp",
+    "photoshop",
+    "image-editing",
+    "linux",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "Diolinux",
+  "published_at": null,
+  "collected_at": "2026-05-19T10:59:39Z",
+  "analyzed_at": "2026-05-19T11:00:44Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410342,
+    "github_language": "CSS",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150363,
+    "github_stars_today": 930,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

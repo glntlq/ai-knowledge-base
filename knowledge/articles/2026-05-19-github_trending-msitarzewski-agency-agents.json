@@ -1,0 +1,34 @@
+{
+  "id": "b4d8ae3e2fabd0dbe6032abec123f7dea12c7ef8639d48df5e23b232d12cf986",
+  "title": "msitarzewski/agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents",
+  "source_type": "github_trending",
+  "summary": "Agency-Agents 是一个开源项目，提供一套完整的 AI 代理系统，涵盖前端开发、社区管理、创意生成、现实检查等多种专业角色。每个代理都具备独特个性、工作流程和可交付成果，旨在模拟一个完整的 AI 机构。项目基于 Python 实现，支持灵活配置和扩展，适用于自动化任务、内容生成、社交媒体运营等场景。通过模块化设计，用户可快速部署和组合不同代理，实现复杂工作流自动化。该项目在 GitHub 上获得关注，适合对 AI 代理、自动化工作流感兴趣的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "automation",
+    "python",
+    "workflow",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "msitarzewski",
+  "published_at": null,
+  "collected_at": "2026-05-19T10:59:39Z",
+  "analyzed_at": "2026-05-19T11:00:26Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694100590,
+    "github_language": "Shell",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015016683,
+    "github_stars_today": 983,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

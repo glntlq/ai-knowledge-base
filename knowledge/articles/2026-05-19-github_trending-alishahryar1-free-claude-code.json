@@ -1,0 +1,30 @@
+{
+  "id": "a4c1a197bc96ff34111a5153d0ec76f904575ba8b03ceae9a97b8c047a6a94af",
+  "title": "Alishahryar1/free-claude-code",
+  "source_url": "https://github.com/Alishahryar1/free-claude-code",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一种免费使用Claude Code的方法，支持在终端、VSCode扩展或Discord中运行，并包含语音支持功能。它类似于OpenClaw，旨在绕过付费限制，让用户无需订阅即可体验Claude的代码生成与交互能力。项目主要面向开发者，通过逆向或模拟API调用实现免费访问，但可能违反服务条款，存在稳定性与法律风险。",
+  "content_markdown": null,
+  "tags": [
+    "claude",
+    "free-api",
+    "vscode-extension",
+    "discord-bot",
+    "voice-support"
+  ],
+  "language": "en",
+  "author": "Alishahryar1",
+  "published_at": null,
+  "collected_at": "2026-05-19T10:59:39Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425920,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503866,
+    "github_stars_today": 543,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

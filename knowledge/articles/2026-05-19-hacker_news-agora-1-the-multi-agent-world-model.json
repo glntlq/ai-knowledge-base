@@ -1,0 +1,30 @@
+{
+  "id": "45e3ace2c76f4ae6af0b0b68256ce3996c9cf33ba0aa4d78a1f95db1c1a01620",
+  "title": "Agora-1: The Multi-Agent World Model",
+  "source_url": "https://odyssey.ml/introducing-agora-1",
+  "source_type": "hacker_news",
+  "summary": "Agora-1 是一个多智能体世界模型，旨在通过多个自主智能体的协作来模拟和预测复杂环境中的动态变化。该模型整合了分布式感知、推理和决策能力，使智能体能够共享信息并协调行动，从而更准确地理解全局状态。Agora-1 在机器人导航、自动驾驶和游戏 AI 等领域具有潜在应用，其核心创新在于将世界模型从单一智能体扩展到多智能体系统，提升了模型对复杂交互场景的适应性和鲁棒性。初步实验表明，Agora-1 在模拟任务中显著优于传统单智能体方法，尤其在需要长期规划和多目标协调的场景中表现突出。该工作为多智能体强化学习和世界模型研究提供了新方向。",
+  "content_markdown": null,
+  "tags": [
+    "multi-agent-systems",
+    "world-models",
+    "reinforcement-learning",
+    "autonomous-agents",
+    "ai-simulation"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Mon, 18 May 2026 18:43:30 +0000",
+  "collected_at": "2026-05-19T10:59:47Z",
+  "analyzed_at": "2026-05-19T11:01:13Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

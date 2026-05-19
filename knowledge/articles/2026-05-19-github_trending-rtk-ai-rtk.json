@@ -1,0 +1,34 @@
+{
+  "id": "f8d8be2620fc6c5c26bfc64e2bfb101ce73d27b3e8402e7fcac7c97fa75ed946",
+  "title": "rtk-ai/rtk",
+  "source_url": "https://github.com/rtk-ai/rtk",
+  "source_type": "github_trending",
+  "summary": "rtk-ai/rtk 是一个基于 Rust 构建的 CLI 代理工具，旨在通过智能压缩和缓存机制将常见开发命令中的 LLM token 消耗降低 60-90%。该工具以单一二进制文件形式发布，零外部依赖，支持与多种 LLM 服务集成，适用于代码生成、调试、文档查询等场景。其核心优化策略包括对输入输出进行语义压缩、去除冗余上下文以及复用历史响应，从而显著减少 API 调用成本。项目采用 Rust 语言实现，强调高性能与跨平台兼容性，适合需要频繁使用 LLM 辅助开发的工程师。当前处于活跃开发阶段，社区反馈积极，已吸引大量关注。",
+  "content_markdown": null,
+  "tags": [
+    "cli",
+    "llm",
+    "rust",
+    "proxy",
+    "token-optimization"
+  ],
+  "language": "zh",
+  "author": "rtk-ai",
+  "published_at": null,
+  "collected_at": "2026-05-19T10:59:39Z",
+  "analyzed_at": "2026-05-19T11:00:22Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450311,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503076,
+    "github_stars_today": 667,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z"
+  }
+}
