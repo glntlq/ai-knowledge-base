@@ -1,0 +1,30 @@
+{
+  "id": "af6fbb92ffcf5f6061637a86657e67b3377eca2d81111a8e88c53a6d7f2deb98",
+  "title": "can1357/oh-my-pi",
+  "source_url": "https://github.com/can1357/oh-my-pi",
+  "source_type": "github_trending",
+  "summary": "oh-my-pi 是一个面向终端的 AI 编码代理，通过哈希锚定编辑、优化工具集、LSP 集成、Python 支持、浏览器交互和子代理机制，提升开发效率。该项目旨在为命令行环境提供智能化的代码辅助与自动化能力，支持多种编程语言和工具链，适合需要高效编码和调试的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "ai-coding-agent",
+    "terminal",
+    "lsp",
+    "python",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "can1357",
+  "published_at": null,
+  "collected_at": "2026-05-20T10:48:16Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945156,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150447,
+    "github_stars_today": 237,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

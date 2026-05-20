@@ -1,0 +1,26 @@
+{
+  "id": "4f2f06ac19cd54ade180a85e2d0713b08aac249df8fb5bc907ff58f8768186a2",
+  "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+  "source_url": "https://github.com/wiltodelta/remove-ai-watermarks",
+  "source_type": "hacker_news",
+  "summary": "Remove-AI-Watermarks 是一个开源命令行工具和 Python 库，用于去除图像中的 AI 生成水印。该项目基于深度学习模型，能够自动检测并移除常见 AI 图像生成器（如 Stable Diffusion、Midjourney 等）添加的不可见水印。工具支持批量处理，提供简单易用的 CLI 接口和可集成的库 API。其核心算法通过分析水印模式并重建原始图像内容，在保持图像质量的同时有效去除水印。该项目在 Hacker News 上获得广泛关注（289 分，170 条评论），反映了社区对 AI 水印移除工具的需求。适用于研究人员、内容创作者和需要清理 AI 生成图像水印的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "ai-watermark-removal",
+    "image-processing",
+    "cli-tool",
+    "python-library",
+    "deep-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-20T10:48:16Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

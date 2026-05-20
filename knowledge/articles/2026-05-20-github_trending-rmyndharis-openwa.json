@@ -1,0 +1,30 @@
+{
+  "id": "1a99518ce830c2bc50fc38d6f014ac230c2b28b0101133b35261920519273194",
+  "title": "rmyndharis/OpenWA",
+  "source_url": "https://github.com/rmyndharis/OpenWA",
+  "source_type": "github_trending",
+  "summary": "OpenWA 是一个免费、开源、可自托管的 WhatsApp API 网关，旨在为开发者提供无需依赖官方商业 API 的 WhatsApp 消息集成方案。该项目支持发送和接收消息、管理媒体文件、处理群组与联系人，并提供 RESTful 接口，便于与现有系统对接。通过自托管，用户可完全控制数据与隐私，避免第三方服务限制。OpenWA 基于 Node.js 构建，利用 whatsapp-web.js 库实现与 WhatsApp Web 的交互，部署简单，适合个人开发者、中小企业及需要高度定制化消息服务的场景。项目处于活跃开发阶段，社区贡献持续增加，是构建私有 WhatsApp 通信基础设施的实用选择。",
+  "content_markdown": null,
+  "tags": [
+    "whatsapp-api",
+    "self-hosted",
+    "open-source",
+    "nodejs",
+    "messaging"
+  ],
+  "language": "zh",
+  "author": "rmyndharis",
+  "published_at": null,
+  "collected_at": "2026-05-20T10:48:16Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944375,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150894,
+    "github_stars_today": 1870,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1db043871efe976d7e124e611d303da8ab0ef59f4e87599e5d3d8cef5013a179",
+  "title": "opentoonz/opentoonz",
+  "source_url": "https://github.com/opentoonz/opentoonz",
+  "source_type": "github_trending",
+  "summary": "OpenToonz 是一款开源的全功能二维动画制作软件，由 Dwango 基于 Toonz 开发并发布。它提供了丰富的绘图、骨骼绑定、特效合成和输出工具，支持传统手绘动画和数字制作流程。该软件被广泛应用于专业动画工作室，并拥有活跃的社区和插件生态。其开源特性允许用户自由定制和扩展功能，适合动画师、独立创作者和教育机构使用。",
+  "content_markdown": null,
+  "tags": [
+    "2d-animation",
+    "open-source",
+    "animation-software",
+    "creative-tools"
+  ],
+  "language": "zh",
+  "author": "opentoonz",
+  "published_at": null,
+  "collected_at": "2026-05-20T10:48:16Z",
+  "analyzed_at": "2026-05-20T10:48:53Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946089,
+    "github_language": "C++",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150708,
+    "github_stars_today": 206,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "collected_at": "2025-04-01T00:00:00Z",
+    "analyzed_at": "2025-04-01T01:00:00Z",
+    "published_at": null
+  }
+}

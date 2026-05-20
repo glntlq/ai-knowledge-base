@@ -1,0 +1,35 @@
+{
+  "id": "783d73a75f7f48bd27dbaef5b632b9deddf5dc4eee566037ac176b10a575eb0e",
+  "title": "rohitg00/ai-engineering-from-scratch",
+  "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向AI工程初学者的开源学习路径，旨在通过实践帮助用户掌握从基础到部署的完整技能。内容涵盖机器学习、深度学习、自然语言处理、计算机视觉等核心领域，并提供项目实战和部署指南。项目强调“学、建、交付”的闭环，适合希望系统入门AI工程并具备动手能力的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "ai-engineering",
+    "machine-learning",
+    "deep-learning",
+    "nlp",
+    "computer-vision"
+  ],
+  "language": "zh",
+  "author": "rohitg00",
+  "published_at": null,
+  "collected_at": "2026-05-20T10:48:16Z",
+  "analyzed_at": "2026-05-20T10:48:30Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948895,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501854,
+    "github_stars_today": 762,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z",
+    "published_at": null
+  }
+}

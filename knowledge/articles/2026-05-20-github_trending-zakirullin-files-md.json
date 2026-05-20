@@ -1,0 +1,30 @@
+{
+  "id": "83e5940c3eaa9f5e1eaf775e012c96d766f4bf1a1bfdc866974e47071d63024d",
+  "title": "zakirullin/files.md",
+  "source_url": "https://github.com/zakirullin/files.md",
+  "source_type": "github_trending",
+  "summary": "files.md 是一个轻量级的私有笔记应用，专为专注思考设计。它提供安静、私密的空间，让用户以 Markdown 格式记录和整理想法。项目强调极简与隐私，无需注册或联网，所有数据仅存储在本地。适合需要无干扰写作环境的用户，如开发者、写作者或知识工作者。",
+  "content_markdown": null,
+  "tags": [
+    "markdown",
+    "note-taking",
+    "privacy",
+    "local-first",
+    "minimalist"
+  ],
+  "language": "zh",
+  "author": "zakirullin",
+  "published_at": null,
+  "collected_at": "2026-05-20T10:48:16Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941941,
+    "github_language": "Go",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015048,
+    "github_stars_today": 468,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

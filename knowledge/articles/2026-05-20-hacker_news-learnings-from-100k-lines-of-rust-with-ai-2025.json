@@ -1,0 +1,26 @@
+{
+  "id": "0f39dab69c8065e2cae84c4608d500326118b726cb4df69b016295911a8ab8f2",
+  "title": "Learnings from 100K lines of Rust with AI (2025)",
+  "source_url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+  "source_type": "hacker_news",
+  "summary": "本文作者分享了在2025年使用AI辅助编写超过10万行Rust代码的经验与教训。核心发现包括：AI（如Claude Code）在生成Rust代码时，对类型系统、生命周期和所有权模型的理解仍存在局限，尤其在复杂泛型、宏和异步编程场景下容易产生错误。作者强调，AI生成的代码需要严格的人工审查和测试，并提出了“规范驱动开发”（Spec-Driven Development）的方法，即先编写详细的类型签名和测试用例，再让AI填充实现，以提升代码正确性。此外，文章讨论了AI在代码重构、文档生成和错误处理中的实用性，以及如何通过契约（Contracts）和断言来约束AI输出。总体而言，AI能显著提升Rust开发效率，但开发者必须保持对底层原理的深刻理解，避免盲目信任AI生成的代码。",
+  "content_markdown": null,
+  "tags": [
+    "rust",
+    "ai-assisted-development",
+    "spec-driven-development",
+    "llm",
+    "code-generation"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2025-12-01T00:00:00Z",
+  "collected_at": "2026-05-20T10:48:16Z",
+  "analyzed_at": "2025-12-02T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

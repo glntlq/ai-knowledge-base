@@ -1,0 +1,30 @@
+{
+  "id": "5c02cfa88fe81a67427582caf42c49d5f9ec0792d99900ebf0df1a203cc9042b",
+  "title": "truelockmc/streambert",
+  "source_url": "https://github.com/truelockmc/streambert",
+  "source_type": "github_trending",
+  "summary": "StreamBert 是一款基于 Electron 构建的跨平台桌面应用，旨在提供全球电影、电视剧及动漫的流媒体播放与下载功能。其核心特性包括无广告、无追踪，强调用户隐私与纯净体验。项目利用 Electron 框架实现 Windows、macOS 和 Linux 的兼容性，通过集成多种流媒体源实现内容聚合。该工具适合追求无干扰观影体验的用户，但需注意其内容获取可能涉及版权问题。技术栈主要涉及 Electron、Node.js 及前端渲染技术，适合有一定桌面应用开发经验的开发者参考。",
+  "content_markdown": null,
+  "tags": [
+    "electron",
+    "desktop-app",
+    "streaming",
+    "cross-platform",
+    "media-downloader"
+  ],
+  "language": "zh",
+  "author": "truelockmc",
+  "published_at": null,
+  "collected_at": "2026-05-20T10:48:16Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942371,
+    "github_language": "JavaScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150205,
+    "github_stars_today": 925,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}
