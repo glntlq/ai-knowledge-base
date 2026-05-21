@@ -1,0 +1,30 @@
+{
+  "id": "d4d6597515f6382e1f1688837d9805781ab9c881dfa6998656286265f02a83d1",
+  "title": "teng-lin/notebooklm-py",
+  "source_url": "https://github.com/teng-lin/notebooklm-py",
+  "source_type": "github_trending",
+  "summary": "notebooklm-py 是一个非官方的 Python API 和智能体工具，用于访问 Google NotebookLM 的全部功能。该项目提供 Python、CLI 以及 AI 智能体（如 Claude Code、Codex、OpenClaw）的编程接口，支持 NotebookLM 的完整特性，包括 Web UI 未公开的能力。通过该库，开发者可以自动化 NotebookLM 的笔记本管理、内容生成、知识检索等操作，实现与 NotebookLM 的深度集成。该工具适合需要将 NotebookLM 能力嵌入自定义工作流或构建 AI 代理的开发者，尤其适用于知识管理、内容创作和自动化研究场景。项目基于 Python 实现，依赖 NotebookLM 的底层接口，需注意非官方性质可能带来的稳定性风险。",
+  "content_markdown": null,
+  "tags": [
+    "python",
+    "api",
+    "google-notebooklm",
+    "cli",
+    "ai-agent"
+  ],
+  "language": "zh",
+  "author": "teng-lin",
+  "published_at": null,
+  "collected_at": "2026-05-21T11:20:22Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414190,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501978,
+    "github_stars_today": 182,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

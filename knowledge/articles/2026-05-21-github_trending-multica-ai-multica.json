@@ -1,0 +1,35 @@
+{
+  "id": "acc8f07cf12a50a0909626b353ce08d21d8f144688125ade13ff77de4a49b622",
+  "title": "multica-ai/multica",
+  "source_url": "https://github.com/multica-ai/multica",
+  "source_type": "github_trending",
+  "summary": "Multica 是一个开源托管代理平台，旨在将编码代理转化为真正的团队成员。它允许用户分配任务、跟踪进度并复合技能，从而提升团队协作效率。该平台基于开源模式，支持自定义代理行为，适用于软件开发、自动化工作流等场景。通过集成任务管理和进度追踪功能，Multica 帮助团队更好地协调多个代理的工作，实现复杂任务的分解与并行处理。其核心优势在于提供可扩展的代理管理框架，支持技能组合与复用，降低重复劳动。项目在 GitHub 上开源，采用社区驱动开发模式，适合需要高效代理协作的团队使用。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "agent-platform",
+    "task-management",
+    "workflow-automation",
+    "team-collaboration"
+  ],
+  "language": "zh",
+  "author": "multica-ai",
+  "published_at": null,
+  "collected_at": "2026-05-21T11:20:22Z",
+  "analyzed_at": "2026-05-21T11:21:07Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269430291,
+    "github_language": "Go",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503695,
+    "github_stars_today": 511,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-10T12:00:00Z",
+    "analyzed_at": "2025-04-10T12:05:00Z",
+    "published_at": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ebd1b73559a18c1639eae5cbd7fd8b333ccc8cee69fef3ede3dfdf51a8985513",
+  "title": "Google officially announces that ads will be included in AI Mode search results",
+  "source_url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+  "source_type": "hacker_news",
+  "summary": "谷歌正式宣布将在其AI模式搜索结果中引入广告。这一举措标志着搜索广告与生成式AI的深度融合，广告将出现在AI生成的摘要、对话式回答等新型搜索界面中。谷歌强调广告将保持清晰标识，并基于用户查询意图进行精准匹配。此举旨在为广告主提供新的触达渠道，同时维持搜索业务的营收增长。AI模式下的广告形式可能包括赞助商链接、产品推荐及上下文相关推广内容。该变化预计将逐步推广，影响数字广告行业格局。",
+  "content_markdown": null,
+  "tags": [
+    "google",
+    "ai-search",
+    "advertising",
+    "search-ads",
+    "monetization"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Thu, 21 May 2026 09:49:46 +0000",
+  "collected_at": "2026-05-21T11:20:26Z",
+  "analyzed_at": "2026-05-21T11:21:28Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

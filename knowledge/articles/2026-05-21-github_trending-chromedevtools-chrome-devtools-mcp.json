@@ -1,0 +1,30 @@
+{
+  "id": "8e090c0d202712660d6f5dc5c29be5ff9a5ec17412bd1cf64025e491c10edb26",
+  "title": "ChromeDevTools/chrome-devtools-mcp",
+  "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "source_type": "github_trending",
+  "summary": "ChromeDevTools/chrome-devtools-mcp 是一个开源项目，旨在为编码代理（coding agents）提供 Chrome DevTools 的集成能力。通过该项目，开发者可以以编程方式控制 Chrome 浏览器，执行页面调试、性能分析、DOM 操作等任务，从而自动化前端开发工作流。项目基于 Chrome DevTools Protocol（CDP）构建，提供了简洁的 API 接口，支持与多种编程语言和自动化框架（如 Puppeteer、Playwright）协同工作。该工具特别适用于需要浏览器环境进行测试、数据抓取或动态页面交互的 AI 代理和自动化脚本。项目托管在 GitHub 上，由 Chrome DevTools 团队维护，具有较高的可靠性和社区支持。",
+  "content_markdown": null,
+  "tags": [
+    "chrome-devtools",
+    "coding-agents",
+    "browser-automation",
+    "devtools-protocol",
+    "frontend-testing"
+  ],
+  "language": "en",
+  "author": "ChromeDevTools",
+  "published_at": null,
+  "collected_at": "2026-05-21T11:20:22Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269440255,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502564,
+    "github_stars_today": 132,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "73834540a0708407a02fbf2e45cf791d2dfe9d4da1c84813b01005506e5dbda9",
+  "title": "antoinezambelli/forge",
+  "source_url": "https://github.com/antoinezambelli/forge",
+  "source_type": "github_trending",
+  "summary": "Forge 是一个基于 Python 的自托管 LLM 工具调用与多步骤代理工作流框架。它专注于为开发者提供构建复杂 AI 代理的能力，支持工具调用（tool-calling）和多步骤（multi-step）的自主工作流。该框架设计为自托管，意味着用户可以在自己的基础设施上运行，从而更好地控制数据隐私和成本。Forge 简化了将大型语言模型集成到自动化任务中的过程，适用于需要连续推理和工具使用的场景，如自动化研究、代码生成和复杂问题解决。其核心优势在于灵活性和可扩展性，允许开发者定义自定义工具和工作流步骤。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "agent-framework",
+    "python",
+    "tool-calling",
+    "self-hosted"
+  ],
+  "language": "en",
+  "author": "antoinezambelli",
+  "published_at": null,
+  "collected_at": "2026-05-21T11:20:22Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941308,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015066,
+    "github_stars_today": 449,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

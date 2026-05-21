@@ -1,0 +1,30 @@
+{
+  "id": "324b5ac3d50414ae479dba514aaf674d51559b5f7f0cd123d95f905e108f7287",
+  "title": "dotnet/skills",
+  "source_url": "https://github.com/dotnet/skills",
+  "source_type": "github_trending",
+  "summary": "dotnet/skills 是微软 .NET 团队维护的开源仓库，旨在为 AI 编码助手（如 GitHub Copilot）提供针对 .NET 和 C# 的技能定义与示例。该仓库包含一系列结构化技能文件，帮助 AI 代理理解 .NET 生态的常见开发模式、最佳实践和 API 用法，从而提升代码生成与辅助的准确性。技能覆盖 ASP.NET Core、Entity Framework、Blazor、MAUI 等主流框架，以及依赖注入、配置管理、日志记录等核心概念。通过明确的技能描述和代码片段，AI 可以更有效地响应 .NET 相关查询，减少幻觉并提高建议的上下文相关性。该项目对于推动 AI 辅助 .NET 开发标准化具有参考价值，适合 .NET 开发者、AI 工具构建者及关注 AI 与软件工程融合的从业者关注。",
+  "content_markdown": null,
+  "tags": [
+    "dotnet",
+    "csharp",
+    "ai-coding-agents",
+    "github-copilot",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "dotnet",
+  "published_at": null,
+  "collected_at": "2026-05-21T11:20:22Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941986,
+    "github_language": "C#",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150165,
+    "github_stars_today": 96,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
