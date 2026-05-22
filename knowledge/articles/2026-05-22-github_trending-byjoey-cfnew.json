@@ -1,0 +1,29 @@
+{
+  "id": "78a0114c28a2476a173aef862125a64706f79b37e12a1a1b4dd1bc9e6fc13a6f",
+  "title": "byJoey/cfnew",
+  "source_url": "https://github.com/byJoey/cfnew",
+  "source_type": "github_trending",
+  "summary": "cfnew 是一个开源工具，旨在简化 Cloudflare Workers 的创建与部署流程。它提供命令行接口，支持快速初始化项目、自动配置 wrangler.toml 文件，并集成常用模板与依赖管理。通过减少手动操作步骤，cfnew 帮助开发者更高效地构建和发布无服务器应用。项目采用 MIT 许可证，适合希望提升 Cloudflare Workers 开发效率的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "cloudflare-workers",
+    "cli",
+    "serverless",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "byJoey",
+  "published_at": null,
+  "collected_at": "2026-05-22T10:47:30Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413201,
+    "github_language": null,
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506460,
+    "github_stars_today": 85,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

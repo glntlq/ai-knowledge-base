@@ -1,0 +1,306 @@
+{
+  "collected_at": "2026-05-22T10:47:29Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-plugins-official",
+      "title": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423572,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502691,
+        "github_stars_today": 682,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/colbymchenry/codegraph",
+      "title": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "author": "colbymchenry",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269415308,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150846,
+        "github_stars_today": 4294,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "author": "ruvnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269463412,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508393,
+        "github_stars_today": 1269,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411208,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502169,
+        "github_stars_today": 1333,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "author": "ChromeDevTools",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269440727,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502581,
+        "github_stars_today": 151,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/dotnet/skills",
+      "title": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "author": "dotnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942378,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150190,
+        "github_stars_today": 129,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Lum1104/Understand-Anything",
+      "title": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "author": "Lum1104",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417292,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501598,
+        "github_stars_today": 666,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/odoo/odoo",
+      "title": "odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "author": "odoo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450887,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015032498,
+        "github_stars_today": 48,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/byJoey/cfnew",
+      "title": "byJoey/cfnew",
+      "description": "",
+      "author": "byJoey",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413201,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506460,
+        "github_stars_today": 85,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "title": "trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "author": "trimstray",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694222853,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013358,
+        "github_stars_today": 756,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "author": "Fincept-Corporation",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422303,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503084,
+        "github_stars_today": 337,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/can1357/oh-my-pi",
+      "title": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "author": "can1357",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946096,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150495,
+        "github_stars_today": 500,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/yt-dlp/yt-dlp",
+      "title": "yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "author": "yt-dlp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694163908,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013793,
+        "github_stars_today": 335,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/karpathy/nn-zero-to-hero",
+      "title": "karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "author": "karpathy",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422052,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503230,
+        "github_stars_today": 93,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-22T10:47:30Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+      "description": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=48233563 Points: 29 # Comments: 6",
+      "author": "",
+      "published_at": "Fri, 22 May 2026 09:04:54 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-22T10:47:31Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://noslopgrenade.com/",
+      "title": "Throwing AI-generated walls of text into conversations",
+      "description": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 624 # Comments: 363",
+      "author": "",
+      "published_at": "Thu, 21 May 2026 09:31:15 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-22T10:47:31Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "description": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48219340 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 21 May 2026 08:01:53 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-22T10:47:31Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://hamzaelshafie.bearblog.dev/dissecting-thunderkittens-anatomy-of-a-compact-dsl-for-high-performance-ai-kernels/",
+      "title": "Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels",
+      "description": "<p><a href=\"https://lobste.rs/s/cdnyqi/dissecting_thunderkittens_anatomy\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 22 May 2026 00:38:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-22T10:47:32Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/",
+      "title": "I spent 31 hours on the math behind TurboQuant so you don't have to",
+      "description": "<p><a href=\"https://lobste.rs/s/osi4oa/i_spent_31_hours_on_math_behind_turboquant\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 20 May 2026 18:54:58 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-22T10:47:32Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://airesistlist.org/",
+      "title": "AI Resist List",
+      "description": "<p><a href=\"https://lobste.rs/s/gydtkf/ai_resist_list\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 20 May 2026 15:09:55 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-22T10:47:32Z"
+    }
+  ]
+}

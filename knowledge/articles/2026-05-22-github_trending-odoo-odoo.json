@@ -1,0 +1,34 @@
+{
+  "id": "1f4007f2d572d4b1f1e4b409cd315c440607d8d25d322bfbb5b1bf6c0cfa91c6",
+  "title": "odoo/odoo",
+  "source_url": "https://github.com/odoo/odoo",
+  "source_type": "github_trending",
+  "summary": "Odoo 是一套开源的企业应用套件，旨在通过集成化的模块（如 CRM、销售、采购、库存、会计、人力资源、制造等）帮助各类规模的企业高效管理业务流程。其核心优势在于开源许可（LGPL）、模块化架构和活跃的社区生态，用户可根据需求自由选择并定制功能模块。Odoo 采用 Python 和 PostgreSQL 技术栈，支持 Web 端和移动端访问，并提供了丰富的 API 接口便于第三方集成。该项目在 GitHub 上拥有超过 40k 星标，是企业级开源 ERP 领域的标杆项目，广泛应用于全球中小型企业及部分大型组织。Odoo 的持续更新和版本迭代（如 Odoo 17）不断引入新特性，包括改进的用户界面、性能优化和 AI 辅助功能，使其在开源商业软件中保持领先地位。",
+  "content_markdown": null,
+  "tags": [
+    "erp",
+    "python",
+    "postgresql",
+    "open-source",
+    "business-management"
+  ],
+  "language": "zh",
+  "author": "odoo",
+  "published_at": null,
+  "collected_at": "2026-05-22T10:47:30Z",
+  "analyzed_at": "2026-05-22T10:48:02Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450887,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015032498,
+    "github_stars_today": 48,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c9a51ecde32fe19c5c3ddf5a37ec483da65e5dcd76e279f123c82e801729cd06",
+  "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+  "source_url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+  "source_type": "hacker_news",
+  "summary": "苹果联合创始人史蒂夫·沃兹尼亚克在2026年毕业典礼演讲中，鼓励学生拥抱“实际智能”（actual intelligence），而非过度依赖人工智能。他批评当前AI热潮中人们盲目崇拜技术，忽视人类自身的创造力与批判性思维。沃兹尼亚克强调，真正的智能在于理解问题本质、动手实践和人际协作，而非仅仅使用AI工具。演讲获得学生热烈欢呼，反映科技界对AI过度炒作的反思。该事件引发Hacker News社区讨论，评论聚焦技术伦理与教育方向。",
+  "content_markdown": null,
+  "tags": [
+    "steve-wozniak",
+    "artificial-intelligence",
+    "education",
+    "critical-thinking",
+    "technology-ethics"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-22T10:47:31Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "16c160871b8a7bea779c4b7276a82f13ebc5506f758f73321e6372e08f308adb",
+  "title": "AI Resist List",
+  "source_url": "https://airesistlist.org/",
+  "source_type": "hacker_news",
+  "summary": "AI Resist List 是一个网站，旨在列出抵制或反对人工智能（AI）技术应用的组织、项目或个人。该列表可能涵盖从学术机构、民间团体到技术社区的各种实体，这些实体因伦理、隐私、就业影响或技术滥用等原因对AI发展持批判态度。网站通过收集和展示这些抵制案例，为公众提供了解AI争议性一面的资源，并可能促进关于AI治理、监管和社会影响的讨论。作为来自Hacker News的RSS源，该条目反映了技术社区对AI伦理问题的持续关注。",
+  "content_markdown": null,
+  "tags": [
+    "ai-ethics",
+    "ai-resistance",
+    "tech-criticism",
+    "ai-governance"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-22T10:47:32Z",
+  "analyzed_at": "2025-04-08T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

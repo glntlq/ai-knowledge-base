@@ -1,0 +1,29 @@
+{
+  "id": "ca93df5b55d9dc8a9cc8950880243d213ea35caa486ecc25e4ccb870f4b0c7d5",
+  "title": "Throwing AI-generated walls of text into conversations",
+  "source_url": "https://noslopgrenade.com/",
+  "source_type": "hacker_news",
+  "summary": "本文批评了在对话中大量使用AI生成文本的现象，指出这种做法破坏了真实交流的深度与自然性。作者认为，AI生成的冗长回复往往缺乏个人见解和情感共鸣，容易导致对话变得空洞和机械化。文章呼吁人们在使用AI辅助沟通时保持克制，优先维护人际互动的真实性和质量。该观点在Hacker News上引发热议，获得624分和363条评论，反映了技术社区对AI伦理和沟通方式的关注。",
+  "content_markdown": null,
+  "tags": [
+    "ai-ethics",
+    "communication",
+    "human-interaction",
+    "technology-criticism"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Thu, 21 May 2026 09:31:15 +0000",
+  "collected_at": "2026-05-22T10:47:31Z",
+  "analyzed_at": "2026-05-22T10:48:29Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

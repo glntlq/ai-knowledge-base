@@ -1,0 +1,30 @@
+{
+  "id": "09e239163648dc2ecf774e6db60ecccaa3a6c0646e7bffd76bf529a567abd700",
+  "title": "Fincept-Corporation/FinceptTerminal",
+  "source_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+  "source_type": "github_trending",
+  "summary": "FinceptTerminal 是一个现代金融应用，提供高级市场分析、投资研究和经济数据工具。它旨在通过交互式探索和数据驱动决策，在用户友好的环境中支持金融专业人士和投资者。该终端集成了多种数据源，提供实时市场数据、历史回测、投资组合管理等功能，帮助用户进行全面的金融分析和策略制定。其设计强调易用性和可扩展性，适合从个人投资者到机构用户的广泛群体。",
+  "content_markdown": null,
+  "tags": [
+    "finance",
+    "market-analysis",
+    "investment-research",
+    "data-visualization",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "Fincept-Corporation",
+  "published_at": null,
+  "collected_at": "2026-05-22T10:47:30Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422303,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503084,
+    "github_stars_today": 337,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

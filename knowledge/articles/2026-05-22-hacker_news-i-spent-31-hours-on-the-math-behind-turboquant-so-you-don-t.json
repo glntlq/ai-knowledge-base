@@ -1,0 +1,26 @@
+{
+  "id": "73047c37f8bfea4e4565ba6505fa4c4613adb0c9b4cec6b73a1ec65e1a79e9d0",
+  "title": "I spent 31 hours on the math behind TurboQuant so you don't have to",
+  "source_url": "https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/",
+  "source_type": "hacker_news",
+  "summary": "本文深入解析了TurboQuant量化交易框架背后的数学原理，作者耗时31小时研究其核心算法。内容涵盖随机过程、时间序列分析、风险平价模型及优化理论在量化策略中的应用，重点解释了如何通过数学建模提升交易系统的稳健性与收益风险比。文章适合具备一定数学与编程基础的读者，旨在帮助理解量化交易中数学工具的实际价值，避免盲目使用黑箱模型。",
+  "content_markdown": null,
+  "tags": [
+    "quantitative-finance",
+    "mathematical-modeling",
+    "algorithmic-trading",
+    "risk-management",
+    "time-series-analysis"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-22T10:47:32Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}
