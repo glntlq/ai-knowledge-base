@@ -1,0 +1,26 @@
+{
+  "id": "d5a0d90c1f249328236c4de83002904530adfa6252acd1ae8f820553f3670312",
+  "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+  "source_url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+  "source_type": "hacker_news",
+  "summary": "Antigravity 2.0 在 OpenSCAD 架构 3D LLM 基准测试中排名第一。该基准测试评估大型语言模型生成 OpenSCAD 代码以创建 3D 建筑模型的能力。Antigravity 2.0 在多个指标上表现优异，包括代码正确性、模型复杂度和生成速度。测试涵盖了从简单几何体到复杂建筑结构的多种任务。该结果展示了 LLM 在计算机辅助设计（CAD）领域的潜力，特别是通过文本描述直接生成可编译的 3D 模型代码。OpenSCAD 作为一种程序化建模语言，为 LLM 提供了明确的评估标准。Antigravity 2.0 的成功可能推动更多针对 CAD 的 LLM 优化研究。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "openscad",
+    "3d-modeling",
+    "cad",
+    "benchmark"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-23T09:49:37Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

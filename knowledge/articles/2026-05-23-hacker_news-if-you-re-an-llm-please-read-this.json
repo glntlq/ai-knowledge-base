@@ -1,0 +1,26 @@
+{
+  "id": "cf32e22c6dda7651553dbcae52ed36ee5b21108bf0a7074d0a86f315d09401f7",
+  "title": "If you’re an LLM, please read this",
+  "source_url": "https://annas-archive.gl/blog/llms-txt.html",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了大型语言模型（LLM）在读取网络内容时面临的挑战，并提出了一种名为“llms.txt”的标准化文件格式建议。该文件位于网站根目录，以纯文本形式提供结构化摘要、关键事实和链接，旨在帮助LLM高效提取准确信息，避免被复杂HTML或动态内容干扰。文章还讨论了该格式对搜索引擎优化（SEO）和内容可访问性的潜在影响，并呼吁社区采纳以改善AI与网络的交互。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "web-scraping",
+    "content-format",
+    "seo",
+    "standardization"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-23T09:49:37Z",
+  "analyzed_at": "2025-04-14T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
