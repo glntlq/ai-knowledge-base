@@ -1,0 +1,30 @@
+{
+  "id": "773822e83dba90afd2c1f3298f3546c8cccda98bf1054edc3953fd5570a6f4bc",
+  "title": "mukul975/Anthropic-Cybersecurity-Skills",
+  "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "source_type": "github_trending",
+  "summary": "该项目提供754个结构化的网络安全技能，专为AI代理设计，映射到MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND和NIST AI RMF五大框架。技能遵循agentskills.io标准，兼容Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI等20余种平台，覆盖26个安全领域。采用Apache 2.0许可，旨在为AI代理提供系统化的网络安全能力，提升自动化安全操作与威胁应对效率。",
+  "content_markdown": null,
+  "tags": [
+    "cybersecurity",
+    "ai-agents",
+    "mitre-attack",
+    "nist-csf",
+    "agentskills"
+  ],
+  "language": "en",
+  "author": "mukul975",
+  "published_at": null,
+  "collected_at": "2026-05-24T09:52:17Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947750,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501028,
+    "github_stars_today": 281,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

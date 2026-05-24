@@ -1,0 +1,30 @@
+{
+  "id": "119a065cee0f66a4d80b491f56cada8332a4abde7d0937b0313b1b08fdc83398",
+  "title": "presenton/presenton",
+  "source_url": "https://github.com/presenton/presenton",
+  "source_type": "github_trending",
+  "summary": "Presenton 是一个开源的 AI 演示文稿生成器及 API，旨在作为 Gamma、Beautiful AI 和 Decktopus 等商业工具的替代方案。它利用人工智能技术，允许用户通过简单的输入或 API 调用自动生成专业、美观的幻灯片。项目采用开源模式，便于开发者自托管、定制和集成。核心功能包括智能内容生成、模板选择和导出格式支持。该工具特别适合需要快速创建演示文稿的团队和个人，同时保持对数据和流程的完全控制。其开源特性也促进了社区贡献和持续改进。",
+  "content_markdown": null,
+  "tags": [
+    "ai-presentation-generator",
+    "open-source",
+    "api",
+    "gamma-alternative",
+    "beautiful-ai-alternative"
+  ],
+  "language": "zh",
+  "author": "presenton",
+  "published_at": null,
+  "collected_at": "2026-05-24T09:52:17Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946610,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501133,
+    "github_stars_today": 241,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

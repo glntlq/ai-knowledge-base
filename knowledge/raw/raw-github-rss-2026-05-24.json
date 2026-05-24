@@ -1,0 +1,314 @@
+{
+  "collected_at": "2026-05-24T09:52:15Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/Lum1104/Understand-Anything",
+      "title": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "author": "Lum1104",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423195,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502051,
+        "github_stars_today": 2299,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-plugins-official",
+      "title": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426930,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502883,
+        "github_stars_today": 2193,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/colbymchenry/codegraph",
+      "title": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "author": "colbymchenry",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420677,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501156,
+        "github_stars_today": 2456,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414364,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502657,
+        "github_stars_today": 1521,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "author": "Fincept-Corporation",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423320,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503213,
+        "github_stars_today": 545,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "author": "multica-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694150566,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015450,
+        "github_stars_today": 3507,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/dotnet/skills",
+      "title": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "author": "dotnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942816,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150211,
+        "github_stars_today": 266,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "author": "ChromeDevTools",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269441453,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502630,
+        "github_stars_today": 435,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "author": "mukul975",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947750,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501028,
+        "github_stars_today": 281,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/presenton/presenton",
+      "title": "presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "author": "presenton",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946610,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501133,
+        "github_stars_today": 241,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/multica-ai/multica",
+      "title": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "author": "multica-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432150,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503875,
+        "github_stars_today": 410,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "title": "trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "author": "trimstray",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694224063,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013439,
+        "github_stars_today": 628,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/odoo/odoo",
+      "title": "odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "author": "odoo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269451594,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015032535,
+        "github_stars_today": 386,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NVlabs/LongLive",
+      "title": "NVlabs/LongLive",
+      "description": "LongLive 2.0: Infra - Long Video Gen",
+      "author": "NVlabs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941926,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150171,
+        "github_stars_today": 94,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/yt-dlp/yt-dlp",
+      "title": "yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "author": "yt-dlp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694165178,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013871,
+        "github_stars_today": 759,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/janestreet/magic-trace",
+      "title": "janestreet/magic-trace",
+      "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
+      "author": "janestreet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946001,
+        "github_language": "OCaml",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150183,
+        "github_stars_today": 68,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-24T09:52:17Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "description": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48219340 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 21 May 2026 08:01:53 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-24T09:52:24Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+      "title": "A Network Allow-List Won't Stop Exfiltration",
+      "description": "<p><a href=\"https://lobste.rs/s/obnccl/network_allow_list_won_t_stop\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sun, 24 May 2026 03:31:24 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-24T09:52:25Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://hamzaelshafie.bearblog.dev/dissecting-thunderkittens-anatomy-of-a-compact-dsl-for-high-performance-ai-kernels/",
+      "title": "Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels",
+      "description": "<p><a href=\"https://lobste.rs/s/cdnyqi/dissecting_thunderkittens_anatomy\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 22 May 2026 00:38:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-24T09:52:25Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/",
+      "title": "I spent 31 hours on the math behind TurboQuant so you don't have to",
+      "description": "<p><a href=\"https://lobste.rs/s/osi4oa/i_spent_31_hours_on_math_behind_turboquant\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 20 May 2026 18:54:58 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-05-24T09:52:25Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "14baacb7c420cef7f2be505be98448f3c6c4d7c5fded73dd96e5e1c8763e7fac",
+  "title": "A Network Allow-List Won't Stop Exfiltration",
+  "source_url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了网络允许列表（allow-list）在防止数据外泄（exfiltration）方面的局限性。作者指出，仅依赖网络层的允许列表无法有效阻止应用层的数据泄露，因为攻击者可以通过合法协议（如HTTPS、DNS隧道）或利用允许列表中的服务（如云存储、邮件）来传输敏感数据。文章强调，数据泄露防护（DLP）需要结合内容检查、行为分析和端点安全等多层防御策略，而非单纯依赖网络访问控制。作者还讨论了代理服务器（如Canister Egress Proxy）在监控和过滤出站流量中的作用，但认为其无法完全替代深度包检测和用户行为分析。最终结论是，网络允许列表应作为整体安全架构的一部分，而非唯一防线。",
+  "content_markdown": null,
+  "tags": [
+    "network-security",
+    "data-exfiltration",
+    "dlp",
+    "allow-list",
+    "proxy"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-24T09:52:25Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

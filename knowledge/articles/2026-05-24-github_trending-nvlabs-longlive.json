@@ -1,0 +1,30 @@
+{
+  "id": "efcbd9f898a3e9c343e7f055c378d8b1defe0af5c51c3c96ef0522e5d646855e",
+  "title": "NVlabs/LongLive",
+  "source_url": "https://github.com/NVlabs/LongLive",
+  "source_type": "github_trending",
+  "summary": "LongLive 2.0 是 NVIDIA 实验室（NVlabs）开源的长视频生成基础设施项目，旨在解决长视频生成中的计算效率、内存管理和时序一致性等核心挑战。该项目提供了一套完整的训练与推理框架，支持高分辨率、长时长的视频生成任务，并针对扩散模型等主流架构进行了优化。通过模块化设计和分布式加速，LongLive 2.0 降低了长视频生成的门槛，为研究者和开发者提供了可复现的基准实现。其代码库包含数据预处理、模型训练、推理流水线及评估工具，适用于影视制作、虚拟现实、游戏开发等需要高质量长视频内容的场景。项目在 GitHub 上公开，采用 NVIDIA 的许可协议，社区活跃度较高。",
+  "content_markdown": null,
+  "tags": [
+    "video-generation",
+    "deep-learning",
+    "nvidia",
+    "diffusion-models",
+    "infrastructure"
+  ],
+  "language": "zh",
+  "author": "NVlabs",
+  "published_at": null,
+  "collected_at": "2026-05-24T09:52:17Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941926,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150171,
+    "github_stars_today": 94,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

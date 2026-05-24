@@ -1,0 +1,30 @@
+{
+  "id": "d32a7fea2006b3962a226a6600e3df713ba09274cd838af71496c62ceaa72e65",
+  "title": "janestreet/magic-trace",
+  "source_url": "https://github.com/janestreet/magic-trace",
+  "source_type": "github_trending",
+  "summary": "magic-trace 是 Jane Street 开发的一款高性能追踪工具，能够以高分辨率收集并可视化进程的执行轨迹。它基于 Intel PT（Processor Trace）技术，以极低开销记录指令级执行流，并支持通过时间轴或火焰图等形式展示。该工具特别适用于诊断性能瓶颈、理解复杂代码路径以及调试难以复现的问题。其核心优势在于无需修改代码或重新编译，即可对任意 Linux 进程进行实时追踪。magic-trace 提供了 CLI 接口，支持自定义追踪触发条件（如函数调用、信号等），并可与 perf、GDB 等工具集成。项目采用 OCaml 编写，注重安全性与效率，已在 Jane Street 内部生产环境中验证。对于需要深入理解程序运行时行为的开发者，magic-trace 是一个强大且低开销的追踪解决方案。",
+  "content_markdown": null,
+  "tags": [
+    "tracing",
+    "performance",
+    "linux",
+    "intel-pt",
+    "debugging"
+  ],
+  "language": "zh",
+  "author": "janestreet",
+  "published_at": null,
+  "collected_at": "2026-05-24T09:52:17Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946001,
+    "github_language": "OCaml",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150183,
+    "github_stars_today": 68,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}
