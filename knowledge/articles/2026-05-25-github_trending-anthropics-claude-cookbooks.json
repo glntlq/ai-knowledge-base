@@ -1,0 +1,30 @@
+{
+  "id": "d3bf146855d4e77b488f3dcd61650674e4eac17dfbc4ee17c45c59136d8337c9",
+  "title": "anthropics/claude-cookbooks",
+  "source_url": "https://github.com/anthropics/claude-cookbooks",
+  "source_type": "github_trending",
+  "summary": "该仓库是 Anthropic 官方提供的 Claude 模型使用指南集合，包含一系列 Jupyter Notebook 和代码示例，展示了如何通过提示工程、工具使用、多模态处理、长上下文等技巧高效利用 Claude。内容覆盖从基础调用到高级应用（如函数调用、代码生成、文档分析、图像理解等），旨在帮助开发者快速掌握 Claude 的最佳实践。仓库持续更新，适合希望深入理解 Claude 能力边界并提升应用效果的 AI 开发者。",
+  "content_markdown": null,
+  "tags": [
+    "claude",
+    "prompt-engineering",
+    "llm",
+    "jupyter-notebook",
+    "anthropic"
+  ],
+  "language": "zh",
+  "author": "anthropics",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:24Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269443824,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505031,
+    "github_stars_today": 108,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

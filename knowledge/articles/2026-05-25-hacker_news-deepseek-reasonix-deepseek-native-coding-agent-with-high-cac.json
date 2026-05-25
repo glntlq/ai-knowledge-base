@@ -1,0 +1,26 @@
+{
+  "id": "fe95d6571f54f74aa12100caea8199618923073276714e7d7277e0ac277f4225",
+  "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+  "source_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+  "source_type": "hacker_news",
+  "summary": "DeepSeek 发布 Reasonix，一款原生编码代理，具备高缓存和低成本特性。该工具旨在提升开发效率，通过缓存机制减少重复计算，降低 API 调用成本。相关讨论持续进行，DeepSeek 已将 V4 Pro 价格折扣永久化，引发社区关注。Reasonix 可能集成到现有开发流程中，支持代码生成、调试和优化任务。其低成本和高缓存特性使其在竞争激烈的 AI 编码助手市场中具有吸引力，尤其适合需要频繁迭代的项目。",
+  "content_markdown": null,
+  "tags": [
+    "deepseek",
+    "ai-coding-agent",
+    "low-cost",
+    "caching",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:28Z",
+  "analyzed_at": "2026-05-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

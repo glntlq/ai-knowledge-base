@@ -1,0 +1,26 @@
+{
+  "id": "5c7b9e0ec5486ec1f94bc8e5abaa25292d2731382ba6646dfb494c11ce4cb9a9",
+  "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+  "source_url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+  "source_type": "hacker_news",
+  "summary": "Flick（YC F25）正在招聘前端工程师，旨在构建面向AI电影制作的Figma式协作工具。该职位要求候选人具备丰富的前端开发经验，熟悉React、TypeScript等现代框架，并能与设计、产品团队紧密合作，打造直观、高性能的用户界面。Flick致力于通过AI技术革新电影制作流程，降低创作门槛，使非专业用户也能高效完成影视内容创作。此次招聘反映了公司对前端工程化、实时协作及AI交互体验的重视，适合对AI+创意工具领域有热情的高级工程师。",
+  "content_markdown": null,
+  "tags": [
+    "frontend",
+    "react",
+    "typescript",
+    "ai-filmmaking",
+    "collaboration-tools"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:28Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

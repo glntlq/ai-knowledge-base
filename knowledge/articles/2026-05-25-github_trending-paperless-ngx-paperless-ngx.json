@@ -1,0 +1,30 @@
+{
+  "id": "3a7b193e020d2517d38f39dda5d865b57fa4e47e6a1dda6f757c7a27c514c105",
+  "title": "paperless-ngx/paperless-ngx",
+  "source_url": "https://github.com/paperless-ngx/paperless-ngx",
+  "source_type": "github_trending",
+  "summary": "Paperless-ngx 是一个社区驱动的增强型文档管理系统，支持扫描、索引和归档各类文档。它提供强大的 OCR 识别、自动分类、标签和元数据管理功能，可将纸质文档转换为可搜索的数字档案。系统基于 Django 构建，支持多种文档格式（PDF、图片等），并集成机器学习实现智能分类。用户可通过 Web 界面或移动端访问，支持多用户协作和权限控制。该项目在 GitHub 上活跃维护，拥有大量贡献者和用户，是开源文档管理领域的领先解决方案。",
+  "content_markdown": null,
+  "tags": [
+    "document-management",
+    "ocr",
+    "django",
+    "self-hosted",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "paperless-ngx",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:24Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269441113,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502728,
+    "github_stars_today": 151,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

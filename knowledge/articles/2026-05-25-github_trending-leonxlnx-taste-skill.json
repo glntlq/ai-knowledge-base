@@ -1,0 +1,30 @@
+{
+  "id": "fb09e764ebb3c0217b312dfaa70b4987fabd239c07068aab9189a8670cfb94cd",
+  "title": "Leonxlnx/taste-skill",
+  "source_url": "https://github.com/Leonxlnx/taste-skill",
+  "source_type": "github_trending",
+  "summary": "Taste-Skill 是一个开源项目，旨在通过注入“品味”来提升 AI 生成内容的质量，避免产生枯燥、通用的“垃圾”输出。该项目提供了一种机制，允许用户定义和调整 AI 的审美偏好，从而在文本、图像等生成任务中产生更具创意和个性化的结果。它可能通过提示工程、模型微调或后处理过滤等方式实现，核心是让 AI 学会区分“好”与“坏”的输出。该项目适合希望改善 AI 生成内容独特性和吸引力的开发者，尤其是内容创作、聊天机器人或创意工具领域。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "content-generation",
+    "prompt-engineering",
+    "open-source",
+    "creativity"
+  ],
+  "language": "zh",
+  "author": "Leonxlnx",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:24Z",
+  "analyzed_at": "2025-04-14T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419107,
+    "github_language": "Shell",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501630,
+    "github_stars_today": 188,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

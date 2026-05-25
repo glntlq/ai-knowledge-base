@@ -1,0 +1,35 @@
+{
+  "id": "66fbb57823463b25696c2c89bc77cdfaedaba9f892d3ba040e087ee4a6e5b374",
+  "title": "moeru-ai/airi",
+  "source_url": "https://github.com/moeru-ai/airi",
+  "source_type": "github_trending",
+  "summary": "Airi 是一个自托管的 AI 伴侣项目，灵感来自 Neuro-sama，支持实时语音聊天、Minecraft 和 Factorio 游戏交互。它提供 Web、macOS 和 Windows 客户端，旨在将虚拟角色带入现实世界。项目基于容器化部署，强调用户自主控制数据。",
+  "content_markdown": null,
+  "tags": [
+    "self-hosted",
+    "ai-companion",
+    "voice-chat",
+    "gaming",
+    "container"
+  ],
+  "language": "en",
+  "author": "moeru-ai",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:24Z",
+  "analyzed_at": "2026-05-25T11:52:09Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439547,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504015,
+    "github_stars_today": 32,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-13T00:00:00Z",
+    "analyzed_at": "2025-04-13T00:00:00Z",
+    "published_at": null
+  }
+}

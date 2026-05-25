@@ -1,0 +1,34 @@
+{
+  "id": "948f08eae6df815a69671de0067cfeb6f5aeac72b7f36f7039c738f9824a5e25",
+  "title": "Axorax/awesome-free-apps",
+  "source_url": "https://github.com/Axorax/awesome-free-apps",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精心策划的免费应用列表，涵盖PC和移动端的最佳免费软件。它按类别组织，包括生产力工具、媒体播放器、图形设计、安全软件、开发工具等，旨在帮助用户发现高质量且无需付费的替代方案。列表中的每个应用都经过筛选，确保其功能完整、无恶意软件且用户体验良好。该项目持续更新，社区贡献活跃，是寻找免费、开源或免费增值应用的实用资源。",
+  "content_markdown": null,
+  "tags": [
+    "free-software",
+    "app-list",
+    "pc",
+    "mobile",
+    "curated-list"
+  ],
+  "language": "en",
+  "author": "Axorax",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:24Z",
+  "analyzed_at": "2026-05-25T11:52:16Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944164,
+    "github_language": "JavaScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150218,
+    "github_stars_today": 141,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-13T00:00:00Z",
+    "analyzed_at": "2025-04-13T00:00:00Z"
+  }
+}

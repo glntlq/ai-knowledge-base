@@ -1,0 +1,30 @@
+{
+  "id": "2143d464206403e9072e79c6cd6ba1fb5c0cb94f4cea7e41878c49e124897b43",
+  "title": "manaflow-ai/cmux",
+  "source_url": "https://github.com/manaflow-ai/cmux",
+  "source_type": "github_trending",
+  "summary": "cmux 是一个基于 Ghostty 的 macOS 终端模拟器，专为 AI 编码代理设计，提供垂直标签页和通知功能。它通过集成 AI 代理的工作流，优化了开发者在终端中的交互体验，支持多任务管理和实时反馈。项目利用 Ghostty 的高性能渲染引擎，确保低延迟和流畅的界面操作。垂直标签页布局有助于同时管理多个终端会话，而通知系统则能及时传递 AI 代理的完成状态或错误信息。该工具旨在提升 AI 辅助编程的效率，减少上下文切换成本，适合需要频繁与 AI 代理协作的开发者。目前项目处于早期开发阶段，代码库主要使用 Rust 和 Swift 实现，依赖 macOS 原生框架。",
+  "content_markdown": null,
+  "tags": [
+    "terminal-emulator",
+    "macos",
+    "ai-agents",
+    "developer-tools",
+    "ghostty"
+  ],
+  "language": "zh",
+  "author": "manaflow-ai",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:24Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419286,
+    "github_language": "Swift",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501462,
+    "github_stars_today": 696,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

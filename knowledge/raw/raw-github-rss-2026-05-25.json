@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-05-25T11:51:23Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/Lum1104/Understand-Anything",
+      "title": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "author": "Lum1104",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429121,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502432,
+        "github_stars_today": 3999,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "title": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414579,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501794,
+        "github_stars_today": 550,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417725,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503031,
+        "github_stars_today": 1853,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694191631,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015029669,
+        "github_stars_today": 2052,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "author": "mukul975",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948811,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501091,
+        "github_stars_today": 930,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/colbymchenry/codegraph",
+      "title": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "author": "colbymchenry",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424014,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501318,
+        "github_stars_today": 3003,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/manaflow-ai/cmux",
+      "title": "manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "author": "manaflow-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419286,
+        "github_language": "Swift",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501462,
+        "github_stars_today": 696,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "author": "multica-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694153469,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015725,
+        "github_stars_today": 2551,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "title": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "author": "Fincept-Corporation",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423637,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503265,
+        "github_stars_today": 462,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/paperless-ngx/paperless-ngx",
+      "title": "paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "author": "paperless-ngx",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269441113,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502728,
+        "github_stars_today": 151,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-cookbooks",
+      "title": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269443824,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505031,
+        "github_stars_today": 108,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Leonxlnx/taste-skill",
+      "title": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "author": "Leonxlnx",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419107,
+        "github_language": "Shell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501630,
+        "github_stars_today": 188,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/moeru-ai/airi",
+      "title": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "author": "moeru-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439547,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504015,
+        "github_stars_today": 32,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "author": "shiyu-coder",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425918,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504506,
+        "github_stars_today": 106,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Axorax/awesome-free-apps",
+      "title": "Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "author": "Axorax",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944164,
+        "github_language": "JavaScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150218,
+        "github_stars_today": 141,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/hardikpandya/stop-slop",
+      "title": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "author": "hardikpandya",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944143,
+        "github_language": null,
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150368,
+        "github_stars_today": 353,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/garrytan/gstack",
+      "title": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "author": "garrytan",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694102010,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015229,
+        "github_stars_today": 600,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-25T11:51:24Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+      "description": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer Comments URL: https://news.ycombinator.com/item?id=48258995 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Sun, 24 May 2026 17:00:46 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-25T11:51:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "description": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 400 # Comments: 420",
+      "author": "",
+      "published_at": "Sun, 24 May 2026 16:31:29 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-25T11:51:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "description": "Related ongoing thread: DeepSeek makes the V4 Pro price discount permanent - https://news.ycombinator.com/item?id=48237663 - May 2026 (384 comments) Comments URL: https://news.ycombinator.com/item?id=48256953 Points: 585 # Comments: 243",
+      "author": "",
+      "published_at": "Sun, 24 May 2026 13:02:06 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-25T11:51:28Z"
+    }
+  ]
+}

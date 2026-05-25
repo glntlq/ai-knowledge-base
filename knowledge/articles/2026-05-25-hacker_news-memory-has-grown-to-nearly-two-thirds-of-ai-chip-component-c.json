@@ -1,0 +1,30 @@
+{
+  "id": "e5be8a497fc43d9dfd498169a42ee58f24d91372e53e170a8436f82c4584ebef",
+  "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+  "source_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+  "source_type": "hacker_news",
+  "summary": "根据Epoch AI的分析，内存成本已占AI芯片组件总成本的近三分之二，成为AI芯片成本结构中的主导因素。随着大模型对高带宽内存（HBM）需求的激增，HBM在AI芯片中的成本占比从2020年的约30%上升至2024年的约65%。这一趋势凸显了内存技术对AI计算效率和经济性的关键影响，并可能推动芯片设计向内存优先架构转变。",
+  "content_markdown": null,
+  "tags": [
+    "ai-chips",
+    "memory-costs",
+    "hbm",
+    "semiconductor",
+    "cost-analysis"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Sun, 24 May 2026 16:31:29 +0000",
+  "collected_at": "2026-05-25T11:51:28Z",
+  "analyzed_at": "2026-05-25T11:52:28Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

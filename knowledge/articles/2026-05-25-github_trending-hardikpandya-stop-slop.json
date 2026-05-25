@@ -1,0 +1,29 @@
+{
+  "id": "e057a3673f03cf48fabadb4517ee6a8466a03ee119d4933b62dcaf0213b59270",
+  "title": "hardikpandya/stop-slop",
+  "source_url": "https://github.com/hardikpandya/stop-slop",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一个技能文件，旨在从散文中移除AI生成的痕迹（即“AI tells”），帮助用户使文本更自然、更人性化。它通过识别并替换常见的AI写作特征（如过度使用特定词汇、句式结构等），来提升文本的原创性和可读性。该工具适用于需要润色AI生成内容的场景，如写作辅助、内容审核等。项目以简洁的规则集实现，易于集成到现有工作流中。",
+  "content_markdown": null,
+  "tags": [
+    "ai-writing",
+    "text-processing",
+    "content-optimization",
+    "writing-tools"
+  ],
+  "language": "en",
+  "author": "hardikpandya",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:24Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944143,
+    "github_language": null,
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150368,
+    "github_stars_today": 353,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

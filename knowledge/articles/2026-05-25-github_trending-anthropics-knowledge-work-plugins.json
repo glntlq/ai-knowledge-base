@@ -1,0 +1,30 @@
+{
+  "id": "824cc14ed6f35e3038b8dff8681a771fa1fde3a4195d9843e526749e55d2a767",
+  "title": "anthropics/knowledge-work-plugins",
+  "source_url": "https://github.com/anthropics/knowledge-work-plugins",
+  "source_type": "github_trending",
+  "summary": "Anthropics 开源了一个名为 knowledge-work-plugins 的仓库，旨在为知识工作者提供可在 Claude Cowork 中使用的插件集合。该仓库包含多种插件，用于增强 Claude 在知识工作场景下的能力，例如文档处理、信息检索、任务自动化等。这些插件通过扩展 Claude 的功能，帮助用户更高效地完成研究、写作、数据分析等知识密集型任务。项目采用开源模式，鼓励社区贡献和定制，以持续丰富插件生态。对于希望利用 AI 助手提升工作效率的知识工作者而言，该仓库提供了实用的工具和参考实现。",
+  "content_markdown": null,
+  "tags": [
+    "knowledge-work",
+    "claude",
+    "plugins",
+    "open-source",
+    "productivity"
+  ],
+  "language": "zh",
+  "author": "anthropics",
+  "published_at": null,
+  "collected_at": "2026-05-25T11:51:24Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414579,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501794,
+    "github_stars_today": 550,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
