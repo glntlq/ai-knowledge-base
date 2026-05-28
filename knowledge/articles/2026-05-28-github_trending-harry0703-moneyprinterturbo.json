@@ -1,0 +1,30 @@
+{
+  "id": "2254a063e91445f9cf4dad0f810892f93828e34fa402c68aa745cc28ca464403",
+  "title": "harry0703/MoneyPrinterTurbo",
+  "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "source_type": "github_trending",
+  "summary": "MoneyPrinterTurbo 是一个基于 AI 大模型的开源工具，能够一键生成高清短视频。用户只需输入主题或关键词，系统即可自动完成脚本撰写、素材匹配、语音合成和视频渲染等全流程，大幅降低视频制作门槛。项目利用大语言模型（LLM）生成文案，并结合图像/视频检索、TTS 等技术，输出高质量短视频内容。该工具支持多种视频比例和风格定制，适用于社交媒体营销、教育培训、内容创作等场景。其核心优势在于自动化程度高、生成速度快，且完全开源免费。",
+  "content_markdown": null,
+  "tags": [
+    "ai-video-generation",
+    "llm",
+    "text-to-video",
+    "open-source",
+    "content-creation"
+  ],
+  "language": "zh",
+  "author": "harry0703",
+  "published_at": null,
+  "collected_at": "2026-05-28T11:36:17Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269464847,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509386,
+    "github_stars_today": 1742,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

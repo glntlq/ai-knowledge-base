@@ -1,0 +1,26 @@
+{
+  "id": "81dd8e0f45e277b20b9437d5d2892f9ce98c8a4a50c723998b5c7adf16d576e1",
+  "title": "Intent to Prototype: Embedding API",
+  "source_url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/EjL1gAy3k3Q/m/31Cnh22MBgAJ",
+  "source_type": "hacker_news",
+  "summary": "Chromium 团队提出 Embedding API 原型意图，旨在为 Web 平台提供标准化的嵌入内容机制。该 API 允许开发者以声明方式嵌入跨源资源（如文档、应用），并控制其渲染与交互行为，替代现有 iframe 等非标准化方案。设计聚焦于安全性（通过权限策略限制嵌入方能力）、性能（支持延迟加载与资源提示）及可访问性（提供语义化嵌入上下文）。当前处于 Blink 原型阶段，需社区反馈以推进标准化。此提案将影响 Web 组件化、微前端及第三方内容集成场景，但需解决跨域通信、状态隔离等挑战。",
+  "content_markdown": null,
+  "tags": [
+    "embedding-api",
+    "chromium",
+    "web-platform",
+    "blink",
+    "permissions-policy"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-28T11:36:18Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b42ca66d315b945bca10ad24363cdc3cd888136581cb5e4258d9329087e93434",
+  "title": "YT labels slop via ML",
+  "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+  "source_type": "hacker_news",
+  "summary": "YouTube 宣布将利用机器学习系统自动检测并标记由AI生成的逼真内容，以提升透明度。此前平台要求创作者手动披露AI使用情况，但新系统将自动为检测到的显著逼真AI内容添加标签。此举旨在应对AI生成内容泛滥问题，帮助观众区分真实与合成媒体。该政策平衡了创作者责任与平台自动化监管，标志着视频平台在AI内容治理上的重要进展。",
+  "content_markdown": null,
+  "tags": [
+    "youtube",
+    "ai-content-detection",
+    "machine-learning",
+    "content-moderation",
+    "transparency"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-28T11:36:18Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

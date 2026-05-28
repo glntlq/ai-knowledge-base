@@ -1,0 +1,26 @@
+{
+  "id": "cc9e3d343997e37e090efacb38d845eed2ff58b6723be936f6572be309b4d46b",
+  "title": "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas",
+  "source_url": "http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+  "source_type": "hacker_news",
+  "summary": "教宗良十四世于2026年5月15日发布通谕《Magnifica Humanitas》，聚焦人类尊严、科技伦理与生态责任。通谕批判技术至上主义，强调人工智能、基因编辑等前沿技术必须服务于全人类福祉，尤其保护弱势群体。重申教会关于生命神圣性的教导，反对功利主义对人性价值的侵蚀。呼吁国际社会建立伦理框架，确保技术发展不加剧不平等。文本融合神学、哲学与社会分析，体现天主教会在数字时代对人文主义的当代诠释。",
+  "content_markdown": null,
+  "tags": [
+    "catholicism",
+    "technology-ethics",
+    "human-dignity",
+    "artificial-intelligence",
+    "encyclical"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-05-15T00:00:00Z",
+  "collected_at": "2026-05-28T11:36:18Z",
+  "analyzed_at": "2026-05-15T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

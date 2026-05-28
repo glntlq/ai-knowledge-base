@@ -1,0 +1,30 @@
+{
+  "id": "2fcabdc1026672ef59115aa6148d50f61d3b4cbc451a2e5da94f2dfe476c3b12",
+  "title": "OpenMOSS/MOSS-TTS",
+  "source_url": "https://github.com/OpenMOSS/MOSS-TTS",
+  "source_type": "github_trending",
+  "summary": "MOSS-TTS 是由 MOSI.AI 与 OpenMOSS 团队开发的开源语音与声音生成模型系列，专注于高保真、高表现力及复杂真实场景的语音合成。该模型家族支持稳定长文本语音、多说话人对话、语音/角色设计、环境音效以及实时流式 TTS 等功能。项目旨在为开发者提供灵活、可扩展的语音生成工具，适用于虚拟角色配音、有声书制作、智能助手、游戏音效等多种应用场景。通过开源社区协作，MOSS-TTS 降低了高质量语音合成技术的使用门槛，推动语音交互技术的普及与创新。",
+  "content_markdown": null,
+  "tags": [
+    "text-to-speech",
+    "open-source",
+    "speech-synthesis",
+    "voice-generation",
+    "deep-learning"
+  ],
+  "language": "zh",
+  "author": "OpenMOSS",
+  "published_at": null,
+  "collected_at": "2026-05-28T11:36:17Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942023,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150202,
+    "github_stars_today": 53,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

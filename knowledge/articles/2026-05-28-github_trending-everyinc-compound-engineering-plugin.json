@@ -1,0 +1,29 @@
+{
+  "id": "b414948895e9e18610f7d9a5cfbee5ce014e959b7e574f83950afe038484e71e",
+  "title": "EveryInc/compound-engineering-plugin",
+  "source_url": "https://github.com/EveryInc/compound-engineering-plugin",
+  "source_type": "github_trending",
+  "summary": "该仓库是 EveryInc 开发的 Compound Engineering 官方插件，支持 Claude Code、Codex、Cursor 等主流 AI 编码工具。插件旨在将 Compound Engineering 方法论集成到开发工作流中，帮助开发者通过结构化提示和上下文管理，提升 AI 辅助编程的效率与质量。项目提供了清晰的安装指南和配置示例，降低了使用门槛。作为 AI 编码生态中的工具类插件，它填补了方法论落地的空白，适合追求高效 AI 协作的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "ai-coding",
+    "plugin",
+    "developer-tools",
+    "compound-engineering"
+  ],
+  "language": "en",
+  "author": "EveryInc",
+  "published_at": null,
+  "collected_at": "2026-05-28T11:36:17Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417599,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501349,
+    "github_stars_today": 180,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

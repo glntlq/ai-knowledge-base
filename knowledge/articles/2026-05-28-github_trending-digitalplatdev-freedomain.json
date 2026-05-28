@@ -1,0 +1,35 @@
+{
+  "id": "d3b687e2764e2ea0c36517f8e4b264bb2645e4651900dfced6c7ca2b577811e3",
+  "title": "DigitalPlatDev/FreeDomain",
+  "source_url": "https://github.com/DigitalPlatDev/FreeDomain",
+  "source_type": "github_trending",
+  "summary": "DigitalPlatDev/FreeDomain 是一个开源项目，旨在为所有人提供免费域名服务。该项目通过自动化流程，帮助用户获取免费的 .tk、.ml、.ga、.cf 等顶级域名，适用于个人网站、开发测试或学习用途。项目基于 GitHub Actions 实现域名注册和续期的自动化，降低了域名获取门槛。代码开源，社区可参与贡献。该工具特别适合预算有限的开发者或学生，无需支付年费即可拥有自定义域名。项目活跃度较高，持续更新维护。",
+  "content_markdown": null,
+  "tags": [
+    "free-domain",
+    "domain-registration",
+    "github-actions",
+    "open-source",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "DigitalPlatDev",
+  "published_at": null,
+  "collected_at": "2026-05-28T11:36:17Z",
+  "analyzed_at": "2026-05-28T11:36:44Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694170005,
+    "github_language": "HTML",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503251,
+    "github_stars_today": 2222,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:05:00Z",
+    "published_at": null
+  }
+}

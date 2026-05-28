@@ -1,0 +1,30 @@
+{
+  "id": "da097e0cea73157341a805bcd626b96757a09bffefa70d13d664b0aa59eb5c69",
+  "title": "twentyhq/twenty",
+  "source_url": "https://github.com/twentyhq/twenty",
+  "source_type": "github_trending",
+  "summary": "Twenty 是一个开源的客户关系管理（CRM）系统，旨在作为 Salesforce 的替代方案，并针对 AI 时代进行了设计。该项目提供现代、可扩展的 CRM 核心功能，包括联系人管理、销售管道、工作流自动化等。其架构强调与 AI 模型的深度集成，支持自然语言查询、智能推荐和自动化任务。Twenty 采用前后端分离架构，前端基于 React 和 TypeScript，后端使用 Node.js 和 GraphQL，数据存储采用 PostgreSQL。该项目在 GitHub 上活跃开发，社区贡献度高，适合需要定制化 CRM 或希望避免供应商锁定的团队。其开源特性允许用户自托管或利用云版本，同时提供丰富的 API 和插件系统以扩展功能。",
+  "content_markdown": null,
+  "tags": [
+    "crm",
+    "open-source",
+    "salesforce-alternative",
+    "ai-integration",
+    "react"
+  ],
+  "language": "zh",
+  "author": "twentyhq",
+  "published_at": null,
+  "collected_at": "2026-05-28T11:36:17Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269447565,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506753,
+    "github_stars_today": 519,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

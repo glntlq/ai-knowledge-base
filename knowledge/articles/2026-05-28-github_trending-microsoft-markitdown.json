@@ -1,0 +1,35 @@
+{
+  "id": "19be8735a972db3f54ab59aee00421883ed99fc5b15b7f1e2dc698ba864e41c3",
+  "title": "microsoft/markitdown",
+  "source_url": "https://github.com/microsoft/markitdown",
+  "source_type": "github_trending",
+  "summary": "MarkItDown 是微软开源的一款 Python 工具，用于将多种文件格式（包括 Office 文档、PDF、HTML 等）转换为 Markdown。它支持常见的办公文档（如 .docx、.pptx、.xlsx）、图像中的文本提取（OCR）、音频文件转录以及 EPUB 和维基百科页面等。该工具旨在简化文档预处理流程，便于后续的文本分析、索引或大语言模型（LLM）训练。其核心优势在于统一的转换接口和跨平台兼容性，适合需要批量处理文档并生成结构化 Markdown 内容的场景。项目采用 MIT 许可证，社区活跃，持续集成测试覆盖主流 Python 版本。",
+  "content_markdown": null,
+  "tags": [
+    "python",
+    "markdown",
+    "document-conversion",
+    "microsoft",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-05-28T11:36:17Z",
+  "analyzed_at": "2026-05-28T11:36:53Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694126715,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508666,
+    "github_stars_today": 1263,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}
