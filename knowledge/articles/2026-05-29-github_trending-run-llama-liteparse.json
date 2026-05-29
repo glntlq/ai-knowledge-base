@@ -1,0 +1,30 @@
+{
+  "id": "811008403de06f1649267e230204db38bf406f7d42a0f929911a4db35bddb370",
+  "title": "run-llama/liteparse",
+  "source_url": "https://github.com/run-llama/liteparse",
+  "source_type": "github_trending",
+  "summary": "Liteparse 是一个由 LlamaIndex 团队开发的开源文档解析器，专注于快速、高效地解析多种文档格式（如 PDF、HTML、Markdown 等），并将其转换为结构化数据。它基于 LlamaIndex 生态，支持与 LLM 应用无缝集成，适用于 RAG（检索增强生成）场景。Liteparse 强调轻量级和易用性，提供简洁的 API 接口，可处理复杂文档布局（如表格、多列文本），并输出机器可读的 JSON 或 Markdown 格式。该项目在 GitHub 上开源，旨在降低文档解析门槛，替代商业解析服务。其核心优势在于速度优化和社区驱动，适合开发者快速构建文档处理流水线。",
+  "content_markdown": null,
+  "tags": [
+    "document-parser",
+    "llamaindex",
+    "rag",
+    "open-source",
+    "nlp"
+  ],
+  "language": "zh",
+  "author": "run-llama",
+  "published_at": null,
+  "collected_at": "2026-05-29T11:25:54Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946697,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150425,
+    "github_stars_today": 932,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

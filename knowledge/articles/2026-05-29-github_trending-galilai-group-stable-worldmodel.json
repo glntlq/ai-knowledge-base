@@ -1,0 +1,35 @@
+{
+  "id": "4c3cd368697668f13080b0be6a542375cd5fe17f33f2371f631a666187ce2b9d",
+  "title": "galilai-group/stable-worldmodel",
+  "source_url": "https://github.com/galilai-group/stable-worldmodel",
+  "source_type": "github_trending",
+  "summary": "Stable-Worldmodel 是一个专注于世界模型（World Model）可重复研究与评估的开源平台，由 galilai-group 团队维护。该项目旨在为强化学习、机器人控制及序列决策等领域提供标准化的世界模型训练与测试框架。平台支持多种主流世界模型架构（如 Dreamer、RSSM 等），并集成了丰富的环境接口（如 Gym、DM Control）和评估指标。通过提供统一的实验配置、日志记录与结果可视化工具，Stable-Worldmodel 降低了世界模型研究的复现门槛，促进了该领域的公平比较与进展追踪。项目代码结构清晰，文档完善，适合作为世界模型入门与进阶研究的基准平台。",
+  "content_markdown": null,
+  "tags": [
+    "world-model",
+    "reinforcement-learning",
+    "reproducible-research",
+    "model-based-rl",
+    "evaluation-framework"
+  ],
+  "language": "en",
+  "author": "galilai-group",
+  "published_at": null,
+  "collected_at": "2026-05-29T11:25:54Z",
+  "analyzed_at": "2026-05-29T11:26:20Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941034,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150141,
+    "github_stars_today": 346,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-01T00:00:00Z",
+    "analyzed_at": "2025-04-01T01:00:00Z",
+    "published_at": null
+  }
+}

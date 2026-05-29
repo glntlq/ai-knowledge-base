@@ -1,0 +1,30 @@
+{
+  "id": "92498b4c241ad44e9da63d9c0fe6287be253a058eab54f485b16a5dec1551aa2",
+  "title": "cursor/plugins",
+  "source_url": "https://github.com/cursor/plugins",
+  "source_type": "github_trending",
+  "summary": "Cursor 插件规范与官方插件集合，定义了 Cursor 编辑器的插件开发标准，提供官方实现的插件示例。该仓库包含插件 API 文档、开发指南以及多个预构建插件，覆盖代码补全、调试、版本控制等核心功能。通过标准化插件接口，开发者可扩展 Cursor 的编辑能力，实现自定义工作流集成。项目采用 TypeScript 编写，支持跨平台运行，适合需要深度定制编辑器功能的开发者参考。",
+  "content_markdown": null,
+  "tags": [
+    "cursor",
+    "editor-plugins",
+    "plugin-specification",
+    "typescript",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "cursor",
+  "published_at": null,
+  "collected_at": "2026-05-29T11:25:54Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941153,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150105,
+    "github_stars_today": 129,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

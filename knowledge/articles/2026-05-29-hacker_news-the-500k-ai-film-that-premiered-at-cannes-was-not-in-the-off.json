@@ -1,0 +1,30 @@
+{
+  "id": "b9ebd044a895823f642da51ba7eaddc8e6182db65458c0240a13e4217dcd399e",
+  "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+  "source_url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+  "source_type": "hacker_news",
+  "summary": "一篇报道揭露，一部号称耗资50万美元、在戛纳“首映”的AI生成电影《Hell Grind》实际上并未入选官方电影节单元。该片由AI初创公司Higgsfield制作，其宣传声称的“戛纳首映”实为在电影节场外租赁场地自行举办的放映活动，并非官方认可。文章批评了利用AI技术进行营销炒作的现象，指出该片质量与宣传不符，并探讨了AI电影在传统电影节体系中的边缘地位。事件引发了对AI生成内容真实性及行业伦理的讨论。",
+  "content_markdown": null,
+  "tags": [
+    "ai-film",
+    "cannes",
+    "marketing-ethics",
+    "ai-generated-content",
+    "hype"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Fri, 29 May 2026 09:34:37 +0000",
+  "collected_at": "2026-05-29T11:25:55Z",
+  "analyzed_at": "2026-05-29T11:26:49Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

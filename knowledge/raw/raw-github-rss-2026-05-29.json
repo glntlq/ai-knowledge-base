@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-05-29T11:25:53Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "author": "harry0703",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269468299,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509872,
+        "github_stars_today": 4698,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694128523,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508814,
+        "github_stars_today": 1410,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "author": "EveryInc",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417947,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501368,
+        "github_stars_today": 184,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/twentyhq/twenty",
+      "title": "twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "author": "twentyhq",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269448123,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506822,
+        "github_stars_today": 493,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694127581,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015020885,
+        "github_stars_today": 319,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Leonxlnx/taste-skill",
+      "title": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "author": "Leonxlnx",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427423,
+        "github_language": "Shell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502036,
+        "github_stars_today": 2234,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/cursor/plugins",
+      "title": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "author": "cursor",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941153,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150105,
+        "github_stars_today": 129,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/run-llama/liteparse",
+      "title": "run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "author": "run-llama",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946697,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150425,
+        "github_stars_today": 932,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/galilai-group/stable-worldmodel",
+      "title": "galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "author": "galilai-group",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941034,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150141,
+        "github_stars_today": 346,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/byoungd/English-level-up-tips",
+      "title": "byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "author": "byoungd",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449250,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505169,
+        "github_stars_today": 2019,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Biohub/esm",
+      "title": "Biohub/esm",
+      "description": "",
+      "author": "Biohub",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942499,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150311,
+        "github_stars_today": 102,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "title": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "author": "Crosstalk-Solutions",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426666,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502643,
+        "github_stars_today": 294,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "title": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "author": "DigitalPlatDev",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694171293,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503319,
+        "github_stars_today": 1761,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694198029,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015030440,
+        "github_stars_today": 1385,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/hardikpandya/stop-slop",
+      "title": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "author": "hardikpandya",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946695,
+        "github_language": null,
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150477,
+        "github_stars_today": 761,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "title": "DataTalksClub/data-engineering-zoomcamp",
+      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "author": "DataTalksClub",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269441410,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508259,
+        "github_stars_today": 161,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "author": "codecrafters-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694506931,
+        "github_language": "Markdown",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015048135,
+        "github_stars_today": 1066,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-05-29T11:25:54Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "description": "Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 24 # Comments: 22",
+      "author": "",
+      "published_at": "Fri, 29 May 2026 09:47:23 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-29T11:25:55Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+      "description": "Article URL: https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/ Comments URL: https://news.ycombinator.com/item?id=48320985 Points: 20 # Comments: 8",
+      "author": "",
+      "published_at": "Fri, 29 May 2026 09:34:37 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-29T11:25:55Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://llmgame.scalex.dev",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "description": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 332 # Comments: 135",
+      "author": "",
+      "published_at": "Thu, 28 May 2026 13:02:00 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-05-29T11:25:55Z"
+    }
+  ]
+}

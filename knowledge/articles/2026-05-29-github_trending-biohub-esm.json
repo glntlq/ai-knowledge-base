@@ -1,0 +1,35 @@
+{
+  "id": "2464e0e0f32e9eb124087ca1a1c540e73c01abf967edd441d4e6a88b18e8355c",
+  "title": "Biohub/esm",
+  "source_url": "https://github.com/Biohub/esm",
+  "source_type": "github_trending",
+  "summary": "ESM（Evolutionary Scale Modeling）是由Meta AI（原Facebook AI）开发的开源蛋白质语言模型系列，基于Transformer架构，通过大规模无监督学习从数亿条蛋白质序列中捕捉进化模式。该模型在蛋白质结构预测、功能注释、突变效应预测等任务上表现优异，支持单序列和MSA（多序列比对）输入。ESM-2、ESM-1v等变体在零样本预测和微调场景中均有广泛应用，其开源生态促进了计算生物学和药物发现领域的快速发展。项目提供预训练权重、推理代码及Hugging Face集成，适合生物信息学、机器学习研究人员及工业应用开发者。",
+  "content_markdown": null,
+  "tags": [
+    "protein-language-model",
+    "bioinformatics",
+    "deep-learning",
+    "transformer",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "Biohub",
+  "published_at": null,
+  "collected_at": "2026-05-29T11:25:54Z",
+  "analyzed_at": "2026-05-29T11:26:27Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942499,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150311,
+    "github_stars_today": 102,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}

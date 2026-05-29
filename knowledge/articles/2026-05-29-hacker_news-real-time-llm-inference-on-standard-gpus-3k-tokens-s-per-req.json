@@ -1,0 +1,26 @@
+{
+  "id": "cfb322f8f6b1a41cc7796e314d520a05c058b5ffafd24ddd99b333835ac2ef4f",
+  "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+  "source_url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一种在标准GPU上实现实时大语言模型推理的方法，达到每请求每秒3000 tokens的吞吐量。通过优化模型架构、使用高效的批处理策略和内存管理技术，显著降低了推理延迟。该方法适用于消费级GPU，无需专用硬件，为低成本部署LLM提供了可行方案。文章详细讨论了量化、注意力机制优化和计算图融合等关键技术，并展示了实际性能数据。",
+  "content_markdown": null,
+  "tags": [
+    "llm-inference",
+    "gpu-optimization",
+    "real-time",
+    "quantization",
+    "batch-processing"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-29T11:25:55Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

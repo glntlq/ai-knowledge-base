@@ -1,0 +1,35 @@
+{
+  "id": "59d342bc10fbef960302cb967f661c9d0b6975cdebbabc5c89d860c40b5a30ba",
+  "title": "Crosstalk-Solutions/project-nomad",
+  "source_url": "https://github.com/Crosstalk-Solutions/project-nomad",
+  "source_type": "github_trending",
+  "summary": "Project N.O.M.A.D 是一个自包含的离线生存计算机项目，集成了关键工具、知识和人工智能，旨在任何时间、任何地点为用户提供信息支持和赋能。该项目由 Crosstalk Solutions 开发，源代码托管于 GitHub。它专注于在无网络环境下运行，内置生存所需的实用程序、知识库和 AI 助手，适用于灾难应急、野外探险或偏远地区工作等场景。项目强调自主性和可靠性，通过整合多种离线资源，确保用户即使与外界断开连接也能获得关键信息和决策辅助。",
+  "content_markdown": null,
+  "tags": [
+    "offline-computing",
+    "survival-tools",
+    "ai-assistant",
+    "disaster-preparedness",
+    "embedded-systems"
+  ],
+  "language": "zh",
+  "author": "Crosstalk-Solutions",
+  "published_at": null,
+  "collected_at": "2026-05-29T11:25:54Z",
+  "analyzed_at": "2026-05-29T11:26:30Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426666,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502643,
+    "github_stars_today": 294,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:30:00Z",
+    "published_at": null
+  }
+}
