@@ -1,0 +1,26 @@
+{
+  "id": "aea030f88d85b77c7f5af593a7bb0013bb800df45958d5dfc6aa0b496da57f21",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "source_url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "source_type": "hacker_news",
+  "summary": "Liquid AI 发布了 LFM 2.5-8B-A1B 混合专家（MoE）模型，该模型在 38 万亿 token 上训练，采用 8B 总参数、1B 激活参数的架构，旨在提升推理效率与性能。模型基于 Liquid 的专有架构，结合了稀疏激活和动态路由机制，在多项基准测试中展现出与更大规模模型相当的能力，同时显著降低计算成本。该发布标志着 MoE 模型在高效部署方面的重要进展，适用于资源受限环境下的自然语言处理任务。",
+  "content_markdown": null,
+  "tags": [
+    "liquid-ai",
+    "mixture-of-experts",
+    "large-language-model",
+    "efficient-inference",
+    "nlp"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-05-30T09:58:08Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

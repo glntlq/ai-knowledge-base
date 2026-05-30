@@ -1,0 +1,31 @@
+{
+  "id": "1ffb73c0b999ea7b1523ec404ceb066388b96fc1eb574af4ceb356cfb5b9ae4c",
+  "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+  "source_url": "https://github.com/jmaczan/tiny-vllm",
+  "source_type": "hacker_news",
+  "summary": "Tiny-vLLM 是一个用 C++ 和 CUDA 实现的高性能 LLM 推理引擎，专注于在资源受限环境下提供高效的大模型推理能力。该项目通过优化内存管理和计算调度，实现了低延迟和高吞吐量，支持多种主流模型架构。其核心优势在于轻量级设计，无需依赖庞大的框架即可运行，适合边缘设备或嵌入式场景。项目在 Hacker News 上获得 149 分和 13 条评论，表明社区对其性能优化和实用价值的高度认可。Tiny-vLLM 为开发者提供了一个可定制、高性能的推理解决方案，尤其适合需要快速部署和低资源消耗的应用场景。",
+  "content_markdown": null,
+  "tags": [
+    "llm-inference",
+    "cuda",
+    "c-plus-plus",
+    "high-performance",
+    "edge-ai"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Fri, 29 May 2026 19:38:27 +0000",
+  "collected_at": "2026-05-30T09:58:08Z",
+  "analyzed_at": "2026-05-30T09:59:01Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}
