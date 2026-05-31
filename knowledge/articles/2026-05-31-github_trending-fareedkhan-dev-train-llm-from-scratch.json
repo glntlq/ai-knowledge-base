@@ -1,0 +1,30 @@
+{
+  "id": "8c5a3f8d8337b430f1be26051d5092456b16f9cff30ef16ca36a3720d3f84765",
+  "title": "FareedKhan-dev/train-llm-from-scratch",
+  "source_url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套从零开始训练大型语言模型（LLM）的完整流程，涵盖数据下载、预处理、模型构建、训练到文本生成的各个环节。它旨在降低LLM训练的门槛，使开发者能够通过清晰的步骤和代码示例，理解并实践LLM的核心技术，包括Transformer架构、自注意力机制、分词器使用以及训练循环的实现。项目强调实用性和可复现性，适合希望深入掌握LLM训练细节的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "transformer",
+    "deep-learning",
+    "nlp",
+    "training-pipeline"
+  ],
+  "language": "en",
+  "author": "FareedKhan-dev",
+  "published_at": null,
+  "collected_at": "2026-05-31T10:13:12Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942492,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150392,
+    "github_stars_today": 327,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

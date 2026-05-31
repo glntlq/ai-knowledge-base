@@ -1,0 +1,30 @@
+{
+  "id": "522be4350ab8f8148ecfa00d245b47025e769a8cc412f02b1f6c6748971ce50f",
+  "title": "OpenBMB/VoxCPM",
+  "source_url": "https://github.com/OpenBMB/VoxCPM",
+  "source_type": "github_trending",
+  "summary": "VoxCPM2 是一个基于因果语言模型的无分词器文本转语音（TTS）系统，支持多语种语音生成、创意语音设计和逼真语音克隆。它采用 tokenizer-free 架构，直接对原始音频波形进行建模，避免了传统 TTS 中分词器带来的信息损失，从而生成更自然、富有表现力的语音。VoxCPM2 在多个语种上表现出色，能够实现跨语言语音合成，并允许用户通过简单提示进行语音风格和音色的创意设计。此外，其语音克隆功能仅需少量参考音频即可生成高度逼真的目标说话人语音。该项目由 OpenBMB 团队开发，旨在推动多语种语音生成技术的开源与普及。",
+  "content_markdown": null,
+  "tags": [
+    "text-to-speech",
+    "speech-synthesis",
+    "voice-cloning",
+    "multilingual",
+    "causal-language-model"
+  ],
+  "language": "zh",
+  "author": "OpenBMB",
+  "published_at": null,
+  "collected_at": "2026-05-31T10:13:12Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423042,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502693,
+    "github_stars_today": 779,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

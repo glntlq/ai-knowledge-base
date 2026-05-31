@@ -1,0 +1,30 @@
+{
+  "id": "19766d0c248bec57b348086cd5dd5702cfd65d4975a4abddcb63a3c426010252",
+  "title": "dreammis/social-auto-upload",
+  "source_url": "https://github.com/dreammis/social-auto-upload",
+  "source_type": "github_trending",
+  "summary": "social-auto-upload 是一个开源自动化工具，支持将视频内容一键上传至抖音、小红书、视频号、TikTok、YouTube 和 Bilibili 等主流社交媒体平台。该项目旨在简化多平台内容分发流程，通过配置账号信息和视频文件，实现批量或定时发布，适用于个人创作者及小型团队。其核心功能包括多平台适配、自动登录、视频元数据设置（标题、描述、标签）以及上传状态监控。项目采用模块化设计，便于扩展新平台。当前处于活跃开发阶段，社区贡献者持续优化平台兼容性与稳定性。该工具显著提升了跨平台内容运营效率，降低了重复操作成本。",
+  "content_markdown": null,
+  "tags": [
+    "social-media",
+    "automation",
+    "video-upload",
+    "content-distribution",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "dreammis",
+  "published_at": null,
+  "collected_at": "2026-05-31T10:13:12Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411953,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502106,
+    "github_stars_today": 73,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

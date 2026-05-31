@@ -1,0 +1,30 @@
+{
+  "id": "9ec84bd9b2de61f34c6265d3af2c6bdbc3918a7e0a4af31ec7b1fb33642f4e19",
+  "title": "chen08209/FlClash",
+  "source_url": "https://github.com/chen08209/FlClash",
+  "source_type": "github_trending",
+  "summary": "FlClash 是一个基于 ClashMeta 的多平台代理客户端，以简洁易用、开源无广告为特点。它支持多种操作系统，提供统一的代理配置管理界面，旨在降低用户使用代理工具的门槛。项目采用 ClashMeta 核心，兼容其规则和配置格式，适合需要跨平台代理解决方案的用户。",
+  "content_markdown": null,
+  "tags": [
+    "proxy-client",
+    "clash-meta",
+    "multi-platform",
+    "open-source",
+    "vpn"
+  ],
+  "language": "zh",
+  "author": "chen08209",
+  "published_at": null,
+  "collected_at": "2026-05-31T10:13:12Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269440474,
+    "github_language": "Dart",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502534,
+    "github_stars_today": 187,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}
