@@ -1,0 +1,29 @@
+{
+  "id": "ddbc539e58b741da446902097ceeab267c813d95f2a8a0a46d064a80b9eeeb9a",
+  "title": "pbakaus/impeccable",
+  "source_url": "https://github.com/pbakaus/impeccable",
+  "source_type": "github_trending",
+  "summary": "Impeccable 是一个专注于提升 AI 工具设计质量的设计语言系统，由 pbakaus 开发并开源在 GitHub 上。该项目旨在为 AI 应用提供一套统一、优雅且实用的设计原则与组件库，帮助开发者更高效地构建用户界面，同时确保视觉一致性与可用性。Impeccable 强调设计语言在 AI 产品中的重要性，通过预设的样式、布局和交互模式，降低设计门槛，使非专业设计师也能创建出专业级别的界面。其核心价值在于弥合 AI 技术与用户体验之间的鸿沟，通过标准化设计元素，减少重复劳动，让团队更专注于功能创新。项目目前处于活跃开发阶段，提供了详细的文档和示例，适合希望快速提升 AI 工具界面质量的开发者参考与使用。",
+  "content_markdown": null,
+  "tags": [
+    "design-language",
+    "ai-tools",
+    "ui-components",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "pbakaus",
+  "published_at": null,
+  "collected_at": "2026-06-01T13:34:12Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432313,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501764,
+    "github_stars_today": 317,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

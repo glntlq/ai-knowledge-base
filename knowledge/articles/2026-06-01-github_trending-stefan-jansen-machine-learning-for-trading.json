@@ -1,0 +1,35 @@
+{
+  "id": "5ecfd6e1af517c4bacc431d070717cff50eb9e5b71de679f9f30caa399bad8e9",
+  "title": "stefan-jansen/machine-learning-for-trading",
+  "source_url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+  "source_type": "github_trending",
+  "summary": "该项目是《Machine Learning for Algorithmic Trading》第二版的配套代码仓库，由Stefan Jansen维护。它提供了从基础到高级的机器学习算法交易实现，涵盖数据获取、特征工程、模型训练（如回归、分类、时间序列、强化学习）及回测评估等完整流程。代码基于Python，依赖pandas、scikit-learn、TensorFlow/Keras、PyTorch等主流库，并包含大量Jupyter Notebook示例。适合希望将机器学习应用于量化金融领域的开发者与研究者，可作为学习教材或实际交易系统的参考实现。",
+  "content_markdown": null,
+  "tags": [
+    "machine-learning",
+    "algorithmic-trading",
+    "python",
+    "quantitative-finance",
+    "tensorflow"
+  ],
+  "language": "en",
+  "author": "stefan-jansen",
+  "published_at": null,
+  "collected_at": "2026-06-01T13:34:12Z",
+  "analyzed_at": "2026-06-01T13:35:03Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417618,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505171,
+    "github_stars_today": 82,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-01T00:00:00Z",
+    "analyzed_at": "2025-04-01T00:00:00Z",
+    "published_at": null
+  }
+}

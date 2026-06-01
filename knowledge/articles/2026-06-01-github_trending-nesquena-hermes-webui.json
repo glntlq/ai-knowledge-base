@@ -1,0 +1,34 @@
+{
+  "id": "daa0b5eecbfb39af740915d8cf87640a30cbb88befa3769780727ee10e938aad",
+  "title": "nesquena/hermes-webui",
+  "source_url": "https://github.com/nesquena/hermes-webui",
+  "source_type": "github_trending",
+  "summary": "Hermes WebUI 是一个基于 Web 的图形界面工具，旨在简化 Hermes Agent 的使用体验，支持从桌面浏览器或手机端访问。该项目由 nesquena 开发，托管于 GitHub。Hermes Agent 是一个用于自动化任务执行的智能代理框架，而 Hermes WebUI 为其提供了直观的交互界面，用户无需编写复杂命令即可配置和触发代理任务。该工具适合需要远程管理或移动办公场景，降低了 Hermes Agent 的使用门槛。项目当前处于活跃开发阶段，提供了响应式设计以适配不同屏幕尺寸。",
+  "content_markdown": null,
+  "tags": [
+    "web-ui",
+    "agent-framework",
+    "automation",
+    "mobile-friendly"
+  ],
+  "language": "en",
+  "author": "nesquena",
+  "published_at": null,
+  "collected_at": "2026-06-01T13:34:12Z",
+  "analyzed_at": "2026-06-01T13:34:23Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410586,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501422,
+    "github_stars_today": 984,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}

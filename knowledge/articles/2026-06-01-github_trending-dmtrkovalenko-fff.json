@@ -1,0 +1,34 @@
+{
+  "id": "78fc0bee1afa1896a19a7b359c6e75a8608102f9bdc57f2d63f28d218d9f4d5d",
+  "title": "dmtrKovalenko/fff",
+  "source_url": "https://github.com/dmtrKovalenko/fff",
+  "source_type": "github_trending",
+  "summary": "fff 是一个专为 AI 代理、Neovim、Rust、C 和 NodeJS 设计的高性能文件搜索工具包，以其极快的速度和极高的准确性著称。该项目利用 Rust 语言实现核心搜索逻辑，提供跨语言绑定，支持在多种环境中无缝集成。其设计目标包括最小化延迟、优化内存使用，并支持复杂的文件匹配模式。对于 AI 代理，fff 可作为高效的文件检索后端；在 Neovim 中，它提供比原生搜索更快的体验；对于 Rust、C 和 NodeJS 开发者，则提供原生库或绑定以加速文件操作。该项目在 GitHub 上开源，采用 MIT 许可证，适合需要高性能文件搜索的场景。",
+  "content_markdown": null,
+  "tags": [
+    "file-search",
+    "rust",
+    "neovim",
+    "ai-agents",
+    "performance"
+  ],
+  "language": "en",
+  "author": "dmtrKovalenko",
+  "published_at": null,
+  "collected_at": "2026-06-01T13:34:12Z",
+  "analyzed_at": "2026-06-01T13:35:06Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947011,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150297,
+    "github_stars_today": 121,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

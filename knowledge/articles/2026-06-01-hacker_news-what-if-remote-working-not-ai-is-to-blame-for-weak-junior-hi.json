@@ -1,0 +1,29 @@
+{
+  "id": "6b238a9e5695817729383fd42093e5e31999a6e15360e20315666c75b722383b",
+  "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+  "source_url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+  "source_type": "hacker_news",
+  "summary": "本文探讨远程工作对初级员工招聘的负面影响，而非人工智能。作者认为，远程工作模式削弱了初级员工的培训与指导机会，导致企业更倾向于招聘有经验者，从而加剧了初级岗位的招聘困难。文章基于行业观察和数据，指出远程协作中知识传递效率降低，团队凝聚力不足，使得企业难以培养新人。这一趋势可能长期影响人才梯队建设，建议企业优化混合办公模式，加强结构化培训。",
+  "content_markdown": null,
+  "tags": [
+    "remote-work",
+    "junior-hiring",
+    "talent-development",
+    "workplace-culture"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Fri, 29 May 2026 17:50:11 +0000",
+  "collected_at": "2026-06-01T13:34:16Z",
+  "analyzed_at": "2026-06-01T13:35:14Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

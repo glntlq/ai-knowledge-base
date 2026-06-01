@@ -1,0 +1,30 @@
+{
+  "id": "82dceb28e99fe6ca1bc1b4f88500cdb92ec28d9304970156bad0a7f245a3bcaa",
+  "title": "godotengine/godot",
+  "source_url": "https://github.com/godotengine/godot",
+  "source_type": "github_trending",
+  "summary": "Godot Engine 是一款开源、跨平台的 2D 和 3D 游戏引擎，支持 Windows、macOS、Linux、Android、iOS 及 Web 等平台。其核心特性包括场景系统、信号机制、内置脚本语言 GDScript（类似 Python）、可视化着色器编辑器、物理引擎、动画系统、音频系统及强大的 UI 工具。Godot 采用节点树架构，场景可嵌套复用，支持实时编辑与热重载。引擎体积小（约 30MB），无外部依赖，使用 MIT 许可证完全免费。社区活跃，拥有丰富的插件生态和文档。适用于独立开发者、小型团队及教育场景，尤其适合 2D 游戏开发，3D 能力持续增强。当前版本为 Godot 4.x，引入了 Vulkan 渲染器、新光照系统、改进的导航网格和更高效的资源管理。",
+  "content_markdown": null,
+  "tags": [
+    "game-engine",
+    "open-source",
+    "2d",
+    "3d",
+    "gdscript"
+  ],
+  "language": "zh",
+  "author": "godotengine",
+  "published_at": null,
+  "collected_at": "2026-06-01T13:34:12Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694111502,
+    "github_language": "C++",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015025497,
+    "github_stars_today": 56,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

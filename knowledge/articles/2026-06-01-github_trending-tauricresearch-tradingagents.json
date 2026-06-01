@@ -1,0 +1,35 @@
+{
+  "id": "2acad0f94695e6db24211bbd244cd9a103b519327a536ed6d8429aab227f03d9",
+  "title": "TauricResearch/TradingAgents",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "source_type": "github_trending",
+  "summary": "TradingAgents 是一个基于多智能体和大语言模型的金融交易框架，由 TauricResearch 开发并开源在 GitHub。该框架利用多个 LLM 驱动的智能体协同工作，模拟交易决策过程，支持市场分析、策略生成、风险评估和订单执行等模块。通过将复杂交易任务分解给不同专业智能体，系统能够提升决策的鲁棒性和适应性。项目旨在为量化交易和金融 AI 研究提供灵活的实验平台，适合对多智能体系统、LLM 应用及金融自动化感兴趣的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "financial-trading",
+    "quantitative-finance",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "TauricResearch",
+  "published_at": null,
+  "collected_at": "2026-06-01T13:34:12Z",
+  "analyzed_at": "2026-06-01T13:34:44Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269481478,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015845,
+    "github_stars_today": 284,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}

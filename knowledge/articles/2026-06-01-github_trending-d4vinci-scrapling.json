@@ -1,0 +1,30 @@
+{
+  "id": "fdace5fdb91297aadfff99fe2940ed0a1a57092e7659b5913b8fab397cc40ece",
+  "title": "D4Vinci/Scrapling",
+  "source_url": "https://github.com/D4Vinci/Scrapling",
+  "source_type": "github_trending",
+  "summary": "Scrapling 是一个自适应的 Web 抓取框架，能够处理从单个请求到大规模爬取的各种任务。它提供了灵活的配置选项，支持动态内容渲染、自动重试、请求限速、代理轮换等高级功能，并内置了智能解析引擎，可自动提取结构化数据。该框架采用模块化设计，易于扩展，适用于数据采集、监控、竞争情报等场景。Scrapling 基于 Python 开发，兼容主流异步库，性能高效，文档完善，社区活跃。",
+  "content_markdown": null,
+  "tags": [
+    "web-scraping",
+    "python",
+    "crawler",
+    "data-extraction",
+    "automation"
+  ],
+  "language": "zh",
+  "author": "D4Vinci",
+  "published_at": null,
+  "collected_at": "2026-06-01T13:34:12Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269457578,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505589,
+    "github_stars_today": 1475,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
