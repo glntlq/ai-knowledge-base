@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-06-02T12:02:22Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694140262,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509543,
+        "github_stars_today": 3034,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/nesquena/hermes-webui",
+      "title": "nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "author": "nesquena",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412164,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501509,
+        "github_stars_today": 945,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/supermemoryai/supermemory",
+      "title": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "author": "supermemoryai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424345,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502162,
+        "github_stars_today": 647,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "author": "harry0703",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269477625,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011013,
+        "github_stars_today": 3375,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/D4Vinci/Scrapling",
+      "title": "D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "author": "D4Vinci",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269458678,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505678,
+        "github_stars_today": 1486,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/pbakaus/impeccable",
+      "title": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "author": "pbakaus",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433258,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501805,
+        "github_stars_today": 485,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/p-e-w/heretic",
+      "title": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "author": "p-e-w",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423215,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502481,
+        "github_stars_today": 249,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "author": "EveryInc",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419286,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501433,
+        "github_stars_today": 417,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "author": "TauricResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269482174,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015954,
+        "github_stars_today": 299,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/revfactory/harness",
+      "title": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "author": "revfactory",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945393,
+        "github_language": "HTML",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150717,
+        "github_stars_today": 524,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/godotengine/godot",
+      "title": "godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "author": "godotengine",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694111875,
+        "github_language": "C++",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015025527,
+        "github_stars_today": 77,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/can1357/oh-my-pi",
+      "title": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "author": "can1357",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949814,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150799,
+        "github_stars_today": 335,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenBMB/VoxCPM",
+      "title": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "author": "OpenBMB",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424737,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502846,
+        "github_stars_today": 888,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "title": "FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "author": "FareedKhan-dev",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943989,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150537,
+        "github_stars_today": 861,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "title": "stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "author": "stefan-jansen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269418141,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505202,
+        "github_stars_today": 93,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/dmtrKovalenko/fff",
+      "title": "dmtrKovalenko/fff",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "author": "dmtrKovalenko",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947378,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150301,
+        "github_stars_today": 135,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "author": "codecrafters-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694510873,
+        "github_language": "Markdown",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015048436,
+        "github_stars_today": 1212,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-02T12:02:23Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+      "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+      "description": "<p><a href=\"https://lobste.rs/s/t8emho/thunderbolt_ibverbs_we_have_infiniband\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 02 Jun 2026 00:20:57 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-02T12:02:24Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.aeracode.org/2026/06/01/constraining-llms/",
+      "title": "Constraining LLMs Just Like Users",
+      "description": "<p><a href=\"https://lobste.rs/s/zom23n/constraining_llms_just_like_users\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 01 Jun 2026 18:07:30 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-02T12:02:24Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+      "title": "It's Not Just X. It's Y",
+      "description": "<p><a href=\"https://lobste.rs/s/4xllsb/it_s_not_just_x_it_s_y\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sun, 31 May 2026 22:33:55 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-02T12:02:24Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "05f4b649be77af8133bb83c4ecfbc7537542f73695797ac2f78dd8e24e669157",
+  "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+  "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了如何利用Thunderbolt接口实现类似InfiniBand的高性能网络通信。通过将两台计算机通过Thunderbolt直连，并配置ibverbs（InfiniBand Verbs API），可以在低成本硬件上获得低延迟、高带宽的数据传输能力。文章详细描述了硬件要求（如Thunderbolt 3/4线缆）、软件配置（包括Linux内核模块、rdma-core库）以及性能测试结果，展示了在普通消费级设备上实现RDMA（远程直接内存访问）的可行性。这种方案特别适合小型集群、边缘计算或实验环境，为缺乏专用InfiniBand硬件的场景提供了替代方案。",
+  "content_markdown": null,
+  "tags": [
+    "thunderbolt",
+    "infiniband",
+    "rdma",
+    "high-performance-computing",
+    "linux"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-02T12:02:24Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a0ef0baec6e2fe146233d2e21bff91cc073c9c7b1ae0239a9220958987964844",
+  "title": "Constraining LLMs Just Like Users",
+  "source_url": "https://www.aeracode.org/2026/06/01/constraining-llms/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了如何像约束普通用户一样约束大型语言模型（LLM），提出通过权限管理、访问控制和行为规则来限制LLM的输出与行为。作者认为，当前对LLM的约束多集中在技术层面（如提示工程、微调），但缺乏类似用户权限系统的框架。文章建议为LLM定义明确的角色、权限和操作边界，例如禁止访问敏感数据、限制生成有害内容，并引入审计日志。这种方法可提升LLM在应用中的安全性和可控性，尤其适用于企业级部署。文中还讨论了实现挑战，包括动态权限调整和跨模型兼容性。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "access-control",
+    "ai-safety",
+    "permissions",
+    "enterprise-ai"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-02T12:02:24Z",
+  "analyzed_at": "2026-06-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

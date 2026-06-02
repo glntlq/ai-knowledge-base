@@ -1,0 +1,26 @@
+{
+  "id": "738911ca11f621a80ea6bc7ef444795baf4b71091454dc288340820a5556142d",
+  "title": "It's Not Just X. It's Y",
+  "source_url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+  "source_type": "hacker_news",
+  "summary": "文章探讨了在机器学习中，数据本身并非唯一关键，后训练（post-training）过程同样至关重要。作者指出，许多研究者和从业者过度关注数据收集与预处理，而忽视了模型训练后的微调、优化与评估环节。后训练包括模型压缩、量化、蒸馏、超参数调整以及针对特定任务的适配等步骤，这些步骤能显著提升模型性能、泛化能力和部署效率。文章强调，一个精心设计的后训练流程可以弥补数据质量的不足，甚至使模型在有限数据下达到更优效果。同时，后训练还涉及模型的可解释性、公平性和鲁棒性等关键问题。作者呼吁社区应更加重视后训练的研究与实践，将其视为与数据同等重要的核心环节。",
+  "content_markdown": null,
+  "tags": [
+    "machine-learning",
+    "post-training",
+    "model-optimization",
+    "data-quality",
+    "mlops"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-02T12:02:24Z",
+  "analyzed_at": "2025-04-10T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
