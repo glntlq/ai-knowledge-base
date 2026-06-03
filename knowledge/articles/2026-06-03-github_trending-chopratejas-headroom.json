@@ -1,0 +1,30 @@
+{
+  "id": "8092996f19f64631b7b956009d8772afd81d20d924c2782a04afaabff49535f2",
+  "title": "chopratejas/headroom",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "source_type": "github_trending",
+  "summary": "Headroom 是一个开源工具，用于在数据到达大语言模型（LLM）之前压缩工具输出、日志、文件和 RAG 分块，可减少 60-95% 的 token 数量，同时保持答案质量不变。它提供库、代理和 MCP 服务器三种使用方式，适用于降低 LLM 调用成本、提升处理效率的场景。项目基于 GitHub 托管，采用 MIT 许可证，支持多种编程语言集成。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "token-compression",
+    "rag",
+    "open-source",
+    "cost-optimization"
+  ],
+  "language": "zh",
+  "author": "chopratejas",
+  "published_at": null,
+  "collected_at": "2026-06-03T12:39:58Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948333,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150554,
+    "github_stars_today": 3528,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

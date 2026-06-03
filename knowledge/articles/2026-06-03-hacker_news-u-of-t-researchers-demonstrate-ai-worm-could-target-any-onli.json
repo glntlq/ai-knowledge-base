@@ -1,0 +1,26 @@
+{
+  "id": "48cd6596eadce337a0d8498f32223c793f2756283734df64ccd862fb82cbb1e0",
+  "title": "U of T researchers demonstrate AI worm could target any online device",
+  "source_url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+  "source_type": "hacker_news",
+  "summary": "多伦多大学研究人员展示了一种名为“AI蠕虫”的新型攻击方式，能够针对任何在线设备。该蠕虫利用生成式AI的漏洞，通过自我复制和传播，窃取数据或执行恶意操作。研究团队在实验中成功让AI蠕虫在多个流行AI助手间传播，包括ChatGPT和Gemini，揭示了当前AI系统在安全性方面的严重缺陷。这一发现强调了加强AI安全防护的紧迫性，尤其是在AI应用日益普及的背景下。",
+  "content_markdown": null,
+  "tags": [
+    "ai-worm",
+    "cybersecurity",
+    "generative-ai",
+    "vulnerability",
+    "research"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-03T12:40:03Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

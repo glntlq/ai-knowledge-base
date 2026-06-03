@@ -1,0 +1,26 @@
+{
+  "id": "d8b260e422de8c9f2a3e030fc2fdb8e7129a126289f2295f329b537ae2347fed",
+  "title": "How we index images for RAG",
+  "source_url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了Kapa.ai团队为RAG（检索增强生成）系统构建图像索引的实践方法。核心挑战在于如何高效地从文档、网页等来源中提取并索引图像，使其能被大语言模型（LLM）检索和利用。作者详细阐述了其技术方案：首先，使用OCR（光学字符识别）技术提取图像中的文本内容，并结合图像标题、上下文描述等元数据；其次，利用多模态嵌入模型（如CLIP）将图像及其文本描述统一编码为向量，存入向量数据库；最后，在检索阶段，通过混合检索策略（结合文本相似度与图像语义相似度）召回相关图像。文章还讨论了图像去重、质量过滤、存储优化等工程细节，并分享了在生产环境中处理大规模图像索引的实践经验。该方案显著提升了RAG系统对多模态信息的理解与回答能力。",
+  "content_markdown": null,
+  "tags": [
+    "rag",
+    "image-indexing",
+    "multimodal-embedding",
+    "vector-database",
+    "ocr"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-03T12:40:03Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

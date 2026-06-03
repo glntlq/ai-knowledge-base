@@ -1,0 +1,26 @@
+{
+  "id": "006281db1d91570479d502b0213cae72f565b70706f5e65f81af24f4992b1aaa",
+  "title": "AI outperforms law professors in Stanford Law study",
+  "source_url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+  "source_type": "hacker_news",
+  "summary": "斯坦福法学院最新研究显示，AI在法律任务中的表现已超越法学教授。该研究对比了AI系统与人类专家在法律推理、文书起草和案例分析等核心领域的表现，AI在准确性和效率上均显著领先。这一发现引发了对法律教育、职业未来及AI伦理的广泛讨论。研究指出，AI并非替代律师，而是作为增强工具，可提升法律服务的可及性和质量。然而，AI的“黑箱”决策过程、偏见风险及责任归属问题仍需解决。该成果发表于斯坦福法学院官网，并在Hacker News上引发热议，获得299分和248条评论，凸显科技与法律交叉领域的关注度。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "legal-tech",
+    "stanford-law",
+    "machine-learning",
+    "ethics"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-03T12:40:03Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

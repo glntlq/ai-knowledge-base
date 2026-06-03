@@ -1,0 +1,26 @@
+{
+  "id": "142c2a168fed23c925d3cd007b77df23a366f240a838d62fecf9a39fa8da56f6",
+  "title": "Introducing RadixAttention to Trellis",
+  "source_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+  "source_type": "hacker_news",
+  "summary": "Trellis 团队提出 RadixAttention 机制，旨在优化大规模语言模型推理中的注意力计算效率。该方法通过引入基数树（Radix Tree）结构对注意力键值对进行高效缓存与复用，显著减少重复计算，降低显存占用与延迟。RadixAttention 特别适用于长上下文场景，如多轮对话、文档分析等，能有效缓解传统注意力机制在序列长度增长时的二次复杂度问题。实验表明，在保持模型精度的前提下，该机制可将推理吞吐量提升数倍，为部署高吞吐、低成本的 LLM 服务提供了新思路。",
+  "content_markdown": null,
+  "tags": [
+    "radix-attention",
+    "llm-inference",
+    "attention-mechanism",
+    "memory-optimization",
+    "trellis"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-03T12:40:06Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

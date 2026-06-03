@@ -1,0 +1,35 @@
+{
+  "id": "5b06ab0e295e74d1f4ba6de941a3dd798ac0a44b5543c7f98c9e516c61d1dd18",
+  "title": "reconurge/flowsint",
+  "source_url": "https://github.com/reconurge/flowsint",
+  "source_type": "github_trending",
+  "summary": "flowsint 是一个面向网络安全分析师和调查人员的现代化图形化调查平台，支持可视化、灵活且可扩展的基于图的调查流程。它允许用户通过节点和边构建复杂的调查路径，集成多种数据源和分析工具，以图形方式呈现关联关系，从而加速威胁追踪、事件响应和取证分析。平台强调模块化设计，用户可自定义插件扩展功能，适用于从日志分析到恶意软件追踪等多种安全场景。该项目在 GitHub 上开源，旨在降低安全调查的门槛，提升效率与协作性。",
+  "content_markdown": null,
+  "tags": [
+    "cybersecurity",
+    "graph-analysis",
+    "investigation-platform",
+    "visualization",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "reconurge",
+  "published_at": null,
+  "collected_at": "2026-06-03T12:39:58Z",
+  "analyzed_at": "2026-06-03T12:40:23Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944771,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150601,
+    "github_stars_today": 509,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z",
+    "published_at": null
+  }
+}

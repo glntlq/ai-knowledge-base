@@ -1,0 +1,26 @@
+{
+  "id": "e8000529d86f4543a57472d747d896b563b6b9d38202a5bd3388648669505e20",
+  "title": "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations (2024)",
+  "source_url": "https://www.youtube.com/watch?v=139UPjoq7Kw",
+  "source_type": "hacker_news",
+  "summary": "该视频（2024年）探讨了构建支持千万亿亿次浮点运算的机器学习系统所面临的挑战与设计策略。内容涵盖大规模分布式训练、硬件加速（如GPU/TPU集群）、数据管道优化、模型并行与数据并行技术，以及针对超大规模计算（如万亿参数模型）的存储与通信瓶颈解决方案。视频还讨论了在极端规模下保持系统效率、容错性和成本控制的关键实践，包括混合精度训练、梯度压缩和异步调度。这些系统设计对于推动AI前沿研究（如大语言模型和科学计算）至关重要。",
+  "content_markdown": null,
+  "tags": [
+    "machine-learning",
+    "distributed-systems",
+    "high-performance-computing",
+    "large-scale-training",
+    "hardware-acceleration"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-03T12:40:06Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b8b7bdc7c5405470344261739fb57446a2475e1783e0bd5cd4965dbca36be942",
+  "title": "jamwithai/production-agentic-rag-course",
+  "source_url": "https://github.com/jamwithai/production-agentic-rag-course",
+  "source_type": "github_trending",
+  "summary": "该GitHub仓库提供了一套面向生产环境的Agentic RAG（检索增强生成）课程，旨在教授如何构建可靠、可扩展的AI代理系统。课程内容涵盖从基础概念到高级部署的完整流程，包括文档解析、向量数据库集成、多轮对话管理、工具调用与编排、以及监控与评估。项目强调实战性，提供代码示例、最佳实践和架构模式，帮助开发者掌握将RAG与自主代理结合的技术，以处理复杂的企业级知识检索与生成任务。适合希望提升AI应用开发能力的中级及以上开发者。",
+  "content_markdown": null,
+  "tags": [
+    "rag",
+    "agentic-ai",
+    "retrieval-augmented-generation",
+    "llm",
+    "production-deployment"
+  ],
+  "language": "zh",
+  "author": "jamwithai",
+  "published_at": null,
+  "collected_at": "2026-06-03T12:39:58Z",
+  "analyzed_at": "2026-06-03T12:40:32Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946596,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501503,
+    "github_stars_today": 372,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z",
+    "published_at": null
+  }
+}
