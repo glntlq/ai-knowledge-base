@@ -1,0 +1,30 @@
+{
+  "id": "dfc74f70a2ccb15895e3121d64b416ec5f1abcd2e0f8030042ab69464e1f7019",
+  "title": "opendataloader-project/opendataloader-pdf",
+  "source_url": "https://github.com/opendataloader-project/opendataloader-pdf",
+  "source_type": "github_trending",
+  "summary": "OpenDataLoader-PDF 是一个开源 PDF 解析器，专为 AI 数据预处理设计。它能够自动提取 PDF 中的文本、表格和元数据，输出结构化、机器可读的格式（如 JSON/CSV），从而简化 PDF 文档的可访问性和数据准备流程。项目采用模块化架构，支持批量处理、自定义解析规则，并集成 OCR 以处理扫描件。该工具旨在解决非结构化 PDF 数据向 AI 训练数据转换的痛点，适用于文档分析、知识库构建、合规审查等场景。其开源特性允许开发者根据需求扩展功能，降低企业级 PDF 数据处理的成本。",
+  "content_markdown": null,
+  "tags": [
+    "pdf-parser",
+    "data-extraction",
+    "ai-data-preparation",
+    "ocr",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "opendataloader-project",
+  "published_at": null,
+  "collected_at": "2026-06-04T10:59:02Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423595,
+    "github_language": "Java",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502203,
+    "github_stars_today": 570,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

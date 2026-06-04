@@ -1,0 +1,35 @@
+{
+  "id": "58289d8fe5974d89155d7487196da46c2e0eb9c8f00d7d9cd90aa0f9d74f1bab",
+  "title": "HKUDS/Vibe-Trading",
+  "source_url": "https://github.com/HKUDS/Vibe-Trading",
+  "source_type": "github_trending",
+  "summary": "Vibe-Trading 是一个由香港大学数据科学实验室（HKUDS）开发的开源个人交易代理项目，旨在为加密货币和股票市场提供智能交易策略。该项目利用强化学习和深度学习技术，结合市场数据分析和情绪检测，实现自动化交易决策。核心功能包括实时市场监控、多因子模型预测、风险管理和回测系统。Vibe-Trading 支持多种交易平台 API 集成，并提供可视化仪表盘，帮助用户优化投资组合。项目代码开源，适合量化交易爱好者和研究人员进行二次开发与实验。",
+  "content_markdown": null,
+  "tags": [
+    "trading-agent",
+    "reinforcement-learning",
+    "quantitative-trading",
+    "cryptocurrency",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "HKUDS",
+  "published_at": null,
+  "collected_at": "2026-06-04T10:59:02Z",
+  "analyzed_at": "2026-06-04T10:59:50Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410483,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502050,
+    "github_stars_today": 197,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-13T00:00:00Z",
+    "analyzed_at": "2025-04-13T00:00:00Z",
+    "published_at": null
+  }
+}

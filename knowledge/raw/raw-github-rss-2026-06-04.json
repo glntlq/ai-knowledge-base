@@ -1,0 +1,310 @@
+{
+  "collected_at": "2026-06-04T10:59:01Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "author": "chopratejas",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411252,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150733,
+        "github_stars_today": 3530,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694206495,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015031704,
+        "github_stars_today": 2141,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/JuliusBrussee/caveman",
+      "title": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "author": "JuliusBrussee",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269468640,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503859,
+        "github_stars_today": 471,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/aquasecurity/trivy",
+      "title": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "author": "aquasecurity",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435541,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150424,
+        "github_stars_today": 24,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "author": "NousResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694180054,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015030851,
+        "github_stars_today": 1735,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/markitdown",
+      "title": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694143596,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509818,
+        "github_stars_today": 1984,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/nesquena/hermes-webui",
+      "title": "nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "author": "nesquena",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413308,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501622,
+        "github_stars_today": 719,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/D4Vinci/Scrapling",
+      "title": "D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "author": "D4Vinci",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269460758,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505855,
+        "github_stars_today": 1067,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "title": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "author": "opendataloader-project",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423595,
+        "github_language": "Java",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502203,
+        "github_stars_today": 570,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/odoo/odoo",
+      "title": "odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "author": "odoo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269452127,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015032661,
+        "github_stars_today": 29,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "author": "Open-LLM-VTuber",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949261,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501130,
+        "github_stars_today": 693,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jwasham/coding-interview-university",
+      "title": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "author": "jwasham",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694349385,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015083197,
+        "github_stars_today": 330,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "author": "lyogavin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419175,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502098,
+        "github_stars_today": 208,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/supermemoryai/supermemory",
+      "title": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "author": "supermemoryai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425410,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502225,
+        "github_stars_today": 600,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "author": "HKUDS",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410483,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502050,
+        "github_stars_today": 197,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-04T10:59:02Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://lobste.rs/s/humg0y/what_happened_tab_autocomplete",
+      "title": "What happened to tab autocomplete?",
+      "description": "<p>Does anyone still use them? Now that agentic programming software are available.</p>",
+      "author": "",
+      "published_at": "Thu, 04 Jun 2026 04:32:30 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-04T10:59:05Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+      "title": "Introducing RadixAttention to Trellis",
+      "description": "<p><a href=\"https://lobste.rs/s/g5opue/introducing_radixattention_trellis\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 03 Jun 2026 02:16:58 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-04T10:59:05Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+      "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+      "description": "<p><a href=\"https://lobste.rs/s/t8emho/thunderbolt_ibverbs_we_have_infiniband\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 02 Jun 2026 00:20:57 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-04T10:59:05Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.aeracode.org/2026/06/01/constraining-llms/",
+      "title": "Constraining LLMs Just Like Users",
+      "description": "<p><a href=\"https://lobste.rs/s/zom23n/constraining_llms_just_like_users\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 01 Jun 2026 18:07:30 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-04T10:59:05Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+      "title": "It's Not Just X. It's Y",
+      "description": "<p><a href=\"https://lobste.rs/s/4xllsb/it_s_not_just_x_it_s_y\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sun, 31 May 2026 22:33:55 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-04T10:59:05Z"
+    }
+  ]
+}

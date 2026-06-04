@@ -1,0 +1,35 @@
+{
+  "id": "a0ed48d0a7d85a9c41c0d384c31bd27c2d12e3b48b7fe850589daa086f0a1159",
+  "title": "jwasham/coding-interview-university",
+  "source_url": "https://github.com/jwasham/coding-interview-university",
+  "source_type": "github_trending",
+  "summary": "一个完整的计算机科学学习计划，旨在帮助学习者通过系统化的自学路径成为软件工程师。该项目由 John Washam 创建，最初源于其个人为通过大型科技公司面试而制定的学习笔记，后发展为涵盖数据结构、算法、操作系统、网络、数据库等核心领域的综合性指南。内容以开源方式维护，包含推荐书籍、在线课程、练习题及面试技巧，强调理论与实践结合，适合具备基础编程能力、希望系统提升计算机科学素养并准备技术面试的开发者。项目在 GitHub 上获得广泛关注，已成为自学计算机科学领域的标杆资源之一。",
+  "content_markdown": null,
+  "tags": [
+    "computer-science",
+    "study-plan",
+    "interview-preparation",
+    "algorithms",
+    "data-structures"
+  ],
+  "language": "zh",
+  "author": "jwasham",
+  "published_at": null,
+  "collected_at": "2026-06-04T10:59:02Z",
+  "analyzed_at": "2026-06-04T10:59:41Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694349385,
+    "github_language": null,
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015083197,
+    "github_stars_today": 330,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-01T00:00:00Z",
+    "analyzed_at": "2025-04-01T00:00:00Z",
+    "published_at": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1588597a3f58b5fd84770b80a3a4f36e5091c25328d9a2af39e5c5ae4ec3cf38",
+  "title": "lyogavin/airllm",
+  "source_url": "https://github.com/lyogavin/airllm",
+  "source_type": "github_trending",
+  "summary": "AirLLM 是一个轻量级推理框架，专为在资源受限设备上运行大型语言模型（LLM）而设计。其核心创新在于通过分层推理和内存优化技术，使得70B参数模型（如LLaMA-70B）仅需4GB显存的单GPU即可完成推理，无需模型量化或蒸馏。项目基于Python实现，支持Hugging Face模型格式，通过自动将模型层卸载至CPU内存并逐层加载到GPU计算，显著降低显存需求。AirLLM提供简洁API，兼容主流LLM架构，适用于边缘计算、个人电脑等低显存场景。该工具在GitHub上获得广泛关注，适合对LLM部署有低成本需求的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "llm-inference",
+    "memory-optimization",
+    "edge-ai",
+    "gpu",
+    "python"
+  ],
+  "language": "zh",
+  "author": "lyogavin",
+  "published_at": null,
+  "collected_at": "2026-06-04T10:59:02Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419175,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502098,
+    "github_stars_today": 208,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
