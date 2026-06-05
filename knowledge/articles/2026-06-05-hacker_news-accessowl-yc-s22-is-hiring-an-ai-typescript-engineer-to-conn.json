@@ -1,0 +1,26 @@
+{
+  "id": "41993b349226dae59e7c90ce6c11d63448237cf85d5fa71d68152ef2ae016a75",
+  "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+  "source_url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+  "source_type": "hacker_news",
+  "summary": "AccessOwl（YC S22）正在招聘一名AI TypeScript工程师，负责连接300个SaaS工具。该职位要求候选人具备AI集成、TypeScript开发经验，能够构建和优化跨SaaS平台的自动化工作流。公司专注于通过AI技术简化企业SaaS管理，提升运营效率。职位涉及设计智能连接器、开发自动化脚本、维护高可用系统。适合有SaaS集成、AI应用开发背景的工程师。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "typescript",
+    "saas",
+    "automation",
+    "y-combinator"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

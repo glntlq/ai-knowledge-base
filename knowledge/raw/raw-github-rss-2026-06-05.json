@@ -1,0 +1,306 @@
+{
+  "collected_at": "2026-06-05T11:26:08Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "author": "chopratejas",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413815,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150872,
+        "github_stars_today": 3142,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "author": "NousResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694181862,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015031205,
+        "github_stars_today": 1913,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694207852,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015031896,
+        "github_stars_today": 1750,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "title": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "author": "PaddlePaddle",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269480290,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010623,
+        "github_stars_today": 141,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/github/spec-kit",
+      "title": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "author": "github",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694108935,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509621,
+        "github_stars_today": 321,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NVIDIA/cosmos",
+      "title": "NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "author": "NVIDIA",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949257,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150589,
+        "github_stars_today": 133,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/lfnovo/open-notebook",
+      "title": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "author": "lfnovo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425522,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502946,
+        "github_stars_today": 212,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "author": "Open-LLM-VTuber",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949889,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501178,
+        "github_stars_today": 581,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jwasham/coding-interview-university",
+      "title": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "author": "jwasham",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694350128,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015083265,
+        "github_stars_today": 632,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/github/copilot-sdk",
+      "title": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "author": "github",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949115,
+        "github_language": "Java",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501216,
+        "github_stars_today": 38,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/aquasecurity/trivy",
+      "title": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "author": "aquasecurity",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435757,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150438,
+        "github_stars_today": 255,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openclaw/openclaw-windows-node",
+      "title": "openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "author": "openclaw",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941480,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150174,
+        "github_stars_today": 411,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/reconurge/flowsint",
+      "title": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "author": "reconurge",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945478,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150656,
+        "github_stars_today": 308,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "author": "mvanhorn",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427973,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502376,
+        "github_stars_today": 199,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-05T11:26:08Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://news.ycombinator.com/item?id=48410589",
+      "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
+      "description": "I got really tired, as a human, of parsing the standard marketing heavy web we have today. I've always loved the simplicity of gopher and gemini web. Recently I found myself manually adding `/llm.txt` to most websites I visit because I find the content for LLMs strait to the point and clear. The only annoyance is web browsers like chrome do not render the markdown. So could the AI revolution actually fix the web for humans as a side effect? Do you find yourself doing the same? Comments URL: https://news.ycombinator.com/item?id=48410589 Points: 11 # Comments: 11",
+      "author": "",
+      "published_at": "Fri, 05 Jun 2026 10:43:28 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-05T11:26:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://passo.uno/fine-tuning-docs-llm/",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "description": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 83 # Comments: 31",
+      "author": "",
+      "published_at": "Fri, 05 Jun 2026 05:46:06 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-05T11:26:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/alibaba/open-code-review",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "description": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 191 # Comments: 57",
+      "author": "",
+      "published_at": "Fri, 05 Jun 2026 00:04:29 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-05T11:26:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/anthropics/defending-code-reference-harness",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "description": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 442 # Comments: 124",
+      "author": "",
+      "published_at": "Thu, 04 Jun 2026 20:11:20 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-05T11:26:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+      "description": "Article URL: https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus Comments URL: https://news.ycombinator.com/item?id=48397435 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 04 Jun 2026 12:00:29 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-05T11:26:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+      "description": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern Comments URL: https://news.ycombinator.com/item?id=48369098 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Tue, 02 Jun 2026 12:01:04 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-05T11:26:11Z"
+    }
+  ]
+}

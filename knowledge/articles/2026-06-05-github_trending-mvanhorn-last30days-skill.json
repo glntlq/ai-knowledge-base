@@ -1,0 +1,30 @@
+{
+  "id": "51b5cc926cb76bfed892c5b9d21e587aab66937fae2c66009512109ad5cb7b45",
+  "title": "mvanhorn/last30days-skill",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI代理技能，能够跨Reddit、X（Twitter）、YouTube、Hacker News、Polymarket及通用网络搜索任意主题，并综合生成基于来源的摘要。它通过集成多个平台的数据源，利用大语言模型进行信息提取与整合，输出结构化的总结报告。该工具适用于快速获取跨平台热点话题的全面概览，尤其适合市场研究、趋势分析和舆情监测场景。其核心价值在于自动化多源信息聚合与摘要生成，减少人工检索与整理的时间成本。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "information-retrieval",
+    "summarization",
+    "multi-platform",
+    "research-tool"
+  ],
+  "language": "zh",
+  "author": "mvanhorn",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:08Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427973,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502376,
+    "github_stars_today": 199,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "5ecc20af191a45ad1c96c7332d59d7be03ad1e6085401d8186fa3916142fbc71",
+  "title": "Fine-tuning an LLM to write docs like it's 1995",
+  "source_url": "https://passo.uno/fine-tuning-docs-llm/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了如何微调大型语言模型（LLM），使其生成具有1995年风格的技术文档。作者通过收集90年代中期的文档样本，构建了一个小型数据集，并采用LoRA（低秩适应）方法对基础模型进行高效微调。实验表明，微调后的模型能够模仿当时文档的简洁、直接且略带非正式的语言风格，同时保持技术准确性。文章详细介绍了数据收集、预处理、微调参数设置及评估过程，并讨论了这种风格迁移在技术写作中的潜在应用，如为遗留系统生成风格一致的文档或创造怀旧内容。该研究展示了LLM在风格控制方面的灵活性，但作者也指出，由于数据集规模有限，模型在复杂技术主题上的表现仍有提升空间。",
+  "content_markdown": null,
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "lora",
+    "style-transfer",
+    "technical-writing"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:11Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

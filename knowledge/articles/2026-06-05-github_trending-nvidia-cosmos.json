@@ -1,0 +1,30 @@
+{
+  "id": "c2a4984d837ba161333a66bb8d61a2a2823374e08c70f271f0f4f76777c2171c",
+  "title": "NVIDIA/cosmos",
+  "source_url": "https://github.com/NVIDIA/cosmos",
+  "source_type": "github_trending",
+  "summary": "NVIDIA Cosmos 是一个开放的世界模型平台，提供数据集和工具，旨在帮助开发者构建用于机器人、自动驾驶汽车、智能基础设施等领域的物理 AI。该平台通过预训练的世界模型和合成数据生成能力，加速物理 AI 系统的开发与部署。Cosmos 包含多种规模的模型、高质量视频数据集以及用于模型训练和评估的实用工具，支持从仿真到真实世界的迁移学习。其核心目标是降低物理 AI 开发门槛，推动自主系统在复杂环境中的感知、规划和决策能力提升。",
+  "content_markdown": null,
+  "tags": [
+    "nvidia",
+    "world-models",
+    "physical-ai",
+    "robotics",
+    "autonomous-vehicles"
+  ],
+  "language": "zh",
+  "author": "NVIDIA",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:08Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949257,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150589,
+    "github_stars_today": 133,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

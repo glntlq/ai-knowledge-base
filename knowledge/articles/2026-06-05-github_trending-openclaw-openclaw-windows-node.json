@@ -1,0 +1,30 @@
+{
+  "id": "a31c3d8902e93de8659aa713c3d5b7ff59f2c2215255688bd5528c59c7dfb662",
+  "title": "openclaw/openclaw-windows-node",
+  "source_url": "https://github.com/openclaw/openclaw-windows-node",
+  "source_type": "github_trending",
+  "summary": "OpenClaw Windows Node 是 OpenClaw 项目的 Windows 配套套件，包含系统托盘应用、共享库、Node.js 接口以及 PowerToys 命令面板扩展。该项目旨在为 Windows 平台提供统一的系统级工具集成，通过系统托盘实现后台常驻，共享库提供核心功能复用，Node 接口允许开发者以脚本方式调用，PowerToys 扩展则利用微软官方工具增强命令面板体验。整体架构模块化，便于扩展和维护，适合需要深度集成 Windows 系统功能的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "windows",
+    "system-tray",
+    "nodejs",
+    "powertoys",
+    "openclaw"
+  ],
+  "language": "zh",
+  "author": "openclaw",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:08Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941480,
+    "github_language": "C#",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150174,
+    "github_stars_today": 411,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

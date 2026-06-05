@@ -1,0 +1,30 @@
+{
+  "id": "0620816afc1bc638cbae8d62cf7fff6f21146df31c38a1b8a25c992466f87086",
+  "title": "PaddlePaddle/PaddleOCR",
+  "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "source_type": "github_trending",
+  "summary": "PaddleOCR 是百度飞桨（PaddlePaddle）推出的轻量级 OCR 工具包，旨在将任意 PDF 或图像文档转换为结构化数据，为 AI 系统提供输入。该工具支持超过 100 种语言的文字识别，具备高精度、轻量化特点，能够有效桥接图像/PDF 与大语言模型（LLM）之间的数据鸿沟。PaddleOCR 提供了完整的文字检测、识别和结构化输出流程，适用于文档数字化、票据识别、多语言翻译等场景。其核心优势在于模型体积小、推理速度快，并支持端到端训练与部署，可灵活集成到各类 AI 应用中。作为 GitHub 上的热门开源项目，PaddleOCR 持续更新，社区活跃，是当前 OCR 领域的重要解决方案之一。",
+  "content_markdown": null,
+  "tags": [
+    "ocr",
+    "paddlepaddle",
+    "document-processing",
+    "deep-learning",
+    "multilingual"
+  ],
+  "language": "zh",
+  "author": "PaddlePaddle",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:08Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269480290,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010623,
+    "github_stars_today": 141,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

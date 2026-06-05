@@ -1,0 +1,26 @@
+{
+  "id": "8600ff76268b02945c85963affd8b072a0dd31c3d0383482f7ceecc515562b15",
+  "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
+  "source_url": "https://news.ycombinator.com/item?id=48410589",
+  "source_type": "hacker_news",
+  "summary": "用户对当前充斥着营销内容的网页感到厌倦，怀念Gopher和Gemini等简洁协议。他们发现许多网站通过`/llm.txt`为LLM提供直接清晰的内容，但浏览器不支持渲染Markdown。用户提出疑问：AI革命是否可能意外地改善人类浏览体验？该讨论在Hacker News上引发共鸣，获得11分和11条评论。",
+  "content_markdown": null,
+  "tags": [
+    "web-simplicity",
+    "llm-txt",
+    "human-web-experience",
+    "markdown-rendering",
+    "ai-side-effect"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:11Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

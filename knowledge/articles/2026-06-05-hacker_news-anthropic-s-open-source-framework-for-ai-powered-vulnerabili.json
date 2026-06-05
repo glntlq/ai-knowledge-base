@@ -1,0 +1,26 @@
+{
+  "id": "3f1da8d514ee5e9694a91b31b5afddc60f6e33db31ec41ece36ee949a0a2ee6b",
+  "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+  "source_url": "https://github.com/anthropics/defending-code-reference-harness",
+  "source_type": "hacker_news",
+  "summary": "Anthropic 发布开源框架 defending-code-reference-harness，用于 AI 驱动的漏洞发现。该框架结合静态分析与动态执行，自动化识别代码库中的安全缺陷，支持多种编程语言，并提供可扩展的插件接口。其核心优势在于利用大语言模型理解代码语义，减少误报，提升漏洞检测效率。框架包含预训练模型、规则引擎和报告生成模块，适用于 CI/CD 集成。Anthropic 强调该工具旨在辅助安全研究人员，而非完全替代人工审计。项目在 Hacker News 上获得 442 分和 124 条评论，引发社区对 AI 安全工具可靠性的讨论。",
+  "content_markdown": null,
+  "tags": [
+    "ai-security",
+    "vulnerability-detection",
+    "open-source",
+    "static-analysis",
+    "llm"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:11Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

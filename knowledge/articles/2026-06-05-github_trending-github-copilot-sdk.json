@@ -1,0 +1,35 @@
+{
+  "id": "11993491e9e33d1768db33d8493ffaee2d72e255b8430428c82dd16e48a44427",
+  "title": "github/copilot-sdk",
+  "source_url": "https://github.com/github/copilot-sdk",
+  "source_type": "github_trending",
+  "summary": "GitHub Copilot SDK 是一个多平台软件开发工具包，旨在将 GitHub Copilot Agent 集成到各类应用和服务中。该 SDK 提供了统一的接口和工具，使开发者能够在其自有产品中嵌入 Copilot 的代码补全、对话式编程辅助等 AI 能力，支持多种操作系统和编程环境。通过该 SDK，开发者可以快速构建基于 Copilot 的定制化编程助手、自动化代码审查工具或智能开发环境插件，从而提升开发效率。SDK 封装了与 Copilot 后端通信的复杂逻辑，简化了身份验证、会话管理和请求处理流程，降低了集成门槛。该项目由 GitHub 官方维护，持续更新以适配 Copilot 的最新功能，并提供了详细的文档和示例代码，适合希望利用 AI 增强开发工作流的团队和个人开发者。",
+  "content_markdown": null,
+  "tags": [
+    "github-copilot",
+    "sdk",
+    "ai-code-assistant",
+    "developer-tools",
+    "api-integration"
+  ],
+  "language": "en",
+  "author": "github",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:08Z",
+  "analyzed_at": "2026-06-05T11:26:45Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949115,
+    "github_language": "Java",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501216,
+    "github_stars_today": 38,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

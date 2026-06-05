@@ -1,0 +1,26 @@
+{
+  "id": "89478dc0b06c2340fed6d6b6910b752e8e3eca9e37e6a888b8298b25d9991615",
+  "title": "Open Code Review – An AI-powered code review CLI tool",
+  "source_url": "https://github.com/alibaba/open-code-review",
+  "source_type": "hacker_news",
+  "summary": "阿里巴巴开源项目 Open Code Review 是一款基于 AI 的代码审查命令行工具，旨在提升代码审查效率与质量。该工具集成多种 AI 模型，可自动分析代码变更，识别潜在缺陷、安全漏洞及风格问题，并生成审查建议。支持主流版本控制系统（如 Git），通过 CLI 接口无缝融入开发者工作流。项目在 Hacker News 上获得 191 分和 57 条评论，引发社区关注。Open Code Review 通过自动化审查减轻人工负担，尤其适用于大型团队和持续集成场景，有助于标准化代码质量流程。其开源特性允许定制和扩展，为开发者提供灵活、高效的代码审查辅助方案。",
+  "content_markdown": null,
+  "tags": [
+    "code-review",
+    "cli",
+    "ai",
+    "open-source",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-05T11:26:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
