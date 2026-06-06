@@ -1,0 +1,29 @@
+{
+  "id": "e7095c04535d655708cfb2b5ee4b043012164f7f14b2b0cf2bd97ed9255453dd",
+  "title": "MemPalace/mempalace",
+  "source_url": "https://github.com/MemPalace/mempalace",
+  "source_type": "github_trending",
+  "summary": "MemPalace 是一个开源 AI 记忆系统，在基准测试中表现最佳，且完全免费。该项目旨在为 AI 应用提供高效、可扩展的记忆管理能力，支持长期上下文存储与检索，适用于对话、知识管理等场景。其核心优势在于高性能基准测试结果和零成本使用，适合开发者集成到各类 AI 项目中。",
+  "content_markdown": null,
+  "tags": [
+    "ai-memory",
+    "open-source",
+    "knowledge-management",
+    "benchmark"
+  ],
+  "language": "en",
+  "author": "MemPalace",
+  "published_at": null,
+  "collected_at": "2026-06-06T10:01:21Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454023,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507090,
+    "github_stars_today": 227,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

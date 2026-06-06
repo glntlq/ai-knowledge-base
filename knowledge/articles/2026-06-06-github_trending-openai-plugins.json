@@ -1,0 +1,30 @@
+{
+  "id": "47708cb0b83450d39af3247c647a64b4fe04f85be380f72b2a61cb2d972b95f1",
+  "title": "openai/plugins",
+  "source_url": "https://github.com/openai/plugins",
+  "source_type": "github_trending",
+  "summary": "OpenAI Plugins 是 OpenAI 推出的扩展机制，允许 ChatGPT 等模型通过插件调用外部 API、访问实时数据、执行计算或与第三方服务交互。该仓库提供了插件开发规范、示例代码和文档，支持开发者构建自定义插件以增强语言模型的能力。插件系统采用 manifest 文件定义元数据，通过 OAuth 或 API Key 进行认证，并遵循特定的请求/响应格式。这一架构使 AI 模型能够安全地连接外部工具（如浏览器、代码解释器、数据库），从而突破训练数据的时间限制，实现动态信息检索和任务自动化。OpenAI Plugins 的发布标志着大语言模型从封闭对话向开放生态的关键转变，推动了 AI Agent 和工具使用范式的普及。",
+  "content_markdown": null,
+  "tags": [
+    "openai",
+    "plugins",
+    "llm",
+    "api",
+    "chatgpt"
+  ],
+  "language": "zh",
+  "author": "openai",
+  "published_at": null,
+  "collected_at": "2026-06-06T10:01:21Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941618,
+    "github_language": "JavaScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150251,
+    "github_stars_today": 49,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

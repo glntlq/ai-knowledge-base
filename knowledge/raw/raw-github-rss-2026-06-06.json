@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-06-06T10:01:20Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "author": "NousResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694184033,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015031536,
+        "github_stars_today": 1845,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "author": "chopratejas",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269415019,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150956,
+        "github_stars_today": 2473,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/CopilotKit/CopilotKit",
+      "title": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "author": "CopilotKit",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432908,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504213,
+        "github_stars_today": 366,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/lfnovo/open-notebook",
+      "title": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "author": "lfnovo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426271,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503015,
+        "github_stars_today": 1152,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694208678,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015032004,
+        "github_stars_today": 1361,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Panniantong/Agent-Reach",
+      "title": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "author": "Panniantong",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421875,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501883,
+        "github_stars_today": 148,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NVIDIA/cosmos",
+      "title": "NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "author": "NVIDIA",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949531,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150606,
+        "github_stars_today": 479,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/666ghj/MiroFish",
+      "title": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "author": "666ghj",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269464905,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010097,
+        "github_stars_today": 320,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "author": "mvanhorn",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269428391,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502403,
+        "github_stars_today": 731,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "title": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "author": "PaddlePaddle",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269480700,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010640,
+        "github_stars_today": 747,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openai/plugins",
+      "title": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "author": "openai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941618,
+        "github_language": "JavaScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150251,
+        "github_stars_today": 49,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/MemPalace/mempalace",
+      "title": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "author": "MemPalace",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454023,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507090,
+        "github_stars_today": 227,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/withastro/flue",
+      "title": "withastro/flue",
+      "description": "The sandbox agent framework.",
+      "author": "withastro",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944635,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150246,
+        "github_stars_today": 126,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openclaw/openclaw-windows-node",
+      "title": "openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "author": "openclaw",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941657,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150186,
+        "github_stars_today": 326,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/aquasecurity/trivy",
+      "title": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "author": "aquasecurity",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435906,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150448,
+        "github_stars_today": 207,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jwasham/coding-interview-university",
+      "title": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "author": "jwasham",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694350560,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015083308,
+        "github_stars_today": 745,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/github/copilot-sdk",
+      "title": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "author": "github",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949336,
+        "github_language": "Java",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501232,
+        "github_stars_today": 309,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://zml.ai/",
+      "title": "ZML: Model to Metal",
+      "description": "<p><a href=\"https://lobste.rs/s/icyhpt/zml_model_metal\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 05 Jun 2026 22:28:53 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+      "title": "Introducing RadixAttention to Trellis",
+      "description": "<p><a href=\"https://lobste.rs/s/g5opue/introducing_radixattention_trellis\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 03 Jun 2026 02:16:58 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+      "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+      "description": "<p><a href=\"https://lobste.rs/s/t8emho/thunderbolt_ibverbs_we_have_infiniband\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 02 Jun 2026 00:20:57 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-06T10:01:21Z"
+    }
+  ]
+}

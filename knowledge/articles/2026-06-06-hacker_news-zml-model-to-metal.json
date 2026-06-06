@@ -1,0 +1,26 @@
+{
+  "id": "7648b77d1dbaba4c6c8013d4a2353eb2fc6e11361e7ca2c2cde818652f7f8d8e",
+  "title": "ZML: Model to Metal",
+  "source_url": "https://zml.ai/",
+  "source_type": "hacker_news",
+  "summary": "ZML 是一个开源框架，旨在将机器学习模型高效地部署到 Apple Metal 后端，利用 GPU 加速推理。它提供从 PyTorch、TensorFlow 等主流框架导出的模型到 Metal 的转换工具，支持动态图执行和自动内存管理，显著降低延迟和功耗。ZML 专为 Apple 生态优化，适用于 iOS、macOS 等平台的本地 AI 推理场景，强调隐私保护和离线能力。项目处于活跃开发阶段，社区关注其在边缘设备上的性能表现。",
+  "content_markdown": null,
+  "tags": [
+    "machine-learning",
+    "apple-metal",
+    "gpu-acceleration",
+    "model-deployment",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-06T10:01:21Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

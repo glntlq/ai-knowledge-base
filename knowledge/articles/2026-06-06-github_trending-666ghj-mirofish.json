@@ -1,0 +1,35 @@
+{
+  "id": "4e93cf56a988c5ea17d0149956fd5878d0fda8f7c272dc0d6b6162fd6b1ae498",
+  "title": "666ghj/MiroFish",
+  "source_url": "https://github.com/666ghj/MiroFish",
+  "source_type": "github_trending",
+  "summary": "MiroFish 是一个简洁通用的群体智能引擎，旨在通过模拟群体智能算法实现万物预测。该项目基于 GitHub 开源，提供轻量级、易集成的解决方案，支持多种预测任务。其核心优势在于通用性和简洁性，适用于时间序列预测、模式识别等场景。引擎采用模块化设计，便于开发者快速上手和扩展。作为群体智能领域的实用工具，MiroFish 降低了预测技术的应用门槛，适合研究者和开发者探索群体智能在预测问题上的潜力。",
+  "content_markdown": null,
+  "tags": [
+    "swarm-intelligence",
+    "prediction-engine",
+    "open-source",
+    "machine-learning",
+    "python"
+  ],
+  "language": "zh",
+  "author": "666ghj",
+  "published_at": null,
+  "collected_at": "2026-06-06T10:01:21Z",
+  "analyzed_at": "2026-06-06T10:01:52Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269464905,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010097,
+    "github_stars_today": 320,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}
