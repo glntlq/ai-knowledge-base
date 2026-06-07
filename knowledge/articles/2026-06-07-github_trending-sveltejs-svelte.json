@@ -1,0 +1,30 @@
+{
+  "id": "63aa9434712a5e5644ce4199e8872a8f2031a51926dbc1d54a4ceff7e173f752",
+  "title": "sveltejs/svelte",
+  "source_url": "https://github.com/sveltejs/svelte",
+  "source_type": "github_trending",
+  "summary": "Svelte 是一个新兴的前端框架，采用编译时方法将声明式组件转换为高效的原生 JavaScript，从而减少运行时开销并提升性能。与 React 或 Vue 等运行时框架不同，Svelte 在构建阶段将组件编译为轻量级、无虚拟 DOM 的代码，显著缩小打包体积并加快加载速度。其核心特性包括响应式声明、模板语法、内置动画和过渡效果，以及对 TypeScript 的全面支持。Svelte 适合构建高性能 Web 应用，尤其适用于对包体积和首屏加载时间敏感的场景。该框架由 Rich Harris 创建，目前由社区维护，在 GitHub 上拥有超过 80k 星标，生态持续扩展，包括官方路由库 SvelteKit 和丰富的第三方工具链。",
+  "content_markdown": null,
+  "tags": [
+    "svelte",
+    "frontend-framework",
+    "compiler",
+    "web-development",
+    "javascript"
+  ],
+  "language": "zh",
+  "author": "sveltejs",
+  "published_at": null,
+  "collected_at": "2026-06-07T10:26:38Z",
+  "analyzed_at": "2025-04-10T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269487088,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504939,
+    "github_stars_today": 25,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

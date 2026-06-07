@@ -1,0 +1,30 @@
+{
+  "id": "78f1719e56b9fec0026eb6f879128872772bf9854f674718f7623bc6ab36fb41",
+  "title": "vitejs/vite",
+  "source_url": "https://github.com/vitejs/vite",
+  "source_type": "github_trending",
+  "summary": "Vite 是新一代前端构建工具，由 Vue.js 作者尤雨溪创建，旨在利用浏览器原生 ES 模块导入能力，提供极速的开发服务器启动和热更新。相比传统打包工具（如 Webpack），Vite 在开发环境下无需预先打包整个应用，而是按需编译，显著提升开发体验。生产构建则基于 Rollup 进行优化打包，支持多种前端框架（Vue、React、Svelte 等）和 TypeScript、CSS 预处理器等。Vite 2.0 起已趋于稳定，被广泛采用，成为 Vue 官方推荐构建工具，并逐步影响其他生态。其核心优势包括：秒级冷启动、即时热更新、开箱即用的 TypeScript 和 CSS 支持、插件系统丰富。Vite 代表了前端工具链向原生 ES 模块和更高效开发流程演进的重要方向。",
+  "content_markdown": null,
+  "tags": [
+    "vite",
+    "frontend-tooling",
+    "build-tool",
+    "javascript",
+    "es-modules"
+  ],
+  "language": "zh",
+  "author": "vitejs",
+  "published_at": null,
+  "collected_at": "2026-06-07T10:26:38Z",
+  "analyzed_at": "2025-04-01T01:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269481263,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508280,
+    "github_stars_today": 25,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

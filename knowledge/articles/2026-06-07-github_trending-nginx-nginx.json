@@ -1,0 +1,30 @@
+{
+  "id": "5881161e93d4d1673c4714a54b2296e7e625d8b6b4f4d5a6306d7c4bbaad57d7",
+  "title": "nginx/nginx",
+  "source_url": "https://github.com/nginx/nginx",
+  "source_type": "github_trending",
+  "summary": "NGINX 官方开源仓库，提供高性能 HTTP 服务器、反向代理、负载均衡及邮件代理功能。该项目采用类 BSD 许可证，支持事件驱动架构，以低资源消耗处理高并发连接。核心特性包括静态文件服务、TLS/SSL 终止、HTTP/2 与 gRPC 代理、缓存加速及可扩展模块系统。仓库包含完整源代码、构建脚本及文档，适用于 Linux、BSD 及 macOS 等平台。作为互联网基础设施组件，NGINX 广泛用于微服务网关、CDN 边缘节点及 API 网关场景。当前版本持续集成安全更新与性能优化，社区贡献活跃。",
+  "content_markdown": null,
+  "tags": [
+    "nginx",
+    "http-server",
+    "reverse-proxy",
+    "load-balancer",
+    "web-server"
+  ],
+  "language": "zh",
+  "author": "nginx",
+  "published_at": null,
+  "collected_at": "2026-06-07T10:26:38Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269430745,
+    "github_language": "C",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507959,
+    "github_stars_today": 20,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "70d77ac5918630ac5dbe31611a24e5b7fc06650fca1ceebd9daa15444f02fc83",
+  "title": "santifer/career-ops",
+  "source_url": "https://github.com/santifer/career-ops",
+  "source_type": "github_trending",
+  "summary": "基于Claude Code构建的AI驱动求职系统，提供14种技能模式、Go语言仪表盘、PDF生成与批量处理功能。该系统通过自动化简历优化、职位匹配与申请流程，显著提升求职效率。核心特性包括：多维度技能分析引擎、实时市场数据集成、智能面试准备模块及跨平台职位聚合。技术栈以Go语言后端为主，结合Claude API实现自然语言交互，支持自定义工作流与第三方ATS系统对接。适用于技术求职者快速定位高匹配度职位并生成定制化申请材料。",
+  "content_markdown": null,
+  "tags": [
+    "ai-job-search",
+    "claude-code",
+    "go",
+    "career-automation",
+    "resume-optimization"
+  ],
+  "language": "zh",
+  "author": "santifer",
+  "published_at": null,
+  "collected_at": "2026-06-07T10:26:38Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449660,
+    "github_language": "JavaScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010240,
+    "github_stars_today": 193,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

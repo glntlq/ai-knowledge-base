@@ -1,0 +1,35 @@
+{
+  "id": "8d2f70462d4722658469f80d498760fd798218a2557638d53429cb8d8df510be",
+  "title": "microsoft/VibeVoice",
+  "source_url": "https://github.com/microsoft/VibeVoice",
+  "source_type": "github_trending",
+  "summary": "VibeVoice 是微软开源的前沿语音 AI 项目，旨在提供高质量的语音合成与识别能力。该项目基于深度学习模型，支持多种语言和口音，具备低延迟、高自然度的特点。VibeVoice 提供了预训练模型和微调工具，便于开发者集成到各类应用中，如虚拟助手、有声读物生成、实时翻译等。其开源特性允许社区贡献和定制，推动了语音技术的民主化。项目代码托管在 GitHub，采用 MIT 许可证，适合研究和商业使用。",
+  "content_markdown": null,
+  "tags": [
+    "voice-ai",
+    "speech-synthesis",
+    "open-source",
+    "microsoft",
+    "deep-learning"
+  ],
+  "language": "zh",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-06-07T10:26:38Z",
+  "analyzed_at": "2026-06-07T10:27:34Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269448598,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505399,
+    "github_stars_today": 216,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}

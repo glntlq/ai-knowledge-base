@@ -1,0 +1,31 @@
+{
+  "id": "a5799f64429d95e9f663dfd7f039856589595427bfec773de845063e7e0e3421",
+  "title": "AI Worm",
+  "source_url": "https://arxiv.org/abs/2606.03811",
+  "source_type": "hacker_news",
+  "summary": "该研究提出了一种名为“AI Worm”的新型恶意软件概念，能够利用生成式AI模型的自主决策能力进行自我复制和传播。与传统蠕虫不同，AI Worm通过操纵AI系统的推理链，诱导其执行恶意操作，如窃取数据或发起网络攻击。实验表明，该蠕虫可在多个主流AI平台间传播，且现有安全机制难以有效检测。研究揭示了AI系统在缺乏严格行为约束时的潜在风险，强调了开发针对AI原生威胁的防御策略的紧迫性。",
+  "content_markdown": null,
+  "tags": [
+    "ai-security",
+    "malware",
+    "generative-ai",
+    "cybersecurity",
+    "autonomous-systems"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Sat, 06 Jun 2026 05:29:43 -0500",
+  "collected_at": "2026-06-07T10:26:39Z",
+  "analyzed_at": "2026-06-07T10:27:41Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-10T12:00:00Z",
+    "analyzed_at": "2025-04-10T14:30:00Z",
+    "published_at": null
+  }
+}
