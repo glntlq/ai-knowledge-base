@@ -1,0 +1,34 @@
+{
+  "id": "e3c17de33b46dde57e1b1483015f36adcddbf34846ab6806aa96dc1ff8206cc8",
+  "title": "TapXWorld/ChinaTextbook",
+  "source_url": "https://github.com/TapXWorld/ChinaTextbook",
+  "source_type": "github_trending",
+  "summary": "该项目收集并整理了从小学到高中、大学各阶段的PDF版中国教材，涵盖语文、数学、英语、物理、化学等主要学科。资源以年级和科目分类，便于用户查找和下载。项目旨在为师生及自学者提供便捷的教材获取渠道，尤其适合资源匮乏地区。所有教材均为PDF格式，可直接在线预览或下载。项目持续更新，但需注意版权问题，部分教材可能受版权保护。",
+  "content_markdown": null,
+  "tags": [
+    "education",
+    "pdf",
+    "textbook",
+    "china",
+    "open-education"
+  ],
+  "language": "zh",
+  "author": "TapXWorld",
+  "published_at": null,
+  "collected_at": "2026-06-08T12:26:14Z",
+  "analyzed_at": "2026-06-08T12:27:07Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269472847,
+    "github_language": "Roff",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015016310,
+    "github_stars_today": 593,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner",
+    "source_type": "github_trending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "collected_at": "2026-06-08T12:26:13Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "author": "mvanhorn",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433047,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502715,
+        "github_stars_today": 3558,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/RyanCodrai/turbovec",
+      "title": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "author": "RyanCodrai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947981,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150752,
+        "github_stars_today": 1730,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google/skills",
+      "title": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "author": "google",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412096,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150952,
+        "github_stars_today": 481,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/refactoringhq/tolaria",
+      "title": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "author": "refactoringhq",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413237,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150928,
+        "github_stars_today": 649,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Panniantong/Agent-Reach",
+      "title": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "author": "Panniantong",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423592,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501989,
+        "github_stars_today": 961,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "title": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "author": "danielmiessler",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269415225,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502146,
+        "github_stars_today": 337,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/santifer/career-ops",
+      "title": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "author": "santifer",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450008,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010293,
+        "github_stars_today": 665,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/phuryn/pm-skills",
+      "title": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "author": "phuryn",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412368,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501481,
+        "github_stars_today": 112,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openai/plugins",
+      "title": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "author": "openai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942195,
+        "github_language": "JavaScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150277,
+        "github_stars_today": 296,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Andyyyy64/whichllm",
+      "title": "Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "author": "Andyyyy64",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943178,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150187,
+        "github_stars_today": 103,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/MemPalace/mempalace",
+      "title": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "author": "MemPalace",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454695,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507142,
+        "github_stars_today": 452,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/roboflow/supervision",
+      "title": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "author": "roboflow",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269441964,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503762,
+        "github_stars_today": 957,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/CopilotKit/CopilotKit",
+      "title": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "author": "CopilotKit",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433902,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504289,
+        "github_stars_today": 578,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TapXWorld/ChinaTextbook",
+      "title": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "author": "TapXWorld",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269472847,
+        "github_language": "Roff",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015016310,
+        "github_stars_today": 593,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/luongnv89/claude-howto",
+      "title": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "author": "luongnv89",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435493,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504326,
+        "github_stars_today": 154,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "title": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "author": "aaif-goose",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269447848,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505044,
+        "github_stars_today": 699,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-08T12:26:14Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://0xkato.xyz/how-llms-actually-work/",
+      "title": "How LLMs Actually Work",
+      "description": "<p><a href=\"https://lobste.rs/s/pumnjn/how_llms_actually_work\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 06 Jun 2026 19:53:58 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-08T12:26:17Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/pdf/2605.31514",
+      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+      "description": "<p><a href=\"https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 06 Jun 2026 07:31:19 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-08T12:26:17Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.nature.com/articles/s41586-026-10319-8",
+      "title": "Language models transmit behavioural traits through hidden signals in data",
+      "description": "<p><a href=\"https://lobste.rs/s/wv1dx8/language_models_transmit_behavioural\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 06 Jun 2026 05:12:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-08T12:26:17Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://zml.ai/",
+      "title": "ZML: Model to Metal",
+      "description": "<p><a href=\"https://lobste.rs/s/icyhpt/zml_model_metal\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 05 Jun 2026 22:28:53 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-08T12:26:17Z"
+    }
+  ]
+}

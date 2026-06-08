@@ -1,0 +1,26 @@
+{
+  "id": "9c85306f20a6a881a38b3a2b074eb5cf49183842985781c9e8e4d1e98659923c",
+  "title": "Language models transmit behavioural traits through hidden signals in data",
+  "source_url": "https://www.nature.com/articles/s41586-026-10319-8",
+  "source_type": "hacker_news",
+  "summary": "研究发现，大型语言模型（LLMs）在训练数据中隐藏的行为信号（如偏见、风格或决策模式）会通过模型输出传递给下游任务，即使这些信号在原始数据中不明显。这种隐性传播机制可能导致模型在未见过的场景中复现训练数据中的行为特征，影响模型的安全性和可靠性。研究通过实验验证了模型在文本生成、对话系统等任务中会无意识地模仿数据中的潜在行为模式，并提出了检测和缓解此类传播的方法。该工作揭示了LLMs行为继承的新途径，对模型部署和监管具有重要启示。",
+  "content_markdown": null,
+  "tags": [
+    "large-language-models",
+    "behavioral-transmission",
+    "data-bias",
+    "model-safety",
+    "machine-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-08T12:26:17Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

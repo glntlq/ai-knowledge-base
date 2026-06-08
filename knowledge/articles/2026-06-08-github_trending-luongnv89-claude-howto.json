@@ -1,0 +1,30 @@
+{
+  "id": "4a6350989502ac0681ba0ab2b2fee859db09f3b01330e0bb9c7739c9e9e5332e",
+  "title": "luongnv89/claude-howto",
+  "source_url": "https://github.com/luongnv89/claude-howto",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向 Claude Code 的视觉化、示例驱动的指南，涵盖从基础概念到高级代理的完整内容。它提供了可直接复制粘贴的模板，旨在为用户带来即时价值。指南通过丰富的示例和可视化元素，帮助用户快速掌握 Claude Code 的使用方法，包括基本操作、高级功能以及如何构建和部署代理。项目结构清晰，适合不同水平的开发者，从初学者到高级用户都能从中受益。",
+  "content_markdown": null,
+  "tags": [
+    "claude-code",
+    "guide",
+    "templates",
+    "ai-agents",
+    "visual-guide"
+  ],
+  "language": "zh",
+  "author": "luongnv89",
+  "published_at": null,
+  "collected_at": "2026-06-08T12:26:14Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435493,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504326,
+    "github_stars_today": 154,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

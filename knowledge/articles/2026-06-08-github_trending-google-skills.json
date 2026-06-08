@@ -1,0 +1,35 @@
+{
+  "id": "d4c46726ba07552f0d599706c25ea3d3166de318509596a5745fa7a57dc21346",
+  "title": "google/skills",
+  "source_url": "https://github.com/google/skills",
+  "source_type": "github_trending",
+  "summary": "Google 推出的开源项目 'skills'，旨在为 Google 产品和技术提供智能代理技能（Agent Skills）。该项目提供了一套标准化的接口和实现，使开发者能够为 Google 生态（如 Workspace、Cloud、Android 等）构建可复用的 AI 代理功能模块。通过定义清晰的技能规范，项目降低了将 AI 代理集成到 Google 服务中的门槛，支持自然语言交互、任务自动化与跨应用协作。当前仓库包含示例技能、开发指南及测试框架，适用于希望扩展 Google 产品智能化能力的开发者。该项目体现了 Google 在 AI 代理领域的标准化努力，有助于推动多模态、多服务的智能工作流构建。",
+  "content_markdown": null,
+  "tags": [
+    "google",
+    "agent-skills",
+    "ai-agents",
+    "open-source",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "google",
+  "published_at": null,
+  "collected_at": "2026-06-08T12:26:14Z",
+  "analyzed_at": "2026-06-08T12:26:29Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412096,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150952,
+    "github_stars_today": 481,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

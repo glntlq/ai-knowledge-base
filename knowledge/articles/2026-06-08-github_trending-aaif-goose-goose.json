@@ -1,0 +1,35 @@
+{
+  "id": "06d419f308a87ae1a0acd275e55939d44c0b2630bad594a9b60dc7c0574d59ae",
+  "title": "aaif-goose/goose",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "source_type": "github_trending",
+  "summary": "Goose 是一个开源、可扩展的 AI 代理，超越代码建议，能够与任何大型语言模型（LLM）集成，执行安装、执行、编辑和测试等操作。它旨在为开发者提供更全面的自动化辅助，支持通过插件扩展功能，适用于多种开发场景。该项目在 GitHub 上活跃，强调灵活性和与不同 LLM 的兼容性，适合需要高级 AI 代理功能的用户。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "open-source",
+    "llm",
+    "developer-tools",
+    "extensible"
+  ],
+  "language": "en",
+  "author": "aaif-goose",
+  "published_at": null,
+  "collected_at": "2026-06-08T12:26:14Z",
+  "analyzed_at": "2026-06-08T12:27:13Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269447848,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505044,
+    "github_stars_today": 699,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

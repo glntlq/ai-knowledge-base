@@ -1,0 +1,26 @@
+{
+  "id": "f9e25adcaac004ff60804be0ac10e8f5c0916a7c02ce59df06b9a48d63f78ce3",
+  "title": "How LLMs Actually Work",
+  "source_url": "https://0xkato.xyz/how-llms-actually-work/",
+  "source_type": "hacker_news",
+  "summary": "本文深入浅出地解释了大型语言模型（LLM）的工作原理，从基础概念到核心机制。文章首先介绍了LLM的统计本质，即通过海量文本数据学习词语间的概率分布。随后详细阐述了Transformer架构的关键组件：自注意力机制（self-attention）如何让模型关注输入序列中不同位置的相关信息，以及多头注意力（multi-head attention）如何并行捕捉多种语义关系。文章还解释了位置编码（positional encoding）的必要性，以及前馈神经网络（FFN）和层归一化（layer normalization）的作用。最后，文章讨论了训练过程中的预训练（pre-training）与微调（fine-tuning）阶段，以及解码策略如贪婪搜索（greedy search）和束搜索（beam search）对生成文本质量的影响。整体内容清晰，适合对LLM有初步了解的读者进一步理解其内部运作。",
+  "content_markdown": null,
+  "tags": [
+    "large-language-models",
+    "transformer",
+    "attention-mechanism",
+    "machine-learning",
+    "natural-language-processing"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-08T12:26:17Z",
+  "analyzed_at": "2025-04-14T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "0e72ad8ebea24d9d8bb919024adb9d887f53da381d3b7e8de0cf6d53f3ac43a6",
+  "title": "refactoringhq/tolaria",
+  "source_url": "https://github.com/refactoringhq/tolaria",
+  "source_type": "github_trending",
+  "summary": "Tolaria 是一款桌面应用程序，专为管理 Markdown 知识库而设计。它提供直观的界面，使用户能够高效地组织、浏览和编辑 Markdown 文件，支持本地存储和版本控制。该工具旨在简化个人知识管理流程，适合笔记爱好者、研究人员和开发者使用。通过集成搜索、标签和目录功能，Tolaria 帮助用户快速定位信息，并支持导出为多种格式。其轻量级架构和跨平台兼容性（Windows、macOS、Linux）使其成为知识工作者的实用选择。",
+  "content_markdown": null,
+  "tags": [
+    "markdown",
+    "knowledge-management",
+    "desktop-app",
+    "note-taking"
+  ],
+  "language": "zh",
+  "author": "refactoringhq",
+  "published_at": null,
+  "collected_at": "2026-06-08T12:26:14Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413237,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150928,
+    "github_stars_today": 649,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}
