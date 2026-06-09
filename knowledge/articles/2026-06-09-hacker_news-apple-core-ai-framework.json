@@ -1,0 +1,26 @@
+{
+  "id": "2d335a0758cab7b008b0cd8599d0cb4a9f695b84846d3af782cb2c605475175e",
+  "title": "Apple Core AI Framework",
+  "source_url": "https://developer.apple.com/documentation/coreai/",
+  "source_type": "hacker_news",
+  "summary": "Apple 发布了 Core AI 框架，这是一个面向 iOS、macOS 等平台的新机器学习框架，旨在简化 AI 功能的集成与部署。该框架提供预训练模型、自定义模型训练工具以及设备端推理优化，支持自然语言处理、图像分析等常见任务。Core AI 强调隐私保护，所有处理均在本地完成，无需网络连接。框架还包含模型压缩与量化功能，以提升移动设备上的性能。开发者可通过 Swift 或 Objective-C 接口调用，降低 AI 开发门槛。此举是 Apple 在边缘 AI 领域的重要布局，与 Core ML 形成互补，进一步巩固其生态优势。",
+  "content_markdown": null,
+  "tags": [
+    "apple",
+    "machine-learning",
+    "ios",
+    "framework",
+    "privacy"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-09T10:58:15Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

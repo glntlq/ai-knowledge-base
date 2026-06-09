@@ -1,0 +1,26 @@
+{
+  "id": "8d6381f23807ff4298de6ffbfbe123d56fa0fa95027afb6e2c293536cf539125",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "source_url": "https://news.ycombinator.com/item?id=48449187",
+  "source_type": "hacker_news",
+  "summary": "自AI技术普及以来，开发者社区涌现出大量个人定制化工具，涵盖代码生成、自动化工作流、知识管理、内容创作辅助等领域。典型工具包括基于大语言模型的个人编程助手（如自动补全、代码审查）、AI驱动的笔记与知识库系统（如自动摘要、语义搜索）、以及用于日常任务自动化的脚本（如邮件分类、数据清洗）。这些工具多利用开源模型（如Llama、GPT）或API（如OpenAI、Claude）构建，强调低门槛、高定制性和隐私保护。社区反馈显示，AI工具显著提升了个人效率，但存在依赖模型质量、数据安全及过度自动化风险。趋势表明，未来个人AI工具将更注重本地化部署、多模态交互及与现有工作流的无缝集成。",
+  "content_markdown": null,
+  "tags": [
+    "ai-tools",
+    "personal-productivity",
+    "open-source",
+    "llm",
+    "automation"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-09T10:58:15Z",
+  "analyzed_at": "2025-04-14T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
