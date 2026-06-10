@@ -1,0 +1,30 @@
+{
+  "id": "83e0a52aed3d95b317a616ecb420aeee209fffac2831ab4418bbf274cded3505",
+  "title": "soxoj/maigret",
+  "source_url": "https://github.com/soxoj/maigret",
+  "source_type": "github_trending",
+  "summary": "Maigret 是一个开源情报（OSINT）工具，通过用户名在 3000 多个网站中搜索并收集目标人物的公开信息，生成详细档案。支持从社交媒体、论坛、电商平台等来源提取账号、个人资料、活动记录等数据，并提供可视化报告。该工具适用于安全研究、背景调查和数字足迹分析，具有高覆盖率和可扩展性。",
+  "content_markdown": null,
+  "tags": [
+    "osint",
+    "username-search",
+    "digital-footprint",
+    "security-tools",
+    "python"
+  ],
+  "language": "zh",
+  "author": "soxoj",
+  "published_at": null,
+  "collected_at": "2026-06-10T11:37:03Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431668,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502308,
+    "github_stars_today": 261,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "b893be8dfacf2f7faa5a65688a39818eb8a7cc4148f9aef8ab24dde716a79044",
+  "title": "addyosmani/agent-skills",
+  "source_url": "https://github.com/addyosmani/agent-skills",
+  "source_type": "github_trending",
+  "summary": "addyosmani/agent-skills 是一个为 AI 编码代理提供生产级工程技能的开源项目。该项目旨在提升 AI 代理在软件开发中的实用性，通过提供一系列经过验证的工程实践和技能，帮助 AI 代理更有效地参与代码编写、调试、测试和部署等环节。它涵盖了从代码质量、性能优化到安全性和可维护性等多个方面的最佳实践，使 AI 代理能够像经验丰富的工程师一样处理复杂任务。项目由知名工程师 Addy Osmani 创建，内容基于实际生产环境中的经验总结，对于希望将 AI 集成到开发工作流中的团队具有重要参考价值。该项目在 GitHub 上受到广泛关注，反映了开发者社区对提升 AI 编码代理能力的迫切需求。",
+  "content_markdown": null,
+  "tags": [
+    "ai-coding-agents",
+    "software-engineering",
+    "best-practices",
+    "developer-tools",
+    "production-grade"
+  ],
+  "language": "en",
+  "author": "addyosmani",
+  "published_at": null,
+  "collected_at": "2026-06-10T11:37:03Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450200,
+    "github_language": "Shell",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505598,
+    "github_stars_today": 443,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

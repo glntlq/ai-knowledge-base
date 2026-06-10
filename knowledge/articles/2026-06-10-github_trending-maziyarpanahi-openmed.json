@@ -1,0 +1,30 @@
+{
+  "id": "84f725916807ecfb104bb3b9fada46f0f46256f90560459c60fb8e34896a9e1f",
+  "title": "maziyarpanahi/openmed",
+  "source_url": "https://github.com/maziyarpanahi/openmed",
+  "source_type": "github_trending",
+  "summary": "OpenMed 是一个开源医疗 AI 项目，旨在提供可访问、可定制的医疗人工智能解决方案。该项目包含预训练模型、数据集和工具，支持医学影像分析、自然语言处理等任务，降低医疗 AI 开发门槛。通过社区协作，OpenMed 推动医疗 AI 的透明性和可复现性，助力临床决策支持、诊断辅助等应用。",
+  "content_markdown": null,
+  "tags": [
+    "healthcare",
+    "artificial-intelligence",
+    "open-source",
+    "medical-imaging",
+    "nlp"
+  ],
+  "language": "en",
+  "author": "maziyarpanahi",
+  "published_at": null,
+  "collected_at": "2026-06-10T11:37:03Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942093,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150231,
+    "github_stars_today": 191,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

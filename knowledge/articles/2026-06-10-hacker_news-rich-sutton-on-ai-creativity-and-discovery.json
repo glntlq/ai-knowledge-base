@@ -1,0 +1,30 @@
+{
+  "id": "f74fd2f9bb3cc62acd0ec4e42e2fe244e316ac8357131bbad54229673b21b4d8",
+  "title": "Rich Sutton on AI creativity and discovery",
+  "source_url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+  "source_type": "hacker_news",
+  "summary": "理查德·萨顿（Richard Sutton）在社交媒体上分享了对人工智能创造力与发现的见解，并附上相关视频链接。该内容在Hacker News上引发讨论，获得136分和69条评论。萨顿是强化学习领域的先驱，其观点强调AI系统应通过持续探索和试错实现自主发现，而非依赖人类预设规则。他主张算法应具备内在动机，以推动创新和知识生成。这一讨论反映了AI研究中对开放性与自主性的重视，与当前主流监督学习范式形成对比。",
+  "content_markdown": null,
+  "tags": [
+    "reinforcement-learning",
+    "ai-creativity",
+    "exploration",
+    "autonomous-discovery",
+    "hacker-news"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Wed, 10 Jun 2026 02:25:24 +0000",
+  "collected_at": "2026-06-10T11:37:04Z",
+  "analyzed_at": "2026-06-10T11:38:14Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

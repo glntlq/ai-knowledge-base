@@ -1,0 +1,35 @@
+{
+  "id": "03ea3a5b9b58c0f9d629588c57c577aa6b19ce1f31787c4148dcc8f5f0b18dea",
+  "title": "apple/container",
+  "source_url": "https://github.com/apple/container",
+  "source_type": "github_trending",
+  "summary": "Apple 开源的 container 工具，用于在 Mac 上通过轻量级虚拟机创建和运行 Linux 容器。项目采用 Swift 编写，针对 Apple Silicon 芯片深度优化，旨在提供高效、低开销的容器化方案。该工具利用 macOS 的虚拟化框架，无需完整虚拟机即可快速启动 Linux 环境，适合开发者在本地测试、构建和运行容器化应用。其设计强调与 Apple 硬件的紧密集成，充分发挥 M 系列芯片性能，同时保持与 Docker 等主流工具的兼容性。项目处于早期阶段，但已展示出在 Mac 上运行 Linux 容器的潜力，尤其适合需要高性能容器环境的 Apple 生态开发者。",
+  "content_markdown": null,
+  "tags": [
+    "apple",
+    "container",
+    "linux",
+    "virtualization",
+    "swift"
+  ],
+  "language": "zh",
+  "author": "apple",
+  "published_at": null,
+  "collected_at": "2026-06-10T11:37:03Z",
+  "analyzed_at": "2026-06-10T11:38:10Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269428345,
+    "github_language": "Swift",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150798,
+    "github_stars_today": 1358,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-01T00:00:00Z",
+    "analyzed_at": "2025-04-01T01:00:00Z",
+    "published_at": null
+  }
+}

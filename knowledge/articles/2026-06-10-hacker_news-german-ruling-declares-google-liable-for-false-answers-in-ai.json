@@ -1,0 +1,27 @@
+{
+  "id": "66560536f9ac731b1211b511ab4bb45b83ee764048e8497a0413e560af0117c3",
+  "title": "German ruling declares Google liable for false answers in AI Overviews",
+  "source_url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+  "source_type": "hacker_news",
+  "summary": "德国法院裁定谷歌对其AI概览（AI Overviews）中的虚假回答承担法律责任，认定这些内容属于谷歌自身言论而非第三方信息。该判决基于欧盟《数字服务法》和德国《电信媒体法》，明确平台对AI生成内容负有直接责任，不能以“技术中立”为由免责。此案为全球首例针对AI搜索摘要的司法裁决，可能重塑搜索引擎责任边界，影响AI产品合规设计。判决强调AI系统输出需符合准确性标准，平台需建立有效审核机制。当前谷歌尚未回应是否上诉，但该判例已引发科技行业对AI法律风险的广泛讨论。",
+  "content_markdown": null,
+  "tags": [
+    "ai-liability",
+    "german-court-ruling",
+    "digital-services-act",
+    "search-engine",
+    "legal-precedent"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-10T11:37:04Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news"
+  }
+}
