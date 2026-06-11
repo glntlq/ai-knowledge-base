@@ -1,0 +1,30 @@
+{
+  "id": "6f4a27d985dcfd2870b0ea63fa4400939d478ad0452f32a5533d804fb4227d6b",
+  "title": "kenn-io/agentsview",
+  "source_url": "https://github.com/kenn-io/agentsview",
+  "source_type": "github_trending",
+  "summary": "AgentsView 是一个本地优先的会话智能与分析工具，专为编码代理设计，支持 Claude Code、Codex 等 20 多种代理。它提供比 cusage 快 100 倍的性能，帮助开发者深入理解代理行为、优化工作流。该工具强调数据隐私，所有分析均在本地完成，无需上传至云端。通过可视化会话日志、性能指标和模式识别，AgentsView 使开发者能够高效调试和提升代理效率。其核心优势在于低延迟、高兼容性和对多种主流编码代理的广泛支持，是提升 AI 辅助编程体验的实用基础设施。",
+  "content_markdown": null,
+  "tags": [
+    "coding-agents",
+    "session-analytics",
+    "local-first",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "language": "zh",
+  "author": "kenn-io",
+  "published_at": null,
+  "collected_at": "2026-06-11T12:08:05Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941434,
+    "github_language": "Go",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150166,
+    "github_stars_today": 98,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

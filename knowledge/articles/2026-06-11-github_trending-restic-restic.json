@@ -1,0 +1,30 @@
+{
+  "id": "2d65a409e88d2d08015be224c566123f3d8f20c9630b82b9e38b1aac117eab5e",
+  "title": "restic/restic",
+  "source_url": "https://github.com/restic/restic",
+  "source_type": "github_trending",
+  "summary": "restic 是一个快速、安全且高效的备份程序，采用 Go 语言开发。它支持多种后端存储，包括本地目录、SFTP、HTTP REST 服务器以及 Amazon S3、Google Cloud Storage、Microsoft Azure Blob Storage 等云存储服务。restic 使用加密技术确保数据安全，所有数据在传输和存储前都会进行加密，并支持增量备份以节省存储空间和带宽。其设计注重易用性，提供简单的命令行界面，用户可通过一条命令完成备份、恢复和检查等操作。restic 还具备数据去重功能，能有效减少重复数据的存储。该项目在 GitHub 上开源，社区活跃，持续更新维护，是个人和小型企业进行数据备份的可靠选择。",
+  "content_markdown": null,
+  "tags": [
+    "backup",
+    "encryption",
+    "go",
+    "cloud-storage",
+    "incremental-backup"
+  ],
+  "language": "zh",
+  "author": "restic",
+  "published_at": null,
+  "collected_at": "2026-06-11T12:08:05Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269434008,
+    "github_language": "Go",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501780,
+    "github_stars_today": 33,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

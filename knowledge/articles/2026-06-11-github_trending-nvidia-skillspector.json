@@ -1,0 +1,30 @@
+{
+  "id": "8c54a48f1a144f5c377b5ad65fe8c73afd0931bbd85848742f50ec25510c20be",
+  "title": "NVIDIA/SkillSpector",
+  "source_url": "https://github.com/NVIDIA/SkillSpector",
+  "source_type": "github_trending",
+  "summary": "NVIDIA 开源的 SkillSpector 是一款专注于 AI 代理技能安全性的扫描工具，旨在检测智能体技能中的漏洞、恶意模式及安全风险。该工具针对大语言模型（LLM）驱动的代理生态，分析技能代码与行为，识别潜在攻击向量如提示注入、权限滥用、数据泄露等。SkillSpector 提供静态与动态分析能力，支持自定义规则与报告生成，帮助开发者在部署前发现并修复安全问题。项目基于 Python 实现，易于集成到 CI/CD 流程，适用于企业级 AI 应用安全审计。作为 NVIDIA 在 AI 安全领域的重要贡献，SkillSpector 填补了代理技能安全检测的空白，推动可信 AI 代理的落地。",
+  "content_markdown": null,
+  "tags": [
+    "ai-security",
+    "llm-agent",
+    "vulnerability-scanner",
+    "static-analysis",
+    "nvidia"
+  ],
+  "language": "zh",
+  "author": "NVIDIA",
+  "published_at": null,
+  "collected_at": "2026-06-11T12:08:05Z",
+  "analyzed_at": "2025-04-12T10:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942280,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150193,
+    "github_stars_today": 308,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

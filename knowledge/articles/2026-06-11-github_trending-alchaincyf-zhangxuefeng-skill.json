@@ -1,0 +1,30 @@
+{
+  "id": "9ecc83675a5a9ac2bbd5590d363575eefe5b32bb2bc550861ed3bcd334e13a6c",
+  "title": "alchaincyf/zhangxuefeng-skill",
+  "source_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+  "source_type": "github_trending",
+  "summary": "张雪峰.skill 是一个基于认知操作系统理念构建的实战思维框架，专注于高考志愿填报、考研规划与职业规划领域。该项目由女娲.skill 自动生成，旨在系统化张雪峰在升学与职业选择中的方法论，提供可操作的决策模型与策略。框架整合了信息筛选、风险评估、路径规划等模块，帮助用户应对复杂选择场景。项目以 GitHub 开源形式发布，便于开发者与教育从业者参考、扩展或集成至其他智能系统。其核心价值在于将经验性知识转化为结构化认知工具，提升决策效率与科学性。",
+  "content_markdown": null,
+  "tags": [
+    "career-planning",
+    "education",
+    "decision-framework",
+    "knowledge-system",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "alchaincyf",
+  "published_at": null,
+  "collected_at": "2026-06-11T12:08:05Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947858,
+    "github_language": null,
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502410,
+    "github_stars_today": 94,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

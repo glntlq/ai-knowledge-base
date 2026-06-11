@@ -1,0 +1,30 @@
+{
+  "id": "63abfb082f379196f7c27058de1e55b39820d1cd2c816455ac9164a0de56e649",
+  "title": "mattermost/mattermost",
+  "source_url": "https://github.com/mattermost/mattermost",
+  "source_type": "github_trending",
+  "summary": "Mattermost 是一个开源、自托管的协作平台，专为软件开发生命周期中的安全通信而设计。它提供即时消息、文件共享、集成工具和自动化工作流，支持 DevOps 和敏捷开发团队。作为 Slack 的开源替代品，Mattermost 强调数据隐私和定制化，允许企业完全控制其通信数据。平台支持丰富的第三方集成，包括 GitLab、Jira 和 Jenkins，并具备可扩展的插件架构。其核心功能包括频道管理、搜索、合规导出和移动端支持。Mattermost 采用 Go 和 React 构建，拥有活跃的社区和商业支持版本。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "collaboration",
+    "devops",
+    "self-hosted",
+    "messaging"
+  ],
+  "language": "zh",
+  "author": "mattermost",
+  "published_at": null,
+  "collected_at": "2026-06-11T12:08:05Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269437116,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508690,
+    "github_stars_today": 26,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

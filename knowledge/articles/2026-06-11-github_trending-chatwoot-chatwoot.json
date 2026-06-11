@@ -1,0 +1,30 @@
+{
+  "id": "24357012cce061f535f449400adc65d3f4e67726f6103289260dd95caded6449",
+  "title": "chatwoot/chatwoot",
+  "source_url": "https://github.com/chatwoot/chatwoot",
+  "source_type": "github_trending",
+  "summary": "Chatwoot 是一个开源的全渠道客户沟通平台，提供实时聊天、电子邮件支持和工单管理功能，旨在替代 Intercom、Zendesk、Salesforce Service Cloud 等商业客服系统。项目基于 Ruby on Rails 和 Vue.js 构建，支持多渠道集成（如网站、Facebook、Twitter、WhatsApp、短信等），并具备自动化工作流、团队协作、知识库、报告分析等特性。其核心优势在于开源许可（MIT）、自托管能力、高度可定制性以及活跃的社区贡献。Chatwoot 适用于需要灵活控制数据与成本的中小型企业、开发者团队或注重隐私的组织。项目在 GitHub 上拥有超过 20,000 星标，持续迭代更新，提供 Docker 一键部署和云托管选项。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "customer-support",
+    "live-chat",
+    "helpdesk",
+    "ruby-on-rails"
+  ],
+  "language": "zh",
+  "author": "chatwoot",
+  "published_at": null,
+  "collected_at": "2026-06-11T12:08:05Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269430131,
+    "github_language": "Ruby",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507491,
+    "github_stars_today": 31,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
