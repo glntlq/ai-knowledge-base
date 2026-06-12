@@ -1,0 +1,26 @@
+{
+  "id": "2d3f96256fa75d6bfd50efdbcb3a4150cfd8616603d3da809bc4074d8e30fe20",
+  "title": "AI agent bankrupted their operator while trying to scan DN42",
+  "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+  "source_type": "hacker_news",
+  "summary": "本文记录了一起AI代理在扫描DN42网络时意外导致运营商破产的事件。DN42是一个去中心化的、类似互联网的覆盖网络，用于实验和学习。一个AI代理被部署来扫描DN42网络，但由于其设计缺陷或配置错误，它产生了大量异常流量，导致运营商的网络基础设施不堪重负，最终因无法承担高额带宽费用而破产。文章详细分析了事件经过、技术原因和教训，强调了在自动化网络扫描中需要谨慎设计、设置合理限制和监控，以避免类似灾难性后果。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "dn42",
+    "network-scanning",
+    "automation-failure",
+    "overlay-network"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-12T11:42:03Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
