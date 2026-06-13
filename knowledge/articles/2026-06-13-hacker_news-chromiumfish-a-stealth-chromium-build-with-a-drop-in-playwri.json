@@ -1,0 +1,31 @@
+{
+  "id": "a6e7dd1079d1486b3ad64d1c4dbfa411613729bcd466d7e658de0d7a66b27923",
+  "title": "chromiumfish: A stealth Chromium build with a drop-in Playwright harness for Python and Node",
+  "source_url": "https://github.com/arman-bd/chromiumfish",
+  "source_type": "hacker_news",
+  "summary": "Chromiumfish 是一个专为绕过反爬虫检测而设计的 Chromium 定制构建版本，提供 Python 和 Node.js 的 Playwright 无缝集成。它通过修改 Chromium 内部特征（如 WebDriver 属性、navigator 对象、User-Agent 等）来模拟真实浏览器行为，从而规避网站对自动化工具的识别。该项目直接提供预编译的二进制文件，无需手动配置，开发者只需在 Playwright 脚本中替换浏览器路径即可使用。适用于需要高匿名性的网页抓取、自动化测试或数据采集场景。其核心优势在于降低被目标网站封禁的风险，同时保持与 Playwright API 的完全兼容。",
+  "content_markdown": null,
+  "tags": [
+    "chromium",
+    "playwright",
+    "web-scraping",
+    "anti-detection",
+    "browser-automation"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Tue, 09 Jun 2026 11:00:05 -0500",
+  "collected_at": "2026-06-13T10:26:12Z",
+  "analyzed_at": "2026-06-13T10:27:17Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "226f6fddbc2b171009a8ce3001cb4dbffae19fcc41eb6a08d13e0ca3d6700107",
+  "title": "To Gen or Not To Gen: The Ethical Use of Generative AI",
+  "source_url": "https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨生成式AI的伦理使用边界，提出“生成与否”的核心问题。作者认为，AI生成内容应遵循透明度、责任性和人类价值观对齐原则，避免误导、偏见和滥用。文章强调在创意、教育、医疗等领域需建立明确伦理框架，平衡创新与风险。通过案例分析，指出当前缺乏统一监管标准，呼吁开发者、用户和政策制定者共同参与治理。最终主张以人类福祉为中心，审慎评估AI生成内容的适用场景，确保技术发展不损害社会信任与公平。",
+  "content_markdown": null,
+  "tags": [
+    "generative-ai",
+    "ethics",
+    "ai-governance",
+    "transparency",
+    "responsible-ai"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": "2025-11-04T00:00:00Z",
+  "collected_at": "2026-06-13T10:26:12Z",
+  "analyzed_at": "2025-11-05T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

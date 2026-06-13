@@ -1,0 +1,30 @@
+{
+  "id": "97a0a58042d3d70f60d2ee20ae594792aaabf98ccb9988cafe73f0f8d32273db",
+  "title": "music-assistant/server",
+  "source_url": "https://github.com/music-assistant/server",
+  "source_type": "github_trending",
+  "summary": "Music Assistant 是一个免费开源的媒体库管理器，旨在统一管理来自不同流媒体服务和本地存储的音乐资源。其核心服务器组件需运行在始终在线的设备上，如 Raspberry Pi、NAS 或 Intel NUC。该项目支持连接多种流媒体平台（如 Spotify、Tidal）和广泛的智能音箱（如 Sonos、Google Cast），提供集中化的音乐播放、元数据管理和跨设备同步功能。通过插件架构，用户可扩展对更多服务和硬件的支持。Music Assistant 强调隐私与自主控制，所有数据处理均在本地完成，无需依赖第三方云服务。该项目在 GitHub 上活跃开发，社区贡献者持续优化兼容性与性能，适合希望整合分散音乐生态的用户。",
+  "content_markdown": null,
+  "tags": [
+    "music-manager",
+    "open-source",
+    "media-server",
+    "home-automation",
+    "raspberry-pi"
+  ],
+  "language": "zh",
+  "author": "music-assistant",
+  "published_at": null,
+  "collected_at": "2026-06-13T10:26:11Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941884,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150426,
+    "github_stars_today": 20,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

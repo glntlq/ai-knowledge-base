@@ -1,0 +1,26 @@
+{
+  "id": "f5331f5789b981833ff84496a852ed9c031a32631f4bca1b98c1da58f56841e5",
+  "title": "Expanding Private Cloud Compute",
+  "source_url": "https://security.apple.com/blog/expanding-pcc/",
+  "source_type": "hacker_news",
+  "summary": "苹果公司扩展其私有云计算（PCC）架构，旨在将设备端隐私保护扩展到云端。PCC 通过定制硬件、安全隔离、透明日志和严格审计，确保用户数据在处理时不被泄露。该架构支持 AI 推理等敏感任务，同时保持端到端加密和最小数据收集原则。苹果强调 PCC 不存储用户数据，且所有操作均可验证，以应对日益增长的隐私合规需求。此次扩展可能涉及更多服务集成和性能优化，进一步巩固苹果在隐私计算领域的领先地位。",
+  "content_markdown": null,
+  "tags": [
+    "private-cloud-compute",
+    "apple",
+    "privacy",
+    "cloud-security",
+    "ai-inference"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-13T10:26:12Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

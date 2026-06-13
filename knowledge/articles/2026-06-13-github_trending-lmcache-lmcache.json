@@ -1,0 +1,35 @@
+{
+  "id": "fe0ccfdf1153894a405197b4ca93401b8c8777c940490a86e14e3189776aaf27",
+  "title": "LMCache/LMCache",
+  "source_url": "https://github.com/LMCache/LMCache",
+  "source_type": "github_trending",
+  "summary": "LMCache 是一个专为大型语言模型（LLM）设计的 KV 缓存加速层，旨在通过优化键值（KV）缓存的管理和访问速度，显著提升 LLM 推理性能。该工具通过缓存先前生成的 KV 状态，减少重复计算，从而降低延迟并提高吞吐量。LMCache 支持多种缓存策略，包括内存缓存、磁盘缓存及分布式缓存，适用于不同规模的部署场景。其核心优势在于与主流 LLM 框架（如 Hugging Face Transformers）的无缝集成，以及针对长序列和流式生成场景的优化。该项目在 GitHub 上开源，适合需要优化 LLM 推理效率的开发者使用。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "kv-cache",
+    "inference-optimization",
+    "caching",
+    "machine-learning"
+  ],
+  "language": "zh",
+  "author": "LMCache",
+  "published_at": null,
+  "collected_at": "2026-06-13T10:26:11Z",
+  "analyzed_at": "2026-06-13T10:26:44Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948731,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501296,
+    "github_stars_today": 28,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

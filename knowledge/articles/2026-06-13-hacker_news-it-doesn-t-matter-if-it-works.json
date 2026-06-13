@@ -1,0 +1,26 @@
+{
+  "id": "9711495b0f507200033b97204576da3fcb886a20b77e0ae8754b9ec63d502507",
+  "title": "It doesn’t matter if it works",
+  "source_url": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
+  "source_type": "hacker_news",
+  "summary": "文章探讨了在软件开发中，代码是否“能工作”并非唯一或最重要的评判标准。作者指出，许多开发者过度关注功能实现，而忽略了代码的可读性、可维护性、可扩展性以及团队协作等长期价值。一个能运行但难以理解、修改或扩展的系统，最终会因技术债务累积而变得脆弱。文章强调，优秀的代码应当清晰表达意图，便于他人理解和改进，从而降低维护成本，提升项目可持续性。这种观点挑战了“只要跑起来就行”的实用主义，提倡在工程实践中平衡短期效率与长期健康。",
+  "content_markdown": null,
+  "tags": [
+    "software-engineering",
+    "code-quality",
+    "maintainability",
+    "technical-debt",
+    "best-practices"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-13T10:26:12Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

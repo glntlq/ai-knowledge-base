@@ -1,0 +1,30 @@
+{
+  "id": "2c22c0fb5e0497e1ee66d0062c011b714d9e77493020de96fc15712b0c0bca46",
+  "title": "microsoft/PowerToys",
+  "source_url": "https://github.com/microsoft/PowerToys",
+  "source_type": "github_trending",
+  "summary": "Microsoft PowerToys 是一套面向 Windows 系统的开源实用工具集，旨在提升用户的生产力与个性化定制能力。该项目由微软官方维护，包含多个模块化工具，如 FancyZones（窗口布局管理器）、PowerRename（批量重命名）、File Explorer Add-ons（文件预览增强）、Keyboard Manager（键盘映射）、PowerToys Run（快速启动器）等。每个工具均可独立启用或禁用，用户可根据需求灵活组合。PowerToys 深度集成 Windows 10/11 系统，利用现代 API 实现高效、低资源占用的操作体验。项目在 GitHub 上持续活跃，社区贡献丰富，定期发布稳定版本与实验性功能。其设计遵循模块化、可扩展原则，支持通过设置界面或配置文件进行精细调整。作为微软官方开源项目，PowerToys 不仅填补了 Windows 原生功能的多项空白，还成为开发者与高级用户优化工作流的首选工具之一。",
+  "content_markdown": null,
+  "tags": [
+    "windows-utilities",
+    "productivity",
+    "open-source",
+    "microsoft",
+    "power-toys"
+  ],
+  "language": "zh",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-06-13T10:26:11Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694134472,
+    "github_language": "C",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508068,
+    "github_stars_today": 103,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

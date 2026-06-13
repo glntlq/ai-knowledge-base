@@ -1,0 +1,31 @@
+{
+  "id": "4cb7ba68f2bae0f89ad081d17eca1dad3b2399e675a58845476a2f9ffcf1ef3d",
+  "title": "Claude Fable 5 and Claude Mythos 5",
+  "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "source_type": "hacker_news",
+  "summary": "Anthropic 发布了 Claude Fable 5 和 Claude Mythos 5 两款新模型。Fable 5 专注于创意写作与叙事生成，在长文本连贯性和角色一致性上显著提升；Mythos 5 则强化了多模态推理与复杂问题解决能力，尤其在数学、编程和科学领域表现突出。两款模型均基于改进的 transformer 架构，并采用了更高效的训练策略。此次更新标志着 Anthropic 在通用人工智能安全性与实用性上的持续进步，为开发者提供了更强大的工具。",
+  "content_markdown": null,
+  "tags": [
+    "anthropic",
+    "claude",
+    "large-language-model",
+    "ai-safety",
+    "multimodal"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Tue, 09 Jun 2026 12:14:31 -0500",
+  "collected_at": "2026-06-13T10:26:12Z",
+  "analyzed_at": "2026-06-13T10:27:13Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:30:00Z",
+    "published_at": null
+  }
+}

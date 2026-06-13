@@ -1,0 +1,26 @@
+{
+  "id": "09f74fcb3d0c53004cd0112620be0f8bc86b75cedacd87b8b5ce547153bf156c",
+  "title": "What’s New in WeatherMesh-6",
+  "source_url": "https://windbornesystems.com/blog/introducing-wm-6",
+  "source_type": "hacker_news",
+  "summary": "WeatherMesh-6 是 Windborne Systems 发布的最新全球天气预报模型，显著提升了预测精度与计算效率。该模型采用更高分辨率网格（约3公里）和更先进的物理参数化方案，能够更准确地模拟云层、降水、风场等复杂大气过程。WM-6 引入了新的数据同化技术，整合了更多卫星和地面观测数据，从而在短期和中期预报中表现更优。此外，模型优化了并行计算架构，减少了运行时间，使得更频繁的更新成为可能。这些改进对于灾害预警、航空航海、可再生能源等领域具有重要价值，标志着数值天气预报技术的又一次进步。",
+  "content_markdown": null,
+  "tags": [
+    "weather-forecasting",
+    "numerical-weather-prediction",
+    "high-resolution-modeling",
+    "data-assimilation",
+    "atmospheric-science"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-13T10:26:12Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
