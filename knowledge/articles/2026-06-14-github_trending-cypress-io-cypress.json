@@ -1,0 +1,30 @@
+{
+  "id": "ee2ae32efdd45f06f8af349eec3abd008675cb20eb22ea0d88b3d41101675ebc",
+  "title": "cypress-io/cypress",
+  "source_url": "https://github.com/cypress-io/cypress",
+  "source_type": "github_trending",
+  "summary": "Cypress 是一个基于 JavaScript 的前端端到端测试框架，专为现代 Web 应用设计。它提供快速、简单且可靠的测试体验，支持在浏览器中直接运行测试，并具备实时重载、自动等待、时间旅行调试等特性。Cypress 采用独特的架构，直接在浏览器内运行，避免了传统 Selenium 的跨进程通信延迟，从而显著提升测试速度和稳定性。它内置了断言库、截图和视频录制功能，并支持 CI/CD 集成。Cypress 适用于开发者和 QA 工程师，能够简化从单元测试到集成测试的整个流程，尤其适合单页应用和复杂交互场景。该项目在 GitHub 上拥有超过 48,000 颗星，是前端测试领域最流行的工具之一。",
+  "content_markdown": null,
+  "tags": [
+    "testing",
+    "e2e-testing",
+    "javascript",
+    "frontend",
+    "cypress"
+  ],
+  "language": "zh",
+  "author": "cypress-io",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:05Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449740,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503411,
+    "github_stars_today": 7,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

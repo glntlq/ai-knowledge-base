@@ -1,0 +1,26 @@
+{
+  "id": "249f68d8589e9af9451109959d27b764c6592198da3bee5af307c464c890eed4",
+  "title": "The future of Siri, or: why private inference isn’t private enough",
+  "source_url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+  "source_type": "hacker_news",
+  "summary": "本文深入探讨了Siri等智能助手的隐私问题，指出当前私有推理技术（如差分隐私、联邦学习）在保护用户数据方面存在根本性局限。作者认为，即使采用私有推理，服务端仍需访问用户查询的语义内容以生成响应，这构成了隐私泄露的潜在风险。文章分析了苹果等公司在私有推理上的努力与不足，并提出未来方向：需要更彻底的端到端加密、本地化处理或新型密码学协议（如安全多方计算、同态加密）来真正实现用户数据与AI服务之间的隔离。核心观点是：私有推理并非隐私的终点，行业需重新设计架构以平衡功能与隐私。",
+  "content_markdown": null,
+  "tags": [
+    "privacy",
+    "siri",
+    "private-inference",
+    "differential-privacy",
+    "federated-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:06Z",
+  "analyzed_at": "2026-06-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

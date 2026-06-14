@@ -1,0 +1,30 @@
+{
+  "id": "0b0af225845ed9f11d180e992110b0631bdb24ff967024719ec0a7223c3665ba",
+  "title": "puppeteer/puppeteer",
+  "source_url": "https://github.com/puppeteer/puppeteer",
+  "source_type": "github_trending",
+  "summary": "Puppeteer 是一个由 Google 维护的 Node.js 库，提供高级 API 来控制 Chrome/Chromium 和 Firefox 浏览器。它支持无头模式与完整浏览器模式，广泛用于自动化测试、网页截图、PDF 生成、爬虫和性能监控。核心功能包括页面导航、表单提交、键盘输入、网络请求拦截、JavaScript 执行、Cookie 管理以及 Chrome DevTools Protocol 的底层操作。Puppeteer 简化了浏览器自动化流程，无需手动安装浏览器驱动，内置 Chromium 下载机制。最新版本已扩展对 Firefox 的实验性支持，并持续优化 API 稳定性和跨浏览器兼容性。该项目在 GitHub 上拥有超过 88k 星标，是前端自动化领域最流行的工具之一。",
+  "content_markdown": null,
+  "tags": [
+    "browser-automation",
+    "testing",
+    "web-scraping",
+    "nodejs",
+    "chrome-devtools-protocol"
+  ],
+  "language": "zh",
+  "author": "puppeteer",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:05Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269494550,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509434,
+    "github_stars_today": 13,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

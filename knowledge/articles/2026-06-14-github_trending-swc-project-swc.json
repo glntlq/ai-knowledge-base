@@ -1,0 +1,31 @@
+{
+  "id": "e5c0b05aab9da4c7f263b515efe7a47438f015b2f8ff4455190abd39d4b4b88a",
+  "title": "swc-project/swc",
+  "source_url": "https://github.com/swc-project/swc",
+  "source_type": "github_trending",
+  "summary": "SWC（Speedy Web Compiler）是一个基于 Rust 的高性能 Web 平台，专注于提供极速的 JavaScript/TypeScript 编译与打包能力。它作为 Babel 的替代品，在代码转译、压缩和模块打包方面展现出显著的速度优势，尤其适合大型项目与持续集成场景。SWC 采用插件化架构，支持自定义转换规则，并兼容 Babel 配置，降低了迁移成本。其核心功能包括 ES6+ 语法转换、JSX/TypeScript 编译、代码压缩（通过 swc/minify）以及模块打包（swc/pack）。项目在 GitHub 上拥有超过 30k 星标，被 Next.js、Deno 等知名项目采用，是前端工具链中 Rust 化趋势的代表性成果。",
+  "content_markdown": null,
+  "tags": [
+    "rust",
+    "javascript-compiler",
+    "typescript",
+    "web-performance",
+    "bundler"
+  ],
+  "language": "zh",
+  "author": "swc-project",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:05Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433698,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501399,
+    "github_stars_today": 20,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending"
+  }
+}

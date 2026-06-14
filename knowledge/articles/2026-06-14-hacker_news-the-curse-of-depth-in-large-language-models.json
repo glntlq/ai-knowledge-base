@@ -1,0 +1,26 @@
+{
+  "id": "9b3e1aa62f0d36533137d1a4c93ef69c680eff4a2e22f3eb23e75b3ccd47524b",
+  "title": "The Curse of Depth in Large Language Models",
+  "source_url": "https://arxiv.org/pdf/2502.05795",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了大型语言模型（LLM）中深度带来的诅咒现象，即随着模型层数增加，性能提升出现边际递减甚至退化。研究通过理论分析和实验验证，发现深层LLM在训练和推理中面临梯度消失、表示塌缩和注意力分散等问题，导致模型难以有效利用深层信息。作者提出了一种新的正则化方法和架构改进，包括残差连接优化和层间注意力机制，以缓解深度诅咒。实验表明，这些方法在多个基准测试上提升了深层模型的性能，同时保持了计算效率。该工作为设计更深、更有效的LLM提供了重要见解，并指出了未来研究方向，如动态深度调整和稀疏激活。",
+  "content_markdown": null,
+  "tags": [
+    "large-language-models",
+    "deep-learning",
+    "model-architecture",
+    "regularization",
+    "attention-mechanism"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:06Z",
+  "analyzed_at": "2025-02-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

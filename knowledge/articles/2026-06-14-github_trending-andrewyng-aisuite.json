@@ -1,0 +1,30 @@
+{
+  "id": "aaab1c955c5e3adb6b7b6ae839384d910dced2dbc829205d97eb47fca24d8272",
+  "title": "andrewyng/aisuite",
+  "source_url": "https://github.com/andrewyng/aisuite",
+  "source_type": "github_trending",
+  "summary": "aisuite 是由 Andrew Ng 开发的一个轻量级 Python 库，旨在为多个生成式 AI 提供商提供统一、简洁的接口。它抽象了不同 AI 模型（如 OpenAI、Anthropic、Google、Cohere 等）的 API 差异，使开发者能够通过一致的调用方式快速切换和测试不同模型，而无需修改核心代码。该库专注于简化多提供商集成，降低 AI 应用开发的门槛，特别适合原型设计和实验场景。目前项目处于早期阶段，支持文本生成等基础功能，未来计划扩展更多模态和提供商。其设计哲学强调最小依赖和易用性，适合希望快速集成多种 AI 能力的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "python",
+    "generative-ai",
+    "api-wrapper",
+    "multi-provider",
+    "llm"
+  ],
+  "language": "en",
+  "author": "andrewyng",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:05Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414241,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501493,
+    "github_stars_today": 127,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

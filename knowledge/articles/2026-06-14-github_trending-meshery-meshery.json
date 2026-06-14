@@ -1,0 +1,30 @@
+{
+  "id": "b9bb41eabb544590e07257d4a8cb1f06ea0bda00b0048afba433020141fa8927",
+  "title": "meshery/meshery",
+  "source_url": "https://github.com/meshery/meshery",
+  "source_type": "github_trending",
+  "summary": "Meshery 是一个开源的云原生管理器，旨在帮助用户设计、管理和优化 Kubernetes 集群及云原生基础设施。它提供可视化的管理界面，支持多种服务网格（如 Istio、Linkerd、Consul 等）的集成与操作，并具备性能基准测试、配置管理、策略引擎等功能。Meshery 通过插件架构扩展能力，兼容 CNCF 生态工具，适用于开发、测试和生产环境。其核心价值在于简化云原生环境的复杂性，提升运维效率与资源利用率。",
+  "content_markdown": null,
+  "tags": [
+    "cloud-native",
+    "kubernetes",
+    "service-mesh",
+    "infrastructure-management",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "meshery",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:05Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410279,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503415,
+    "github_stars_today": 3,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

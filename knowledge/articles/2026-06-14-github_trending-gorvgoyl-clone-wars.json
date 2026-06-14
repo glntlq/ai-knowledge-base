@@ -1,0 +1,30 @@
+{
+  "id": "9002bb625bf4528666c12741aaa0b3c056f4f28677f6c5d7835b93f141b9679c",
+  "title": "GorvGoyl/Clone-Wars",
+  "source_url": "https://github.com/GorvGoyl/Clone-Wars",
+  "source_type": "github_trending",
+  "summary": "Clone-Wars 是一个收集了 100 多个流行网站（如 Airbnb、Amazon、Instagram、Netflix、TikTok、Spotify、WhatsApp、YouTube 等）的开源克隆项目的仓库。每个克隆项目均提供源代码、演示链接、技术栈和 GitHub 星标数，方便开发者学习、参考和二次开发。该项目旨在为开发者提供丰富的实战案例，涵盖前端、后端、全栈等多种技术栈，是学习现代 Web 开发、架构设计和最佳实践的宝贵资源。通过克隆知名应用，开发者可以深入理解其核心功能实现，提升编程技能。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "web-development",
+    "clone-projects",
+    "learning-resources",
+    "github"
+  ],
+  "language": "zh",
+  "author": "GorvGoyl",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:05Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435039,
+    "github_language": null,
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503161,
+    "github_stars_today": 337,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

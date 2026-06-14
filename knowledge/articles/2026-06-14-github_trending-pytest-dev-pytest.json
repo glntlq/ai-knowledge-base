@@ -1,0 +1,30 @@
+{
+  "id": "0ae72bac8f855ac55c3419d51dcb52041790401b4818e2617ec4e8b0d8eb518c",
+  "title": "pytest-dev/pytest",
+  "source_url": "https://github.com/pytest-dev/pytest",
+  "source_type": "github_trending",
+  "summary": "pytest 是 Python 生态中最流行的测试框架之一，以其简洁的语法、强大的插件系统和自动发现测试的能力著称。它支持简单的单元测试到复杂的功能测试，通过断言重写、fixture 机制、参数化测试和丰富的钩子扩展，大幅提升测试编写效率与可维护性。pytest 兼容 unittest 和 nose 编写的测试用例，并内置覆盖率、超时、并行执行等常用功能。其社区活跃，拥有超过 8000 个插件，覆盖 Web 测试（如 Selenium）、数据库、异步代码等场景。作为开源项目，pytest 遵循 MIT 许可，持续迭代优化，是 Python 开发者进行测试驱动开发（TDD）和持续集成（CI）的首选工具。",
+  "content_markdown": null,
+  "tags": [
+    "python",
+    "testing",
+    "unit-testing",
+    "test-framework",
+    "pytest"
+  ],
+  "language": "zh",
+  "author": "pytest-dev",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:05Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413927,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503171,
+    "github_stars_today": 8,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

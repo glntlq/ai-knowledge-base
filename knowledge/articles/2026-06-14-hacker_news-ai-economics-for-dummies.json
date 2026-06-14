@@ -1,0 +1,26 @@
+{
+  "id": "9be90f3107ed8679c10fa2615053c015323bbf994c6d953a002ed4a35112968f",
+  "title": "AI Economics for Dummies",
+  "source_url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+  "source_type": "hacker_news",
+  "summary": "本文以讽刺口吻解构AI经济学，指出当前AI行业存在大量泡沫化叙事：企业通过炒作AI概念吸引投资，实际技术落地效果有限；AI被包装成万能解决方案，但多数应用场景缺乏真实需求支撑；算力成本高昂导致只有巨头能参与竞争，形成垄断格局；同时AI替代人工的威胁被夸大，实际更多是辅助工具。文章揭示AI经济学本质是注意力经济与资本游戏的结合，提醒读者警惕技术乌托邦式的宣传。",
+  "content_markdown": null,
+  "tags": [
+    "ai-economics",
+    "tech-bubble",
+    "critical-analysis",
+    "hype-cycle",
+    "economics"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:06Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2154f57c6cdfac7b44f74fce831fc0b8a742acc4be142ec1898f59b15787cde5",
+  "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+  "source_url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+  "source_type": "github_trending",
+  "summary": "《Introduction to Autonomous Robots》是一本面向自主机器人领域的开源教科书，由多位学者合作编写，内容涵盖机器人学基础、感知、定位、建图、路径规划与控制等核心模块。该书以实践为导向，结合ROS（机器人操作系统）示例代码，适合作为高校课程教材或自学参考。其GitHub仓库提供完整PDF及LaTeX源码，支持社区贡献与持续更新。本书强调算法原理与工程实现的结合，覆盖从概率机器人到现代运动规划的关键技术，是入门与进阶自主机器人系统的优质资源。",
+  "content_markdown": null,
+  "tags": [
+    "autonomous-robots",
+    "robotics",
+    "ros",
+    "path-planning",
+    "open-textbook"
+  ],
+  "language": "en",
+  "author": "Introduction-to-Autonomous-Robots",
+  "published_at": null,
+  "collected_at": "2026-06-14T10:47:05Z",
+  "analyzed_at": "2026-06-14T10:47:39Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942428,
+    "github_language": "TeX",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150577,
+    "github_stars_today": 276,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}
