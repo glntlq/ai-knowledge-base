@@ -1,0 +1,30 @@
+{
+  "id": "469667fdf7f6683ba2ca3ff998ef8b0d79f089581362bde4ed51c502663fb215",
+  "title": "CrankGPT — Local Human-powered AI",
+  "source_url": "https://crankgpt.com",
+  "source_type": "hacker_news",
+  "summary": "CrankGPT 是一个本地化、由人类驱动的 AI 替代方案，旨在通过人工众包方式提供类似 GPT 的问答服务。该项目强调隐私和去中心化，用户无需依赖云端 AI 模型，而是由本地社区成员实时响应查询。其核心机制是“人肉计算”，即利用人类智能处理问题，而非机器学习模型。CrankGPT 可能适用于对数据敏感或需要高度定制化回答的场景，但响应速度和可扩展性受限于参与人数。该项目在 Hacker News 上引发讨论，关注点包括隐私保护、人工成本与 AI 效率的权衡。",
+  "content_markdown": null,
+  "tags": [
+    "human-powered-ai",
+    "privacy",
+    "crowdsourcing",
+    "decentralized",
+    "local-ai"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Mon, 15 Jun 2026 08:35:22 -0500",
+  "collected_at": "2026-06-15T13:52:26Z",
+  "analyzed_at": "2026-06-15T13:53:37Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 6,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

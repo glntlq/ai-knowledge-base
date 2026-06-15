@@ -1,0 +1,30 @@
+{
+  "id": "aa4a9925f6e26a2f6a95785763accca2a456b3d92cbd159ef390cae35cd1dd9f",
+  "title": "Raphire/Win11Debloat",
+  "source_url": "https://github.com/Raphire/Win11Debloat",
+  "source_type": "github_trending",
+  "summary": "Win11Debloat 是一个轻量级 PowerShell 脚本，专为 Windows 10 和 11 设计，用于移除预装应用、禁用遥测服务并执行多项系统精简与个性化调整。该工具通过简单命令即可清理开始菜单中的冗余条目、关闭广告及建议、禁用 OneDrive 同步、移除 Copilot 等新功能，并支持恢复经典右键菜单等自定义选项。脚本采用模块化设计，用户可选择性启用或禁用特定功能，避免对系统稳定性造成影响。其开源特性允许社区贡献与审计，适合追求纯净系统体验的中高级用户。项目在 GitHub 上持续更新，兼容最新 Windows 版本，是系统优化领域的实用工具。",
+  "content_markdown": null,
+  "tags": [
+    "windows",
+    "powershell",
+    "system-cleanup",
+    "privacy",
+    "debloat"
+  ],
+  "language": "zh",
+  "author": "Raphire",
+  "published_at": null,
+  "collected_at": "2026-06-15T13:52:26Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269447760,
+    "github_language": "PowerShell",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501929,
+    "github_stars_today": 114,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

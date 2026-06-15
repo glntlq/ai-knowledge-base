@@ -1,0 +1,30 @@
+{
+  "id": "c42d5c07a9834e1b958437d670d910825a0b7d5404f17826c69f886a7b85aed6",
+  "title": "teslamate-org/teslamate",
+  "source_url": "https://github.com/teslamate-org/teslamate",
+  "source_type": "github_trending",
+  "summary": "TeslaMate 是一个开源自托管数据记录器，专为特斯拉车辆设计。它通过 Tesla API 自动收集车辆数据，如充电历史、驾驶效率、电池健康、位置轨迹等，并提供直观的 Web 仪表盘进行可视化分析。该项目支持 Docker 部署，数据存储在 PostgreSQL 数据库中，确保用户对数据的完全控制。主要维护者为 @JakobLichterfeld。TeslaMate 适合特斯拉车主和开发者，用于深度监控车辆性能、优化充电策略或进行个性化数据分析。其社区活跃，持续更新以适配特斯拉 API 变化。",
+  "content_markdown": null,
+  "tags": [
+    "tesla",
+    "data-logger",
+    "self-hosted",
+    "docker",
+    "postgresql"
+  ],
+  "language": "zh",
+  "author": "teslamate-org",
+  "published_at": null,
+  "collected_at": "2026-06-15T13:52:26Z",
+  "analyzed_at": "2025-04-09T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948156,
+    "github_language": "Elixir",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150942,
+    "github_stars_today": 35,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

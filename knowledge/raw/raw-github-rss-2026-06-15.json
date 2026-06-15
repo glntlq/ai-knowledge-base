@@ -1,0 +1,322 @@
+{
+  "collected_at": "2026-06-15T13:52:25Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/iptv-org/iptv",
+      "title": "iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "author": "iptv-org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694122489,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506574,
+        "github_stars_today": 2650,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/teslamate-org/teslamate",
+      "title": "teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer= @JakobLichterfeld ]",
+      "author": "teslamate-org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948156,
+        "github_language": "Elixir",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150942,
+        "github_stars_today": 35,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Panniantong/Agent-Reach",
+      "title": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "author": "Panniantong",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429525,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502405,
+        "github_stars_today": 1045,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/meshery/meshery",
+      "title": "meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "author": "meshery",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410538,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503428,
+        "github_stars_today": 227,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/chatwoot/chatwoot",
+      "title": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "author": "chatwoot",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431497,
+        "github_language": "Ruby",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507613,
+        "github_stars_today": 431,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/krahets/hello-algo",
+      "title": "krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "author": "krahets",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694126769,
+        "github_language": "Java",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015130,
+        "github_stars_today": 95,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "author": "freeCodeCamp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694447647,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015044975,
+        "github_stars_today": 738,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/trycua/cua",
+      "title": "trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "author": "trycua",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269418040,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501168,
+        "github_stars_today": 57,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jwasham/coding-interview-university",
+      "title": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "author": "jwasham",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694352095,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015083546,
+        "github_stars_today": 516,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432775,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505376,
+        "github_stars_today": 538,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/music-assistant/server",
+      "title": "music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "author": "music-assistant",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942329,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150442,
+        "github_stars_today": 226,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Free-TV/IPTV",
+      "title": "Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "author": "Free-TV",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417156,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502553,
+        "github_stars_today": 361,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "author": "Introduction-to-Autonomous-Robots",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942968,
+        "github_language": "TeX",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150645,
+        "github_stars_today": 488,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Raphire/Win11Debloat",
+      "title": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "author": "Raphire",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269447760,
+        "github_language": "PowerShell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501929,
+        "github_stars_today": 114,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "title": "mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "author": "mikeroyal",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420646,
+        "github_language": "Dockerfile",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501049,
+        "github_stars_today": 126,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/itsfatduck/optimizerDuck",
+      "title": "itsfatduck/optimizerDuck",
+      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "author": "itsfatduck",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943522,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150158,
+        "github_stars_today": 321,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NVIDIA/SkillSpector",
+      "title": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "author": "NVIDIA",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945991,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150443,
+        "github_stars_today": 1079,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "author": "shiyu-coder",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269430129,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505175,
+        "github_stars_today": 395,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://crankgpt.com",
+      "title": "CrankGPT — Local Human-powered AI",
+      "description": "<p><a href=\"https://lobste.rs/s/fdjc6i/crankgpt_local_human_powered_ai\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 15 Jun 2026 08:35:22 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+      "title": "AI, Gods and Selves: Incredibly Effective Illusions",
+      "description": "<p><a href=\"https://lobste.rs/s/tdy6ws/ai_gods_selves_incredibly_effective\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sun, 14 Jun 2026 17:49:27 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-15T13:52:26Z"
+    }
+  ]
+}

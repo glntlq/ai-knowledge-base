@@ -1,0 +1,30 @@
+{
+  "id": "d941748aa617f390f74eca253f9eb1d2c17801d5420475d825cadf551a856b50",
+  "title": "itsfatduck/optimizerDuck",
+  "source_url": "https://github.com/itsfatduck/optimizerDuck",
+  "source_type": "github_trending",
+  "summary": "optimizerDuck 是一款免费开源的 Windows 系统优化工具，专注于提升性能、保护隐私并保持操作简洁。它通过清理临时文件、管理启动项、禁用不必要的服务、调整系统设置等方式，帮助用户加速系统运行并减少数据泄露风险。工具采用模块化设计，提供直观的图形界面，适合普通用户快速优化电脑。项目基于 C# 开发，遵循开源协议，代码托管于 GitHub，社区活跃度较高。该工具旨在替代部分商业优化软件，强调透明度和用户控制权。",
+  "content_markdown": null,
+  "tags": [
+    "windows-optimization",
+    "privacy-tools",
+    "system-cleaner",
+    "open-source",
+    "c-sharp"
+  ],
+  "language": "zh",
+  "author": "itsfatduck",
+  "published_at": null,
+  "collected_at": "2026-06-15T13:52:26Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943522,
+    "github_language": "C#",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150158,
+    "github_stars_today": 321,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}
