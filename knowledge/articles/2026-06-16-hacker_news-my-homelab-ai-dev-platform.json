@@ -1,0 +1,30 @@
+{
+  "id": "47310cc99b87b207f3cb8b3b1a2ea11fe07d71341e40b1e4504b9d2b1152eb3f",
+  "title": "My Homelab AI Dev Platform",
+  "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了作者构建的个人AI开发平台（Homelab AI Dev Platform）的完整方案，涵盖硬件选型、软件栈搭建及工作流设计。硬件方面采用多GPU服务器与高速存储，软件层集成Kubernetes、Jupyter、MLflow、Ray等工具，实现模型训练、推理、实验管理的自动化。平台强调本地化部署以保护数据隐私，并支持远程访问与资源调度。文章还讨论了成本优化、性能调优及常见问题解决，为AI开发者提供可复现的参考架构。",
+  "content_markdown": null,
+  "tags": [
+    "homelab",
+    "ai-platform",
+    "kubernetes",
+    "mlops",
+    "gpu"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": "Mon, 15 Jun 2026 15:09:40 +0000",
+  "collected_at": "2026-06-16T12:51:33Z",
+  "analyzed_at": "2026-06-16T12:52:18Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

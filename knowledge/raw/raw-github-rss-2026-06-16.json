@@ -1,0 +1,298 @@
+{
+  "collected_at": "2026-06-16T12:51:27Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "author": "freeCodeCamp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694448236,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015045012,
+        "github_stars_today": 640,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/swc-project/swc",
+      "title": "swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "author": "swc-project",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433899,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501412,
+        "github_stars_today": 21,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/teslamate-org/teslamate",
+      "title": "teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer= @JakobLichterfeld ]",
+      "author": "teslamate-org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948355,
+        "github_language": "Elixir",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150952,
+        "github_stars_today": 214,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/iptv-org/iptv",
+      "title": "iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "author": "iptv-org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694123592,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506661,
+        "github_stars_today": 1196,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/puppeteer/puppeteer",
+      "title": "puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "author": "puppeteer",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269494799,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509445,
+        "github_stars_today": 171,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/meshery/meshery",
+      "title": "meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "author": "meshery",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410748,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503443,
+        "github_stars_today": 229,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/cypress-io/cypress",
+      "title": "cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "author": "cypress-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450103,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503423,
+        "github_stars_today": 11,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/music-assistant/server",
+      "title": "music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "author": "music-assistant",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942477,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150451,
+        "github_stars_today": 157,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "author": "Universal-Debloater-Alliance",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947094,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150308,
+        "github_stars_today": 146,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenBMB/VoxCPM",
+      "title": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "author": "OpenBMB",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429939,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503394,
+        "github_stars_today": 413,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/alibaba/zvec",
+      "title": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "author": "alibaba",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410255,
+        "github_language": "C++",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150600,
+        "github_stars_today": 251,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/n0-computer/iroh",
+      "title": "n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "author": "n0-computer",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949069,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150429,
+        "github_stars_today": 326,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-16T12:51:28Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+      "description": "Article URL: https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/ Comments URL: https://news.ycombinator.com/item?id=48553224 Points: 121 # Comments: 71",
+      "author": "",
+      "published_at": "Tue, 16 Jun 2026 10:44:24 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-16T12:51:33Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://rsgm.dev/post/ai-dev-platform/",
+      "title": "My Homelab AI Dev Platform",
+      "description": "Article URL: https://rsgm.dev/post/ai-dev-platform/ Comments URL: https://news.ycombinator.com/item?id=48542433 Points: 326 # Comments: 54",
+      "author": "",
+      "published_at": "Mon, 15 Jun 2026 15:09:40 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-16T12:51:33Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+      "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+      "description": "<p><a href=\"https://lobste.rs/s/9iqluy/why_adding_ontologies_llms_won_t_yield\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 15 Jun 2026 20:33:59 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-16T12:51:33Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+      "title": "June Framework Memory and storage pricing updates",
+      "description": "<p>The 128GB Framework Desktop appreciates a whopping $1,660 today, pricing it at a total of $4,839 now. It was $2,000 at launch.</p> <p><a href=\"https://lobste.rs/s/uicwti/june_framework_memory_storage_pricing\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 15 Jun 2026 17:04:31 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-16T12:51:33Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+      "title": "Building llm-driven “ai” still requires domain knowledge",
+      "description": "<p>I’m in the process of building an llm driven tool to take user questions and answer them using our customer api at $work.</p> <p>A big part of the work is capturing the domain knowledge and writing it down. It’s easier than previous generations of “ai” because the knowledge doesn’t strictly have to be rendered into a structured format, but this is what previous generations of “ai” foundered on.</p>",
+      "author": "",
+      "published_at": "Mon, 15 Jun 2026 09:46:23 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-16T12:51:33Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://crankgpt.com",
+      "title": "CrankGPT — Local Human-powered AI",
+      "description": "<p><a href=\"https://lobste.rs/s/fdjc6i/crankgpt_local_human_powered_ai\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 15 Jun 2026 08:35:22 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-16T12:51:33Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+      "title": "AI, Gods and Selves: Incredibly Effective Illusions",
+      "description": "<p><a href=\"https://lobste.rs/s/tdy6ws/ai_gods_selves_incredibly_effective\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sun, 14 Jun 2026 17:49:27 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-16T12:51:33Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+      "title": "The future of Siri, or: why private inference isn’t private enough",
+      "description": "<p><a href=\"https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 13 Jun 2026 22:50:26 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-16T12:51:33Z"
+    }
+  ]
+}

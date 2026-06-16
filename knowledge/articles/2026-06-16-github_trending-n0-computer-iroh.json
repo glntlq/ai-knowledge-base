@@ -1,0 +1,34 @@
+{
+  "id": "6dd955624b47a7922b9b32bc80bf3f1ea9681723b66cbb3452e0db66dda22572",
+  "title": "n0-computer/iroh",
+  "source_url": "https://github.com/n0-computer/iroh",
+  "source_type": "github_trending",
+  "summary": "Iroh 是一个基于 Rust 的模块化网络栈，旨在解决传统 IP 地址在动态网络环境中的脆弱性问题。它通过使用“拨号键”（dial keys）替代 IP 地址，提供更稳定、安全的连接方式。该项目由 n0-computer 开发，强调模块化设计，允许开发者灵活组合网络组件。Iroh 支持去中心化应用、点对点通信和隐私保护，适用于构建下一代互联网基础设施。其核心特性包括：基于密钥的身份验证、端到端加密、NAT 穿透和异步 I/O。作为 GitHub 上的热门项目，Iroh 吸引了大量关注，尤其适合需要高可靠性和低延迟网络层的 Rust 开发者。",
+  "content_markdown": null,
+  "tags": [
+    "rust",
+    "networking",
+    "p2p",
+    "decentralized",
+    "modular"
+  ],
+  "language": "zh",
+  "author": "n0-computer",
+  "published_at": null,
+  "collected_at": "2026-06-16T12:51:28Z",
+  "analyzed_at": "2026-06-16T12:52:11Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949069,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150429,
+    "github_stars_today": 326,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z"
+  }
+}

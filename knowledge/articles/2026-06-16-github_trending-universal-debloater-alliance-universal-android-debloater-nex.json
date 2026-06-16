@@ -1,0 +1,35 @@
+{
+  "id": "a9d96030703f65f96335219c22a75189f6e466ea89d82411b79cd64e4ddac5e1",
+  "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "source_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "source_type": "github_trending",
+  "summary": "Universal-Debloater-Alliance/universal-android-debloater-next-generation 是一个跨平台图形界面工具，使用 Rust 语言编写，通过 ADB（Android Debug Bridge）对未 root 的 Android 设备进行去臃肿（debloat）操作。该工具旨在移除预装的无用或隐私敏感应用，从而提升设备隐私安全性、系统安全性和电池续航能力。其核心优势在于无需 root 权限即可安全卸载系统应用，降低了用户操作门槛。项目采用 Rust 开发，保证了跨平台兼容性和性能效率。适用于希望优化 Android 设备性能、减少后台活动及数据收集的用户。",
+  "content_markdown": null,
+  "tags": [
+    "android",
+    "debloat",
+    "privacy",
+    "rust",
+    "adb"
+  ],
+  "language": "zh",
+  "author": "Universal-Debloater-Alliance",
+  "published_at": null,
+  "collected_at": "2026-06-16T12:51:28Z",
+  "analyzed_at": "2026-06-16T12:52:01Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947094,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150308,
+    "github_stars_today": 146,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-13T00:00:00Z",
+    "analyzed_at": "2025-04-13T00:00:00Z",
+    "published_at": null
+  }
+}

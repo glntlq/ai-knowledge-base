@@ -1,0 +1,30 @@
+{
+  "id": "c07ce4d32d908030589193af7e1b7965e329ab7c0770a341155d61b98aef3ac3",
+  "title": "June Framework Memory and storage pricing updates",
+  "source_url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+  "source_type": "hacker_news",
+  "summary": "Framework 公司宣布对其内存和存储产品进行定价更新，其中 128GB 版 Framework Desktop 价格大幅上涨至 4,839 美元（较发布时的 2,000 美元上涨 1660 美元）。此次调价反映了全球内存市场波动对硬件成本的影响，尤其是 DRAM 和 NAND 闪存价格持续走高。Framework 以其模块化、可升级的笔记本电脑和台式机设计闻名，此次价格调整可能影响其产品性价比定位及用户升级意愿。公司强调将继续关注市场动态，并努力在供应链压力下平衡定价与可持续性承诺。",
+  "content_markdown": null,
+  "tags": [
+    "framework",
+    "memory-pricing",
+    "hardware-costs",
+    "modular-laptop",
+    "market-volatility"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Mon, 15 Jun 2026 17:04:31 -0500",
+  "collected_at": "2026-06-16T12:51:33Z",
+  "analyzed_at": "2026-06-16T12:52:24Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "collected_at": "2025-06-10T00:00:00Z",
+    "analyzed_at": "2025-06-10T00:00:00Z",
+    "published_at": null
+  }
+}

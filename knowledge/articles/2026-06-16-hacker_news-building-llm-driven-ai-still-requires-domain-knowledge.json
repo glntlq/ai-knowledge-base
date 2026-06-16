@@ -1,0 +1,26 @@
+{
+  "id": "a1a5ce724f4fe44b10c06ea864fc8677b8c824832a1ed49b36c954c858f42090",
+  "title": "Building llm-driven “ai” still requires domain knowledge",
+  "source_url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+  "source_type": "hacker_news",
+  "summary": "构建基于大语言模型（LLM）的AI工具时，领域知识的获取与表达仍是核心挑战。尽管LLM降低了对严格结构化知识的要求，但将领域知识有效捕获并转化为可被模型利用的形式，仍是成功的关键。相比传统AI系统，LLM在理解非结构化文本方面更具优势，但领域知识的完整性和准确性直接影响回答质量。实践中，需将客户API相关领域知识系统化记录，并设计合理的提示或检索增强生成（RAG）流程，才能确保LLM输出可靠。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "domain-knowledge",
+    "rag",
+    "ai-engineering",
+    "knowledge-capture"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-16T12:51:33Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
