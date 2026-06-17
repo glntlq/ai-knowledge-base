@@ -1,0 +1,35 @@
+{
+  "id": "44ac6233ae3e4f1a59bf60533c13a8dd97084aceff9766a83b4bb8a0ebd19d2c",
+  "title": "continuedev/continue",
+  "source_url": "https://github.com/continuedev/continue",
+  "source_type": "github_trending",
+  "summary": "Continue 是一个开源的编码代理工具，旨在通过集成到开发环境中来辅助开发者自动完成代码编写、重构和调试等任务。它利用大型语言模型（LLM）提供上下文感知的代码建议，支持多种后端模型（如 OpenAI、Anthropic、本地模型等），并允许用户自定义提示和规则。该项目在 GitHub 上受到广泛关注，因其开源特性、灵活的扩展性以及对开发者工作流的无缝集成而备受好评。Continue 的核心优势在于其作为本地优先的编码助手，能够保护代码隐私，同时提供类似商业产品的智能补全和对话功能。它适用于个人开发者及团队协作场景，可显著提升编码效率。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "coding-agent",
+    "llm",
+    "developer-tools",
+    "code-assistant"
+  ],
+  "language": "zh",
+  "author": "continuedev",
+  "published_at": null,
+  "collected_at": "2026-06-17T12:14:26Z",
+  "analyzed_at": "2026-06-17T12:14:56Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433755,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504681,
+    "github_stars_today": 38,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:30:00Z",
+    "published_at": null
+  }
+}

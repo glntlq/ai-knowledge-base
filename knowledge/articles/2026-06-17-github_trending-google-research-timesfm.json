@@ -1,0 +1,30 @@
+{
+  "id": "1b1ceb71195a317ca60a444a146126f6f3d0510ca626828873fe547b6b3e13b1",
+  "title": "google-research/timesfm",
+  "source_url": "https://github.com/google-research/timesfm",
+  "source_type": "github_trending",
+  "summary": "TimesFM 是 Google Research 开发的时间序列基础模型，专为时间序列预测设计。该模型在大规模时间序列数据上预训练，能够处理多种预测任务，如金融、气象、能源等领域。TimesFM 采用 Transformer 架构，支持多变量输入和灵活的输出长度，具备零样本预测能力，无需针对特定任务微调即可直接应用。其预训练过程覆盖了来自不同领域的海量时间序列数据，使模型具备强大的泛化能力。TimesFM 在多个基准测试中表现优异，尤其在长序列预测和复杂模式识别方面。该模型开源在 GitHub，提供预训练权重和推理代码，便于研究人员和开发者集成使用。TimesFM 的发布推动了时间序列预测领域的发展，为实际应用提供了高效、准确的解决方案。",
+  "content_markdown": null,
+  "tags": [
+    "time-series",
+    "foundation-model",
+    "transformer",
+    "forecasting",
+    "google-research"
+  ],
+  "language": "zh",
+  "author": "google-research",
+  "published_at": null,
+  "collected_at": "2026-06-17T12:14:26Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421500,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502103,
+    "github_stars_today": 84,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

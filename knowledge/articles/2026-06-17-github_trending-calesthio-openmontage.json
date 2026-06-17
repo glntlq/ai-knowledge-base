@@ -1,0 +1,30 @@
+{
+  "id": "0e30d87b110048e63e67333a1b4a2264596362553f39bd9b6d62fc5fb760b96c",
+  "title": "calesthio/OpenMontage",
+  "source_url": "https://github.com/calesthio/OpenMontage",
+  "source_type": "github_trending",
+  "summary": "OpenMontage 是全球首个开源、基于智能体的视频制作系统，集成了12条流水线、52种工具和500多项智能体技能，能够将AI编码助手转变为完整的视频制作工作室。该系统支持从脚本生成、素材采集、剪辑、特效到最终渲染的全流程自动化，适用于内容创作者、影视制作人和开发者。其模块化架构允许用户通过自然语言指令调用不同智能体协作完成复杂视频任务，显著降低专业视频制作的门槛。项目采用MIT许可证，社区活跃，持续更新工具链和预训练模型。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "video-production",
+    "agentic-system",
+    "ai-tools",
+    "content-creation"
+  ],
+  "language": "zh",
+  "author": "calesthio",
+  "published_at": null,
+  "collected_at": "2026-06-17T12:14:26Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944926,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150981,
+    "github_stars_today": 71,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

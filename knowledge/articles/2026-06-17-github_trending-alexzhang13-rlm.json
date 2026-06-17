@@ -1,0 +1,30 @@
+{
+  "id": "df1cfb1f69b1dde3408534cda0933528f919981564a9aea363354762e84bfb90",
+  "title": "alexzhang13/rlm",
+  "source_url": "https://github.com/alexzhang13/rlm",
+  "source_type": "github_trending",
+  "summary": "rlm 是一个通用的即插即用推理库，专为递归语言模型（RLMs）设计。它支持多种沙盒环境，允许用户灵活地集成和测试不同的递归语言模型架构。该库旨在简化 RLMs 的部署和实验流程，提供模块化接口以适配不同的推理后端。通过抽象化模型加载、推理循环和输出处理，rlm 降低了使用递归语言模型的门槛，适用于研究者和开发者快速原型设计。项目目前处于早期阶段，但已具备基本的推理功能和沙盒支持。",
+  "content_markdown": null,
+  "tags": [
+    "recursive-language-models",
+    "inference-library",
+    "plug-and-play",
+    "sandbox",
+    "nlp"
+  ],
+  "language": "en",
+  "author": "alexzhang13",
+  "published_at": null,
+  "collected_at": "2026-06-17T12:14:26Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944806,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150818,
+    "github_stars_today": 37,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "b08188e3a8659945b2226e9e8591787d97ec8f42d21b0555662d46271737a670",
+  "title": "DeusData/codebase-memory-mcp",
+  "source_url": "https://github.com/DeusData/codebase-memory-mcp",
+  "source_type": "github_trending",
+  "summary": "DeusData/codebase-memory-mcp 是一个高性能代码智能 MCP 服务器，通过将代码库索引为持久化知识图谱，实现毫秒级平均仓库处理。支持 158 种编程语言，查询延迟低于 1 毫秒，令牌消耗减少 99%。提供单一静态二进制文件，零外部依赖，适合集成到开发工具链中，提升代码理解与检索效率。",
+  "content_markdown": null,
+  "tags": [
+    "code-intelligence",
+    "mcp-server",
+    "knowledge-graph",
+    "static-binary",
+    "high-performance"
+  ],
+  "language": "zh",
+  "author": "DeusData",
+  "published_at": null,
+  "collected_at": "2026-06-17T12:14:26Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944188,
+    "github_language": "C",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150426,
+    "github_stars_today": 367,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
