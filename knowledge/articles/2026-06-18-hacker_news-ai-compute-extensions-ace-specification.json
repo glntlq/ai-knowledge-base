@@ -1,0 +1,26 @@
+{
+  "id": "048271f537d2c6114e987ca60b4f6fdca708945e85a0cf7763a8f3d910fe2ebd",
+  "title": "AI Compute Extensions (ACE) Specification",
+  "source_url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+  "source_type": "hacker_news",
+  "summary": "AI Compute Extensions (ACE) 规范由 x86 生态系统组织发布，旨在定义一套标准化的指令集扩展，以加速 AI 推理与训练工作负载。该规范覆盖矩阵运算、张量操作及低精度数据类型支持，兼容现有 x86 架构，降低 AI 硬件适配成本。ACE 通过统一接口提升跨平台性能可移植性，减少碎片化，并推动 CPU 在边缘与数据中心场景下的 AI 计算能力。规范还涉及安全性与能效优化，为开发者提供可预测的性能模型。当前版本聚焦于推理优化，未来计划扩展至训练支持。该规范在 Hacker News 上引发讨论，关注其对 x86 生态与 AI 硬件竞争格局的影响。",
+  "content_markdown": null,
+  "tags": [
+    "ai-compute",
+    "x86",
+    "instruction-set-architecture",
+    "machine-learning",
+    "specification"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-18T11:49:01Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dbfd963ae848209f775be59d36c27a8d37f97982aba163a302f56d18c1de8697",
+  "title": "owainlewis/awesome-artificial-intelligence",
+  "source_url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精心整理的人工智能（AI）资源列表，涵盖课程、书籍、视频讲座和论文。它旨在为AI学习者和从业者提供一站式导航，内容涉及机器学习、深度学习、自然语言处理、计算机视觉等核心领域。资源按类型和主题分类，包括入门指南、经典教材、在线课程（如Coursera、edX）、学术论文、实用工具和框架。该列表持续更新，收录了从基础理论到前沿研究的广泛材料，适合不同层次的学习者。通过聚合高质量资源，该项目降低了AI学习门槛，帮助用户高效构建知识体系。",
+  "content_markdown": null,
+  "tags": [
+    "artificial-intelligence",
+    "machine-learning",
+    "deep-learning",
+    "awesome-list",
+    "resources"
+  ],
+  "language": "zh",
+  "author": "owainlewis",
+  "published_at": null,
+  "collected_at": "2026-06-18T11:49:00Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414138,
+    "github_language": null,
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502325,
+    "github_stars_today": 33,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

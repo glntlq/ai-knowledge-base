@@ -1,0 +1,30 @@
+{
+  "id": "a758588f52a9d6665275ea5e39a7ac2a474fdec132068d7686b82c7d8f53787e",
+  "title": "Kilo-Org/kilocode",
+  "source_url": "https://github.com/Kilo-Org/kilocode",
+  "source_type": "github_trending",
+  "summary": "Kilo 是一个开源的全能智能工程平台，旨在通过集成化的代理式编码代理加速软件开发流程。它支持从构建、部署到迭代的完整生命周期，帮助团队更高效地协作与交付。该平台以开源形式发布，在 GitHub 上获得广泛关注，适合希望利用 AI 辅助提升开发效率的工程团队。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "ai-agent",
+    "development-platform",
+    "devops",
+    "coding-assistant"
+  ],
+  "language": "zh",
+  "author": "Kilo-Org",
+  "published_at": null,
+  "collected_at": "2026-06-18T11:49:00Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421417,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502683,
+    "github_stars_today": 1339,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

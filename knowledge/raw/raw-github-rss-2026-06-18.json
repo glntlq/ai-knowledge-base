@@ -1,0 +1,314 @@
+{
+  "collected_at": "2026-06-18T11:48:59Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/google-research/timesfm",
+      "title": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "author": "google-research",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422308,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502162,
+        "github_stars_today": 606,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/n0-computer/iroh",
+      "title": "n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "author": "n0-computer",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949827,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150456,
+        "github_stars_today": 421,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "author": "freeCodeCamp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694449332,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015045101,
+        "github_stars_today": 757,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694231834,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015020593,
+        "github_stars_today": 1129,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/zai-org/GLM-5",
+      "title": "zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "author": "zai-org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943868,
+        "github_language": null,
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150422,
+        "github_stars_today": 286,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "title": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "author": "DeusData",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946461,
+        "github_language": "C",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150529,
+        "github_stars_today": 371,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/alibaba/zvec",
+      "title": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "author": "alibaba",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411002,
+        "github_language": "C++",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150639,
+        "github_stars_today": 435,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/withastro/flue",
+      "title": "withastro/flue",
+      "description": "The sandbox agent framework.",
+      "author": "withastro",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945333,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150289,
+        "github_stars_today": 164,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Kilo-Org/kilocode",
+      "title": "Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "author": "Kilo-Org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421417,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502683,
+        "github_stars_today": 1339,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/makeplane/plane",
+      "title": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "author": "makeplane",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269451585,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504588,
+        "github_stars_today": 89,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Kong/insomnia",
+      "title": "Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "author": "Kong",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438512,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502284,
+        "github_stars_today": 13,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "author": "Universal-Debloater-Alliance",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947760,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150334,
+        "github_stars_today": 457,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/dotnet/aspnetcore",
+      "title": "dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "author": "dotnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438061,
+        "github_language": "C#",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010707,
+        "github_stars_today": 11,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "title": "owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "author": "owainlewis",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414138,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502325,
+        "github_stars_today": 33,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Lightricks/LTX-2",
+      "title": "Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "author": "Lightricks",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947374,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501195,
+        "github_stars_today": 47,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/LibreTranslate/LibreTranslate",
+      "title": "LibreTranslate/LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "author": "LibreTranslate",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414796,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501525,
+        "github_stars_today": 179,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-18T11:49:00Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "title": "AI Compute Extensions (ACE) Specification",
+      "description": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 41 # Comments: 18",
+      "author": "",
+      "published_at": "Thu, 18 Jun 2026 02:32:01 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-18T11:49:01Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "title": "Trellis AI (YC W24) hiring a product lead to build agents for healthcare access",
+      "description": "Article URL: https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead Comments URL: https://news.ycombinator.com/item?id=48573221 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Wed, 17 Jun 2026 17:00:02 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-18T11:49:01Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/Adam-CAD/CADAM",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "description": "Hey HN! I'm Zach from Adam ( https://adam.new/ ). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs: - AI will be the primary medium for creating mechanical designs just like it is in software today. - The best paradigm for CAD generation is to generate CAD as code (text -> code -> CAD). We’re building CADAM, an open source Text to CAD platform. It's a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. Think of it like AI TinkerCAD. Demo: https://www.youtube.com/watch?v=iESOr7EGWqk Try it: https://adam.new/cadam/ What it does: - Generates parametric 3D models from natural language, with support for both text prompts and image references. - Outputs OpenSCAD code with automatically extracted parameters that surface as interactive sliders for instant dimension tweaking - Exports as .STL or .SCAD (plus OBJ, GLB/GLTF, FBX, and DXF) Under the hood: - One agentic endpoint with two modes that swap system prompts and tools: a parametric mode that writes/edits OpenSCAD via a build_parametric_model tool, and a mesh mode that generates 3D textured meshes. - Simple parameter tweaks bypass the model entirely; adjusting a slider does a deterministic regex update on the SCAD source, requiring no LLM call. - Model-agnostic via the Vercel AI SDK: Anthropic (Claude), Google (Gemini), and OpenAI/others through OpenRouter, with adaptive thinking auto-enabled on newer models. Surprisingly, in our evals Gemini 3.1 Pro is the top model. - Runs fully in-browser by compiling OpenSCAD to WebAssembly (in a Web Worker, so the UI never blocks) and rendering with Three.js via React Three Fiber - Supports BOSL, BOSL2, and MCAD libraries, plus custom font support (Geist) for text in models Future improvements: - Support both build123d and CadQuery. This will allow us to move beyond CSG primitives to constraint-driven modeling and provide direct comparisons to other code-as-CAD primitives. - Better spatial context: UI for face/edge selection and viewport image integration to give LLMs spatial understanding You can clone the repo and run it locally! Contributions are very welcome. Comments URL: https://news.ycombinator.com/item?id=48572553 Points: 188 # Comments: 87",
+      "author": "",
+      "published_at": "Wed, 17 Jun 2026 16:14:04 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-18T11:49:01Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://nathan.rs/posts/gzip-lm/",
+      "title": "Can gzip be a language model?",
+      "description": "<p><a href=\"https://lobste.rs/s/j11pew/can_gzip_be_language_model\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 16 Jun 2026 17:17:20 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-18T11:49:01Z"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4d92c22951ea488b3f5a21356acbfe657a5612dbc07ce12e7ac606faeba52f95",
+  "title": "dotnet/aspnetcore",
+  "source_url": "https://github.com/dotnet/aspnetcore",
+  "source_type": "github_trending",
+  "summary": "ASP.NET Core 是微软推出的跨平台 .NET 框架，用于在 Windows、Mac 或 Linux 上构建现代云基础 Web 应用。它提供高性能、模块化架构，支持 MVC、Web API、SignalR 实时通信、Blazor 前端框架等特性。作为开源项目，它拥有活跃社区和微软官方支持，适用于从微服务到企业级应用的多种场景。该框架强调性能优化、安全性和可扩展性，是 .NET 生态的核心组件之一。",
+  "content_markdown": null,
+  "tags": [
+    "aspnet-core",
+    "dotnet",
+    "web-framework",
+    "cross-platform",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "dotnet",
+  "published_at": null,
+  "collected_at": "2026-06-18T11:49:00Z",
+  "analyzed_at": "2026-06-18T11:49:46Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438061,
+    "github_language": "C#",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010707,
+    "github_stars_today": 11,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}
