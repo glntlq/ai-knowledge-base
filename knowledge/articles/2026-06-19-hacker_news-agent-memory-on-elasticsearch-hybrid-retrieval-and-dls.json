@@ -1,0 +1,26 @@
+{
+  "id": "4918d76e52cf7c157ad2c97f546cdf11af4b8e6774974426f2b8d7ecf87e951e",
+  "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了在 Elasticsearch 上实现 AI 代理记忆的混合检索与文档级安全（DLS）方案。通过结合向量搜索与关键词搜索的混合检索策略，提升代理对历史对话和知识片段的召回准确率。同时，利用 Elasticsearch 的 DLS 功能，确保不同用户或角色只能访问其授权范围内的记忆数据，保障多租户场景下的数据隔离与安全。文章详细阐述了索引设计、查询构建及安全过滤的实现细节，为构建具备长期记忆与权限控制的 AI 代理系统提供了实践指南。",
+  "content_markdown": null,
+  "tags": [
+    "elasticsearch",
+    "hybrid-retrieval",
+    "agent-memory",
+    "document-level-security",
+    "ai-agents"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-19T12:03:51Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

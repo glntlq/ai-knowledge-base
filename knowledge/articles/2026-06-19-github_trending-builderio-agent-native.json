@@ -1,0 +1,29 @@
+{
+  "id": "b93c29bddd64a39a30ace4684f4eefa6f0582eb461c87a791f4e5a05fef328f7",
+  "title": "BuilderIO/agent-native",
+  "source_url": "https://github.com/BuilderIO/agent-native",
+  "source_type": "github_trending",
+  "summary": "Agent Native 是一个由 BuilderIO 开发的框架，旨在简化构建原生支持 AI 代理的应用程序。该框架提供了一套工具和抽象层，使开发者能够轻松地将 AI 代理集成到应用中，实现自然语言交互、任务自动化等功能。它支持多种 AI 模型，并提供了丰富的 API 和组件，帮助开发者快速构建智能、响应式的用户界面。Agent Native 的设计理念是让 AI 代理成为应用的一等公民，从而提升用户体验和开发效率。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "framework",
+    "developer-tools",
+    "builderio"
+  ],
+  "language": "zh",
+  "author": "BuilderIO",
+  "published_at": null,
+  "collected_at": "2026-06-19T12:03:50Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694813,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150101,
+    "github_stars_today": 172,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

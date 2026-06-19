@@ -1,0 +1,30 @@
+{
+  "id": "f978f542ecc1326af4c3c5d8a6e40bbb3a8d942c27e064580dfe411e939a030f",
+  "title": "koala73/worldmonitor",
+  "source_url": "https://github.com/koala73/worldmonitor",
+  "source_type": "github_trending",
+  "summary": "WorldMonitor 是一个开源实时全球情报仪表盘，集成 AI 驱动的新闻聚合、地缘政治监控与基础设施追踪功能，提供统一态势感知界面。该项目基于 GitHub 托管，旨在帮助用户快速掌握全球动态，适用于安全分析、新闻聚合与决策支持场景。其核心特性包括多源数据融合、智能过滤与可视化展示，技术栈可能涉及前端框架与后端数据处理。作为新兴工具，它填补了开源领域在实时全球情报聚合方面的空白，但需关注数据源可靠性及隐私合规性。",
+  "content_markdown": null,
+  "tags": [
+    "real-time-dashboard",
+    "geopolitical-monitoring",
+    "news-aggregation",
+    "situational-awareness",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "koala73",
+  "published_at": null,
+  "collected_at": "2026-06-19T12:03:50Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269456859,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509110,
+    "github_stars_today": 133,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

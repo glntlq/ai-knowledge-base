@@ -1,0 +1,30 @@
+{
+  "id": "3361251cb9597a1590018255c24c3304a5577b47d1a321f2aa12f3f84a66d839",
+  "title": "aishwaryanr/awesome-generative-ai-guide",
+  "source_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+  "source_type": "github_trending",
+  "summary": "该仓库是一个综合性的生成式AI资源指南，汇集了最新的研究进展、面试准备材料、实用笔记和代码示例。内容涵盖大型语言模型（LLM）、扩散模型、强化学习等核心领域，并提供了从基础概念到高级应用的系统学习路径。资源包括论文综述、教程、工具库和项目案例，适合不同层次的开发者与研究者。仓库持续更新，旨在成为生成式AI领域的一站式参考。",
+  "content_markdown": null,
+  "tags": [
+    "generative-ai",
+    "large-language-models",
+    "deep-learning",
+    "machine-learning",
+    "awesome-list"
+  ],
+  "language": "zh",
+  "author": "aishwaryanr",
+  "published_at": null,
+  "collected_at": "2026-06-19T12:03:50Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427423,
+    "github_language": "HTML",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505732,
+    "github_stars_today": 203,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
