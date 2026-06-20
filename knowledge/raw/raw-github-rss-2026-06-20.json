@@ -1,0 +1,310 @@
+{
+  "collected_at": "2026-06-20T10:30:42Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "title": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "author": "DeusData",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948718,
+        "github_language": "C",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150666,
+        "github_stars_today": 1058,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google-research/timesfm",
+      "title": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "author": "google-research",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424229,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502291,
+        "github_stars_today": 1510,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/palmier-io/palmier-pro",
+      "title": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "author": "palmier-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942213,
+        "github_language": "Swift",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150215,
+        "github_stars_today": 756,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/koala73/worldmonitor",
+      "title": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "author": "koala73",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269457547,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509154,
+        "github_stars_today": 156,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "title": "aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "author": "aishwaryanr",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427757,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505750,
+        "github_stars_today": 107,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/BuilderIO/agent-native",
+      "title": "BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "author": "BuilderIO",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941169,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150124,
+        "github_stars_today": 147,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/chopratejas/headroom",
+      "title": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "author": "chopratejas",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269440021,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502732,
+        "github_stars_today": 4005,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/calesthio/OpenMontage",
+      "title": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "author": "calesthio",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946524,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501108,
+        "github_stars_today": 156,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/zai-org/GLM-5",
+      "title": "zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "author": "zai-org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944721,
+        "github_language": null,
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150474,
+        "github_stars_today": 480,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/withastro/flue",
+      "title": "withastro/flue",
+      "description": "The sandbox agent framework.",
+      "author": "withastro",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945932,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150331,
+        "github_stars_today": 309,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/n0-computer/iroh",
+      "title": "n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "author": "n0-computer",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410304,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150469,
+        "github_stars_today": 302,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694233738,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015020749,
+        "github_stars_today": 1110,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/penpot/penpot",
+      "title": "penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "author": "penpot",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450741,
+        "github_language": "Clojure",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503277,
+        "github_stars_today": 85,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Kong/insomnia",
+      "title": "Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "author": "Kong",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439097,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502314,
+        "github_stars_today": 292,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Lightricks/LTX-2",
+      "title": "Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "author": "Lightricks",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947736,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501226,
+        "github_stars_today": 196,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-20T10:30:43Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+      "description": "<p><a href=\"https://lobste.rs/s/inzoi4/agent_memory_on_elasticsearch_hybrid\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 18 Jun 2026 14:36:59 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-20T10:30:48Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+      "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed",
+      "description": "<p><a href=\"https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 18 Jun 2026 11:25:48 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-20T10:30:48Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://nathan.rs/posts/gzip-lm/",
+      "title": "Can gzip be a language model?",
+      "description": "<p><a href=\"https://lobste.rs/s/j11pew/can_gzip_be_language_model\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 16 Jun 2026 17:17:20 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-20T10:30:48Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+      "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+      "description": "<p><a href=\"https://lobste.rs/s/9iqluy/why_adding_ontologies_llms_won_t_yield\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 15 Jun 2026 20:33:59 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-20T10:30:48Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+      "title": "June Framework Memory and storage pricing updates",
+      "description": "<p>The 128GB Framework Desktop appreciates a whopping $1,660 today, pricing it at a total of $4,839 now. It was $2,000 at launch.</p> <p><a href=\"https://lobste.rs/s/uicwti/june_framework_memory_storage_pricing\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 15 Jun 2026 17:04:31 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-20T10:30:48Z"
+    }
+  ]
+}
