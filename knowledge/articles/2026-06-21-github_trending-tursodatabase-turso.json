@@ -1,0 +1,30 @@
+{
+  "id": "1338cdf7170b4681053d81442cf13c90ba96539d441f4b725e629cc5ad55c50c",
+  "title": "tursodatabase/turso",
+  "source_url": "https://github.com/tursodatabase/turso",
+  "source_type": "github_trending",
+  "summary": "Turso 是一个进程内 SQL 数据库，兼容 SQLite，提供边缘计算优化的分布式数据库解决方案。它基于 libSQL（SQLite 的分支）构建，支持主从复制、边缘部署和低延迟访问。Turso 允许开发者将数据库部署在靠近用户的位置（如边缘节点），通过 HTTP 或 WebSocket 进行查询，适用于需要全球分布、快速响应的应用场景。该项目在 GitHub 上开源，旨在简化分布式数据库的管理，同时保持 SQLite 的轻量级和易用性。",
+  "content_markdown": null,
+  "tags": [
+    "sqlite",
+    "distributed-database",
+    "edge-computing",
+    "libsql",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "tursodatabase",
+  "published_at": null,
+  "collected_at": "2026-06-21T11:13:38Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420529,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501050,
+    "github_stars_today": 801,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

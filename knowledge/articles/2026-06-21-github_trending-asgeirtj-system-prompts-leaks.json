@@ -1,0 +1,30 @@
+{
+  "id": "f2521f76a880fc0222ddd4d25f3e5bff2ce0c0374c89c049de3d07843a02d950",
+  "title": "asgeirtj/system_prompts_leaks",
+  "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "source_type": "github_trending",
+  "summary": "该项目收集并定期更新来自多家AI公司的系统提示词，包括Anthropic（Claude Fable 5、Opus 4.8、Claude Code、Claude Design）、OpenAI（ChatGPT 5.5 Thinking、GPT 5.5 Instant、Codex）、Google（Gemini 3.5 Flash、3.1 Pro、Antigravity）以及xAI（Grok、Cursor、Copilot、VS Code、Perplexity）等。这些提示词揭示了各模型在对话、代码生成、设计等场景下的底层指令与行为约束，对理解AI系统设计、提示工程及模型安全具有参考价值。项目持续更新，为研究者和开发者提供了观察前沿AI系统内部逻辑的窗口。",
+  "content_markdown": null,
+  "tags": [
+    "prompt-engineering",
+    "system-prompts",
+    "ai-models",
+    "open-source",
+    "llm"
+  ],
+  "language": "zh",
+  "author": "asgeirtj",
+  "published_at": null,
+  "collected_at": "2026-06-21T11:13:38Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269443995,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507289,
+    "github_stars_today": 352,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

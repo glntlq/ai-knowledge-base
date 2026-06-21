@@ -1,0 +1,26 @@
+{
+  "id": "2468e31f5b3840c4f295aee01747e68916ec37400326748110a38a47d64f9bd3",
+  "title": "Building reliable agentic AI systems",
+  "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了构建可靠智能体AI系统的关键挑战与解决方案，重点围绕大语言模型（LLM）在实际应用中的可靠性问题。作者指出，LLM的固有不确定性（如幻觉、输出不一致）是构建可靠系统的核心障碍，并提出通过结构化提示、验证机制、回退策略和人类反馈循环来缓解这些问题。文章详细介绍了“可靠LLM模式”，包括使用约束解码、输出验证器、多模型投票和渐进式推理等技术。此外，还讨论了系统架构设计，如将LLM作为组件而非核心决策者，以及通过监控和日志记录实现可观测性。作者强调，可靠智能体系统需要结合工程实践（如测试、版本控制）和领域知识，而非单纯依赖模型能力。文章提供了具体案例和代码示例，展示了如何在金融、医疗等高风险场景中部署可靠AI系统。总体而言，本文为开发者提供了构建生产级智能体系统的实用指南，平衡了LLM的灵活性与系统可靠性。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "reliability",
+    "agentic-ai",
+    "system-design",
+    "prompt-engineering"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-21T11:13:40Z",
+  "analyzed_at": "2025-04-14T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

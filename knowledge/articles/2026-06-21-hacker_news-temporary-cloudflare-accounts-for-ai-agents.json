@@ -1,0 +1,26 @@
+{
+  "id": "5be174f4000d20faa6e09e2c2035ab8aa6576ecb4d6940f574dd5eddebe4ee3a",
+  "title": "Temporary Cloudflare accounts for AI agents",
+  "source_url": "https://blog.cloudflare.com/temporary-accounts/",
+  "source_type": "hacker_news",
+  "summary": "Cloudflare 推出临时账户功能，专为 AI 代理设计，允许开发者创建短期、自动过期的 API 令牌和资源。该功能解决了 AI 代理在自动化任务中需要临时访问权限的安全问题，通过细粒度权限控制和自动过期机制，降低长期凭证泄露风险。临时账户支持动态创建、使用和销毁，适用于 CI/CD 流水线、数据抓取、模型训练等场景。Cloudflare 利用其 Workers 和 API 网关技术实现无服务器化部署，确保高可用性和低延迟。该功能已集成到 Cloudflare 控制面板和 API 中，开发者可通过声明式配置快速启用。此举旨在提升 AI 工作流的安全性和灵活性，同时减少运维负担。",
+  "content_markdown": null,
+  "tags": [
+    "cloudflare",
+    "ai-agents",
+    "temporary-accounts",
+    "api-security",
+    "serverless"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-21T11:13:40Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

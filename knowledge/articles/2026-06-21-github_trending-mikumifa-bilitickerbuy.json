@@ -1,0 +1,35 @@
+{
+  "id": "2b274e4fc0374ffaf72e5b6e0dd89cbc1bb60f5a775e2a6d09b8aebf8e827aea",
+  "title": "mikumifa/biliTickerBuy",
+  "source_url": "https://github.com/mikumifa/biliTickerBuy",
+  "source_type": "github_trending",
+  "summary": "biliTickerBuy 是一个专为 B 站会员购设计的购票辅助工具，旨在帮助用户更高效地抢购 B 站会员购中的限量商品或活动门票。该工具通过自动化脚本简化购票流程，支持快速提交订单、监控库存变化等功能，减少手动操作的时间延迟。项目基于 Python 开发，利用网络请求模拟用户行为，适用于需要抢购热门 B 站会员商品的场景。用户需自行配置相关参数，如商品 ID 和 Cookie，以适配具体抢购目标。该工具在 GitHub 上开源，吸引了关注自动化购票和 B 站生态的开发者，但使用时需注意遵守平台规则，避免滥用。",
+  "content_markdown": null,
+  "tags": [
+    "bilibili",
+    "ticket-buying",
+    "automation",
+    "python",
+    "shopping-assistant"
+  ],
+  "language": "zh",
+  "author": "mikumifa",
+  "published_at": null,
+  "collected_at": "2026-06-21T11:13:38Z",
+  "analyzed_at": "2026-06-21T11:14:13Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943675,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150459,
+    "github_stars_today": 164,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

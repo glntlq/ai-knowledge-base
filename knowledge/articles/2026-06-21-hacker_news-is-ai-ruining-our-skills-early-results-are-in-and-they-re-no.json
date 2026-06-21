@@ -1,0 +1,25 @@
+{
+  "id": "8d68f17b75c993058c29d63012f5432da34a3e83f35d145692c85d6cee8b24d4",
+  "title": "Is AI ruining our skills? Early results are in and they’re not good",
+  "source_url": "https://www.nature.com/articles/d41586-026-01947-1",
+  "source_type": "hacker_news",
+  "summary": "《自然》杂志发表研究，探讨AI对专业技能的影响。早期结果显示，AI工具可能削弱人类批判性思维和问题解决能力，尤其在编程、写作等领域。研究指出，过度依赖AI会导致认知惰性，降低主动学习和记忆能力。专家呼吁平衡AI使用与技能维护，避免技术依赖带来的能力退化。",
+  "content_markdown": null,
+  "tags": [
+    "ai-impact",
+    "cognitive-skills",
+    "critical-thinking",
+    "technology-dependence"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-21T11:13:40Z",
+  "analyzed_at": "2025-04-14T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
