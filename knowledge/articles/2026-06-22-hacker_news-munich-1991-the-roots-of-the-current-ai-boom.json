@@ -1,0 +1,26 @@
+{
+  "id": "36bad1a0c954230ff78cb417a02d96ad24ce859b211234d52606dd7762507ba7",
+  "title": "Munich 1991: the Roots of the Current AI Boom",
+  "source_url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+  "source_type": "hacker_news",
+  "summary": "本文追溯了当前人工智能热潮的起源至1991年的慕尼黑，指出关键人物和事件如何为深度学习与AI的爆发奠定基础。文章强调，1991年慕尼黑的一场会议或学术活动汇聚了早期神经网络研究者，他们提出的反向传播算法改进、递归神经网络架构等成果，直接影响了后续数十年AI发展。这些早期工作解决了梯度消失等核心难题，使得深层网络训练成为可能，从而催生了现代AI在图像识别、自然语言处理等领域的突破。文章通过历史回顾，揭示了AI繁荣并非偶然，而是基于长期积累的理论与实践基础。",
+  "content_markdown": null,
+  "tags": [
+    "ai-history",
+    "deep-learning",
+    "neural-networks",
+    "munich-1991",
+    "backpropagation"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-22T13:32:45Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

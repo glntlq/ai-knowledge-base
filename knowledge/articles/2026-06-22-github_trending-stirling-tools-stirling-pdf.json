@@ -1,0 +1,34 @@
+{
+  "id": "e8fe6c99634861eb86bf67f18c9dbe7ac6ba4b439761b46d04e9f3a6a4b97143",
+  "title": "Stirling-Tools/Stirling-PDF",
+  "source_url": "https://github.com/Stirling-Tools/Stirling-PDF",
+  "source_type": "github_trending",
+  "summary": "Stirling-PDF 是一款基于 Web 的 PDF 处理工具，支持在任意设备上通过浏览器完成 PDF 编辑、合并、拆分、转换、OCR 等操作。该项目采用 Docker 部署，无需安装客户端，注重隐私保护，所有处理均在本地完成。作为 GitHub 上排名第一的 PDF 应用，它提供了丰富的功能集，包括页面操作、格式转换、安全设置、水印添加等，适合个人和企业用户使用。",
+  "content_markdown": null,
+  "tags": [
+    "pdf",
+    "web-app",
+    "docker",
+    "self-hosted",
+    "document-processing"
+  ],
+  "language": "zh",
+  "author": "Stirling-Tools",
+  "published_at": null,
+  "collected_at": "2026-06-22T13:32:42Z",
+  "analyzed_at": "2026-06-22T13:33:06Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269482463,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507216,
+    "github_stars_today": 394,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "beginner",
+    "source_type": "github_trending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

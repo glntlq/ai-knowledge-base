@@ -1,0 +1,30 @@
+{
+  "id": "fe79eefd1e013d8ef0efc5a43de095484f4b278aec68ed77d576d1a392ee28b8",
+  "title": "jamiepine/voicebox",
+  "source_url": "https://github.com/jamiepine/voicebox",
+  "source_type": "github_trending",
+  "summary": "VoiceBox 是一个开源的 AI 语音工作室，提供语音克隆、听写和创作功能。该项目旨在让用户能够通过简单的界面克隆任意声音，生成自然语音，并支持实时听写与语音合成。基于深度学习模型，VoiceBox 允许用户上传少量音频样本即可创建个性化语音模型，适用于内容创作、辅助技术、虚拟助手等场景。项目采用模块化架构，支持多种语音引擎后端，并提供了 API 接口便于集成。作为开源方案，VoiceBox 降低了语音 AI 技术的使用门槛，强调隐私与本地化部署。",
+  "content_markdown": null,
+  "tags": [
+    "voice-cloning",
+    "text-to-speech",
+    "open-source",
+    "ai-studio",
+    "speech-synthesis"
+  ],
+  "language": "zh",
+  "author": "jamiepine",
+  "published_at": null,
+  "collected_at": "2026-06-22T13:32:42Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431869,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503908,
+    "github_stars_today": 614,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

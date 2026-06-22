@@ -1,0 +1,31 @@
+{
+  "id": "8957ebc7426fa5d48b58a2f59efc35d2ddf7a278a8b25248058da4111b522c21",
+  "title": "Lighthouse agentic browsing scoring",
+  "source_url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+  "source_type": "hacker_news",
+  "summary": "Lighthouse 新增代理浏览评分功能，用于评估 AI 代理在网页上的自主导航与任务完成能力。该评分基于代理能否正确识别页面元素、执行点击输入等操作、以及遵循用户指令的准确度。评分指标包括任务成功率、操作效率、错误恢复能力等。此功能旨在为开发者提供量化标准，优化网页对 AI 代理的友好性，推动无头浏览器与自动化测试的发展。目前处于实验阶段，需通过 Chrome DevTools 或 CLI 启用。",
+  "content_markdown": null,
+  "tags": [
+    "lighthouse",
+    "agentic-browsing",
+    "web-automation",
+    "ai-agents",
+    "performance-scoring"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Sat, 20 Jun 2026 06:44:00 -0500",
+  "collected_at": "2026-06-22T13:32:45Z",
+  "analyzed_at": "2026-06-22T13:33:49Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z",
+    "published_at": null
+  }
+}

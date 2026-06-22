@@ -1,0 +1,314 @@
+{
+  "collected_at": "2026-06-22T13:32:41Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/calesthio/OpenMontage",
+      "title": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "author": "calesthio",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410689,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501447,
+        "github_stars_today": 2935,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/palmier-io/palmier-pro",
+      "title": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "author": "palmier-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946684,
+        "github_language": "Swift",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150474,
+        "github_stars_today": 2462,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jamiepine/voicebox",
+      "title": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "author": "jamiepine",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431869,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503908,
+        "github_stars_today": 614,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "author": "mukul975",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269418241,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502179,
+        "github_stars_today": 957,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/penpot/penpot",
+      "title": "penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "author": "penpot",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269452643,
+        "github_language": "Clojure",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503371,
+        "github_stars_today": 730,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "title": "Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "author": "Stirling-Tools",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269482463,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507216,
+        "github_stars_today": 394,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/garrytan/gstack",
+      "title": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "author": "garrytan",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694112726,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015016743,
+        "github_stars_today": 454,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/heygen-com/hyperframes",
+      "title": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "author": "heygen-com",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429682,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502806,
+        "github_stars_today": 369,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tursodatabase/turso",
+      "title": "tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "author": "tursodatabase",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421108,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501074,
+        "github_stars_today": 538,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "author": "bytedance",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269472988,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509875,
+        "github_stars_today": 736,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "title": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "author": "DeusData",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411044,
+        "github_language": "C",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150823,
+        "github_stars_today": 1186,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "author": "ZhuLinsen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269445487,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015041810,
+        "github_stars_today": 1560,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "author": "firecrawl",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694136717,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507935,
+        "github_stars_today": 513,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "title": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "author": "JCodesMore",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417447,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502721,
+        "github_stars_today": 63,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "author": "lyogavin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420892,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502414,
+        "github_stars_today": 453,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694141039,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015012217,
+        "github_stars_today": 2051,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-22T13:32:42Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "title": "Munich 1991: the Roots of the Current AI Boom",
+      "description": "<p><a href=\"https://lobste.rs/s/n1xvd7/munich_1991_roots_current_ai_boom\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 22 Jun 2026 07:09:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-22T13:32:45Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://datavorous.github.io/writing/qairt/",
+      "title": "Reverse Engineering the Qualcomm NPU Compiler",
+      "description": "<p><a href=\"https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 20 Jun 2026 06:49:16 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-22T13:32:45Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+      "title": "Lighthouse agentic browsing scoring",
+      "description": "<p><a href=\"https://lobste.rs/s/rdrtip/lighthouse_agentic_browsing_scoring\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 20 Jun 2026 06:44:00 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-22T13:32:45Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+      "description": "<p><a href=\"https://lobste.rs/s/inzoi4/agent_memory_on_elasticsearch_hybrid\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 18 Jun 2026 14:36:59 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-22T13:32:45Z"
+    }
+  ]
+}

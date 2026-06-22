@@ -1,0 +1,30 @@
+{
+  "id": "c73332f8ddf0fcfee70dd23044be7e5f30ec09d8eecf40aedeb735e2cedc2210",
+  "title": "heygen-com/hyperframes",
+  "source_url": "https://github.com/heygen-com/hyperframes",
+  "source_type": "github_trending",
+  "summary": "Hyperframes 是一个由 HeyGen 开发的开源工具，允许用户通过编写 HTML 来生成视频，专为 AI 代理设计。它简化了视频创建流程，将 Web 技术（HTML/CSS/JS）直接转化为视频输出，适用于自动化内容生成、动态视频制作等场景。该项目在 GitHub 上开源，旨在降低视频制作门槛，提高开发效率。",
+  "content_markdown": null,
+  "tags": [
+    "html-to-video",
+    "video-generation",
+    "ai-agents",
+    "open-source",
+    "web-technologies"
+  ],
+  "language": "zh",
+  "author": "heygen-com",
+  "published_at": null,
+  "collected_at": "2026-06-22T13:32:42Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429682,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502806,
+    "github_stars_today": 369,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

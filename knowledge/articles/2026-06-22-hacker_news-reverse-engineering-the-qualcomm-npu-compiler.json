@@ -1,0 +1,26 @@
+{
+  "id": "c9dd7be8e7c4a71ec695e1bb8b5174cb4cce92b36531fa6439072d2a4b7d5e35",
+  "title": "Reverse Engineering the Qualcomm NPU Compiler",
+  "source_url": "https://datavorous.github.io/writing/qairt/",
+  "source_type": "hacker_news",
+  "summary": "本文详细逆向分析了高通NPU编译器（QAIRT），揭示了其将神经网络模型转换为NPU可执行指令的完整流程。作者通过二进制分析、运行时追踪和文档挖掘，还原了编译器前端（模型解析与中间表示生成）、优化器（算子融合、内存布局调整）及后端（指令调度与硬件映射）的关键实现。重点讨论了QAIRT对常见算子（如卷积、全连接）的特定优化策略，以及其与高通Hexagon DSP的交互机制。研究发现编译器存在未公开的调试接口和性能调优参数，并指出了若干潜在的安全漏洞（如未校验的输入缓冲区）。该工作为理解移动端AI加速器的软件栈提供了重要参考，对NPU驱动开发、模型部署优化及硬件安全研究具有实际价值。",
+  "content_markdown": null,
+  "tags": [
+    "qualcomm",
+    "npu",
+    "reverse-engineering",
+    "compiler",
+    "ai-acceleration"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-22T13:32:45Z",
+  "analyzed_at": "2025-04-11T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}
