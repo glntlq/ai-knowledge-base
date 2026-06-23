@@ -1,0 +1,25 @@
+{
+  "id": "94b8cfb1db5faf492f2d44dbbd2fc800e1a8a145e3d4494743abfb8b13e81db8",
+  "title": "Prompt Injection as Role Confusion",
+  "source_url": "https://role-confusion.github.io",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了提示注入攻击的一种新视角：角色混淆。作者指出，大型语言模型（LLM）的提示注入漏洞本质上源于模型无法区分系统提示（角色设定）与用户输入（角色外指令）。当用户输入中包含与系统提示相悖的指令时，模型可能因角色混淆而执行恶意操作。文章分析了角色混淆的成因，包括模型对指令优先级理解的缺失、上下文窗口内信息冲突的处理机制缺陷等。通过具体案例，展示了攻击者如何利用角色混淆绕过安全限制，例如诱导模型忽略原有角色设定而扮演新角色。作者提出，解决该问题需从模型训练和提示工程两方面入手：训练时增强模型对角色边界的认知，部署时采用输入验证、权限分离等防御策略。该研究对LLM安全防护具有重要参考价值。",
+  "content_markdown": null,
+  "tags": [
+    "prompt-injection",
+    "llm-security",
+    "role-confusion",
+    "ai-safety"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-23T11:13:46Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

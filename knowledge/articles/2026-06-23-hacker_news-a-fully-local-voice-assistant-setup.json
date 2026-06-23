@@ -1,0 +1,26 @@
+{
+  "id": "981238851f7bc3f9c44b7769e0cc713e2ecf237ee8551d1a5aedc0509a79ae0c",
+  "title": "A fully local voice assistant setup",
+  "source_url": "https://blog.platypush.tech/article/Local-voice-assistant",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一个完全本地化的语音助手搭建方案，强调无需依赖云端服务，所有语音识别、自然语言处理和响应生成均在本地设备上完成。方案基于开源工具，包括用于语音识别的Vosk、用于意图识别的Rhasspy或Mycroft，以及用于文本转语音的espeak或Mimic。文章详细说明了在Linux系统上的安装步骤、配置文件编写、自定义技能开发以及集成家庭自动化设备的方法。该方案注重隐私保护，适合对数据安全有要求的用户，同时提供了离线运行的能力，避免网络延迟。整体技术栈轻量，可在树莓派等低功耗设备上运行，但需要一定的Linux和Python基础。",
+  "content_markdown": null,
+  "tags": [
+    "voice-assistant",
+    "privacy",
+    "offline",
+    "open-source",
+    "home-automation"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-23T11:13:46Z",
+  "analyzed_at": "2025-04-10T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

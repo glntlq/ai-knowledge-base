@@ -1,0 +1,30 @@
+{
+  "id": "a99200448dfbef80dd017a64c58aa92ffa39e6ab79b82320ee944f6b76042f89",
+  "title": "shanraisshan/claude-code-best-practice",
+  "source_url": "https://github.com/shanraisshan/claude-code-best-practice",
+  "source_type": "github_trending",
+  "summary": "该项目提供了使用Claude Code进行高效编码的最佳实践指南，涵盖从基础编码到代理工程（agentic engineering）的进阶路径。内容聚焦于如何通过结构化提示、上下文管理、任务分解和迭代反馈来最大化Claude的代码生成与调试能力。实践包括定义清晰的角色与目标、使用示例驱动开发、利用Claude的反思机制优化输出，以及结合版本控制与测试框架实现可靠代码。项目强调从“氛围编码”（vibe coding）向工程化协作的转变，适用于个人开发者及团队集成AI辅助工作流。",
+  "content_markdown": null,
+  "tags": [
+    "claude-code",
+    "ai-assisted-development",
+    "best-practices",
+    "agentic-engineering",
+    "code-generation"
+  ],
+  "language": "zh",
+  "author": "shanraisshan",
+  "published_at": null,
+  "collected_at": "2026-06-23T11:13:37Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269459011,
+    "github_language": "HTML",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505961,
+    "github_stars_today": 329,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

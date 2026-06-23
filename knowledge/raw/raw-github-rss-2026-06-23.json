@@ -1,0 +1,314 @@
+{
+  "collected_at": "2026-06-23T11:13:36Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/calesthio/OpenMontage",
+      "title": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "author": "calesthio",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413924,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501695,
+        "github_stars_today": 2938,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "author": "ZhuLinsen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269446466,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015042175,
+        "github_stars_today": 1557,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "author": "mukul975",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419187,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502244,
+        "github_stars_today": 956,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/garrytan/gstack",
+      "title": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "author": "garrytan",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694113627,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015016842,
+        "github_stars_today": 573,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "title": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "author": "bytedance",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269473661,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509949,
+        "github_stars_today": 738,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/koala73/worldmonitor",
+      "title": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "author": "koala73",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269458745,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509264,
+        "github_stars_today": 279,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/palmier-io/palmier-pro",
+      "title": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "author": "palmier-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948149,
+        "github_language": "Swift",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150532,
+        "github_stars_today": 2463,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-plugins-official",
+      "title": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269430666,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503352,
+        "github_stars_today": 66,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "title": "shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "author": "shanraisshan",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269459011,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505961,
+        "github_stars_today": 329,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/revfactory/harness",
+      "title": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "author": "revfactory",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947301,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501033,
+        "github_stars_today": 123,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jamiepine/voicebox",
+      "title": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "author": "jamiepine",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432825,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503968,
+        "github_stars_today": 529,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "title": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "author": "JCodesMore",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269418199,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502775,
+        "github_stars_today": 100,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/byoungd/English-level-up-tips",
+      "title": "byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "author": "byoungd",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454387,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505581,
+        "github_stars_today": 368,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "title": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "author": "DeusData",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412223,
+        "github_language": "C",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150896,
+        "github_stars_today": 1185,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "author": "NousResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694200389,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015035708,
+        "github_stars_today": 933,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694220162,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015033733,
+        "github_stars_today": 582,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-23T11:13:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2604.13327",
+      "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+      "description": "<p><a href=\"https://lobste.rs/s/lpn1cr/event_tensor_unified_abstraction_for\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 22 Jun 2026 18:18:52 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-23T11:13:46Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://tvm.apache.org/2026/06/22/tirx",
+      "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+      "description": "<p><a href=\"https://lobste.rs/s/j04tzc/tirx_open_compiler_stack_for_evolving\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 22 Jun 2026 17:49:28 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-23T11:13:46Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.platypush.tech/article/Local-voice-assistant",
+      "title": "A fully local voice assistant setup",
+      "description": "<p><a href=\"https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 22 Jun 2026 17:25:06 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-23T11:13:46Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://role-confusion.github.io",
+      "title": "Prompt Injection as Role Confusion",
+      "description": "<p><a href=\"https://lobste.rs/s/vwin4l/prompt_injection_as_role_confusion\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 22 Jun 2026 12:22:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-23T11:13:46Z"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "019397a9446ac9d75f3d91f9043bf73eb029735a13b8e7926418e0621bb5de39",
+  "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+  "source_url": "https://arxiv.org/abs/2604.13327",
+  "source_type": "hacker_news",
+  "summary": "Event Tensor 提出了一种统一抽象，用于编译动态巨型内核（megakernel），旨在解决深度学习编译器中动态计算图与静态优化之间的鸿沟。该抽象将计算图中的事件（如张量操作、控制流）统一表示为张量，从而允许编译器在保持动态语义的同时进行全局优化。论文展示了在多种动态模型（如递归神经网络、条件计算）上的性能提升，相比现有编译器（如XLA、TVM）实现了最高2.3倍的加速。Event Tensor 的核心贡献在于将动态控制流纳入张量编译框架，为高效执行复杂动态模型提供了新思路。",
+  "content_markdown": null,
+  "tags": [
+    "deep-learning-compiler",
+    "dynamic-computation-graph",
+    "tensor-compilation",
+    "megakernel",
+    "event-tensor"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Mon, 22 Jun 2026 18:18:52 -0500",
+  "collected_at": "2026-06-23T11:13:46Z",
+  "analyzed_at": "2026-06-23T11:14:42Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}
