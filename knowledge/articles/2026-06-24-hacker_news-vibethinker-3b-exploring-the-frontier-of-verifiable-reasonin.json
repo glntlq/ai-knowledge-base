@@ -1,0 +1,26 @@
+{
+  "id": "668a660c73fa99c89939b9eb3a4a839850c8739c5c52a1cccee7b8a94c78f8ce",
+  "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+  "source_url": "https://arxiv.org/abs/2606.16140",
+  "source_type": "hacker_news",
+  "summary": "VibeThinker-3B 是一项针对小型语言模型（SLM）可验证推理能力的前沿探索。该模型仅有 3B 参数，通过创新的训练策略和架构优化，在数学推理、逻辑推导等需要严格验证的任务上取得了显著进展，挑战了“推理能力仅属于大模型”的传统认知。研究重点包括：设计可验证的推理链生成方法、引入自我一致性校验机制、以及利用合成数据增强训练。实验表明，VibeThinker-3B 在多个基准测试中超越了同等规模模型，甚至在某些任务上接近 7B 参数模型的表现。这项工作为资源受限场景下的高效推理模型开发提供了新思路，并揭示了小型模型通过针对性优化也能实现可靠推理的潜力。",
+  "content_markdown": null,
+  "tags": [
+    "small-language-models",
+    "reasoning",
+    "verifiable-reasoning",
+    "machine-learning",
+    "arxiv"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-24T10:46:24Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
