@@ -1,0 +1,302 @@
+{
+  "collected_at": "2026-06-25T10:39:53Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/calesthio/OpenMontage",
+      "title": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "author": "calesthio",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421114,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502363,
+        "github_stars_today": 3719,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "author": "ZhuLinsen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449264,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015043312,
+        "github_stars_today": 1468,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/apple/container",
+      "title": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "author": "apple",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269442764,
+        "github_language": "Swift",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501256,
+        "github_stars_today": 1838,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/interviewstreet/hiring-agent",
+      "title": "interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "author": "interviewstreet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942587,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150628,
+        "github_stars_today": 203,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "title": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "author": "JCodesMore",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419858,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502938,
+        "github_stars_today": 692,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/revfactory/harness",
+      "title": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "author": "revfactory",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947908,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501071,
+        "github_stars_today": 277,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/flutter/flutter",
+      "title": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "author": "flutter",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694177564,
+        "github_language": "Dart",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015030557,
+        "github_stars_today": 73,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/andreknieriem/headunit-revived",
+      "title": "andreknieriem/headunit-revived",
+      "description": "Headunit App for displaying Android Auto",
+      "author": "andreknieriem",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941499,
+        "github_language": "Kotlin",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150115,
+        "github_stars_today": 41,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/stablyai/orca",
+      "title": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "author": "stablyai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947150,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150516,
+        "github_stars_today": 331,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google-labs-code/design.md",
+      "title": "google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "author": "google-labs-code",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417876,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501592,
+        "github_stars_today": 619,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "title": "Flowseal/zapret-discord-youtube",
+      "description": "",
+      "author": "Flowseal",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269430078,
+        "github_language": "Batchfile",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502344,
+        "github_stars_today": 61,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/kunchenguid/no-mistakes",
+      "title": "kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "author": "kunchenguid",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942684,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150163,
+        "github_stars_today": 110,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "author": "NousResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694202611,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015036201,
+        "github_stars_today": 1178,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-25T10:39:54Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "description": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 435 # Comments: 767",
+      "author": "",
+      "published_at": "Wed, 24 Jun 2026 19:48:01 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-25T10:39:56Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://rubyllm.com/",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "description": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 392 # Comments: 68",
+      "author": "",
+      "published_at": "Wed, 24 Jun 2026 14:41:41 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-25T10:39:56Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity",
+      "title": "Using the Gini Coefficient to Plan Edge Capacity",
+      "description": "<p><a href=\"https://lobste.rs/s/frfsss/using_gini_coefficient_plan_edge\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 24 Jun 2026 12:08:52 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-25T10:39:56Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/baidu/Unlimited-OCR",
+      "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+      "description": "<p><a href=\"https://lobste.rs/s/5ej4m6/unlimited_ocr_one_shot_long_horizon_ocr\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 24 Jun 2026 05:35:51 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-25T10:39:56Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2606.16140",
+      "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+      "description": "<p><a href=\"https://lobste.rs/s/jrj4o3/vibethinker_3b_exploring_frontier\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 23 Jun 2026 09:17:13 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-25T10:39:56Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2604.13327",
+      "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+      "description": "<p><a href=\"https://lobste.rs/s/lpn1cr/event_tensor_unified_abstraction_for\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 22 Jun 2026 18:18:52 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-25T10:39:56Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://tvm.apache.org/2026/06/22/tirx",
+      "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+      "description": "<p><a href=\"https://lobste.rs/s/j04tzc/tirx_open_compiler_stack_for_evolving\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 22 Jun 2026 17:49:28 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-25T10:39:56Z"
+    }
+  ]
+}

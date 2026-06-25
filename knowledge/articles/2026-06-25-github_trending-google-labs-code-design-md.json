@@ -1,0 +1,35 @@
+{
+  "id": "a25b90ab7fe267a811923985c8e47fa37f5e89f88c2b5b9748b930612d8662c4",
+  "title": "google-labs-code/design.md",
+  "source_url": "https://github.com/google-labs-code/design.md",
+  "source_type": "github_trending",
+  "summary": "DESIGN.md 是 Google Labs 提出的一种格式规范，旨在为编码代理（coding agents）提供对视觉设计系统的持久化、结构化描述。该规范定义了一个标准化的 Markdown 文件，其中包含颜色、排版、间距、图标、组件等设计令牌（design tokens）的声明，以及使用规则和示例。通过将设计系统以机器可读的方式嵌入代码库，DESIGN.md 使 AI 代理能够理解并遵循既定的视觉语言，从而在生成代码时保持设计一致性，减少人工干预。该规范适用于需要 AI 辅助开发且对 UI 一致性有高要求的项目，尤其适合大型团队或开源协作场景。",
+  "content_markdown": null,
+  "tags": [
+    "design-systems",
+    "ai-agents",
+    "specification",
+    "visual-identity",
+    "markdown"
+  ],
+  "language": "en",
+  "author": "google-labs-code",
+  "published_at": null,
+  "collected_at": "2026-06-25T10:39:54Z",
+  "analyzed_at": "2026-06-25T10:40:33Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417876,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501592,
+    "github_stars_today": 619,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T01:00:00Z",
+    "published_at": null
+  }
+}

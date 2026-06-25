@@ -1,0 +1,35 @@
+{
+  "id": "395cb11074a4c0de1299dcf18ee3cc28d3dcc22ff192c1e65eaa10e2ed7d6092",
+  "title": "Flowseal/zapret-discord-youtube",
+  "source_url": "https://github.com/Flowseal/zapret-discord-youtube",
+  "source_type": "github_trending",
+  "summary": "Flowseal/zapret-discord-youtube 是一个开源工具，旨在绕过对 Discord 和 YouTube 的网络封锁或限制。该项目通过修改系统网络配置或使用代理技术，帮助用户在这些平台被屏蔽的地区恢复访问。它主要针对俄罗斯等国家的网络审查，提供简单易用的脚本和配置，支持 Windows 和 Linux 系统。工具的核心功能包括 DNS 劫持、流量伪装和协议混淆，以规避深度包检测（DPI）。项目在 GitHub 上活跃，定期更新以应对封锁策略的变化，适合需要稳定访问 Discord 和 YouTube 的用户。",
+  "content_markdown": null,
+  "tags": [
+    "network-bypass",
+    "dpi-bypass",
+    "discord",
+    "youtube",
+    "vpn-alternative"
+  ],
+  "language": "zh",
+  "author": "Flowseal",
+  "published_at": null,
+  "collected_at": "2026-06-25T10:39:54Z",
+  "analyzed_at": "2026-06-25T10:40:37Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269430078,
+    "github_language": "Batchfile",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502344,
+    "github_stars_today": 61,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

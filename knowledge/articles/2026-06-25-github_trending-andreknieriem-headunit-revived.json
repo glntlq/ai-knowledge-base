@@ -1,0 +1,34 @@
+{
+  "id": "445843cf29117252a7e93e3f9d8974d48855534878db6fca064dd946a8e49072",
+  "title": "andreknieriem/headunit-revived",
+  "source_url": "https://github.com/andreknieriem/headunit-revived",
+  "source_type": "github_trending",
+  "summary": "Headunit Revived 是一个开源 Android 应用，用于在车载屏幕上显示 Android Auto 界面。它通过模拟 Android Auto 主机端功能，使普通车载信息娱乐系统能够投射和操作 Android Auto 应用，实现导航、音乐、通话等功能的免提使用。项目基于 Android 平台开发，支持触控和语音交互，兼容多种车型和第三方主机。该工具适合希望升级车载系统体验的用户，尤其适用于没有原生 Android Auto 支持的车辆。项目在 GitHub 上持续维护，提供 APK 下载和配置指南。",
+  "content_markdown": null,
+  "tags": [
+    "android-auto",
+    "android-app",
+    "car-infotainment",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "andreknieriem",
+  "published_at": null,
+  "collected_at": "2026-06-25T10:39:54Z",
+  "analyzed_at": "2026-06-25T10:40:25Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941499,
+    "github_language": "Kotlin",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150115,
+    "github_stars_today": 41,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z",
+    "published_at": null
+  }
+}

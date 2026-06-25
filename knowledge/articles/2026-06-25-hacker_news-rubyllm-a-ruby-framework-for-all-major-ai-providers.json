@@ -1,0 +1,26 @@
+{
+  "id": "e531e05077c04604a7ccce02c3a681f7fd40e5ed9f13e7e36bb94bc8cfa0f1e2",
+  "title": "RubyLLM: A Ruby framework for all major AI providers",
+  "source_url": "https://rubyllm.com/",
+  "source_type": "hacker_news",
+  "summary": "RubyLLM 是一个为 Ruby 语言设计的统一 AI 框架，支持接入所有主流 AI 提供商（如 OpenAI、Anthropic、Google 等）。它提供一致的 API 接口，简化了在 Ruby 应用中集成多种大语言模型（LLM）的流程，包括文本生成、对话管理、流式响应等功能。该框架旨在降低 Ruby 开发者使用 AI 服务的门槛，通过抽象底层差异，让开发者能够快速切换不同模型提供商而无需修改核心代码。项目在 Hacker News 上获得 392 分和 68 条评论，表明社区对其高度关注。RubyLLM 适合需要多模型灵活性的 Ruby 应用，尤其适用于构建 AI 驱动的聊天机器人、内容生成工具等场景。",
+  "content_markdown": null,
+  "tags": [
+    "ruby",
+    "llm",
+    "ai-framework",
+    "openai",
+    "api-integration"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-25T10:39:56Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

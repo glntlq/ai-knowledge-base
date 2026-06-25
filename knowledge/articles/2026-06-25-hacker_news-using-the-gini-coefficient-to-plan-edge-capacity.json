@@ -1,0 +1,26 @@
+{
+  "id": "255723a40812362475b4cb687e96637ee3fb37fcb0f224f018ecabfe16f90a16",
+  "title": "Using the Gini Coefficient to Plan Edge Capacity",
+  "source_url": "https://www.fastly.com/blog/using-gini-coefficient-plan-edge-capacity",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了Fastly如何利用基尼系数（Gini Coefficient）优化边缘节点容量规划。基尼系数通常用于衡量收入不平等，但在此被重新用于量化边缘节点间流量分布的不均衡程度。通过分析每个节点上的流量负载，计算基尼系数可以识别出流量高度集中的节点，从而指导容量分配和扩容决策。该方法帮助Fastly在保证服务质量的同时，避免过度配置资源，降低运营成本。文章详细说明了基尼系数的计算过程、在边缘网络中的具体应用场景，以及与传统容量规划方法（如基于峰值或平均负载）的对比优势。实际案例显示，基于基尼系数的规划能更精准地捕捉流量分布变化，提升资源利用率。",
+  "content_markdown": null,
+  "tags": [
+    "gini-coefficient",
+    "capacity-planning",
+    "edge-computing",
+    "traffic-distribution",
+    "cdn"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-25T10:39:56Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

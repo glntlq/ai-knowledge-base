@@ -1,0 +1,25 @@
+{
+  "id": "d49f70bdba8e23ffe8fdd954b29849d4b40ce8b119e58737a7acee9836db9963",
+  "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+  "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+  "source_type": "hacker_news",
+  "summary": "Anthropic指控阿里巴巴未经授权从其Claude AI模型中提取能力，涉及知识产权侵权。该事件引发对AI模型安全性和跨境技术竞争的关注。Anthropic声称阿里巴巴通过逆向工程或API滥用获取模型权重或输出，可能违反服务条款。阿里巴巴尚未正式回应。此案凸显AI领域知识产权保护挑战，以及中美科技企业间的紧张关系。",
+  "content_markdown": null,
+  "tags": [
+    "ai-ethics",
+    "intellectual-property",
+    "model-security",
+    "china-us-tech"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-06-24T00:00:00Z",
+  "collected_at": "2026-06-25T10:39:56Z",
+  "analyzed_at": "2026-06-24T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

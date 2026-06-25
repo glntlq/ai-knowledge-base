@@ -1,0 +1,35 @@
+{
+  "id": "d76b45ac5bc2f251b7dff9971e49adbcae9673550ed5b5900245c7f872bb1813",
+  "title": "stablyai/orca",
+  "source_url": "https://github.com/stablyai/orca",
+  "source_type": "github_trending",
+  "summary": "Orca 是一个面向并行代理集群的代理开发环境（ADE），支持用户通过自有订阅运行任意编码代理，并提供桌面端和移动端应用。该项目由 stablyai 开发，旨在简化多代理工作流的编排与管理，适用于需要同时调度多个 AI 编码代理的复杂开发场景。Orca 的核心优势在于其灵活的代理集成能力与跨平台支持，使开发者能够高效利用多个代理并行处理任务，提升编码与调试效率。",
+  "content_markdown": null,
+  "tags": [
+    "agent-development-environment",
+    "parallel-agents",
+    "coding-agent",
+    "multi-agent-orchestration",
+    "cross-platform"
+  ],
+  "language": "en",
+  "author": "stablyai",
+  "published_at": null,
+  "collected_at": "2026-06-25T10:39:54Z",
+  "analyzed_at": "2026-06-25T10:40:29Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947150,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150516,
+    "github_stars_today": 331,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}

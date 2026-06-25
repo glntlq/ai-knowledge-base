@@ -1,0 +1,30 @@
+{
+  "id": "61c4ff652be57b06ea1de614be4aeddaf68eee586e1a4c8173bc72986c32dea5",
+  "title": "interviewstreet/hiring-agent",
+  "source_url": "https://github.com/interviewstreet/hiring-agent",
+  "source_type": "github_trending",
+  "summary": "InterviewStreet 的 Hiring Agent 是一个基于 AI 的简历评估与评分工具，旨在自动化招聘初筛流程。该项目利用自然语言处理与机器学习模型，对候选人简历进行多维度分析，包括技能匹配、经验相关性及教育背景等，并生成量化评分以辅助招聘决策。其核心优势在于减少人工筛选时间、降低主观偏见，并支持自定义评估标准。项目采用模块化设计，便于集成至现有招聘系统，适用于中大型企业的批量简历处理场景。当前为开源实现，提供 API 接口与 Web 界面，技术栈以 Python 为主，依赖常见 NLP 库与轻量级框架。",
+  "content_markdown": null,
+  "tags": [
+    "ai-recruitment",
+    "resume-parsing",
+    "nlp",
+    "automated-hiring",
+    "python"
+  ],
+  "language": "zh",
+  "author": "interviewstreet",
+  "published_at": null,
+  "collected_at": "2026-06-25T10:39:54Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942587,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150628,
+    "github_stars_today": 203,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
