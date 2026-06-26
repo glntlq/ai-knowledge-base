@@ -1,0 +1,30 @@
+{
+  "id": "cd5a8d9295670d3025f5c9e6540827f18219f3753d9574130f77e00edcd62729",
+  "title": "Chatbots vs Ozone",
+  "source_url": "https://blog.dshr.org/2026/05/chatbots-vs-ozone.html",
+  "source_type": "hacker_news",
+  "summary": "文章探讨了聊天机器人（如ChatGPT）与臭氧层保护之间的潜在冲突。随着AI模型训练和推理所需的数据中心规模急剧扩大，其电力消耗和冷却需求导致氟氯烃等臭氧消耗物质的排放增加。作者指出，当前对AI基础设施的投资热潮可能忽视环境成本，尤其是对平流层臭氧层的破坏。文章呼吁在推进AI技术的同时，必须加强环境监管和绿色能源使用，以避免重蹈过去工业发展忽视生态的覆辙。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "environment",
+    "ozone-layer",
+    "data-centers",
+    "sustainability"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Fri, 26 Jun 2026 05:36:54 -0500",
+  "collected_at": "2026-06-26T10:48:38Z",
+  "analyzed_at": "2026-06-26T10:49:34Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2026-05-15T00:00:00Z",
+    "analyzed_at": "2026-05-15T12:00:00Z"
+  }
+}

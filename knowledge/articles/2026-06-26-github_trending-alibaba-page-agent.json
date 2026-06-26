@@ -1,0 +1,35 @@
+{
+  "id": "daf1d47809db7cbca703ab0a38793eee666e140dcd8951078939980df4c4c02c",
+  "title": "alibaba/page-agent",
+  "source_url": "https://github.com/alibaba/page-agent",
+  "source_type": "github_trending",
+  "summary": "阿里巴巴开源的 Page-Agent 是一个基于 JavaScript 的页面内 GUI 代理工具，允许用户通过自然语言指令直接操控网页界面。该项目在 GitHub 上受到关注，其核心能力是将自然语言解析为浏览器内的操作序列，实现自动化交互，如填写表单、点击按钮、导航页面等。Page-Agent 采用轻量级架构，无需外部依赖即可嵌入现有网页，适用于测试自动化、辅助浏览、低代码工作流等场景。其技术亮点包括对 DOM 元素的语义理解、事件模拟的精确性以及跨框架兼容性。该工具降低了网页自动化门槛，使非技术人员也能通过简单描述完成复杂操作，同时为开发者提供了可扩展的插件接口。当前项目处于活跃开发阶段，社区贡献者持续优化语言模型集成与错误处理机制。",
+  "content_markdown": null,
+  "tags": [
+    "gui-agent",
+    "natural-language",
+    "web-automation",
+    "javascript",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "alibaba",
+  "published_at": null,
+  "collected_at": "2026-06-26T10:48:36Z",
+  "analyzed_at": "2026-06-26T10:49:15Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420147,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501731,
+    "github_stars_today": 163,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}

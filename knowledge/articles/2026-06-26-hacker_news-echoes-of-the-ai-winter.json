@@ -1,0 +1,26 @@
+{
+  "id": "6f4e6f60380ff19d46a6330cd5f8fb7572c7257bcf3fe3cc2c9742212d6d1c24",
+  "title": "Echoes of the AI Winter",
+  "source_url": "https://netzhansa.com/echoes-of-the-ai-winter/",
+  "source_type": "hacker_news",
+  "summary": "本文回顾了人工智能发展史上的“AI寒冬”时期，分析了导致该时期技术停滞与资金撤离的关键因素，包括过度承诺、技术瓶颈以及公众期望的破灭。文章通过历史案例对比当前AI热潮，警示行业应避免重蹈覆辙，强调理性发展、扎实研究与可持续创新。内容涉及神经网络、专家系统等早期AI技术的兴衰，并探讨了寒冬对后续AI研究范式的影响。作者呼吁在当下生成式AI的狂热中保持清醒，注重实际应用与伦理考量。",
+  "content_markdown": null,
+  "tags": [
+    "ai-winter",
+    "history-of-ai",
+    "neural-networks",
+    "expert-systems",
+    "tech-bubble"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-26T10:48:38Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

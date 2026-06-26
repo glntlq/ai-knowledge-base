@@ -1,0 +1,30 @@
+{
+  "id": "33b0817406cf6fab8debf3a3e9bddf74891678d0376fb65f1a8ab972c8333459",
+  "title": "opendatalab/MinerU",
+  "source_url": "https://github.com/opendatalab/MinerU",
+  "source_type": "github_trending",
+  "summary": "MinerU 是一个开源工具，专注于将 PDF、Office 文档等复杂文档转换为大型语言模型（LLM）可直接使用的 Markdown 或 JSON 格式。它解决了非结构化文档在 AI 工作流中的预处理难题，支持表格、图片、公式等元素的精准提取与结构化输出。项目基于深度学习模型，提供高精度的版面分析与内容识别能力，适用于 RAG（检索增强生成）、智能文档处理、知识库构建等场景。MinerU 强调对中文文档的优化，并支持批量处理与 API 集成，显著降低 LLM 应用开发中数据清洗与格式转换的成本。",
+  "content_markdown": null,
+  "tags": [
+    "document-parsing",
+    "llm",
+    "data-preprocessing",
+    "pdf-to-markdown",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "opendatalab",
+  "published_at": null,
+  "collected_at": "2026-06-26T10:48:36Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269470019,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505914,
+    "github_stars_today": 644,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

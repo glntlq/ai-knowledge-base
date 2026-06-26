@@ -1,0 +1,30 @@
+{
+  "id": "c0635b84d3ef971ff16d2137724938d81ea00438d654e63c242343cfc15a9212",
+  "title": "aws/agent-toolkit-for-aws",
+  "source_url": "https://github.com/aws/agent-toolkit-for-aws",
+  "source_type": "github_trending",
+  "summary": "AWS 官方推出的代理工具包，提供 MCP 服务器、技能和插件，帮助 AI 代理在 AWS 上构建应用。该工具包包含预构建的集成组件，支持与 Amazon Bedrock、Amazon SageMaker 等 AWS 服务无缝协作，简化 AI 代理的开发流程。通过标准化接口和可扩展架构，开发者能够快速将 AWS 能力集成到 AI 工作流中，实现自动化任务执行、数据分析和资源管理。工具包遵循 AWS 安全最佳实践，确保代理操作的安全性和合规性。",
+  "content_markdown": null,
+  "tags": [
+    "aws",
+    "ai-agents",
+    "mcp",
+    "serverless",
+    "cloud-computing"
+  ],
+  "language": "zh",
+  "author": "aws",
+  "published_at": null,
+  "collected_at": "2026-06-26T10:48:36Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941233,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150115,
+    "github_stars_today": 47,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

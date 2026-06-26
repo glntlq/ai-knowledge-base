@@ -1,0 +1,30 @@
+{
+  "id": "07f8d3020905701af0a15aea8d61122bfc9a168b1df82dca90949a1cbe20c284",
+  "title": "xbtlin/ai-berkshire",
+  "source_url": "https://github.com/xbtlin/ai-berkshire",
+  "source_type": "github_trending",
+  "summary": "基于 Claude Code 构建的价值投资研究框架，融合巴菲特、芒格、段永平、李录四位大师方法论，采用多Agent并行对抗分析模式。项目旨在将AI能力应用于基本面深度研究，实现企业护城河、管理层质量、财务健康度等维度的自动化评估。通过多智能体协作模拟不同投资风格视角，生成综合投资决策建议。框架支持自定义研究模板与报告输出，降低个人投资者的研究门槛。",
+  "content_markdown": null,
+  "tags": [
+    "value-investing",
+    "claude-code",
+    "multi-agent",
+    "investment-research",
+    "ai-framework"
+  ],
+  "language": "zh",
+  "author": "xbtlin",
+  "published_at": null,
+  "collected_at": "2026-06-26T10:48:36Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942743,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150394,
+    "github_stars_today": 309,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
