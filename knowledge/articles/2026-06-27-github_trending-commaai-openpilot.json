@@ -1,0 +1,35 @@
+{
+  "id": "28cf1d21dbae1907312dd03a8b3ef979d4081d963026a7df4ebe1bfb7ef0f85a",
+  "title": "commaai/openpilot",
+  "source_url": "https://github.com/commaai/openpilot",
+  "source_type": "github_trending",
+  "summary": "openpilot 是由 comma.ai 开发的开源机器人操作系统，专为驾驶辅助系统设计。它能够升级超过 300 种车型的现有驾驶辅助功能，实现自适应巡航控制、车道保持辅助、自动变道等高级功能。该项目基于 Python 和 C++ 构建，利用深度学习模型处理摄像头、雷达等传感器数据，实时控制车辆转向、加速和制动。openpilot 支持多种硬件平台，如 Comma Three 和 Comma Two，并提供用户友好的界面和 OTA 更新。其代码托管在 GitHub 上，社区活跃，持续集成最新研究成果。该项目旨在推动自动驾驶技术的民主化，降低开发门槛，促进创新。",
+  "content_markdown": null,
+  "tags": [
+    "openpilot",
+    "autonomous-driving",
+    "driver-assistance",
+    "robotics",
+    "deep-learning"
+  ],
+  "language": "zh",
+  "author": "commaai",
+  "published_at": null,
+  "collected_at": "2026-06-27T10:04:38Z",
+  "analyzed_at": "2026-06-27T10:04:49Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269461911,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011056,
+    "github_stars_today": 80,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:00:00Z",
+    "published_at": null
+  }
+}

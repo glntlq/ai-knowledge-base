@@ -1,0 +1,26 @@
+{
+  "id": "be37a253b8b6b8d761510d3241152fd3f86883cd2213754f7ce1e508e198ad8c",
+  "title": "What does it mean to be a mathematician when AI does the math?",
+  "source_url": "https://spectrum.ieee.org/ai-in-mathematics",
+  "source_type": "hacker_news",
+  "summary": "随着人工智能在数学推理领域取得突破，数学家的角色正经历根本性转变。AI系统如DeepMind的AlphaTensor和OpenAI的GPT-4已能独立发现数学定理、优化算法甚至提出新猜想，这引发了对数学本质的重新思考：当机器能高效完成符号计算、模式识别和证明验证时，人类数学家的核心价值将转向问题提出、跨领域直觉构建以及数学概念的解释与教学。文章指出，AI并非取代数学家，而是将数学研究从繁琐计算中解放，使其更聚焦于创造性思维和哲学层面的探索。同时，AI的不可解释性也带来挑战——数学证明的可信度与可验证性需要新的范式。这一趋势要求数学教育从技能训练转向培养批判性思维与抽象建模能力。",
+  "content_markdown": null,
+  "tags": [
+    "ai-in-mathematics",
+    "mathematician-role",
+    "mathematical-reasoning",
+    "human-ai-collaboration",
+    "mathematics-education"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-27T10:04:38Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "390e4cb35fc2e9720ff44a7515fa483c7b8a7c2f66a25a7b954d09d2ca93c22b",
+  "title": "simplex-chat/simplex-chat",
+  "source_url": "https://github.com/simplex-chat/simplex-chat",
+  "source_type": "github_trending",
+  "summary": "SimpleX 是一个去中心化、无用户标识的隐私优先消息网络，支持 iOS、Android 和桌面端。其核心创新在于不依赖任何用户 ID（如电话号码、用户名或公钥），而是通过一次性临时地址和端到端加密实现 100% 匿名通信。协议基于双棘轮算法和签名预密钥，确保前向安全和后向安全。网络由分布式服务器组成，用户可自托管或使用公共服务器，消息通过队列传递而非持久存储，进一步减少数据残留。项目开源（AGPLv3），提供原生应用和 CLI 工具，适合对隐私有极高要求的用户。",
+  "content_markdown": null,
+  "tags": [
+    "privacy-messaging",
+    "decentralized",
+    "end-to-end-encryption",
+    "anonymous-network",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "simplex-chat",
+  "published_at": null,
+  "collected_at": "2026-06-27T10:04:38Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413051,
+    "github_language": "Haskell",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150751,
+    "github_stars_today": 432,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

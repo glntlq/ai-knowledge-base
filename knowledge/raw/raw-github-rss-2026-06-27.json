@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-06-27T10:04:36Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/simplex-chat/simplex-chat",
+      "title": "simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "author": "simplex-chat",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413051,
+        "github_language": "Haskell",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150751,
+        "github_stars_today": 432,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google-labs-code/design.md",
+      "title": "google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "author": "google-labs-code",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421844,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501754,
+        "github_stars_today": 2407,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/commaai/openpilot",
+      "title": "commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "author": "commaai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269461911,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011056,
+        "github_stars_today": 80,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/kunchenguid/no-mistakes",
+      "title": "kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "author": "kunchenguid",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943639,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150211,
+        "github_stars_today": 398,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/grafana/grafana",
+      "title": "grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "author": "grafana",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269475046,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014135,
+        "github_stars_today": 32,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ripienaar/free-for-dev",
+      "title": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "author": "ripienaar",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694123910,
+        "github_language": "HTML",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013060,
+        "github_stars_today": 90,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/opendatalab/MinerU",
+      "title": "opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "author": "opendatalab",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269470786,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505957,
+        "github_stars_today": 960,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "title": "alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "author": "alchaincyf",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949382,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502571,
+        "github_stars_today": 160,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mauriceboe/TREK",
+      "title": "mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "author": "mauriceboe",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947908,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150668,
+        "github_stars_today": 1060,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/xbtlin/ai-berkshire",
+      "title": "xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "author": "xbtlin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943399,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150508,
+        "github_stars_today": 1274,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/calesthio/OpenMontage",
+      "title": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "author": "calesthio",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424304,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502703,
+        "github_stars_today": 1754,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/aws/agent-toolkit-for-aws",
+      "title": "aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "author": "aws",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941429,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150124,
+        "github_stars_today": 243,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NanmiCoder/MediaCrawler",
+      "title": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "author": "NanmiCoder",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269453564,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010991,
+        "github_stars_today": 673,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/garrytan/gstack",
+      "title": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "author": "garrytan",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694116848,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017336,
+        "github_stars_today": 950,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/IceWhaleTech/CasaOS",
+      "title": "IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "author": "IceWhaleTech",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435552,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502035,
+        "github_stars_today": 619,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "title": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "author": "JCodesMore",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421651,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503129,
+        "github_stars_today": 1088,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Panniantong/Agent-Reach",
+      "title": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "author": "Panniantong",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269442879,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503412,
+        "github_stars_today": 1194,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+      "title": "\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
+      "description": "<p><a href=\"https://lobste.rs/s/n2r6r6/how_think_about_ai_cory_doctorow_on_big\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 27 Jun 2026 04:17:42 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "title": "What does it mean to be a mathematician when AI does the math?",
+      "description": "<p><a href=\"https://lobste.rs/s/hvd5hk/what_does_it_mean_be_mathematician_when_ai\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 26 Jun 2026 19:27:42 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://cleverhans.io/worm.html",
+      "title": "AI Agents Enable Adaptive Computer Worms",
+      "description": "<p>Full Paper: <a href=\"https://arxiv.org/pdf/2606.03811\" rel=\"ugc\">https://arxiv.org/pdf/2606.03811</a></p> <p><a href=\"https://lobste.rs/s/qsp10b/ai_agents_enable_adaptive_computer_worms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 26 Jun 2026 17:15:36 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-27T10:04:38Z"
+    }
+  ]
+}

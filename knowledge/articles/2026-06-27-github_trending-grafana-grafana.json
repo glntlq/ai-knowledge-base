@@ -1,0 +1,30 @@
+{
+  "id": "1c1855a10b5feb7e755b0eb1600afcbcf532cb8b53e07606c84548f6df705cb5",
+  "title": "grafana/grafana",
+  "source_url": "https://github.com/grafana/grafana",
+  "source_type": "github_trending",
+  "summary": "Grafana 是一个开源的可组合可观测性与数据可视化平台，支持从 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多种数据源聚合指标、日志和链路追踪数据，并提供丰富的仪表盘、告警和插件生态。其核心优势在于统一数据视图、灵活的查询编辑器、强大的可视化组件库以及可扩展的插件系统，广泛应用于基础设施监控、应用性能管理和业务分析场景。项目采用 Go 和 TypeScript 开发，社区活跃，版本迭代频繁，是企业级可观测性实践的首选工具之一。",
+  "content_markdown": null,
+  "tags": [
+    "observability",
+    "data-visualization",
+    "monitoring",
+    "grafana",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "grafana",
+  "published_at": null,
+  "collected_at": "2026-06-27T10:04:38Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269475046,
+    "github_language": "TypeScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014135,
+    "github_stars_today": 32,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}
