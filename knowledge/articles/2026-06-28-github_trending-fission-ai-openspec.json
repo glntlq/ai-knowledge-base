@@ -1,0 +1,30 @@
+{
+  "id": "49d23ae4eb93bf56ca5d944bc4ec66964c9bdacb19a993bb8bf60446ec026f40",
+  "title": "Fission-AI/OpenSpec",
+  "source_url": "https://github.com/Fission-AI/OpenSpec",
+  "source_type": "github_trending",
+  "summary": "OpenSpec 是一个由 Fission AI 开发的规范驱动开发（SDD）框架，旨在为 AI 编码助手提供结构化指导。它通过定义明确的规范（specifications）来约束和引导 AI 生成代码，从而提升代码质量、一致性和可维护性。该工具支持多种编程语言，并集成到主流 IDE 中，使开发者能够以声明式方式描述软件行为，减少 AI 生成的随机错误。OpenSpec 的核心优势在于将人类意图精确转化为机器可执行的规则，适用于从原型到生产环境的全流程开发。其开源特性允许社区贡献规范模板，加速特定领域的适配。该项目在 GitHub 上获得关注，反映了开发者对更可控 AI 编码工具的需求。",
+  "content_markdown": null,
+  "tags": [
+    "spec-driven-development",
+    "ai-coding-assistant",
+    "developer-tools",
+    "code-quality",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "Fission-AI",
+  "published_at": null,
+  "collected_at": "2026-06-28T10:25:19Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269457319,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503993,
+    "github_stars_today": 177,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

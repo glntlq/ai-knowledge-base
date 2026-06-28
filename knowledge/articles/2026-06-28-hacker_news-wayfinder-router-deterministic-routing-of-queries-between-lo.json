@@ -1,0 +1,26 @@
+{
+  "id": "1b476389cc38d79eda61edc82aafb0b480def1be1fcb82f6fba3e3f300f312ac",
+  "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+  "source_url": "https://github.com/itsthelore/wayfinder-router",
+  "source_type": "hacker_news",
+  "summary": "Wayfinder Router 是一个开源路由工具，用于在本地和托管的大型语言模型（LLM）之间进行确定性查询路由。它通过定义明确的规则和策略，自动将用户查询分发到最合适的模型端点，从而优化响应质量、成本和延迟。该工具支持多种后端（如本地部署的模型和云API），并提供了灵活的配置接口，允许开发者根据查询类型、模型能力或性能指标自定义路由逻辑。Wayfinder Router 旨在解决混合LLM部署场景中的路由复杂性，特别适用于需要平衡本地隐私与云端性能的应用。其设计强调可预测性和可调试性，避免了传统负载均衡的随机性，确保关键查询始终由指定模型处理。项目在GitHub上开源，并受到Hacker News社区的关注。",
+  "content_markdown": null,
+  "tags": [
+    "llm-routing",
+    "model-gateway",
+    "ai-infrastructure",
+    "open-source",
+    "query-routing"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-28T10:25:20Z",
+  "analyzed_at": "2025-04-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

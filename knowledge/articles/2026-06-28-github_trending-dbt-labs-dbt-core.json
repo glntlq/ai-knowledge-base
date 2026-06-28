@@ -1,0 +1,30 @@
+{
+  "id": "45e2e1ab21b644dbc20f12cafe4f9a125de8d17d53614f98c5e21954b6ffdd1b",
+  "title": "dbt-labs/dbt-core",
+  "source_url": "https://github.com/dbt-labs/dbt-core",
+  "source_type": "github_trending",
+  "summary": "dbt-core 是 dbt 实验室开发的开源数据转换工具，允许数据分析师和工程师采用软件工程最佳实践（如版本控制、测试、文档化）来管理数据转换流程。它通过 SQL 或 Python 定义数据模型，支持增量构建、依赖管理和数据质量测试，显著提升数据管道可靠性和协作效率。dbt 核心功能包括模型物化策略、宏、包管理、CI/CD 集成，并与主流数据仓库（如 Snowflake、BigQuery、Redshift）深度兼容。该项目在数据工程领域广泛采用，已成为现代数据栈的关键组件。",
+  "content_markdown": null,
+  "tags": [
+    "data-transformation",
+    "analytics-engineering",
+    "sql",
+    "data-pipeline",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "dbt-labs",
+  "published_at": null,
+  "collected_at": "2026-06-28T10:25:19Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413285,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502440,
+    "github_stars_today": 18,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}
