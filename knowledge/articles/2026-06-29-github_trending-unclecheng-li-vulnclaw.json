@@ -1,0 +1,30 @@
+{
+  "id": "b940553810358c433f4919760822984f78f7292597575c5139b40f433bfb60ce",
+  "title": "Unclecheng-li/VulnClaw",
+  "source_url": "https://github.com/Unclecheng-li/VulnClaw",
+  "source_type": "github_trending",
+  "summary": "VulnClaw 是一个基于 AI Agent、MCP 工具链和渗透技能编排的开源自动化渗透测试框架。它通过大语言模型实现自然语言输入，自动完成从信息收集、漏洞发现、漏洞利用到报告生成的全流程。该项目旨在降低渗透测试门槛，提升效率，适用于安全研究人员和红队人员。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "penetration-testing",
+    "mcp",
+    "vulnerability-detection",
+    "security-automation"
+  ],
+  "language": "zh",
+  "author": "Unclecheng-li",
+  "published_at": null,
+  "collected_at": "2026-06-29T12:28:48Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694993,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150159,
+    "github_stars_today": 105,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

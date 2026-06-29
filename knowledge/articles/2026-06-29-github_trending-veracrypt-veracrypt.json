@@ -1,0 +1,35 @@
+{
+  "id": "3468d3ef34637238a8b4a273c25f0da0a189c8a52b95be342f7f680a06903b16",
+  "title": "veracrypt/VeraCrypt",
+  "source_url": "https://github.com/veracrypt/VeraCrypt",
+  "source_type": "github_trending",
+  "summary": "VeraCrypt 是一款基于已停止维护的 TrueCrypt 的磁盘加密软件，提供强安全性。它支持创建加密虚拟磁盘、加密整个分区或存储设备，并采用多种加密算法（如 AES、Serpent、Twofish）及级联组合。VeraCrypt 修复了 TrueCrypt 中的安全漏洞，并增加了对 UEFI/GPT 启动、Windows 动态卷、exFAT 文件系统等现代特性的支持。该软件跨平台（Windows、macOS、Linux），适用于保护敏感数据、防止未授权访问。作为开源项目，VeraCrypt 持续更新以应对新威胁，是个人和企业数据加密的可靠选择。",
+  "content_markdown": null,
+  "tags": [
+    "disk-encryption",
+    "security",
+    "cryptography",
+    "open-source",
+    "cross-platform"
+  ],
+  "language": "zh",
+  "author": "veracrypt",
+  "published_at": null,
+  "collected_at": "2026-06-29T12:28:48Z",
+  "analyzed_at": "2026-06-29T12:29:33Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410327,
+    "github_language": "C",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501226,
+    "github_stars_today": 114,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

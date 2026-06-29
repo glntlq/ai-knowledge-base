@@ -1,0 +1,30 @@
+{
+  "id": "0bf215a7b931515ff3f670dd9406e4f302ad6e426be4b18994af0df84b74af04",
+  "title": "logto-io/logto",
+  "source_url": "https://github.com/logto-io/logto",
+  "source_type": "github_trending",
+  "summary": "Logto 是一个面向 SaaS 和 AI 应用的身份认证与授权基础设施，基于 OIDC 和 OAuth 2.1 协议构建。它提供多租户支持、单点登录（SSO）和基于角色的访问控制（RBAC），旨在简化开发者集成身份管理流程。项目采用模块化架构，支持自定义登录体验、社交登录、API 保护及用户管理，适用于现代云原生应用。其开源特性允许自托管，降低对第三方身份服务的依赖。",
+  "content_markdown": null,
+  "tags": [
+    "authentication",
+    "authorization",
+    "oidc",
+    "oauth2",
+    "rbac"
+  ],
+  "language": "zh",
+  "author": "logto-io",
+  "published_at": null,
+  "collected_at": "2026-06-29T12:28:48Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412341,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150846,
+    "github_stars_today": 77,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

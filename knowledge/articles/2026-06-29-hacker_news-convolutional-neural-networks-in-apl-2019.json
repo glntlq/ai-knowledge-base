@@ -1,0 +1,25 @@
+{
+  "id": "9a30c6c51b9dfc6cf0652d33ef29f381eb11fe70dc4f02c102a92f7ec3f12f2e",
+  "title": "Convolutional Neural Networks in APL (2019)",
+  "source_url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一种在APL语言中实现卷积神经网络（CNN）的方法，发表于2019年。APL以其强大的数组操作能力著称，作者利用其高维数组运算特性，高效实现了CNN的前向传播和反向传播算法。文章详细阐述了卷积层、池化层和全连接层在APL中的向量化实现，避免了显式循环，从而提升了计算效率。实验表明，该实现能在保持数学简洁性的同时，达到与主流框架相当的精度。该工作展示了APL在深度学习领域的潜力，尤其适合快速原型设计和教学场景。",
+  "content_markdown": null,
+  "tags": [
+    "apl",
+    "convolutional-neural-networks",
+    "deep-learning",
+    "array-programming"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2019-01-01T00:00:00Z",
+  "collected_at": "2026-06-29T12:28:49Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "advanced"
+  }
+}

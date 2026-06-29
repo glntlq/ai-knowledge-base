@@ -1,0 +1,34 @@
+{
+  "id": "13569b59e276ea048976792430790d925d7c945ecd090888d907321a242d0af1",
+  "title": "cupy/cupy",
+  "source_url": "https://github.com/cupy/cupy",
+  "source_type": "github_trending",
+  "summary": "CuPy 是一个基于 NumPy 和 SciPy 接口的 GPU 加速计算库，旨在通过利用 NVIDIA CUDA 或 AMD ROCm 平台，在 GPU 上高效执行数组运算和科学计算。它提供了与 NumPy 几乎一致的 API，使得用户无需修改代码即可将现有 CPU 计算任务迁移到 GPU，从而获得显著的性能提升。CuPy 支持自动内存管理、自定义内核函数、多 GPU 并行以及分布式计算，广泛应用于深度学习、数值模拟、图像处理等领域。作为开源项目，CuPy 持续优化性能并扩展对最新 GPU 架构的支持，是 Python 生态中 GPU 计算的重要工具。",
+  "content_markdown": null,
+  "tags": [
+    "gpu-computing",
+    "numpy",
+    "scientific-computing",
+    "cuda",
+    "python"
+  ],
+  "language": "zh",
+  "author": "cupy",
+  "published_at": null,
+  "collected_at": "2026-06-29T12:28:48Z",
+  "analyzed_at": "2026-06-29T12:28:59Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411693,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501075,
+    "github_stars_today": 352,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7bb6d7c450fa9769f73b76df993324fb7b60c57ce74eaf5ca59098c2dd24c4d1",
+  "title": "GPT2-BASIC: Portable Machine Intelligence in BASIC",
+  "source_url": "https://github.com/tsotchke/gpt2-basic",
+  "source_type": "hacker_news",
+  "summary": "GPT2-BASIC 是一个将 GPT-2 模型移植到 BASIC 语言的开源项目，旨在实现极简的便携式机器学习推理。该项目通过将预训练的 GPT-2 权重转换为 BASIC 可读格式，并编写纯 BASIC 代码实现前向传播，使得在缺乏现代硬件或库的复古系统（如 Commodore 64、Apple II 等）上也能运行小型语言模型。核心贡献在于证明了 BASIC 语言在资源受限环境下的可行性，并提供了完整的转换工具和示例代码。项目目前处于概念验证阶段，支持文本生成任务，但受限于 BASIC 的性能和内存，模型规模较小（如 124M 参数版本）。该探索对于理解早期计算平台上的 AI 部署具有教育意义，也展示了极简编程语言的潜力。",
+  "content_markdown": null,
+  "tags": [
+    "gpt-2",
+    "basic",
+    "portable-ml",
+    "retro-computing",
+    "machine-learning"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": "Sat, 27 Jun 2026 10:15:46 -0500",
+  "collected_at": "2026-06-29T12:28:49Z",
+  "analyzed_at": "2026-06-29T12:29:52Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 6,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-10T12:00:00Z",
+    "analyzed_at": "2025-04-10T12:05:00Z",
+    "published_at": null
+  }
+}

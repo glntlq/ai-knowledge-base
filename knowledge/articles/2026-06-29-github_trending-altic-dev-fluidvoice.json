@@ -1,0 +1,35 @@
+{
+  "id": "0577bb528e72675cf1620a5ad78d097673c60ebfd4d418c3bdb1d3975827c8c9",
+  "title": "altic-dev/FluidVoice",
+  "source_url": "https://github.com/altic-dev/FluidVoice",
+  "source_type": "github_trending",
+  "summary": "FluidVoice 是一款专为 macOS 设计的离线语音转文字应用，强调极速处理与完全本地化运行。该应用无需网络连接，所有语音识别均在设备端完成，保障用户数据隐私。其核心优势在于低延迟的实时转录能力，适用于会议记录、笔记输入、无障碍辅助等场景。项目基于 macOS 原生框架优化，支持多种语言模型，并可通过简单的星标支持项目发展。作为开源工具，FluidVoice 为追求高效、隐私优先的 macOS 用户提供了轻量级替代方案。",
+  "content_markdown": null,
+  "tags": [
+    "macos",
+    "offline-speech-recognition",
+    "voice-to-text",
+    "privacy",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "altic-dev",
+  "published_at": null,
+  "collected_at": "2026-06-29T12:28:48Z",
+  "analyzed_at": "2026-06-29T12:29:02Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944100,
+    "github_language": "Swift",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150252,
+    "github_stars_today": 836,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}

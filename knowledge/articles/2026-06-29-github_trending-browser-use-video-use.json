@@ -1,0 +1,29 @@
+{
+  "id": "d075ec6226113f6d31b7cf44d9ef6a9220b5237710c2f013af96a24f7bce393c",
+  "title": "browser-use/video-use",
+  "source_url": "https://github.com/browser-use/video-use",
+  "source_type": "github_trending",
+  "summary": "Video-Use 是一个基于编码代理的视频编辑工具，允许用户通过编写代码或自然语言指令来操控视频编辑流程。该项目利用 AI 代理自动执行剪辑、转场、特效添加等任务，旨在降低视频创作门槛，提升编辑效率。它支持多种视频格式，并提供可扩展的插件架构，便于开发者集成自定义功能。Video-Use 适用于内容创作者、开发者及自动化工作流场景，通过编程方式实现精准、可重复的视频处理。",
+  "content_markdown": null,
+  "tags": [
+    "video-editing",
+    "ai-agents",
+    "automation",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "browser-use",
+  "published_at": null,
+  "collected_at": "2026-06-29T12:28:48Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411595,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501543,
+    "github_stars_today": 976,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
