@@ -1,0 +1,35 @@
+{
+  "id": "dd89a39b92845fb5fd173dfc7e419b82cc2e30064bea420238c60f73f346f5ee",
+  "title": "Robbyant/lingbot-map",
+  "source_url": "https://github.com/Robbyant/lingbot-map",
+  "source_type": "github_trending",
+  "summary": "LingBot-Map 是一个前馈式 3D 基础模型，专为从流式数据中实时重建场景而设计。该模型利用前馈网络架构，无需迭代优化即可高效处理连续输入的传感器数据（如 RGB-D 或 LiDAR 流），直接生成稠密的三维场景表示。其核心创新在于将流式数据的时间连续性融入网络设计，通过时序融合模块捕捉帧间几何与语义一致性，从而在动态环境中保持重建的鲁棒性与实时性。项目提供了完整的训练与推理代码，支持自定义数据流输入，并基于 PyTorch 实现。该模型在多个室内外数据集上展示了优于传统 SLAM 和离线重建方法的性能，尤其在高帧率、低延迟场景（如机器人导航、增强现实）中具有显著优势。代码库包含预训练权重、数据预处理脚本及可视化工具，便于研究者复现与扩展。",
+  "content_markdown": null,
+  "tags": [
+    "3d-reconstruction",
+    "foundation-model",
+    "streaming-data",
+    "feed-forward-network",
+    "pytorch"
+  ],
+  "language": "zh",
+  "author": "Robbyant",
+  "published_at": null,
+  "collected_at": "2026-06-30T10:54:33Z",
+  "analyzed_at": "2026-06-30T10:55:36Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948633,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150836,
+    "github_stars_today": 465,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

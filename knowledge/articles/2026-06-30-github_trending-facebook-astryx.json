@@ -1,0 +1,34 @@
+{
+  "id": "06d203adbc29f06a6e0cac8e03730baa981c2dfb889b2eb89f5d50587a61bc0a",
+  "title": "facebook/astryx",
+  "source_url": "https://github.com/facebook/astryx",
+  "source_type": "github_trending",
+  "summary": "Astryx 是 Facebook 开源的设计系统，强调完全可定制和面向智能体（agent-ready）。它提供了一套组件和设计令牌，允许开发者深度定制 UI 外观，同时保持一致性。该项目旨在弥合设计系统与 AI 代理之间的鸿沟，使代理能够理解和操作 UI 元素。Astryx 支持主题化、响应式布局，并遵循无障碍标准。其模块化架构便于按需引入组件，减少打包体积。作为 Facebook 官方项目，Astryx 有望成为构建可扩展、可维护 Web 应用的设计基础设施，尤其适合需要与 AI 代理交互的现代前端项目。",
+  "content_markdown": null,
+  "tags": [
+    "design-system",
+    "ui-components",
+    "react",
+    "customizable",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "facebook",
+  "published_at": null,
+  "collected_at": "2026-06-30T10:54:33Z",
+  "analyzed_at": "2026-06-30T10:55:24Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941363,
+    "github_language": "TypeScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015082,
+    "github_stars_today": 426,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

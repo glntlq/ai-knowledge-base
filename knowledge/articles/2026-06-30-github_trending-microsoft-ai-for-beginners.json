@@ -1,0 +1,30 @@
+{
+  "id": "08b1a3147d5e3e49af4291a64cce580e135bca9ca576e924fdc11b6534d8a8cf",
+  "title": "microsoft/AI-For-Beginners",
+  "source_url": "https://github.com/microsoft/AI-For-Beginners",
+  "source_type": "github_trending",
+  "summary": "微软推出的AI入门课程，为期12周，包含24节课程，覆盖人工智能基础、神经网络、计算机视觉、自然语言处理、生成式AI等核心主题。课程设计面向初学者，提供视频、代码示例、实践项目及Jupyter Notebook，强调动手学习。内容涵盖符号AI、机器学习、深度学习、强化学习等范式，并涉及伦理与责任AI。适合零基础开发者系统学习AI知识体系。",
+  "content_markdown": null,
+  "tags": [
+    "artificial-intelligence",
+    "machine-learning",
+    "deep-learning",
+    "education",
+    "microsoft"
+  ],
+  "language": "zh",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-06-30T10:54:33Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269448828,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010126,
+    "github_stars_today": 180,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "beginner"
+  }
+}

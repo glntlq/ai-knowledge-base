@@ -1,0 +1,26 @@
+{
+  "id": "b515a8b35cc1348883387b9f2bf8395602c35cf8bc4fabaa8260a6864b8b4b5c",
+  "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+  "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了AI安全与对齐的挑战，将其比作西西弗斯式的徒劳努力。文章引用NIST的数学证明，支持从静态安全向持续监控与更新的转变，强调AI系统在动态威胁环境下的脆弱性。评论指出，当前对齐方法难以应对对抗性攻击和分布外泛化问题，需要根本性的范式变革。内容涉及安全验证、鲁棒性、对齐理论等核心议题，适合关注AI治理与安全的研究者。",
+  "content_markdown": null,
+  "tags": [
+    "ai-safety",
+    "ai-alignment",
+    "robustness",
+    "adversarial-attacks",
+    "nist"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-06-30T10:54:34Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

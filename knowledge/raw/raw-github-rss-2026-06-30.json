@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-06-30T10:54:32Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/usestrix/strix",
+      "title": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "author": "usestrix",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427499,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503083,
+        "github_stars_today": 395,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/msitarzewski/agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "author": "msitarzewski",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694119839,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015019600,
+        "github_stars_today": 1425,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/altic-dev/FluidVoice",
+      "title": "altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "author": "altic-dev",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944668,
+        "github_language": "Swift",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150288,
+        "github_stars_today": 830,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/diegosouzapw/OmniRoute",
+      "title": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "author": "diegosouzapw",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948045,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501361,
+        "github_stars_today": 617,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/browser-use/video-use",
+      "title": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "author": "browser-use",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412276,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501588,
+        "github_stars_today": 967,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/xbtlin/ai-berkshire",
+      "title": "xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "author": "xbtlin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947209,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150927,
+        "github_stars_today": 1386,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Mebus/cupp",
+      "title": "Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "author": "Mebus",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946001,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502037,
+        "github_stars_today": 18,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ripienaar/free-for-dev",
+      "title": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "author": "ripienaar",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694127080,
+        "github_language": "HTML",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013286,
+        "github_stars_today": 1935,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google/agents-cli",
+      "title": "google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "author": "google",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943760,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150436,
+        "github_stars_today": 433,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/roboflow/supervision",
+      "title": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "author": "roboflow",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269445702,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504057,
+        "github_stars_today": 336,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ogulcancelik/herdr",
+      "title": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "author": "ogulcancelik",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948683,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150522,
+        "github_stars_today": 467,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/simplex-chat/simplex-chat",
+      "title": "simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "author": "simplex-chat",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417190,
+        "github_language": "Haskell",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150998,
+        "github_stars_today": 1607,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/AI-For-Beginners",
+      "title": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269448828,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010126,
+        "github_stars_today": 180,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/facebook/astryx",
+      "title": "facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "author": "facebook",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941363,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015082,
+        "github_stars_today": 426,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "author": "HKUDS",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269415497,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502714,
+        "github_stars_today": 839,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694241987,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015021478,
+        "github_stars_today": 884,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Robbyant/lingbot-map",
+      "title": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "author": "Robbyant",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948633,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150836,
+        "github_stars_today": 465,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-06-30T10:54:33Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "description": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead Comments URL: https://news.ycombinator.com/item?id=48688961 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Fri, 26 Jun 2026 17:00:43 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-30T10:54:34Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "description": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data Comments URL: https://news.ycombinator.com/item?id=48676256 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 25 Jun 2026 17:00:00 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-06-30T10:54:34Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+      "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+      "description": "<p><a href=\"https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update\" rel=\"ugc\">NIST article</a> covers this paper well</p> <p><a href=\"https://lobste.rs/s/7exvix/robust_ai_security_alignment_sisyphean\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 29 Jun 2026 15:56:52 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-06-30T10:54:34Z"
+    }
+  ]
+}

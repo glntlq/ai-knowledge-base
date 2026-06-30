@@ -1,0 +1,30 @@
+{
+  "id": "c0798e36980f5db85c94b495fda7a277f263313d3198bf4cd4a0b99504392237",
+  "title": "google/agents-cli",
+  "source_url": "https://github.com/google/agents-cli",
+  "source_type": "github_trending",
+  "summary": "Google 推出的 agents-cli 是一个命令行工具和技能集，旨在将任何编码助手转变为在 Google Cloud 上创建、评估和部署 AI 代理的专家。它简化了代理开发流程，提供标准化的 CLI 接口，支持代理的构建、测试与云端部署，帮助开发者高效利用 Google Cloud 的 AI 基础设施。该工具降低了 AI 代理开发的门槛，使开发者无需深入底层细节即可快速迭代和发布智能代理应用。",
+  "content_markdown": null,
+  "tags": [
+    "google-cloud",
+    "cli",
+    "ai-agents",
+    "developer-tools",
+    "deployment"
+  ],
+  "language": "zh",
+  "author": "google",
+  "published_at": null,
+  "collected_at": "2026-06-30T10:54:33Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943760,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150436,
+    "github_stars_today": 433,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

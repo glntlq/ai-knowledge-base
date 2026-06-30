@@ -1,0 +1,29 @@
+{
+  "id": "bc432638c465b8a70756cf6ab8ee857d0f00d0cbbd553bf8734ec79f44b47182",
+  "title": "Mebus/cupp",
+  "source_url": "https://github.com/Mebus/cupp",
+  "source_type": "github_trending",
+  "summary": "CUPP（Common User Passwords Profiler）是一款开源工具，用于根据目标用户公开信息（如姓名、生日、爱好等）生成定制化密码字典，辅助渗透测试中的密码猜测与安全审计。它通过交互式问答收集用户特征，结合常见密码模式与变形规则（如大小写、数字替换、特殊字符），输出高度针对性的密码列表。该工具支持多语言环境，可集成到自动化工作流中，常用于红队评估与安全意识培训。CUPP以Python编写，轻量易用，是密码安全领域的经典实用工具。",
+  "content_markdown": null,
+  "tags": [
+    "password-profiling",
+    "penetration-testing",
+    "security-tools",
+    "python"
+  ],
+  "language": "zh",
+  "author": "Mebus",
+  "published_at": null,
+  "collected_at": "2026-06-30T10:54:33Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946001,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502037,
+    "github_stars_today": 18,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "34c8b9e69d2be30e9278eb2c3c109558d013feecdde03fff23763832aa101f97",
+  "title": "diegosouzapw/OmniRoute",
+  "source_url": "https://github.com/diegosouzapw/OmniRoute",
+  "source_type": "github_trending",
+  "summary": "OmniRoute 是一个免费 AI 网关，提供单一端点接入 160 多个 AI 提供商（其中 50 多个免费），支持 Claude Code、Codex、Cursor、Cline 和 Copilot 等工具连接免费 Claude/GPT/Gemini 模型。采用 RTK+Caveman 堆叠压缩技术，可节省 15-95% 的令牌消耗，具备智能自动回退、MCP/A2A 协议支持、多模态 API 以及桌面/PWA 应用。项目旨在降低 AI 开发门槛，实现“永不停止编码”的目标。",
+  "content_markdown": null,
+  "tags": [
+    "ai-gateway",
+    "api-proxy",
+    "free-ai",
+    "token-compression",
+    "multimodal"
+  ],
+  "language": "zh",
+  "author": "diegosouzapw",
+  "published_at": null,
+  "collected_at": "2026-06-30T10:54:33Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948045,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501361,
+    "github_stars_today": 617,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
