@@ -1,0 +1,30 @@
+{
+  "id": "5fb62155273cac1af2528586151e6448c73b9a294b9d2af93bdc5d79fd0174a5",
+  "title": "CoreBunch/Instatic",
+  "source_url": "https://github.com/CoreBunch/Instatic",
+  "source_type": "github_trending",
+  "summary": "Instatic 是一个现代化的自托管可视化内容管理系统（CMS），旨在让用户在一分钟内快速部署并运行。它采用轻量级架构，无需复杂配置，即可通过直观的界面管理网站内容。该项目基于 GitHub 开源，适合个人博客、小型团队或静态站点场景，强调易用性与快速启动。",
+  "content_markdown": null,
+  "tags": [
+    "cms",
+    "self-hosted",
+    "static-site",
+    "visual-editor",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "CoreBunch",
+  "published_at": null,
+  "collected_at": "2026-07-01T11:21:15Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941767,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150150,
+    "github_stars_today": 351,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

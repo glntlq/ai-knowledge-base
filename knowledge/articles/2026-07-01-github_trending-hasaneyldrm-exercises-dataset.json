@@ -1,0 +1,30 @@
+{
+  "id": "e09b231071a65e45b405d7ee1fb9f227de214515249c21beebabd1d923d0497e",
+  "title": "hasaneyldrm/exercises-dataset",
+  "source_url": "https://github.com/hasaneyldrm/exercises-dataset",
+  "source_type": "github_trending",
+  "summary": "该数据集包含433项健身练习的全面信息，每项练习均提供名称、类别、目标肌群、所需器材、详细说明、缩略图及动画视频。数据覆盖全身各部位训练动作，适用于健身应用开发、运动科学分析及个性化训练计划生成。来源为GitHub开源项目，采用结构化格式便于集成与扩展。",
+  "content_markdown": null,
+  "tags": [
+    "fitness",
+    "dataset",
+    "exercise",
+    "machine-learning",
+    "open-data"
+  ],
+  "language": "zh",
+  "author": "hasaneyldrm",
+  "published_at": null,
+  "collected_at": "2026-07-01T11:21:15Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947917,
+    "github_language": "HTML",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150910,
+    "github_stars_today": 1343,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner"
+  }
+}

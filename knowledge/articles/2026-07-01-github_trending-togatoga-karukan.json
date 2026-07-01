@@ -1,0 +1,35 @@
+{
+  "id": "49b41264033b7a9fb59228480f0f5cea363201da37cca33e45b92575b3c6ca2b",
+  "title": "togatoga/karukan",
+  "source_url": "https://github.com/togatoga/karukan",
+  "source_type": "github_trending",
+  "summary": "karukan 是一个面向 Linux 和 macOS 的日语输入法系统，核心采用神经网络假名-汉字转换引擎。该项目旨在提供高效、准确的日语文本输入体验，利用深度学习模型实现从假名到汉字的智能转换，替代传统基于规则或统计的方法。系统设计注重跨平台兼容性，支持主流桌面操作系统。作为开源项目，karukan 为日语输入法领域引入了现代 AI 技术，有望提升输入准确率和用户效率，尤其适合需要频繁输入日语的开发者或普通用户。项目代码托管在 GitHub，便于社区贡献和定制。",
+  "content_markdown": null,
+  "tags": [
+    "japanese-input-method",
+    "neural-network",
+    "kana-kanji-conversion",
+    "linux",
+    "macos"
+  ],
+  "language": "zh",
+  "author": "togatoga",
+  "published_at": null,
+  "collected_at": "2026-07-01T11:21:15Z",
+  "analyzed_at": "2026-07-01T11:21:50Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694520,
+    "github_language": "Rust",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015029,
+    "github_stars_today": 29,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}
