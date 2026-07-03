@@ -1,0 +1,33 @@
+{
+  "id": "c268b3b8bf6a3933e437ed7f584ee20dd4eee5ce6d9cd8ed2a3d36b66e492146",
+  "title": "pytorch/pytorch",
+  "source_url": "https://github.com/pytorch/pytorch",
+  "source_type": "github_trending",
+  "summary": "PyTorch 是一个基于 Python 的开源深度学习框架，由 Facebook AI 研究团队开发，核心提供张量计算（类似 NumPy）并支持强大的 GPU 加速。其最大特色是动态计算图机制，允许在运行时动态构建和修改神经网络，极大提升了调试灵活性和研究效率。框架包含完整的自动微分系统、丰富的优化器（如 SGD、Adam）和神经网络模块（如卷积、循环网络），并支持分布式训练、混合精度训练和模型部署（通过 TorchScript 和 ONNX）。PyTorch 在学术界和工业界广泛应用，是当前最流行的深度学习框架之一，尤其适合快速原型设计和研究实验。",
+  "content_markdown": null,
+  "tags": [
+    "deep-learning",
+    "python",
+    "gpu",
+    "neural-networks",
+    "tensor-computation"
+  ],
+  "language": "zh",
+  "author": "pytorch",
+  "published_at": null,
+  "collected_at": "2026-07-03T10:32:47Z",
+  "analyzed_at": "2026-07-03T10:33:46Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694101340,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015028239,
+    "github_stars_today": 65,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "published_at": null,
+    "collected_at": "2025-04-13T00:00:00Z",
+    "analyzed_at": "2025-04-13T00:00:00Z"
+  }
+}

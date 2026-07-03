@@ -1,0 +1,25 @@
+{
+  "id": "41dbbaa85c906a132d3dea9f402e8e8c6ee4ad09a4c9f00bfa9da45cc9902c1a",
+  "title": "Claude-real-video － any LLM can watch a video",
+  "source_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+  "source_type": "hacker_news",
+  "summary": "Claude-real-video 是一个开源项目，旨在让任何大型语言模型（LLM）具备视频理解能力。该项目通过将视频帧序列转换为文本描述，使 LLM 能够“观看”视频并回答相关问题。它支持多种 LLM 后端（如 Claude、GPT-4 等），并提供简单的 API 接口。核心思路是绕过视频直接输入限制，利用帧采样和描述生成，将视觉信息转化为 LLM 可处理的文本。该工具适用于视频内容分析、问答、摘要等场景，降低了 LLM 处理视频的门槛。项目在 Hacker News 上获得 137 分和 43 条评论，表明社区对其关注度较高。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "video-understanding",
+    "open-source",
+    "multimodal"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-03T10:32:49Z",
+  "analyzed_at": "2025-04-17T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

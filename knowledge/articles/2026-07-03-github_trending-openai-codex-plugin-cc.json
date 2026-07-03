@@ -1,0 +1,30 @@
+{
+  "id": "e952e1b3cb028ebd82d0716ddb4311f5f099e92dd3a57dc4779c36cf3d77630b",
+  "title": "openai/codex-plugin-cc",
+  "source_url": "https://github.com/openai/codex-plugin-cc",
+  "source_type": "github_trending",
+  "summary": "OpenAI 发布的 Codex 插件，允许在 Claude Code 环境中调用 Codex 进行代码审查和任务委派。该工具桥接了两个 AI 代码助手的能力，开发者可在 Claude 的对话界面中直接触发 Codex 执行代码分析、生成建议或完成子任务，实现多模型协作。项目以插件形式集成，降低了切换成本，适用于需要结合不同模型优势的复杂开发场景。",
+  "content_markdown": null,
+  "tags": [
+    "codex",
+    "claude-code",
+    "code-review",
+    "ai-plugin",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "openai",
+  "published_at": null,
+  "collected_at": "2026-07-03T10:32:47Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422889,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501391,
+    "github_stars_today": 352,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

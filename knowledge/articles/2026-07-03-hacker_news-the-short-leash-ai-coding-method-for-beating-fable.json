@@ -1,0 +1,26 @@
+{
+  "id": "a64f0594f5c5fa41ac99b7221872456ad5bbcc65081da50dd30375bf8f718501",
+  "title": "The short leash AI coding method for beating Fable",
+  "source_url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一种名为“短 leash AI 编码方法”的技术，用于在编程中击败经典游戏《Fable》。该方法强调通过严格限制 AI 模型的自主性，将任务分解为极小步骤，并频繁进行人工审核与修正，从而提升代码质量和项目成功率。作者分享了具体实践，包括使用 AI 生成代码片段、手动合并与测试，以及避免让 AI 独立完成复杂功能。文章指出，这种方法能有效减少 AI 产生的错误和幻觉，尤其适用于需要高可靠性的项目。同时，作者讨论了该方法在游戏开发中的优势，如快速迭代和精准控制。整体上，这是一种结合人类监督与 AI 辅助的实用编码策略。",
+  "content_markdown": null,
+  "tags": [
+    "ai-coding",
+    "game-development",
+    "human-in-the-loop",
+    "code-quality",
+    "fable"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-03T10:32:49Z",
+  "analyzed_at": "2026-07-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

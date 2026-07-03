@@ -1,0 +1,34 @@
+{
+  "id": "af8bdc0b6044bd294e237c94c3285b6ad8b65e183303bfdb0cb3c5d2cbe400eb",
+  "title": "ryanmcdermott/clean-code-javascript",
+  "source_url": "https://github.com/ryanmcdermott/clean-code-javascript",
+  "source_type": "github_trending",
+  "summary": "该仓库将 Robert C. Martin 的《Clean Code》原则适配到 JavaScript 语言，提供一系列可操作的编码实践指南。内容涵盖变量命名、函数设计、对象与数据结构、类、测试、并发、错误处理、格式化、注释等核心方面，旨在帮助开发者编写更易读、可维护且健壮的 JavaScript 代码。每个原则都配有简洁的示例代码，对比不良与良好实践，强调代码应表达意图而非解释行为。项目在 GitHub 上广受关注，已成为 JavaScript 开发者学习代码整洁之道的经典参考。",
+  "content_markdown": null,
+  "tags": [
+    "clean-code",
+    "javascript",
+    "best-practices",
+    "code-quality",
+    "refactoring"
+  ],
+  "language": "zh",
+  "author": "ryanmcdermott",
+  "published_at": null,
+  "collected_at": "2026-07-03T10:32:47Z",
+  "analyzed_at": "2026-07-03T10:33:53Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269494664,
+    "github_language": "JavaScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015012478,
+    "github_stars_today": 27,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "934eeaa4d860f8775d368cb999986fadcbca38fa7c0ada350cdaffe73ec681e9",
+  "title": "actions/checkout",
+  "source_url": "https://github.com/actions/checkout",
+  "source_type": "github_trending",
+  "summary": "actions/checkout 是 GitHub Actions 官方提供的核心动作，用于在 workflow 运行环境中检出仓库代码。它支持多种配置选项，如指定分支、标签或提交 SHA，设置 fetch-depth 控制历史深度，以及通过 path 参数将代码检出到子目录。该动作是大多数 CI/CD 流水线的基础步骤，确保后续步骤能访问项目源代码。其设计注重安全性和性能，默认使用 token 进行认证，并支持 LFS、子模块等高级场景。作为 GitHub 生态中的关键组件，它持续更新以适配新功能，如改进的缓存和更细粒度的权限控制。",
+  "content_markdown": null,
+  "tags": [
+    "github-actions",
+    "ci-cd",
+    "git",
+    "devops",
+    "workflow"
+  ],
+  "language": "zh",
+  "author": "actions",
+  "published_at": null,
+  "collected_at": "2026-07-03T10:32:47Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948212,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502530,
+    "github_stars_today": 26,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "beginner",
+    "source_type": "github_trending"
+  }
+}

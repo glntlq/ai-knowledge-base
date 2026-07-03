@@ -1,0 +1,35 @@
+{
+  "id": "d4d11a993d0a5a71c054e9f4c151ead924d7fbce68a363a8042c3389559e2399",
+  "title": "agentskills/agentskills",
+  "source_url": "https://github.com/agentskills/agentskills",
+  "source_type": "github_trending",
+  "summary": "AgentSkills 是一个为 AI 代理（Agent）定义标准化技能规范与文档的开源项目。它提供了一套统一的接口和协议，使开发者能够以模块化方式构建、注册和组合代理可执行的技能（如搜索、计算、API 调用等）。该项目旨在解决当前 AI 代理生态中技能碎片化、互操作性差的问题，通过明确的规范降低开发门槛，促进社区贡献和技能复用。核心内容包括技能定义格式、执行生命周期管理、输入输出 schema 以及安全约束。适用于需要构建可扩展、可组合代理系统的开发者，尤其适合多代理协作场景。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "agent-skills",
+    "specification",
+    "open-source",
+    "tool-use"
+  ],
+  "language": "zh",
+  "author": "agentskills",
+  "published_at": null,
+  "collected_at": "2026-07-03T10:32:47Z",
+  "analyzed_at": "2026-07-03T10:33:35Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421793,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501382,
+    "github_stars_today": 86,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

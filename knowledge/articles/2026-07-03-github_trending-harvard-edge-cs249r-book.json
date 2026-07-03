@@ -1,0 +1,35 @@
+{
+  "id": "ddb764a7d421e0f8a288ec5f18a0bf42668e3a64ff649792e469886f23ebcd10",
+  "title": "harvard-edge/cs249r_book",
+  "source_url": "https://github.com/harvard-edge/cs249r_book",
+  "source_type": "github_trending",
+  "summary": "《Machine Learning Systems》是哈佛大学CS249r课程的配套开源书籍，由harvard-edge组织维护。该书系统性地覆盖了机器学习系统的全生命周期，包括数据管理、模型训练、部署、监控、可解释性、公平性等关键主题。内容兼顾理论与实践，提供代码示例和案例研究，旨在帮助读者构建可靠、可扩展的ML系统。项目在GitHub上开源，持续更新，适合作为高校教学参考或工业界工程师的自学材料。",
+  "content_markdown": null,
+  "tags": [
+    "machine-learning",
+    "mlops",
+    "systems-engineering",
+    "open-source",
+    "education"
+  ],
+  "language": "zh",
+  "author": "harvard-edge",
+  "published_at": null,
+  "collected_at": "2026-07-03T10:32:47Z",
+  "analyzed_at": "2026-07-03T10:33:49Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425912,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503105,
+    "github_stars_today": 68,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}
