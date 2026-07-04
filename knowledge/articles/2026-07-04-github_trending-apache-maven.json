@@ -1,0 +1,30 @@
+{
+  "id": "0f4085efb1f1394c13e1c4d067df0e76152789df89168119f5ad9c4182f15977",
+  "title": "apache/maven",
+  "source_url": "https://github.com/apache/maven",
+  "source_type": "github_trending",
+  "summary": "Apache Maven 是 Java 项目管理和构建自动化工具，基于项目对象模型（POM）概念，提供声明式依赖管理、构建生命周期和插件机制。它通过中央仓库自动解析依赖，支持多模块项目、继承和聚合，简化构建配置。Maven 核心包含构建生命周期（如 clean、compile、test、package、install、deploy）、标准目录布局和约定优于配置原则。其插件架构允许扩展功能，如编译、测试、打包、部署等。作为 Apache 顶级项目，Maven 广泛应用于企业级 Java 开发，与 CI/CD 工具（如 Jenkins）和 IDE（如 IntelliJ IDEA）集成良好。当前版本持续维护，支持 Java 8+，并提供 Maven Wrapper 确保构建环境一致性。",
+  "content_markdown": null,
+  "tags": [
+    "java",
+    "build-tool",
+    "dependency-management",
+    "apache",
+    "maven"
+  ],
+  "language": "zh",
+  "author": "apache",
+  "published_at": null,
+  "collected_at": "2026-07-04T10:06:46Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945263,
+    "github_language": "Java",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502904,
+    "github_stars_today": 58,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

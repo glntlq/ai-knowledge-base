@@ -1,0 +1,30 @@
+{
+  "id": "f9d34bf9761910ea0ddbbf1a8c6063bbd8b94a0af347af8aa706ad17745cb582",
+  "title": "ansible/ansible",
+  "source_url": "https://github.com/ansible/ansible",
+  "source_type": "github_trending",
+  "summary": "Ansible 是一款开源的 IT 自动化平台，以极简设计著称，采用接近自然语言的 YAML 语法编写剧本（Playbooks），通过 SSH 协议管理远程系统，无需安装代理。它覆盖配置管理、应用部署、任务编排和云资源编排等场景，支持模块化扩展，内置数百个模块（如文件、命令、包管理、网络设备等），可轻松集成 CI/CD 流水线。其无代理架构降低了运维复杂度，适合从单机到大规模集群的自动化管理。项目由 Red Hat 维护，社区活跃，文档完善，是 DevOps 和基础设施即代码（IaC）领域的标杆工具。",
+  "content_markdown": null,
+  "tags": [
+    "ansible",
+    "it-automation",
+    "configuration-management",
+    "devops",
+    "infrastructure-as-code"
+  ],
+  "language": "zh",
+  "author": "ansible",
+  "published_at": null,
+  "collected_at": "2026-07-04T10:06:46Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269469275,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015024113,
+    "github_stars_today": 65,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

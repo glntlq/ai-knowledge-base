@@ -1,0 +1,30 @@
+{
+  "id": "a00f5edd602fc4fe6194e016d9833c57436df194c87c97e5f8b91b0b75effd81",
+  "title": "rommapp/romm",
+  "source_url": "https://github.com/rommapp/romm",
+  "source_type": "github_trending",
+  "summary": "Romm 是一个自托管的 ROM 管理器和播放器，提供美观且强大的界面，用于管理游戏 ROM 文件。它支持多种游戏平台，允许用户上传、组织、搜索和启动 ROM，并集成了元数据抓取功能以自动填充游戏信息。该项目基于现代 Web 技术构建，易于部署和扩展，适合游戏爱好者搭建个人游戏库。",
+  "content_markdown": null,
+  "tags": [
+    "self-hosted",
+    "rom-manager",
+    "gaming",
+    "metadata-scraping",
+    "web-app"
+  ],
+  "language": "en",
+  "author": "rommapp",
+  "published_at": null,
+  "collected_at": "2026-07-04T10:06:46Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949941,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150482,
+    "github_stars_today": 239,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

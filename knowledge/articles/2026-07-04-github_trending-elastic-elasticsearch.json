@@ -1,0 +1,35 @@
+{
+  "id": "633c8fa7b23ae64324960f722208b854af873fcdb02c4fbace678065e15dbb33",
+  "title": "elastic/elasticsearch",
+  "source_url": "https://github.com/elastic/elasticsearch",
+  "source_type": "github_trending",
+  "summary": "Elasticsearch 是一个基于 Apache Lucene 构建的免费开源分布式 RESTful 搜索引擎，提供实时全文搜索、结构化搜索、分析及数据可视化能力。它采用分布式架构，支持水平扩展，通过分片和副本机制实现高可用性与容错。核心功能包括多租户、聚合分析、地理空间查询、自动补全及高亮显示，并集成安全、监控、告警等企业级特性。广泛应用于日志分析（ELK Stack）、应用搜索、安全分析、指标监控等场景。社区活跃，文档完善，支持多种客户端语言。",
+  "content_markdown": null,
+  "tags": [
+    "elasticsearch",
+    "search-engine",
+    "distributed-systems",
+    "rest-api",
+    "big-data"
+  ],
+  "language": "zh",
+  "author": "elastic",
+  "published_at": null,
+  "collected_at": "2026-07-04T10:06:46Z",
+  "analyzed_at": "2026-07-04T10:07:03Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269477416,
+    "github_language": "Java",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015025945,
+    "github_stars_today": 91,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

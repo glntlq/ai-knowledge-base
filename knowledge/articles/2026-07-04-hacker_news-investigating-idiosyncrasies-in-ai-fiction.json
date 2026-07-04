@@ -1,0 +1,26 @@
+{
+  "id": "319759cde73aba73d16a304784559e72da50b0f6c8813a4390066bf53dd6c225",
+  "title": "Investigating idiosyncrasies in AI fiction",
+  "source_url": "https://arxiv.org/abs/2604.03136",
+  "source_type": "hacker_news",
+  "summary": "该研究系统分析了AI生成小说中的独特风格特征（idiosyncrasies），通过对比人类创作与AI生成文本，识别出AI在叙事结构、语言模式、角色塑造等方面的系统性偏差。研究发现AI小说倾向于过度使用特定句式、情感表达模式化、情节转折缺乏意外性，并存在文化背景的单一化倾向。研究基于大规模语料库和机器学习方法，为理解AI创作局限性、改进生成模型提供了实证依据。",
+  "content_markdown": null,
+  "tags": [
+    "ai-fiction",
+    "nlp",
+    "text-generation",
+    "stylistic-analysis",
+    "machine-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-04T10:06:47Z",
+  "analyzed_at": "2025-04-07T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
