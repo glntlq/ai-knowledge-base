@@ -1,0 +1,30 @@
+{
+  "id": "0d0186f0aed615af9d4c4e1b8e6c1810d242c899a7304485100a1ffc27df1567",
+  "title": "chthollyphile/folia-major",
+  "source_url": "https://github.com/chthollyphile/folia-major",
+  "source_type": "github_trending",
+  "summary": "folia-major 是一款开源的本地音乐播放器，专注于提供绚丽的歌词动画效果。它支持本地音乐文件、Navidrome 服务器以及第三方网易云音乐服务。项目基于 Web 技术构建，通过 CSS 动画和 JavaScript 实现动态歌词展示，包括滚动、渐变、弹跳等视觉效果。用户可自定义主题和动画样式。该播放器旨在提升音乐欣赏的视觉体验，适合追求个性化界面的音乐爱好者。技术栈包括 React、TypeScript 和 Web Audio API。",
+  "content_markdown": null,
+  "tags": [
+    "music-player",
+    "lyrics-animation",
+    "web-audio",
+    "react",
+    "typescript"
+  ],
+  "language": "zh",
+  "author": "chthollyphile",
+  "published_at": null,
+  "collected_at": "2026-07-05T10:09:18Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941052,
+    "github_language": "TypeScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015068,
+    "github_stars_today": 175,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

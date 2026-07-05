@@ -1,0 +1,35 @@
+{
+  "id": "42f398b7ad9fb1be26e8b38285a29b646cd55148ae572b9830dca98d01f59f80",
+  "title": "CoplayDev/unity-mcp",
+  "source_url": "https://github.com/CoplayDev/unity-mcp",
+  "source_type": "github_trending",
+  "summary": "Unity MCP 是一个开源工具，作为 AI 助手与 Unity 编辑器之间的桥梁。它通过模型上下文协议（MCP）为大型语言模型（LLM）提供接口，使其能够直接管理 Unity 项目中的资源、控制场景、编辑脚本以及自动化重复性任务。该项目旨在提升游戏开发效率，降低 AI 集成门槛，支持开发者通过自然语言指令与 Unity 交互。适用于需要 AI 辅助的 Unity 工作流，如程序化生成、测试自动化或快速原型设计。",
+  "content_markdown": null,
+  "tags": [
+    "unity",
+    "mcp",
+    "ai-assistant",
+    "game-development",
+    "automation"
+  ],
+  "language": "zh",
+  "author": "CoplayDev",
+  "published_at": null,
+  "collected_at": "2026-07-05T10:09:18Z",
+  "analyzed_at": "2026-07-05T10:10:13Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411761,
+    "github_language": "C#",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501268,
+    "github_stars_today": 69,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z",
+    "published_at": null
+  }
+}

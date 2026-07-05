@@ -1,0 +1,30 @@
+{
+  "id": "c46e646e1775dbcc6894675626930de6dfa850cef3e6cd9119a8d89a41c13e65",
+  "title": "alirezarezvani/claude-skills",
+  "source_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "github_trending",
+  "summary": "该项目提供超过337个Claude Code技能与代理技能插件，涵盖30多个代理、70多个自定义命令及330多项技能，支持Claude Code、Codex、Gemini CLI、Cursor等8种编码代理。技能范围包括工程、营销、产品、合规、C级顾问、研究、商业运营、商业与金融以及日常生产力提升，提供可定制的参考和脚本，旨在增强编码代理的功能性和自动化能力。",
+  "content_markdown": null,
+  "tags": [
+    "claude-code",
+    "ai-agents",
+    "plugins",
+    "productivity",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "alirezarezvani",
+  "published_at": null,
+  "collected_at": "2026-07-05T10:09:18Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420283,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502773,
+    "github_stars_today": 136,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

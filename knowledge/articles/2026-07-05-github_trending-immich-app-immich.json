@@ -1,0 +1,30 @@
+{
+  "id": "993c17eb7504eacd8c43c258065dd9aa4e5a1c27067f2468fc867a65fca6ec53",
+  "title": "immich-app/immich",
+  "source_url": "https://github.com/immich-app/immich",
+  "source_type": "github_trending",
+  "summary": "Immich 是一个高性能、自托管的照片和视频管理解决方案，旨在替代 Google Photos 等云服务。它提供自动备份、智能搜索、相册共享、时间线浏览、元数据编辑、AI 驱动的物体/人脸识别等功能。项目采用 TypeScript 和 Dart 开发，后端基于 NestJS 和 PostgreSQL，前端使用 Flutter 构建跨平台应用。支持 Docker 一键部署，注重隐私保护和数据自主权。作为开源项目，Immich 在 GitHub 上活跃开发，社区贡献丰富，适合希望完全掌控个人媒体资产的用户。",
+  "content_markdown": null,
+  "tags": [
+    "self-hosted",
+    "photo-management",
+    "video-management",
+    "open-source",
+    "docker"
+  ],
+  "language": "zh",
+  "author": "immich-app",
+  "published_at": null,
+  "collected_at": "2026-07-05T10:09:18Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694105803,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506039,
+    "github_stars_today": 201,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

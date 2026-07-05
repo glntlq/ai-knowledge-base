@@ -1,0 +1,35 @@
+{
+  "id": "2eaa247bfa543b083e34ce94cabbfedd15c956d1356be140d03b65e65f5a68e6",
+  "title": "crynta/terax-ai",
+  "source_url": "https://github.com/crynta/terax-ai",
+  "source_type": "github_trending",
+  "summary": "Terax AI 是一个轻量级（7MB）的终端优先 AI 原生开发工作空间。它专为开发者设计，将 AI 能力深度集成到终端环境中，提供代码生成、解释、调试和重构等功能。该项目强调极小的资源占用和高效的命令行交互，旨在替代传统的 IDE 或编辑器插件方案。Terax AI 支持多种编程语言，并可通过简单的命令调用 AI 模型，实现上下文感知的代码辅助。其核心优势在于低延迟、低内存消耗和完全键盘驱动的操作流程，适合偏好终端工作流的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "terminal-ai",
+    "ai-native",
+    "developer-tools",
+    "cli",
+    "lightweight"
+  ],
+  "language": "zh",
+  "author": "crynta",
+  "published_at": null,
+  "collected_at": "2026-07-05T10:09:18Z",
+  "analyzed_at": "2026-07-05T10:10:20Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948157,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150865,
+    "github_stars_today": 62,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

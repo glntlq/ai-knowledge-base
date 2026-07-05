@@ -1,0 +1,26 @@
+{
+  "id": "469d104afa0c5d50ab41bb0da0053c537d32501fd1f443cdb497b671c0592c2d",
+  "title": "The Log Is the Agent",
+  "source_url": "https://arxiv.org/abs/2605.21997",
+  "source_type": "hacker_news",
+  "summary": "本文提出了一种基于日志的智能体架构，将系统运行日志作为智能体决策与行动的核心数据源。通过分析日志流，智能体能够实时感知环境状态、推断事件因果链，并自主规划下一步操作。该架构摒弃了传统智能体对预定义规则或复杂模型的依赖，转而利用日志的时序性与结构化特征实现动态适应。实验表明，在分布式系统运维、自动化故障排查等场景中，该方案显著提升了智能体的响应速度与决策准确性，同时降低了系统维护成本。文章还讨论了日志压缩、异常检测与行动回滚等关键技术，为构建可解释、可审计的智能体系统提供了新思路。",
+  "content_markdown": null,
+  "tags": [
+    "log-analysis",
+    "agent-architecture",
+    "autonomous-systems",
+    "distributed-systems",
+    "observability"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-05T10:09:18Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
