@@ -1,0 +1,30 @@
+{
+  "id": "6611ac69396cb7a2b0d97b1fc2ebccf595421a9a51e4e05eb799aca5d75e3a46",
+  "title": "steipete/CodexBar",
+  "source_url": "https://github.com/steipete/CodexBar",
+  "source_type": "github_trending",
+  "summary": "CodexBar 是一个轻量级 macOS 菜单栏工具，用于实时显示 OpenAI Codex 和 Claude Code 的使用统计，无需登录。它通过本地 API 监控令牌消耗、请求次数等关键指标，帮助开发者追踪 AI 编码助手的费用与使用模式。项目采用 Swift 开发，支持自定义刷新间隔和通知阈值，适合需要精细控制 AI 服务成本的个人或团队。该工具解决了官方仪表板访问不便的问题，提供无侵入的桌面端监控体验。",
+  "content_markdown": null,
+  "tags": [
+    "openai-codex",
+    "claude-code",
+    "macos-menu-bar",
+    "usage-tracking",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "steipete",
+  "published_at": null,
+  "collected_at": "2026-07-06T12:01:58Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416542,
+    "github_language": "Swift",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501364,
+    "github_stars_today": 153,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2cdb6ef3439a9c6b21692bcc6ad8638a3e252c0b76f51675593dca03927b661d",
+  "title": "gastownhall/gastown",
+  "source_url": "https://github.com/gastownhall/gastown",
+  "source_type": "github_trending",
+  "summary": "Gas Town 是一个多智能体工作空间管理器，旨在协调和管理多个 AI 代理的协作环境。该项目提供了一种框架，用于创建、配置和监控多个智能体，使其能够在共享工作空间中并行或协同执行任务。Gas Town 支持动态任务分配、智能体间通信以及工作流编排，适用于需要多代理协作的复杂场景，如自动化测试、数据处理和模拟。其设计强调可扩展性和灵活性，允许开发者自定义智能体行为和交互规则。通过集中式管理界面，用户可以实时查看智能体状态、任务进度和资源使用情况。该项目基于 Python 实现，利用异步编程和消息队列来确保高效通信。Gas Town 适合对多智能体系统感兴趣的开发者和研究人员，尤其适用于构建分布式 AI 应用。",
+  "content_markdown": null,
+  "tags": [
+    "multi-agent",
+    "ai-agents",
+    "workflow-orchestration",
+    "python",
+    "distributed-systems"
+  ],
+  "language": "zh",
+  "author": "gastownhall",
+  "published_at": null,
+  "collected_at": "2026-07-06T12:01:58Z",
+  "analyzed_at": "2026-07-06T12:02:52Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416528,
+    "github_language": "Go",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501530,
+    "github_stars_today": 51,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

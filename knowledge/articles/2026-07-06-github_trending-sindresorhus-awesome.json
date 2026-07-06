@@ -1,0 +1,30 @@
+{
+  "id": "40c4d22cbf678b3fee8f8de8394a1a0a2caf53099dae5f11a593a69c0363ed4d",
+  "title": "sindresorhus/awesome",
+  "source_url": "https://github.com/sindresorhus/awesome",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精选资源列表的集合，由社区维护，涵盖编程语言、框架、工具、书籍、课程、娱乐等多个领域。它通过分类整理高质量链接，帮助开发者快速发现和学习各类技术主题。项目遵循严格的贡献指南，确保列表的实用性和权威性，已成为GitHub上最受欢迎的参考资源之一。",
+  "content_markdown": null,
+  "tags": [
+    "awesome-list",
+    "curated-list",
+    "resources",
+    "developer-tools",
+    "learning"
+  ],
+  "language": "zh",
+  "author": "sindresorhus",
+  "published_at": null,
+  "collected_at": "2026-07-06T12:01:58Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694481981,
+    "github_language": null,
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015035714,
+    "github_stars_today": 352,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "beginner"
+  }
+}

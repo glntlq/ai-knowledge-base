@@ -1,0 +1,30 @@
+{
+  "id": "868957562abd8df150602f784aff87f739cc65609dcda480bc8ff361ad66216c",
+  "title": "bradautomates/claude-video",
+  "source_url": "https://github.com/bradautomates/claude-video",
+  "source_type": "github_trending",
+  "summary": "该项目为Claude AI模型提供视频理解能力，通过自动下载视频、提取关键帧、转录音频，并将多模态数据（视觉帧+文本转录）传递给Claude进行处理。核心工作流包括：视频下载（支持常见格式）、基于场景切换或时间间隔的帧提取、语音转文字（ASR）转录，最终将结构化数据输入Claude以完成视频内容分析、问答或摘要生成。该工具显著扩展了Claude的感知边界，使其能处理动态视觉信息，适用于视频监控分析、教育内容总结、媒体审核等场景。项目采用模块化设计，支持自定义帧提取频率和转录引擎，降低了视频AI应用的开发门槛。",
+  "content_markdown": null,
+  "tags": [
+    "claude",
+    "video-analysis",
+    "multimodal-ai",
+    "frame-extraction",
+    "speech-to-text"
+  ],
+  "language": "zh",
+  "author": "bradautomates",
+  "published_at": null,
+  "collected_at": "2026-07-06T12:01:58Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943787,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150569,
+    "github_stars_today": 368,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

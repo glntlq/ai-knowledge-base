@@ -1,0 +1,34 @@
+{
+  "id": "4a7e1ce3f7a552eaa7ab15a8815f83ba3a1c4da3307e5bae3d970e9d45f932a8",
+  "title": "karakeep-app/karakeep",
+  "source_url": "https://github.com/karakeep-app/karakeep",
+  "source_type": "github_trending",
+  "summary": "Karakeep 是一款自托管的书签管理应用，支持链接、笔记和图片的保存。其核心功能包括基于 AI 的自动标签生成和全文搜索，帮助用户高效组织和检索收藏内容。该项目采用自托管模式，强调数据隐私和用户控制。适用于需要集中管理网络资源并利用 AI 提升分类效率的个人或团队。",
+  "content_markdown": null,
+  "tags": [
+    "self-hosted",
+    "bookmark-manager",
+    "ai-tagging",
+    "full-text-search",
+    "privacy"
+  ],
+  "language": "zh",
+  "author": "karakeep-app",
+  "published_at": null,
+  "collected_at": "2026-07-06T12:01:58Z",
+  "analyzed_at": "2026-07-06T12:02:35Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426669,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501311,
+    "github_stars_today": 178,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}
