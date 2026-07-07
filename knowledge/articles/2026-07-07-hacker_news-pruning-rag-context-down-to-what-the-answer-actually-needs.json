@@ -1,0 +1,26 @@
+{
+  "id": "8109b5f1b4b42a18bb30644b0fcd33393c29149c0eb5efa527aaa779d71a5545",
+  "title": "Pruning RAG context down to what the answer actually needs",
+  "source_url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了Kapa.ai在RAG（检索增强生成）系统中优化上下文修剪的方法。核心挑战在于检索到的文档片段常包含大量无关信息，导致LLM处理效率低下、成本增加且可能产生幻觉。作者提出一种基于“答案需求”的修剪策略：首先通过轻量级模型对检索结果进行相关性评分，仅保留与问题直接相关的段落；其次利用语义分割技术将长文档切分为更细粒度的片段，避免冗余；最后结合动态阈值调整，平衡召回率与精确度。实验表明，该方法在保持答案质量的同时，将上下文长度平均压缩60%，显著降低API调用成本。文章还讨论了修剪对长尾查询的鲁棒性，并对比了固定长度截断与基于重要性排序的优劣。",
+  "content_markdown": null,
+  "tags": [
+    "rag",
+    "context-pruning",
+    "llm-optimization",
+    "information-retrieval",
+    "cost-efficiency"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-07T10:52:27Z",
+  "analyzed_at": "2025-04-11T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

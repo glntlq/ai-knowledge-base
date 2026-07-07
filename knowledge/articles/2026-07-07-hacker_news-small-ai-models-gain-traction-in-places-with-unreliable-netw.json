@@ -1,0 +1,26 @@
+{
+  "id": "6b708f9be281f28298c4e01470ad00c9b4054afd6fcad272be1de870f9014b77",
+  "title": "Small AI Models Gain Traction In places with unreliable networks",
+  "source_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+  "source_type": "hacker_news",
+  "summary": "在网络基础设施不稳定的地区，小型AI模型正逐渐获得关注。这类模型参数量少、计算需求低，可在离线或弱网环境下运行，适用于医疗、农业等关键领域的本地化智能应用。相比大型模型，小模型部署成本更低，隐私保护更强，且能快速适配特定任务。IEEE Spectrum文章指出，制药行业已开始探索小模型在药物研发中的潜力，利用其高效处理分子数据的能力。这一趋势反映了AI从云端向边缘端迁移的实用化方向，尤其对发展中国家和偏远地区具有重要价值。",
+  "content_markdown": null,
+  "tags": [
+    "small-language-models",
+    "edge-ai",
+    "offline-ai",
+    "pharmaceutical-ai",
+    "low-resource-ai"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-07T10:52:27Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

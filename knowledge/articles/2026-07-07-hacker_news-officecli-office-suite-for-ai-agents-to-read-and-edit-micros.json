@@ -1,0 +1,26 @@
+{
+  "id": "62f26fbec092b224b879d4d568267da424add125ff998d3e04fde60014e1408a",
+  "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+  "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+  "source_type": "hacker_news",
+  "summary": "OfficeCLI 是一个专为 AI 代理设计的命令行工具套件，支持读取和编辑 Microsoft Office 文件（如 Word、Excel、PowerPoint）。它通过简洁的 CLI 接口，使 AI 系统能够以编程方式操作 Office 文档，无需图形界面。项目基于 Python 开发，利用 python-docx、openpyxl 等库实现文件解析与修改，支持文本提取、表格操作、格式调整等常见任务。OfficeCLI 旨在填补 AI 工作流中 Office 文件处理的空白，提升自动化效率。当前处于早期开发阶段，已获得 Hacker News 社区关注（185 分，55 条评论），适合需要集成 Office 文档处理的 AI 应用开发者。",
+  "content_markdown": null,
+  "tags": [
+    "office-automation",
+    "cli-tools",
+    "ai-agents",
+    "python",
+    "document-processing"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-07T10:52:27Z",
+  "analyzed_at": "2025-04-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

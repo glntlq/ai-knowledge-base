@@ -1,0 +1,314 @@
+{
+  "collected_at": "2026-07-07T10:52:25Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "title": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "author": "asgeirtj",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269452320,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508524,
+        "github_stars_today": 1378,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "author": "addyosmani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269471475,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507739,
+        "github_stars_today": 1112,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Zackriya-Solutions/meetily",
+      "title": "Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "author": "Zackriya-Solutions",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419995,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502011,
+        "github_stars_today": 2494,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "author": "ruvnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269478016,
+        "github_language": "Rust",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010500,
+        "github_stars_today": 470,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Leonxlnx/taste-skill",
+      "title": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "author": "Leonxlnx",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269459706,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504047,
+        "github_stars_today": 1458,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/alirezarezvani/claude-skills",
+      "title": "alirezarezvani/claude-skills",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "author": "alirezarezvani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421422,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502859,
+        "github_stars_today": 610,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openai/codex-plugin-cc",
+      "title": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "author": "openai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426502,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501586,
+        "github_stars_today": 906,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "author": "mvanhorn",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450122,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504173,
+        "github_stars_today": 458,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ogulcancelik/herdr",
+      "title": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "author": "ogulcancelik",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413182,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150764,
+        "github_stars_today": 779,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/bradautomates/claude-video",
+      "title": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "author": "bradautomates",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944698,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150631,
+        "github_stars_today": 427,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/karakeep-app/karakeep",
+      "title": "karakeep-app/karakeep",
+      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "author": "karakeep-app",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427095,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501331,
+        "github_stars_today": 199,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "author": "firecrawl",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694146883,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508443,
+        "github_stars_today": 867,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/steipete/CodexBar",
+      "title": "steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "author": "steipete",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416890,
+        "github_language": "Swift",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501384,
+        "github_stars_today": 598,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/alibaba/zvec",
+      "title": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "author": "alibaba",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413786,
+        "github_language": "C++",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150835,
+        "github_stars_today": 382,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/sindresorhus/awesome",
+      "title": "sindresorhus/awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics",
+      "author": "sindresorhus",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694482641,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015035751,
+        "github_stars_today": 345,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/gastownhall/gastown",
+      "title": "gastownhall/gastown",
+      "description": "Gas Town - multi-agent workspace manager",
+      "author": "gastownhall",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416832,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501546,
+        "github_stars_today": 291,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-07T10:52:26Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "description": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 157 # Comments: 53",
+      "author": "",
+      "published_at": "Mon, 06 Jul 2026 23:59:54 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-07T10:52:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "description": "Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/ Comments URL: https://news.ycombinator.com/item?id=48809877 Points: 450 # Comments: 274",
+      "author": "",
+      "published_at": "Mon, 06 Jul 2026 20:14:55 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-07T10:52:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "description": "Article URL: https://www.kapa.ai/blog/how-we-prune-rag-context Comments URL: https://news.ycombinator.com/item?id=48809354 Points: 104 # Comments: 25",
+      "author": "",
+      "published_at": "Mon, 06 Jul 2026 19:28:24 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-07T10:52:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "description": "Article URL: https://github.com/iOfficeAI/OfficeCLI Comments URL: https://news.ycombinator.com/item?id=48807225 Points: 185 # Comments: 55",
+      "author": "",
+      "published_at": "Mon, 06 Jul 2026 16:47:44 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-07T10:52:27Z"
+    }
+  ]
+}
