@@ -1,0 +1,30 @@
+{
+  "id": "2078443dfe79017664afc21dbbb5078af41a2ff843198fcfee2b2cb71a21c467",
+  "title": "hesreallyhim/awesome-claude-code",
+  "source_url": "https://github.com/hesreallyhim/awesome-claude-code",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精心整理的 Claude Code 资源集合，由 Anthropic PBC 团队维护。Claude Code 被描述为编码伴侣中的冠军，具备顶级技能、双面代理、出色的状态行和开发者工具。该集合收录了与 Claude Code 相关的插件、工具和最佳实践，旨在帮助开发者更高效地使用这一 AI 编码助手。资源涵盖从基础配置到高级代理应用的多个层面，适合希望深入探索 Claude Code 能力的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "claude-code",
+    "ai-coding-assistant",
+    "developer-tools",
+    "awesome-list",
+    "anthropic"
+  ],
+  "language": "zh",
+  "author": "hesreallyhim",
+  "published_at": null,
+  "collected_at": "2026-07-08T10:13:37Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449458,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504300,
+    "github_stars_today": 144,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

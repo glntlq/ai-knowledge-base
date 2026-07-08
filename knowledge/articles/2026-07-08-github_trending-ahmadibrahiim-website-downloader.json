@@ -1,0 +1,30 @@
+{
+  "id": "bc47fa0d483870ae1c4047ca029a96bd24af69ee5cfbcc58e3323e194aac2ca4",
+  "title": "AhmadIbrahiim/Website-downloader",
+  "source_url": "https://github.com/AhmadIbrahiim/Website-downloader",
+  "source_type": "github_trending",
+  "summary": "Website-downloader 是一个基于 Node.js 的开源工具，能够下载任意网站的完整源代码，包括 JavaScript、CSS 样式表和图像等所有静态资源。它通过递归抓取页面并解析资源链接，实现网站内容的离线保存。该项目适用于前端开发、网站备份、离线学习等场景，支持自定义下载深度和并发数，操作简单高效。",
+  "content_markdown": null,
+  "tags": [
+    "node-js",
+    "web-scraping",
+    "website-downloader",
+    "static-assets",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "AhmadIbrahiim",
+  "published_at": null,
+  "collected_at": "2026-07-08T10:13:37Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944379,
+    "github_language": "HTML",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501012,
+    "github_stars_today": 140,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

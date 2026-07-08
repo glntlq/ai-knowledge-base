@@ -1,0 +1,30 @@
+{
+  "id": "8616ab894248ffad491bffa2147bf1fba2207808bfcb54a4102b5587b363f7d8",
+  "title": "MadsLorentzen/ai-job-search",
+  "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+  "source_type": "github_trending",
+  "summary": "基于 Claude Code 构建的 AI 驱动求职应用框架。用户可 Fork 仓库并填写个人资料，由 Claude 自动评估职位匹配度、定制简历、撰写求职信并准备面试。该项目旨在通过大语言模型自动化求职流程中的重复性工作，提升效率。框架设计强调可定制性，支持用户根据自身需求调整评估标准和输出格式。适用于希望利用 AI 优化求职流程的开发者或求职者。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "job-search",
+    "claude",
+    "automation",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "MadsLorentzen",
+  "published_at": null,
+  "collected_at": "2026-07-08T10:13:37Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412994,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504102,
+    "github_stars_today": 2514,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

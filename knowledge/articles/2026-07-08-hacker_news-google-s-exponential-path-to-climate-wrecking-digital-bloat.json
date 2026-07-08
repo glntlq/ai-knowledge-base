@@ -1,0 +1,26 @@
+{
+  "id": "38d3327a2d46305a7e6853b05a6167278a6c5d9f2b8cbaa4e829a1b730dfc577",
+  "title": "Google’s exponential path to climate-wrecking digital bloat",
+  "source_url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+  "source_type": "hacker_news",
+  "summary": "文章指出谷歌的数字服务正以指数级增长，导致巨大的能源消耗和碳排放，加剧气候变化。作者批评谷歌在追求商业扩张时，忽视了数字基础设施的环境成本，包括数据中心、网络传输和终端设备的能耗。文章呼吁科技公司承担更多责任，通过优化算法、使用清洁能源和减少不必要的数据处理来降低数字膨胀对气候的破坏。",
+  "content_markdown": null,
+  "tags": [
+    "google",
+    "climate-change",
+    "digital-bloat",
+    "energy-consumption",
+    "sustainability"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-07-01T00:00:00Z",
+  "collected_at": "2026-07-08T10:13:37Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

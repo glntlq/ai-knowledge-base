@@ -1,0 +1,302 @@
+{
+  "collected_at": "2026-07-08T10:13:37Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "title": "MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "author": "MadsLorentzen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412994,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504102,
+        "github_stars_today": 2514,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Zackriya-Solutions/meetily",
+      "title": "Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "author": "Zackriya-Solutions",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421297,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502120,
+        "github_stars_today": 1777,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "author": "addyosmani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269472684,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507868,
+        "github_stars_today": 1317,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "author": "ruvnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269478805,
+        "github_language": "Rust",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010597,
+        "github_stars_today": 1129,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "title": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "author": "asgeirtj",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269453521,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508725,
+        "github_stars_today": 1691,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TencentCloud/CubeSandbox",
+      "title": "TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "author": "TencentCloud",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948678,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150728,
+        "github_stars_today": 664,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AhmadIbrahiim/Website-downloader",
+      "title": "AhmadIbrahiim/Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "author": "AhmadIbrahiim",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944379,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501012,
+        "github_stars_today": 140,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/steipete/CodexBar",
+      "title": "steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "author": "steipete",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417186,
+        "github_language": "Swift",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501401,
+        "github_stars_today": 376,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/dotnet/skills",
+      "title": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "author": "dotnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944393,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150325,
+        "github_stars_today": 64,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "title": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "author": "iOfficeAI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410831,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150725,
+        "github_stars_today": 893,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/bradautomates/claude-video",
+      "title": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "author": "bradautomates",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945605,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150690,
+        "github_stars_today": 965,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/kyutai-labs/pocket-tts",
+      "title": "kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "author": "kyutai-labs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946463,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150664,
+        "github_stars_today": 531,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "title": "hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "author": "hesreallyhim",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449458,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504300,
+        "github_stars_today": 144,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.anthropic.com/research/global-workspace",
+      "title": "A global workspace in language models",
+      "description": "<p><a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+      "title": "Google’s exponential path to climate-wrecking digital bloat",
+      "description": "<p><a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 07 Jul 2026 02:33:16 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2604.03136",
+      "title": "Investigating idiosyncrasies in AI fiction",
+      "description": "<p><a href=\"https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 02 Jul 2026 07:02:29 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
+      "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+      "description": "<p><a href=\"https://lobste.rs/s/gwxqmh/control_plane_was_point_revisiting\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 02 Jul 2026 00:19:10 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "description": "<p><a href=\"https://lobste.rs/s/k9qw5n/matrix_orthogonalization_improves\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 01 Jul 2026 08:04:01 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+      "title": "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+      "description": "<p><a href=\"https://lobste.rs/s/d6tl13/teaching_digikam_understand_you_natural\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 01 Jul 2026 05:22:01 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+      "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+      "description": "<p><a href=\"https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update\" rel=\"ugc\">NIST article</a> covers this paper well</p> <p><a href=\"https://lobste.rs/s/7exvix/robust_ai_security_alignment_sisyphean\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 29 Jun 2026 15:56:52 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-08T10:13:37Z"
+    }
+  ]
+}
