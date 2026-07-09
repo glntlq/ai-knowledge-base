@@ -1,0 +1,35 @@
+{
+  "id": "8fb4b14072aac0b913244f8161cd5f108dd37515a81b5f731de1c46286073c78",
+  "title": "huxingyi/autoremesher",
+  "source_url": "https://github.com/huxingyi/autoremesher",
+  "source_type": "github_trending",
+  "summary": "Autoremesher 是一个自动四边形网格重划分工具，能够将任意三角网格模型高效转换为高质量的全四边形网格。它基于先进的算法自动生成规整的四边形拓扑结构，显著减少人工干预，适用于计算机图形学、三维建模、动画制作及有限元分析等领域。该工具支持多种输入格式，输出结果保持原始几何特征，同时优化网格质量，提升后续处理效率。作为开源项目，Autoremesher 提供了命令行接口和可扩展的架构，便于集成到现有工作流中。其核心优势在于自动化程度高、结果稳定，尤其适合需要大规模网格转换的场景。",
+  "content_markdown": null,
+  "tags": [
+    "quad-meshing",
+    "remeshing",
+    "3d-modeling",
+    "computer-graphics",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "huxingyi",
+  "published_at": null,
+  "collected_at": "2026-07-09T10:51:44Z",
+  "analyzed_at": "2026-07-09T10:52:27Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942181,
+    "github_language": "C++",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150163,
+    "github_stars_today": 296,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z",
+    "published_at": null
+  }
+}

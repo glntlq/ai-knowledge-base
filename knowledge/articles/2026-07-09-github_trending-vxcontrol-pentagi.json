@@ -1,0 +1,30 @@
+{
+  "id": "8753a516f81d9821a4d9dfdd2d784dc0d69e6ca81a1cbcba2f5fd041435e9c6d",
+  "title": "vxcontrol/pentagi",
+  "source_url": "https://github.com/vxcontrol/pentagi",
+  "source_type": "github_trending",
+  "summary": "Pentagi 是一个完全自主的 AI 代理系统，专为执行复杂的渗透测试任务而设计。该系统利用多个 AI 代理协同工作，能够自动发现漏洞、执行攻击向量并生成报告。Pentagi 集成了多种渗透测试工具，支持模块化扩展，适用于安全研究人员和红队成员。其核心优势在于减少人工干预，提高测试效率，同时保持对复杂攻击场景的适应性。项目基于 Python 开发，提供了命令行接口和可配置的代理策略。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "penetration-testing",
+    "security",
+    "automation",
+    "python"
+  ],
+  "language": "zh",
+  "author": "vxcontrol",
+  "published_at": null,
+  "collected_at": "2026-07-09T10:51:44Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419018,
+    "github_language": "Go",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502597,
+    "github_stars_today": 454,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "advanced"
+  }
+}

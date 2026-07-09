@@ -1,0 +1,30 @@
+{
+  "id": "32cd93c1ab796bb6cd113944098a2a1a410eb7a5a39fa1e7aea37efeab738240",
+  "title": "VoltAgent/awesome-design-md",
+  "source_url": "https://github.com/VoltAgent/awesome-design-md",
+  "source_type": "github_trending",
+  "summary": "该项目收集并分析了多个知名品牌设计系统的 DESIGN.md 文件，旨在为开发者提供可直接嵌入项目的设计规范模板。通过引入这些文件，编码代理（coding agents）能够自动生成与品牌风格匹配的用户界面。该资源库汇总了来自不同品牌的设计系统分析，帮助团队快速统一 UI 风格，提升开发效率。项目聚焦于设计系统文档的标准化与自动化应用，尤其适合需要快速实现品牌一致性的前端开发场景。",
+  "content_markdown": null,
+  "tags": [
+    "design-systems",
+    "ui-automation",
+    "brand-guidelines",
+    "frontend-development",
+    "design-tokens"
+  ],
+  "language": "zh",
+  "author": "VoltAgent",
+  "published_at": null,
+  "collected_at": "2026-07-09T10:51:44Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269498920,
+    "github_language": null,
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011526,
+    "github_stars_today": 1569,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

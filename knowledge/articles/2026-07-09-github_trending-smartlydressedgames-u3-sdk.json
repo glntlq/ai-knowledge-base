@@ -1,0 +1,31 @@
+{
+  "id": "e2588f16eb2628e393cc3f5444d3bcb7fc6d9c8c166bc882eb7b50d3be3e9546",
+  "title": "SmartlyDressedGames/U3-SDK",
+  "source_url": "https://github.com/SmartlyDressedGames/U3-SDK",
+  "source_type": "github_trending",
+  "summary": "Unturned 是一款免费的开源开放世界僵尸生存沙盒游戏，其官方 SDK（U3-SDK）托管于 GitHub 仓库 SmartlyDressedGames/U3-SDK 中。该 SDK 提供了游戏的核心源代码，允许开发者、模组制作者和社区成员深入理解游戏机制，并在此基础上进行二次开发、创建自定义内容或改进游戏功能。作为一款广受欢迎的生存游戏，Unturned 的 SDK 开放对于游戏模组生态和社区贡献具有重要意义，支持玩家和开发者探索游戏逻辑、资源管理和网络同步等底层实现。该仓库是官方维护的权威资源，适合对游戏开发、C# 编程或生存游戏机制感兴趣的中级开发者学习与参考。",
+  "content_markdown": null,
+  "tags": [
+    "unturned",
+    "game-development",
+    "sdk",
+    "open-source",
+    "csharp"
+  ],
+  "language": "zh",
+  "author": "SmartlyDressedGames",
+  "published_at": null,
+  "collected_at": "2026-07-09T10:51:44Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941707,
+    "github_language": "C#",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150223,
+    "github_stars_today": 541,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending"
+  }
+}

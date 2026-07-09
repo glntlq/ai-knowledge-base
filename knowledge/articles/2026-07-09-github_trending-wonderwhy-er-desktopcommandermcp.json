@@ -1,0 +1,30 @@
+{
+  "id": "6648575a3c544d50b116191a0e0c395c0fbaf8071e17440a81a8e4b12306c432",
+  "title": "wonderwhy-er/DesktopCommanderMCP",
+  "source_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+  "source_type": "github_trending",
+  "summary": "DesktopCommanderMCP 是一个为 Claude 设计的 MCP（Model Context Protocol）服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力。该项目通过 MCP 协议桥接 Claude 与本地操作系统，使 AI 能够直接执行 shell 命令、浏览文件系统并进行基于 diff 的精确文件修改。其核心价值在于将 Claude 从纯对话模型扩展为具备实际系统操作能力的智能代理，适用于自动化脚本执行、代码调试、系统管理等场景。实现上依赖 MCP 标准接口，确保与 Claude 的安全交互，同时提供文件差异编辑功能以降低误操作风险。该项目适合需要将 AI 集成到开发工作流中的开发者，尤其是希望利用 Claude 进行本地环境自动化管理的用户。",
+  "content_markdown": null,
+  "tags": [
+    "mcp",
+    "claude",
+    "terminal-control",
+    "file-system",
+    "ai-agent"
+  ],
+  "language": "en",
+  "author": "wonderwhy-er",
+  "published_at": null,
+  "collected_at": "2026-07-09T10:51:44Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946453,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150752,
+    "github_stars_today": 28,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

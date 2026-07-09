@@ -1,0 +1,310 @@
+{
+  "collected_at": "2026-07-09T10:51:43Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "title": "MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "author": "MadsLorentzen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416842,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505019,
+        "github_stars_today": 5079,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "title": "SmartlyDressedGames/U3-SDK",
+      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "author": "SmartlyDressedGames",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941707,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150223,
+        "github_stars_today": 541,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "author": "addyosmani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269475313,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508104,
+        "github_stars_today": 1297,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/VoltAgent/awesome-design-md",
+      "title": "VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "author": "VoltAgent",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269498920,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011526,
+        "github_stars_today": 1569,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "title": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "author": "iOfficeAI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412787,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150861,
+        "github_stars_today": 1717,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "title": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "author": "wonderwhy-er",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946453,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150752,
+        "github_stars_today": 28,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-cookbooks",
+      "title": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269446808,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505541,
+        "github_stars_today": 194,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/vxcontrol/pentagi",
+      "title": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "author": "vxcontrol",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419018,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502597,
+        "github_stars_today": 454,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/unclecode/crawl4ai",
+      "title": "unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "author": "unclecode",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269471583,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507360,
+        "github_stars_today": 195,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "author": "imthenachoman",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269428780,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501925,
+        "github_stars_today": 399,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/huxingyi/autoremesher",
+      "title": "huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "author": "huxingyi",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942181,
+        "github_language": "C++",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150163,
+        "github_stars_today": 296,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/bradautomates/claude-video",
+      "title": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "author": "bradautomates",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946372,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150742,
+        "github_stars_today": 951,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/prisma/prisma",
+      "title": "prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "author": "prisma",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269446735,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502289,
+        "github_stars_today": 46,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/kyutai-labs/pocket-tts",
+      "title": "kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "author": "kyutai-labs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946691,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150682,
+        "github_stars_today": 655,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "title": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "author": "asgeirtj",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454659,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508898,
+        "github_stars_today": 1218,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-09T10:51:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://microsoft.github.io/flint-chart/#/",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "description": "Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. Flint is a visualization intermediate language to address this issue, allow AI agents to solve this last-mile human-agent interaction problem. It provides a simple semantic-type based specification, and contains a layout optimization engine that can produce good-looking charts (filled with derived low-level details) from simple high-level specs. The result is also very human understandable and adaptable. Flint powers data formulator for generating visualizations (another open source project from microsoft https://data-formulator.ai/ ). Flint is available open source, and we built a MCP server that you can directly plug flint in your favorite agent app to play with data. Comments URL: https://news.ycombinator.com/item?id=48834924 Points: 291 # Comments: 112",
+      "author": "",
+      "published_at": "Wed, 08 Jul 2026 17:46:12 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-09T10:51:45Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "description": "<p><a href=\"https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 08 Jul 2026 11:30:29 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-09T10:51:45Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.anthropic.com/research/global-workspace",
+      "title": "A global workspace in language models",
+      "description": "<p><a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-09T10:51:45Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+      "title": "Google’s exponential path to climate-wrecking digital bloat",
+      "description": "<p><a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 07 Jul 2026 02:33:16 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-09T10:51:45Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2604.03136",
+      "title": "Investigating idiosyncrasies in AI fiction",
+      "description": "<p><a href=\"https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 02 Jul 2026 07:02:29 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-09T10:51:45Z"
+    }
+  ]
+}
