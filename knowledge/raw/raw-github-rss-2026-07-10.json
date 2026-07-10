@@ -1,0 +1,306 @@
+{
+  "collected_at": "2026-07-10T10:50:26Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "title": "SmartlyDressedGames/U3-SDK",
+      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "author": "SmartlyDressedGames",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942270,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150281,
+        "github_stars_today": 524,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "author": "addyosmani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269476421,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508205,
+        "github_stars_today": 2554,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/VoltAgent/awesome-design-md",
+      "title": "VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "author": "VoltAgent",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694100428,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011613,
+        "github_stars_today": 1391,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "title": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "author": "iOfficeAI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414019,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150952,
+        "github_stars_today": 1929,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "title": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "author": "wonderwhy-er",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946735,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150881,
+        "github_stars_today": 185,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-cookbooks",
+      "title": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269447416,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505573,
+        "github_stars_today": 194,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/vxcontrol/pentagi",
+      "title": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "author": "vxcontrol",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419727,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502643,
+        "github_stars_today": 535,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/unclecode/crawl4ai",
+      "title": "unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "author": "unclecode",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269472127,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507393,
+        "github_stars_today": 215,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "author": "imthenachoman",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429327,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501947,
+        "github_stars_today": 243,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/huxingyi/autoremesher",
+      "title": "huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "author": "huxingyi",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942500,
+        "github_language": "C++",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150182,
+        "github_stars_today": 403,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/bradautomates/claude-video",
+      "title": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "author": "bradautomates",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946970,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150784,
+        "github_stars_today": 718,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/prisma/prisma",
+      "title": "prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "author": "prisma",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269447080,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502456,
+        "github_stars_today": 376,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/kyutai-labs/pocket-tts",
+      "title": "kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "author": "kyutai-labs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947184,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150718,
+        "github_stars_today": 235,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "title": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "author": "asgeirtj",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269455581,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509172,
+        "github_stars_today": 1125,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://nevo-project.epfl.ch/",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "description": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 67 # Comments: 62",
+      "author": "",
+      "published_at": "Fri, 10 Jul 2026 07:39:11 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "description": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right. Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child's learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow. Effective teaching isn't just about answering a child's question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right. Happy to answer questions and curious what you all think, critical feedback included, we've been working on this problem for a long time and love to hear from the HN community. Comments URL: https://news.ycombinator.com/item?id=48852199 Points: 90 # Comments: 161",
+      "author": "",
+      "published_at": "Thu, 09 Jul 2026 20:51:06 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "description": "Article URL: https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/ Comments URL: https://news.ycombinator.com/item?id=48805598 Points: 81 # Comments: 100",
+      "author": "",
+      "published_at": "Mon, 06 Jul 2026 14:59:21 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/vagos/llmpl",
+      "title": "A Prolog library for interfacing with LLMs",
+      "description": "<p><a href=\"https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 09 Jul 2026 08:52:12 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "description": "<p><a href=\"https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 08 Jul 2026 11:30:29 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.anthropic.com/research/global-workspace",
+      "title": "A global workspace in language models",
+      "description": "<p><a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-10T10:50:27Z"
+    }
+  ]
+}

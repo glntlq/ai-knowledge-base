@@ -1,0 +1,26 @@
+{
+  "id": "82d84306a3052ef36cd80dabbe655da2cc35c154f34e394ecc71325f64f28093",
+  "title": "Building a real-time AI tutor for 5-year-olds",
+  "source_url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+  "source_type": "hacker_news",
+  "summary": "Ello 团队构建了一款面向 4-9 岁儿童（涵盖阅读、数学、ESL 等科目）的实时 AI 辅导系统。核心技术挑战在于：AI 需在对话速度下同时完成实时 UX 引导与复杂教学决策。为此，团队摒弃了标准工具调用循环，设计了一套定制化辅导框架：采用流式解释器即时执行动作，并引入异步规划模型在对话之外预推理，驱动学习进程。此外，还构建了不中断活动与对话流的安全检查系统。项目强调有效教学的关键并非快速回答，而是在正确时机做出正确教学动作。团队认为 AI 将深刻影响下一代读写与思维方式，因此注重设计责任。该帖子发布在 Hacker News 上，获得 90 分和 161 条评论。",
+  "content_markdown": null,
+  "tags": [
+    "ai-tutor",
+    "real-time-systems",
+    "edtech",
+    "streaming-interpreter",
+    "child-safety"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-10T10:50:27Z",
+  "analyzed_at": "2025-04-09T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

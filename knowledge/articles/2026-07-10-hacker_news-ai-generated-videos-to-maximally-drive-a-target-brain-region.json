@@ -1,0 +1,31 @@
+{
+  "id": "0f94032a37925145d2487eae6de3b2bb99402c5400c61a3c8ad031ad1e184ab4",
+  "title": "AI-generated videos to maximally drive a target brain region",
+  "source_url": "https://nevo-project.epfl.ch/",
+  "source_type": "hacker_news",
+  "summary": "瑞士洛桑联邦理工学院（EPFL）的NEVO项目开发了一种AI系统，能够生成专门针对特定脑区（如视觉皮层）的定制化视频刺激。该系统利用生成对抗网络（GAN）和神经反馈循环，通过实时分析fMRI或脑电图数据，不断优化视频内容，以最大化对目标脑区的神经激活。初步实验表明，该方法在诱导特定神经活动模式方面优于传统静态刺激或随机视频，为神经科学研究和脑机接口提供了新工具。该技术有望用于神经康复、认知增强以及精神疾病治疗，但需进一步验证其长期效果和安全性。",
+  "content_markdown": null,
+  "tags": [
+    "ai-generated-video",
+    "brain-computer-interface",
+    "neuroscience",
+    "generative-adversarial-network",
+    "neurofeedback"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Fri, 10 Jul 2026 07:39:11 +0000",
+  "collected_at": "2026-07-10T10:50:27Z",
+  "analyzed_at": "2026-07-10T10:51:18Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "source_type": "hacker_news",
+    "status": "pending",
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z",
+    "published_at": null
+  }
+}
