@@ -1,0 +1,30 @@
+{
+  "id": "c910b47464ff3c427a343c0e1f26481efbfac4ffb0e06b7e2e8806b04778f996",
+  "title": "TencentCloud/TencentDB-Agent-Memory",
+  "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+  "source_type": "github_trending",
+  "summary": "TencentDB Agent Memory 是腾讯云开源的 AI 智能体长期记忆解决方案，通过四层渐进式流水线实现完全本地化的记忆管理，无需依赖任何外部 API。该项目旨在为 AI Agent 提供持久、高效、可扩展的记忆存储与检索能力，支持从短期工作记忆到长期持久记忆的渐进式转换。其四层架构包括：原始数据层、结构化记忆层、语义索引层和推理优化层，能够有效处理大规模对话历史与上下文信息。项目完全开源，基于 Python 实现，适用于需要本地化部署的隐私敏感场景，如企业级 AI 助手、智能客服、个人助理等。通过零外部依赖设计，降低了集成复杂度与运行成本，同时保证了数据安全与低延迟响应。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "memory-management",
+    "tencent-cloud",
+    "local-ai",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "TencentCloud",
+  "published_at": null,
+  "collected_at": "2026-07-11T09:25:20Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948381,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150769,
+    "github_stars_today": 123,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

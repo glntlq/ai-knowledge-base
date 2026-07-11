@@ -1,0 +1,35 @@
+{
+  "id": "680d416406fbefe47b7d7ddda93eb63de09e98e7b37fe869811f03b3cfa32be0",
+  "title": "abseil/abseil-cpp",
+  "source_url": "https://github.com/abseil/abseil-cpp",
+  "source_type": "github_trending",
+  "summary": "Abseil 是 Google 为其 C++ 代码库开发的内部库集合，现已开源为通用 C++ 标准库的增强与补充。它提供了一系列高质量、经过生产验证的组件，涵盖字符串处理、容器、算法、同步、内存管理、时间、日志、调试等基础功能。Abseil 的设计目标是填补 C++ 标准库的空白，提供更一致、更高效的替代方案，并作为 Google 内部 C++ 代码的公共基础。其代码遵循严格的编码规范，注重性能、可移植性和安全性。该项目在 GitHub 上拥有广泛关注，是 C++ 生态中重要的基础库之一，适用于从嵌入式到大型分布式系统的多种场景。",
+  "content_markdown": null,
+  "tags": [
+    "c",
+    "google",
+    "libraries",
+    "abseil",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "abseil",
+  "published_at": null,
+  "collected_at": "2026-07-11T09:25:20Z",
+  "analyzed_at": "2026-07-11T09:25:37Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417561,
+    "github_language": "C++",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503204,
+    "github_stars_today": 89,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z",
+    "published_at": null
+  }
+}

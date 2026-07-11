@@ -1,0 +1,35 @@
+{
+  "id": "46c0bda063d60b2cde205bebd7fbb9a2839bed2d28e034e954a48269639689b6",
+  "title": "grpc/grpc",
+  "source_url": "https://github.com/grpc/grpc",
+  "source_type": "github_trending",
+  "summary": "gRPC 是一个高性能、开源、通用的远程过程调用（RPC）框架，由 Google 开发并基于 HTTP/2 协议和 Protocol Buffers（protobuf）序列化协议。该项目以 C++ 为核心实现，同时提供 Python、Ruby、Objective-C、PHP、C# 等多语言绑定，支持跨语言服务间通信。gRPC 支持双向流、流控、TLS 加密和认证等特性，广泛应用于微服务架构、分布式系统和移动端-服务端通信场景。其设计强调低延迟、高吞吐和语言无关性，已成为云原生计算基金会（CNCF）的孵化项目。仓库包含核心库、示例代码、文档和构建脚本，适合需要构建高性能跨语言 RPC 服务的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "grpc",
+    "rpc-framework",
+    "protocol-buffers",
+    "http2",
+    "microservices"
+  ],
+  "language": "zh",
+  "author": "grpc",
+  "published_at": null,
+  "collected_at": "2026-07-11T09:25:20Z",
+  "analyzed_at": "2026-07-11T09:26:24Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269445186,
+    "github_language": "C++",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011331,
+    "github_stars_today": 78,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:30:00Z",
+    "published_at": null
+  }
+}

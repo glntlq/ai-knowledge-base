@@ -1,0 +1,30 @@
+{
+  "id": "e1cf50dbb7f3e29b075d1074b4fb4b229601c2087bd011674b4ec75b21858c97",
+  "title": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates",
+  "source_type": "github_trending",
+  "summary": "davila7/claude-code-templates 是一个用于配置和监控 Claude Code 的命令行工具。该项目提供了一套模板系统，允许用户快速设置 Claude Code 的运行环境，并实时监控其状态。通过该工具，开发者可以简化 Claude Code 的部署流程，提高开发效率。项目主要面向使用 Claude Code 进行 AI 辅助编程的开发者，提供了灵活的配置选项和直观的监控界面。",
+  "content_markdown": null,
+  "tags": [
+    "cli",
+    "claude-code",
+    "configuration",
+    "monitoring",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "davila7",
+  "published_at": null,
+  "collected_at": "2026-07-11T09:25:20Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269428844,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503169,
+    "github_stars_today": 118,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

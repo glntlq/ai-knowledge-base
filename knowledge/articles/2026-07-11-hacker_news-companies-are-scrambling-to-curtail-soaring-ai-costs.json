@@ -1,0 +1,26 @@
+{
+  "id": "3e59a54f19426fa8411456b2e2f2e31237cfeb64d5c694c8ad06ae050f408305",
+  "title": "Companies are scrambling to curtail soaring AI costs",
+  "source_url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+  "source_type": "hacker_news",
+  "summary": "随着企业大规模部署AI应用，算力、模型训练与推理成本急剧攀升，成为制约技术落地的核心瓶颈。文章指出，企业正通过多种策略应对：优化模型架构（如采用更高效的Transformer变体）、利用专用硬件（如TPU、定制芯片）降低单位计算成本，以及转向边缘计算减少云端依赖。同时，开源模型与模型蒸馏技术的普及使中小企业能以更低成本获取高性能AI能力。此外，企业开始重新评估AI项目的ROI，优先选择高价值场景，并采用按需付费的云服务模式以控制支出。文章强调，成本管控能力将成为AI竞争的关键分水岭，推动行业从“规模竞赛”转向“效率优先”的新阶段。",
+  "content_markdown": null,
+  "tags": [
+    "ai-costs",
+    "model-efficiency",
+    "edge-computing",
+    "open-source-ai",
+    "cloud-computing"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-06-14T00:00:00Z",
+  "collected_at": "2026-07-11T09:25:27Z",
+  "analyzed_at": "2026-06-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

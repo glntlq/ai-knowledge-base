@@ -1,0 +1,35 @@
+{
+  "id": "82e4bfef502b606bdcaf567f0b6d614a35eba8454cc4b7abe8d837be64938713",
+  "title": "chriskohlhoff/asio",
+  "source_url": "https://github.com/chriskohlhoff/asio",
+  "source_type": "github_trending",
+  "summary": "Asio 是一个跨平台的 C++ 网络和低级 I/O 库，提供一致的异步模型。它支持 TCP、UDP、串口、定时器、信号处理等，并允许同步与异步操作。Asio 的设计强调可扩展性和性能，广泛应用于高性能服务器、实时系统及嵌入式开发。其核心概念包括 io_context、handler、strand 等，支持多线程和协程（C++20）。Asio 是 Boost 库的一部分，也可独立使用，是 C++ 网络编程的事实标准之一。",
+  "content_markdown": null,
+  "tags": [
+    "c",
+    "networking",
+    "asynchronous",
+    "cross-platform",
+    "io-library"
+  ],
+  "language": "en",
+  "author": "chriskohlhoff",
+  "published_at": null,
+  "collected_at": "2026-07-11T09:25:20Z",
+  "analyzed_at": "2026-07-11T09:26:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946101,
+    "github_language": "C++",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501509,
+    "github_stars_today": 92,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "advanced",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

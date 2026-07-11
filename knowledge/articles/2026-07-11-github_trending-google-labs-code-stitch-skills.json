@@ -1,0 +1,30 @@
+{
+  "id": "1b829ff90a063ad3cacf0024b09f0042a817cd88722158b3abd306861bcffb91",
+  "title": "google-labs-code/stitch-skills",
+  "source_url": "https://github.com/google-labs-code/stitch-skills",
+  "source_type": "github_trending",
+  "summary": "Stitch Skills 是 Google Labs 开发的一个 Agent Skills 库，专为 Stitch MCP 服务器设计。每个技能遵循 Agent Skills 开放标准，确保与 Antigravity、Gemini CLI、Claude Code、Cursor 等编码代理兼容。该库提供可复用的技能模块，用于增强 AI 代理在代码生成、调试、重构等任务中的能力，通过标准化接口降低集成复杂度。项目旨在推动 AI 代理生态的互操作性，使开发者能够轻松组合和扩展技能，提升开发效率。",
+  "content_markdown": null,
+  "tags": [
+    "agent-skills",
+    "mcp-server",
+    "google-labs",
+    "ai-agents",
+    "open-standard"
+  ],
+  "language": "zh",
+  "author": "google-labs-code",
+  "published_at": null,
+  "collected_at": "2026-07-11T09:25:20Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946871,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150939,
+    "github_stars_today": 117,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

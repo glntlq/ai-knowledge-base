@@ -1,0 +1,30 @@
+{
+  "id": "1a39a354bcb22612f20b5f7935416be1960cc7a06969b8f0f88da318bbf745bc",
+  "title": "zeux/meshoptimizer",
+  "source_url": "https://github.com/zeux/meshoptimizer",
+  "source_type": "github_trending",
+  "summary": "meshoptimizer 是一个专注于网格优化的开源库，旨在通过减少网格数据大小并提高渲染效率来加速图形处理。它提供了一系列算法，包括顶点缓存优化、顶点重排序、网格简化、LOD（细节层次）生成以及压缩等，适用于游戏开发、实时渲染和3D内容处理场景。该库支持多种输入格式，并可与现代图形API（如Vulkan、DirectX 12）无缝集成。其核心优势在于显著降低显存占用和带宽消耗，同时保持视觉质量，从而提升整体渲染性能。meshoptimizer 已被广泛应用于多个知名游戏引擎和工具链中，如Godot和Blender。",
+  "content_markdown": null,
+  "tags": [
+    "mesh-optimization",
+    "graphics",
+    "rendering",
+    "c-plus-plus",
+    "game-development"
+  ],
+  "language": "zh",
+  "author": "zeux",
+  "published_at": null,
+  "collected_at": "2026-07-11T09:25:20Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948060,
+    "github_language": "C++",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150788,
+    "github_stars_today": 91,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
