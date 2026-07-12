@@ -1,0 +1,30 @@
+{
+  "id": "e2ce216d3ffae0d177898d72d87088527fa5c0b589c5f55c48ee09f2197c5304",
+  "title": "malisper/pgrust",
+  "source_url": "https://github.com/malisper/pgrust",
+  "source_type": "github_trending",
+  "summary": "malisper/pgrust 项目使用 Rust 语言重写了 PostgreSQL 数据库，并已成功通过 100% 的 Postgres 回归测试。该项目旨在利用 Rust 的内存安全性和高性能特性，为 Postgres 提供一种更安全、更高效的替代实现。通过完全兼容现有 Postgres 的测试套件，pgrust 确保了与原始数据库的高度一致性和可靠性，为数据库系统的开发与优化提供了新的可能性。",
+  "content_markdown": null,
+  "tags": [
+    "postgresql",
+    "rust",
+    "database",
+    "rewrite",
+    "regression-test"
+  ],
+  "language": "en",
+  "author": "malisper",
+  "published_at": null,
+  "collected_at": "2026-07-12T09:48:16Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942218,
+    "github_language": "Rust",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015056,
+    "github_stars_today": 774,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

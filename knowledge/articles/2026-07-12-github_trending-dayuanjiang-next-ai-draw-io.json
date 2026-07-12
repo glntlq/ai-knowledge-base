@@ -1,0 +1,30 @@
+{
+  "id": "bb1bb712444c79ea630480ad75a5d8b3b5c7ea2d0fb2745ade81fb53140234b6",
+  "title": "DayuanJiang/next-ai-draw-io",
+  "source_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+  "source_type": "github_trending",
+  "summary": "一个基于 Next.js 的 Web 应用，将 AI 能力集成到 draw.io 图表编辑器中。用户可以通过自然语言指令创建、修改和增强图表，实现 AI 辅助的可视化设计。该项目利用大型语言模型理解用户意图，自动生成或调整流程图、架构图等，降低图表绘制门槛，提升效率。适合需要快速原型设计、文档可视化或团队协作的场景。",
+  "content_markdown": null,
+  "tags": [
+    "next-js",
+    "ai",
+    "draw-io",
+    "diagram",
+    "natural-language-processing"
+  ],
+  "language": "zh",
+  "author": "DayuanJiang",
+  "published_at": null,
+  "collected_at": "2026-07-12T09:48:16Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433401,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503614,
+    "github_stars_today": 81,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
