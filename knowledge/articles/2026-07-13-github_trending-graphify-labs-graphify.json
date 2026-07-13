@@ -1,0 +1,30 @@
+{
+  "id": "9481f3b24de07374e216ac8f175e4a142b40b62f8d29d588ca776091f596ee60",
+  "title": "Graphify-Labs/graphify",
+  "source_url": "https://github.com/Graphify-Labs/graphify",
+  "source_type": "github_trending",
+  "summary": "Graphify 是一个 AI 编码助手技能，支持 Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等多种工具。它能将任意代码文件夹、SQL 模式、R 脚本、Shell 脚本、文档、论文、图像或视频转换为可查询的知识图谱。该工具将应用代码、数据库模式和基础设施统一在一个图中，便于开发者进行跨层级的语义查询和关系分析。通过知识图谱，开发者可以快速理解项目结构、依赖关系和逻辑流程，提升编码和调试效率。Graphify 适用于大型代码库的导航、文档关联、多模态数据整合等场景，是 AI 辅助开发中的基础设施级工具。",
+  "content_markdown": null,
+  "tags": [
+    "knowledge-graph",
+    "ai-coding-assistant",
+    "code-analysis",
+    "developer-tools",
+    "graph-database"
+  ],
+  "language": "en",
+  "author": "Graphify-Labs",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:26Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269483701,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508260,
+    "github_stars_today": 1028,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

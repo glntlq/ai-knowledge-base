@@ -1,0 +1,35 @@
+{
+  "id": "b72216e43aa421ed753b32aed27277fc07dc72b19acc3d8ebae8382ced76acaf",
+  "title": "Nutlope/hallmark",
+  "source_url": "https://github.com/Nutlope/hallmark",
+  "source_type": "github_trending",
+  "summary": "Hallmark 是一个开源工具，旨在为 Claude Code、Cursor 和 Codex 等 AI 编程助手提供反“AI 垃圾”（anti-AI-slop）设计技能。它通过注入精心设计的提示和规则，帮助开发者在使用 AI 生成代码时避免低质量、冗余或不符合最佳实践的输出，从而提升代码的整洁性、可维护性和专业性。该项目由 Nutlope 开发，主要面向使用 AI 辅助编程的开发者，适用于需要精细控制 AI 输出质量的场景。Hallmark 的核心价值在于弥补当前 AI 编程工具在代码风格和设计一致性方面的不足，通过轻量级配置实现更可靠的代码生成。",
+  "content_markdown": null,
+  "tags": [
+    "ai-coding-assistant",
+    "code-quality",
+    "prompt-engineering",
+    "developer-tools",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "Nutlope",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:26Z",
+  "analyzed_at": "2026-07-13T10:57:48Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944679,
+    "github_language": "CSS",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150261,
+    "github_stars_today": 155,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:30:00Z",
+    "published_at": null
+  }
+}

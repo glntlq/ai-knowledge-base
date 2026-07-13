@@ -1,0 +1,30 @@
+{
+  "id": "d010655c0ba3d693bc29e3528bff81341c9e7edea73afb0abcf6e5bc5c31e38f",
+  "title": "coreyhaines31/marketingskills",
+  "source_url": "https://github.com/coreyhaines31/marketingskills",
+  "source_type": "github_trending",
+  "summary": "该项目提供面向Claude Code及AI代理的营销技能集合，涵盖转化率优化（CRO）、文案撰写、搜索引擎优化（SEO）、数据分析与增长工程等核心领域。旨在通过结构化知识库增强AI在数字营销场景中的自主执行能力，包括A/B测试、关键词策略、用户行为分析及自动化增长实验。项目以实用为导向，整合了现代营销方法论与AI工具链，适用于需要将营销工作流智能化的开发者与增长团队。",
+  "content_markdown": null,
+  "tags": [
+    "marketing",
+    "seo",
+    "cro",
+    "ai-agents",
+    "growth-engineering"
+  ],
+  "language": "en",
+  "author": "coreyhaines31",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:26Z",
+  "analyzed_at": "2025-04-08T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438050,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506125,
+    "github_stars_today": 260,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

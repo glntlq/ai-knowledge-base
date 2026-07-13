@@ -1,0 +1,26 @@
+{
+  "id": "7828776d13fd8f58d4c0c6551a3c3dcc9bec324885283c1288953b031d941505",
+  "title": "Ask HN: Add flag for AI-generated articles",
+  "source_url": "https://news.ycombinator.com/item?id=48886741",
+  "source_type": "hacker_news",
+  "summary": "Hacker News 用户提议增加一个专门标记 AI 生成文章的标识功能，该标识不会影响文章排名，仅作为提示供不喜欢阅读 AI 文本的用户跳过。讨论围绕两个核心问题：常规投票系统为何不足以应对 AI 内容，以及 HN 是否应因生成式 AI 时代而改变其长期成功的基本规则。该提议获得 709 分和 318 条评论，反映了社区对 AI 内容泛滥的担忧及对平台治理的思考。",
+  "content_markdown": null,
+  "tags": [
+    "ai-generated-content",
+    "hacker-news",
+    "content-moderation",
+    "flagging-system",
+    "platform-governance"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:29Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "532b8207114a074852aacfb5e122b9e79864737191feb71a9bc783fed5a1d958",
+  "title": "Dicklesworthstone/destructive_command_guard",
+  "source_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+  "source_type": "github_trending",
+  "summary": "Destructive Command Guard (dcg) 是一个用于阻止代理执行危险 git 和 shell 命令的安全工具。它通过预定义的规则集拦截如强制推送、删除分支、递归删除文件等高风险操作，防止自动化脚本或 AI 代理误用破坏性命令。dcg 支持自定义规则，可集成到 CI/CD 流水线或本地开发环境，提供轻量级防护层。该工具以 Python 实现，易于部署，适用于需要严格控制命令执行权限的场景，如多用户协作仓库或自动化运维。",
+  "content_markdown": null,
+  "tags": [
+    "security",
+    "git",
+    "command-line",
+    "python",
+    "devops"
+  ],
+  "language": "zh",
+  "author": "Dicklesworthstone",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:26Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943574,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150130,
+    "github_stars_today": 444,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

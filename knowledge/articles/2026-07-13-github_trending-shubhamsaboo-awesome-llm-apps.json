@@ -1,0 +1,35 @@
+{
+  "id": "b51f1aa4c0d5de28b40742f74127ed1273d97264b6c069a57d5794119c332c8c",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "source_type": "github_trending",
+  "summary": "该项目汇集了超过100个可实际运行的AI Agent与RAG（检索增强生成）应用示例，涵盖从基础到高级的多种场景。所有应用均提供完整代码，用户可直接克隆、定制并部署。项目旨在降低LLM应用开发门槛，为开发者提供即用型参考，加速从原型到产品的过程。内容涉及对话代理、知识库问答、工具调用、多模态交互等热门方向，适合希望快速上手LLM应用开发的工程师。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "ai-agent",
+    "rag",
+    "open-source",
+    "github-trending"
+  ],
+  "language": "zh",
+  "author": "Shubhamsaboo",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:26Z",
+  "analyzed_at": "2026-07-13T10:57:45Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694119130,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017702,
+    "github_stars_today": 408,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z",
+    "published_at": null
+  }
+}

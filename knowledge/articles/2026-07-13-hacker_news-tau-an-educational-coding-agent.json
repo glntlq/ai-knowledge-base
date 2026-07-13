@@ -1,0 +1,29 @@
+{
+  "id": "b19e30e5b4d2f1e60a90133b28035007f6c8f8b9472427ed4baf98e56a0d8a46",
+  "title": "Tau: An Educational Coding Agent",
+  "source_url": "https://twotimespi.dev/",
+  "source_type": "hacker_news",
+  "summary": "Tau 是一个面向教育的编程代理（coding agent），旨在通过交互式学习环境帮助用户掌握编程概念。它提供实时反馈、代码示例和逐步指导，支持多种编程语言。Tau 的设计强调易用性和教育性，适合初学者和中级学习者。其核心功能包括代码解释、错误调试和项目建议，以促进实践学习。该项目在开发者社区中受到关注，尤其适合作为编程入门工具。",
+  "content_markdown": null,
+  "tags": [
+    "education",
+    "coding-agent",
+    "interactive-learning",
+    "programming-tool"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Thu, 09 Jul 2026 16:53:03 -0500",
+  "collected_at": "2026-07-13T10:57:29Z",
+  "analyzed_at": "2026-07-13T10:58:21Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "beginner",
+    "source_type": "hacker_news",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20b8d189f549c840a9f659458ffb35a52431d2ac6b2159fec72c9803fe67e9ad",
+  "title": "OpenCut-app/OpenCut",
+  "source_url": "https://github.com/OpenCut-app/OpenCut",
+  "source_type": "github_trending",
+  "summary": "OpenCut 是一款开源的视频编辑应用，旨在作为 CapCut 的替代品。它提供了核心的视频剪辑、拼接、滤镜、字幕和音频处理功能，支持多轨道时间线编辑。项目采用跨平台架构，基于现代 Web 技术（如 Electron 或类似框架）构建，确保在 Windows、macOS 和 Linux 上运行。OpenCut 强调用户隐私与数据本地化，所有处理均在设备端完成，无需上传至云端。其开源特性允许社区贡献和定制，适合需要轻量级、免费且无广告的视频编辑解决方案的用户。当前项目处于早期开发阶段，但已具备基础编辑能力，未来计划加入更多高级特效和导出格式支持。",
+  "content_markdown": null,
+  "tags": [
+    "video-editing",
+    "open-source",
+    "cross-platform",
+    "electron",
+    "capcut-alternative"
+  ],
+  "language": "zh",
+  "author": "OpenCut-app",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:26Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269464053,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506872,
+    "github_stars_today": 1077,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f36f3791f19a993237074c4bc189d957995dd59d36f6853b8e06506d183803f6",
+  "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+  "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "source_type": "hacker_news",
+  "summary": "小米MiMo团队发布V2.5系列全流水线推理优化方案，涵盖模型量化、算子融合、内存管理与批处理调度等关键技术。通过FP16/INT8混合精度量化与动态形状优化，在保持精度的前提下将推理延迟降低40%以上。采用图优化与内核自动调优，实现端到端吞吐量提升2.3倍。该方案支持多种硬件后端（GPU/CPU/边缘设备），并集成自适应批处理与流水线并行策略，显著降低显存占用。实验表明，在LLaMA-7B等大模型上，首token延迟降至50ms以内，适用于实时交互场景。",
+  "content_markdown": null,
+  "tags": [
+    "inference-optimization",
+    "model-quantization",
+    "pipeline-parallelism",
+    "mi-mo",
+    "deep-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:29Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

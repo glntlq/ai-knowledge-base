@@ -1,0 +1,26 @@
+{
+  "id": "2536041f420108b5ac8fe2eb981523c2f4dbe8e20edef058ac35751f0787abfb",
+  "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+  "source_url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+  "source_type": "hacker_news",
+  "summary": "本文详细介绍了将生产环境中的AI代理从GPT-4迁移至GPT-5.6的实践经验。迁移后，推理速度提升2.2倍，成本降低27%，同时保持了输出质量。文章涵盖了迁移过程中的关键步骤，包括API适配、提示词优化、输出格式调整以及性能基准测试。作者还分享了在迁移中遇到的挑战，如模型行为差异、错误处理策略和成本监控方法。通过实际案例，展示了如何利用GPT-5.6的新特性（如更长的上下文窗口和更低的延迟）来优化生产系统。最终，文章提供了可复用的迁移清单和最佳实践，帮助其他团队平滑过渡到新模型。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "gpt-56",
+    "model-migration",
+    "production-deployment",
+    "cost-optimization"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-13T10:57:29Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
