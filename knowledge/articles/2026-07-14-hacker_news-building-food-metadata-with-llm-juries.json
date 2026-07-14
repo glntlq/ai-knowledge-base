@@ -1,0 +1,26 @@
+{
+  "id": "3db2f6247dd5f972bad383b408292f10c0e809ee4a64270b102872eb5c42f6bd",
+  "title": "Building Food Metadata with LLM Juries",
+  "source_url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了DoorDash如何利用LLM Juries（大语言模型陪审团）和上下文优化技术构建食品元数据系统。通过多模态AI（图像与文本）结合，系统自动提取菜品名称、描述、成分、营养信息等结构化元数据，提升搜索和推荐准确性。核心方法包括：使用LLM作为评审员对候选元数据进行质量评分和投票，通过上下文优化（如菜单结构、用户反馈）调整模型输出，以及多模态融合（菜品图片+文本描述）增强理解。实验表明，该方法在元数据准确率和覆盖率上显著优于传统规则和单一模型方案，同时降低了人工标注成本。该实践为电商、内容平台等领域的元数据自动化生成提供了可参考的范式。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "metadata",
+    "multimodal-ai",
+    "food-tech",
+    "context-optimization"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-14T09:55:13Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

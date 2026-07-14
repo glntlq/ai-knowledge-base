@@ -1,0 +1,294 @@
+{
+  "collected_at": "2026-07-14T09:55:11Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenCut-app/OpenCut",
+      "title": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "author": "OpenCut-app",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269468314,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507136,
+        "github_stars_today": 1229,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "title": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "author": "Dicklesworthstone",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944017,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150151,
+        "github_stars_today": 1295,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "author": "HKUDS",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422344,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503840,
+        "github_stars_today": 1153,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/moeru-ai/airi",
+      "title": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "author": "moeru-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269442215,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504238,
+        "github_stars_today": 78,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "author": "Shubhamsaboo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694120178,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017818,
+        "github_stars_today": 996,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Nutlope/hallmark",
+      "title": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "author": "Nutlope",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945610,
+        "github_language": "CSS",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150326,
+        "github_stars_today": 794,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Raphire/Win11Debloat",
+      "title": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "author": "Raphire",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269451199,
+        "github_language": "PowerShell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502105,
+        "github_stars_today": 118,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Graphify-Labs/graphify",
+      "title": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "author": "Graphify-Labs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269485455,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508431,
+        "github_stars_today": 1095,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "title": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "author": "hasaneyldrm",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413009,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501540,
+        "github_stars_today": 451,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/github/spec-kit",
+      "title": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "author": "github",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694120943,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010754,
+        "github_stars_today": 543,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/coreyhaines31/marketingskills",
+      "title": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "author": "coreyhaines31",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439025,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506231,
+        "github_stars_today": 299,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-14T09:55:12Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "title": "Building Food Metadata with LLM Juries",
+      "description": "Article URL: https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/ Comments URL: https://news.ycombinator.com/item?id=48901275 Points: 39 # Comments: 9",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 01:41:49 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+      "description": "<p><a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 11 Jul 2026 18:22:20 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+      "title": "AI Surveillance and Social Progress",
+      "description": "<p><a href=\"https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 11 Jul 2026 04:40:40 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://twotimespi.dev/",
+      "title": "Tau: An Educational Coding Agent",
+      "description": "<p><a href=\"https://lobste.rs/s/glngfn/tau_educational_coding_agent\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 09 Jul 2026 16:53:03 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/vagos/llmpl",
+      "title": "A Prolog library for interfacing with LLMs",
+      "description": "<p><a href=\"https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 09 Jul 2026 08:52:12 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "description": "<p><a href=\"https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 08 Jul 2026 11:30:29 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.anthropic.com/research/global-workspace",
+      "title": "A global workspace in language models",
+      "description": "<p><a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 07 Jul 2026 13:26:18 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+      "title": "Google’s exponential path to climate-wrecking digital bloat",
+      "description": "<p><a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 07 Jul 2026 02:33:16 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2604.03136",
+      "title": "Investigating idiosyncrasies in AI fiction",
+      "description": "<p><a href=\"https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 02 Jul 2026 07:02:29 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-14T09:55:13Z"
+    }
+  ]
+}
