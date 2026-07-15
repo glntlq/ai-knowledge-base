@@ -1,0 +1,26 @@
+{
+  "id": "d2f7065fc80d1b1e69aac62d9167de008ba33ff19acf19f586ed431a4eee9402",
+  "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+  "source_url": "https://agnost.ai",
+  "source_type": "hacker_news",
+  "summary": "Agnost AI 是一款面向聊天与语音代理团队的产品分析工具，由 Shubham 和 Parth 创立，当前处于 YC S26 批次。其核心功能是从生产环境的对话中自动提取用户行为信号，如 rageprompting（咒骂代理）、重复表述同一请求、纠正代理、询问缺失功能或对话后离开等，这些行为在传统网页分析指标（点击、漏斗）中难以捕捉。工具通过 SDK 或 OpenTelemetry 收集消息，并利用嵌入聚类、BIRCH 压缩、HDBSCAN 算法及小模型（BERT）进行意图聚类与新模式发现，仅在模糊情况下回退到 LLM，以控制成本与延迟。系统支持用户用自然语言自定义聚类，并自动拆分过宽或建议新出现的模式。已服务多家公司，日处理约 100 万条消息。定价分免费、Pro（$499/月）和企业版。具备 SOC 2 Type 1 合规，Type 2 进行中。SDK 已发布至 PyPI 和 npm。团队强调其定位在可观测性与评估之间，专注于用户需求发现而非技术监控。",
+  "content_markdown": null,
+  "tags": [
+    "product-analytics",
+    "conversation-intelligence",
+    "user-feedback",
+    "ai-agents",
+    "clustering"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-15T09:59:15Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

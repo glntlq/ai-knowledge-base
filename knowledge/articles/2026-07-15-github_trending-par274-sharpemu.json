@@ -1,0 +1,30 @@
+{
+  "id": "474c5e1c97b579d7a98fc794a2e5453ff27bed4895ee6386fab807a5848f20e7",
+  "title": "par274/sharpemu",
+  "source_url": "https://github.com/par274/sharpemu",
+  "source_type": "github_trending",
+  "summary": "SharpEmu 是一个实验性的 PlayStation 5 模拟器项目，旨在通过软件方式模拟 PS5 硬件环境，以运行其游戏或系统软件。该项目目前处于早期开发阶段，主要关注 CPU、GPU 和系统调用的基础模拟。由于 PS5 架构的复杂性和未公开的硬件细节，SharpEmu 面临巨大技术挑战，进展缓慢。项目代码基于 C++ 编写，开源在 GitHub 上，供开发者研究和贡献。当前功能有限，无法运行商业游戏，主要用于学术研究和逆向工程学习。",
+  "content_markdown": null,
+  "tags": [
+    "playstation-5",
+    "emulator",
+    "c-plus-plus",
+    "reverse-engineering",
+    "experimental"
+  ],
+  "language": "zh",
+  "author": "par274",
+  "published_at": null,
+  "collected_at": "2026-07-15T09:59:15Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942346,
+    "github_language": "C#",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150155,
+    "github_stars_today": 332,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 4,
+    "difficulty": "advanced"
+  }
+}

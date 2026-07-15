@@ -1,0 +1,30 @@
+{
+  "id": "862f71c8b0c5d3f58ce3c83e8ae97841bd3de0d14fecf65e516eb5bfc5d07222",
+  "title": "HenryNdubuaku/maths-cs-ai-compendium",
+  "source_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向AI/ML研究工程师的综合性知识库，涵盖数学、计算机科学和人工智能三大领域。数学部分包括线性代数、微积分、概率论和优化方法；计算机科学部分涉及数据结构、算法、操作系统和网络；人工智能部分则覆盖机器学习、深度学习、自然语言处理和计算机视觉等核心主题。资源以结构化笔记、代码示例和外部链接形式呈现，旨在帮助学习者系统掌握从基础理论到前沿应用的知识体系。项目持续更新，适合中高级学习者作为技术进阶的参考指南。",
+  "content_markdown": null,
+  "tags": [
+    "machine-learning",
+    "mathematics",
+    "computer-science",
+    "deep-learning",
+    "artificial-intelligence"
+  ],
+  "language": "zh",
+  "author": "HenryNdubuaku",
+  "published_at": null,
+  "collected_at": "2026-07-15T09:59:15Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945575,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150725,
+    "github_stars_today": 112,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

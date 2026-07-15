@@ -1,0 +1,26 @@
+{
+  "id": "76b44830f962fe6a6824b7c2232c45a10afe6de949a5c3685d0b0df46706a6c5",
+  "title": "Tensor is the might",
+  "source_url": "https://zserge.com/posts/tensor/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了张量（tensor）作为现代计算核心抽象的重要性，特别是在机器学习和科学计算领域。作者从数学定义出发，解释了张量是多维数组的泛化，并对比了标量、向量和矩阵的关系。文章深入分析了张量在深度学习框架（如TensorFlow、PyTorch）中的实际应用，包括自动微分、GPU加速和计算图优化。同时，作者讨论了张量在物理模拟、图形学等领域的潜力，并提出了张量编程的挑战，如内存布局、广播语义和性能调优。文章强调，理解张量是掌握现代AI技术的关键，并呼吁开发者重视这一基础概念。",
+  "content_markdown": null,
+  "tags": [
+    "tensor",
+    "machine-learning",
+    "deep-learning",
+    "scientific-computing",
+    "programming"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-15T09:59:15Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

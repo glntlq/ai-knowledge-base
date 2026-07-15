@@ -1,0 +1,26 @@
+{
+  "id": "646b7c0a5bcd65b2352cd12d4312a11bf17fba4d7ffc1b6b2fe54ea885d80933",
+  "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+  "source_url": "https://github.com/juggler-ai/juggler",
+  "source_type": "hacker_news",
+  "summary": "Juggler 是一个开源 GUI 编码代理，由 JUCE 框架创建者开发。它采用 Yjs CRDT 树结构管理会话，支持递归子线程、回溯、编辑、撤销/重做及工具调用、审批、原始上下文 JSON 的全面检查。UI 基于 Finder 风格 Miller 列，避免长滚动。本地 Web 服务器支持多客户端 P2P 连接（桌面应用、浏览器、手机），可远程查看。几乎所有组件均为 JavaScript 插件，包括上下文项、LLM 循环策略、斜杠命令及 UI，支持检查、分支或替换。后端使用 Go，窗口管理采用 Wails（非 Electron），前端为严格类型检查的 JSDoc JavaScript，文档基于 Yjs。支持 Claude、OpenAI/Codex、Gemini、Ollama、OpenRouter、DeepSeek 等模型。应用采用 AGPLv3 许可，扩展 SDK 和捆绑扩展为 Apache-2.0。无需注册或遥测，处于 beta 阶段。",
+  "content_markdown": null,
+  "tags": [
+    "ai-code-agent",
+    "gui",
+    "crdt",
+    "open-source",
+    "plugin-architecture"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-15T09:59:15Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "6b5660b9f3348443bac0f2d621ada3f9b960a51540b4eac3d8d2be7a0606e08d",
+  "title": "AIEraDev/Clypra",
+  "source_url": "https://github.com/AIEraDev/Clypra",
+  "source_type": "github_trending",
+  "summary": "Clypra 是一款基于 Tauri、React 和 TypeScript 构建的现代视频编辑器，旨在免费提供类似 CapCut 的高级功能。项目利用 Tauri 的跨平台桌面能力与 Web 技术栈，实现高性能的视频编辑体验。核心特性包括时间线编辑、多轨道支持、特效与滤镜、关键帧动画、导出预设等。通过 Rust 后端处理视频编解码与渲染，前端 React 负责交互界面，TypeScript 保证类型安全。项目处于活跃开发阶段，目标是成为开源社区中功能完备且免费的替代方案。",
+  "content_markdown": null,
+  "tags": [
+    "video-editor",
+    "tauri",
+    "react",
+    "typescript",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "AIEraDev",
+  "published_at": null,
+  "collected_at": "2026-07-15T09:59:15Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942800,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150283,
+    "github_stars_today": 85,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

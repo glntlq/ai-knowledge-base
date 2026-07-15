@@ -1,0 +1,30 @@
+{
+  "id": "91bef24f26d6cd81d4936a36d38e2dc87f61d21cbadfe3488803fc442e839ca0",
+  "title": "chenyme/grok2api",
+  "source_url": "https://github.com/chenyme/grok2api",
+  "source_type": "github_trending",
+  "summary": "chenyme/grok2api 是一个面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关项目。它通过统一接口管理多个 Grok 账号，提供负载均衡、请求转发和令牌管理功能，旨在简化 Grok 系列服务的 API 调用流程。项目支持多账号轮询，提升可用性和并发能力，适用于需要高频调用 Grok 服务的开发者和企业场景。代码开源，易于部署和定制，降低了 Grok API 的使用门槛。",
+  "content_markdown": null,
+  "tags": [
+    "api-gateway",
+    "grok",
+    "load-balancing",
+    "multi-account",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "chenyme",
+  "published_at": null,
+  "collected_at": "2026-07-15T09:59:15Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945987,
+    "github_language": "Go",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501941,
+    "github_stars_today": 186,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

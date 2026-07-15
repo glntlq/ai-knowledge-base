@@ -1,0 +1,306 @@
+{
+  "collected_at": "2026-07-15T09:59:12Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "author": "Shubhamsaboo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694121445,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017942,
+        "github_stars_today": 1106,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694171314,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014721,
+        "github_stars_today": 1679,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenCut-app/OpenCut",
+      "title": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "author": "OpenCut-app",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269469774,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507241,
+        "github_stars_today": 4276,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/virattt/ai-hedge-fund",
+      "title": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "author": "virattt",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269462068,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010929,
+        "github_stars_today": 109,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Nutlope/hallmark",
+      "title": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "author": "Nutlope",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946537,
+        "github_language": "CSS",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150363,
+        "github_stars_today": 1015,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "author": "HKUDS",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423259,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503985,
+        "github_stars_today": 1256,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Raphire/Win11Debloat",
+      "title": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "author": "Raphire",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269452078,
+        "github_language": "PowerShell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502145,
+        "github_stars_today": 783,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "title": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "author": "hasaneyldrm",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413947,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501666,
+        "github_stars_today": 851,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/penpot/penpot",
+      "title": "penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "author": "penpot",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269456379,
+        "github_language": "Clojure",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503698,
+        "github_stars_today": 395,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AIEraDev/Clypra",
+      "title": "AIEraDev/Clypra",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "author": "AIEraDev",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942800,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150283,
+        "github_stars_today": 85,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/par274/sharpemu",
+      "title": "par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "author": "par274",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942346,
+        "github_language": "C#",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150155,
+        "github_stars_today": 332,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/chenyme/grok2api",
+      "title": "chenyme/grok2api",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "author": "chenyme",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945987,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501941,
+        "github_stars_today": 186,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Graphify-Labs/graphify",
+      "title": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "author": "Graphify-Labs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269487092,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508557,
+        "github_stars_today": 1851,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "title": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "author": "HenryNdubuaku",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945575,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150725,
+        "github_stars_today": 112,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://agnost.ai",
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "description": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI ( https://agnost.ai ), product analytics for teams building chat and voice agents. We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful. We have an interactive demo with no signup here: https://app.agnost.ai?demo=true Here's a demo video: https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa The core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted. We got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building. We are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist. Teams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it. One AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature. Doing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections. For finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases. We’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm. We’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism. Comments URL: https://news.ycombinator.com/item?id=48908950 Points: 77 # Comments: 40",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 16:06:18 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/juggler-ai/juggler",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "description": "Hello HN, I don't post on here much, but wanted to get some eyes on a new project I'm just launching. I think we definitely need one more AI code agent.. I'm a long-term C++ dev, and over 30+ years I've created some successful audio dev tools (JUCE, the Tracktion DAW, the Cmajor DSP language). All of these came from me getting annoyed with something I had to use, and deciding to have a go at my own take on whatever it was. So Juggler is my attempt at an AI code agent, after spending too many hours loving what the models could do, but hating the CLI experience, and having some opinions of what a better UX might be for this stuff. Lots more blurb on the website and github, but a quick tech dump which might grab your attention if you're into these things: A session is a document, not a log file. Each conversation is a Yjs CRDT tree. It can branch into sub-threads (recursively), and you can drill down, backtrack, edit, undo/redo, and inspect everything: tool calls, approvals, and the raw context JSON going to the model, etc. The UI is based around Finder-style Miller columns rather than a big doom-scroll, and is quick to navigate. Because it's a CRDT behind a local web server, multiple clients can attach P2P to a live session: the native desktop app, a browser tab, or your phone. Run the headless server on the box where the code lives, view it from wherever. Almost everything is a JavaScript plugin: every item in the context (read/write/bash/etc.), the LLM loop strategies, slash commands, and their UIs. You can inspect, fork, or replace any of them. I don't do much agent customisation myself, but lots of people do, and I'd love to see what they think of with this plugin API. Go backend, Wails for windowing (no Electron), plain type-checked JS (strict JSDoc), Yjs for the documents. Usual BYOK provider support: Claude (CLI or API), OpenAI/Codex, Gemini, Ollama, OpenRouter, DeepSeek, etc. The app's AGPLv3; the extension SDK and bundled extensions are Apache-2.0, so extensions have no copyleft strings attached. No signup, no telemetry, trying to make it frictionless for people to try it out.. It's very much a beta, and is a one-man side project. It hasn't yet had a proper kicking from the real world, but I'm confident some people with similar preferences to my own will like it! https://juggler.studio Comments URL: https://news.ycombinator.com/item?id=48883305 Points: 238 # Comments: 105",
+      "author": "",
+      "published_at": "Sun, 12 Jul 2026 18:28:15 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://ayush.digital/blog/the-memory-heist",
+      "title": "The Memory Heist",
+      "description": "<p><a href=\"https://lobste.rs/s/lelroo/memory_heist\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 19:11:45 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+      "title": "Verifiable AI inference",
+      "description": "<p><a href=\"https://lobste.rs/s/xkk9ja/verifiable_ai_inference\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 13:31:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://zserge.com/posts/tensor/",
+      "title": "Tensor is the might",
+      "description": "<p><a href=\"https://lobste.rs/s/uhzuf7/tensor_is_might\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 07:56:11 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+      "description": "<p><a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 11 Jul 2026 18:22:20 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-15T09:59:15Z"
+    }
+  ]
+}

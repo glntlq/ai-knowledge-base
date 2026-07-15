@@ -1,0 +1,26 @@
+{
+  "id": "69c1b1d06aaf903697b8000ee960687e4cf815906fa5d8fd117cd0735b6b710f",
+  "title": "Verifiable AI inference",
+  "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了可验证AI推理的概念，即通过密码学方法（如零知识证明、可信执行环境）确保AI模型推理过程的正确性和完整性，防止模型被篡改或输出被伪造。文章指出，随着AI在金融、医疗等关键领域的应用，可验证推理成为建立信任的必要技术。作者分析了现有方案（如zk-SNARKs、TEE）的优缺点，并讨论了其在实际部署中的性能开销和隐私权衡。文章还提及了相关开源项目和标准化进展，认为可验证AI推理是未来AI基础设施的关键组成部分。",
+  "content_markdown": null,
+  "tags": [
+    "verifiable-ai",
+    "zero-knowledge-proofs",
+    "trusted-execution-environment",
+    "ai-inference",
+    "cryptography"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-07-14T00:00:00Z",
+  "collected_at": "2026-07-15T09:59:15Z",
+  "analyzed_at": "2026-07-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
