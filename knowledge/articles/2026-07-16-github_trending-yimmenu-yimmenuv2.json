@@ -1,0 +1,35 @@
+{
+  "id": "5d723b84f8650aedb101e9091908b5ae7f6d34e3b42ce738cefbd543e0e5d865",
+  "title": "YimMenu/YimMenuV2",
+  "source_url": "https://github.com/YimMenu/YimMenuV2",
+  "source_type": "github_trending",
+  "summary": "YimMenuV2 是一个面向《侠盗猎车手5》（GTA 5）增强版（Enhanced）的实验性菜单工具，由 YimMenu 团队开发。该项目托管于 GitHub，旨在为游戏提供自定义功能扩展，可能涉及脚本注入、界面修改或辅助功能。作为实验性项目，其稳定性和兼容性可能有限，主要面向对游戏模组开发感兴趣的进阶用户。该工具基于 GTA 5 的增强版本，可能利用了游戏引擎的特定接口或漏洞。由于涉及游戏修改，使用需遵守相关法律法规及游戏服务条款。项目代码开源，便于社区审查和贡献，但未提供详细文档或使用说明。",
+  "content_markdown": null,
+  "tags": [
+    "gta-5",
+    "game-modding",
+    "experimental",
+    "menu-tool",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "YimMenu",
+  "published_at": null,
+  "collected_at": "2026-07-16T10:05:27Z",
+  "analyzed_at": "2026-07-16T10:06:08Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941475,
+    "github_language": "C++",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150356,
+    "github_stars_today": 38,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "advanced",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:05:00Z",
+    "published_at": null
+  }
+}

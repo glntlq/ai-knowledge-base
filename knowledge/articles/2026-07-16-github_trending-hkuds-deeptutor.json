@@ -1,0 +1,35 @@
+{
+  "id": "5f098c9ba399e9b2bfc9e02815fa4e5bb62bd7f3c7d5fa58678f7c13028eb787",
+  "title": "HKUDS/DeepTutor",
+  "source_url": "https://github.com/HKUDS/DeepTutor",
+  "source_type": "github_trending",
+  "summary": "DeepTutor 是一个由香港大学数据科学实验室（HKUDS）开发的开源项目，专注于实现终身个性化辅导。该项目利用深度学习技术，构建自适应学习系统，能够根据学习者的知识状态、学习风格和进度动态调整教学策略。其核心功能包括知识追踪、习题推荐、学习路径规划和实时反馈，旨在提供类似一对一导师的个性化学习体验。DeepTutor 支持多种教育场景，如在线课程、考试备考和技能培训，并提供了易于集成的 API 和可视化界面。该项目基于 Python 和 PyTorch 实现，代码开源在 GitHub 上，适合教育技术研究人员和开发者进行二次开发或实验。",
+  "content_markdown": null,
+  "tags": [
+    "deep-learning",
+    "personalized-learning",
+    "knowledge-tracing",
+    "education-technology",
+    "recommender-system"
+  ],
+  "language": "zh",
+  "author": "HKUDS",
+  "published_at": null,
+  "collected_at": "2026-07-16T10:05:27Z",
+  "analyzed_at": "2026-07-16T10:05:57Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426600,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503592,
+    "github_stars_today": 172,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-01T00:00:00Z",
+    "analyzed_at": "2025-04-01T01:00:00Z",
+    "published_at": null
+  }
+}

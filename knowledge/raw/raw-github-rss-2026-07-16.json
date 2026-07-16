@@ -1,0 +1,302 @@
+{
+  "collected_at": "2026-07-16T10:05:26Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenCut-app/OpenCut",
+      "title": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "author": "OpenCut-app",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269473281,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507436,
+        "github_stars_today": 1664,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Nutlope/hallmark",
+      "title": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "author": "Nutlope",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949941,
+        "github_language": "CSS",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150498,
+        "github_stars_today": 1277,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694173310,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014871,
+        "github_stars_today": 2130,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/moeru-ai/airi",
+      "title": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "author": "moeru-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269442722,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504269,
+        "github_stars_today": 110,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "title": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "author": "Dicklesworthstone",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944947,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150185,
+        "github_stars_today": 471,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/Vibe-Trading",
+      "title": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "author": "HKUDS",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424082,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504084,
+        "github_stars_today": 915,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openinterpreter/openinterpreter",
+      "title": "openinterpreter/openinterpreter",
+      "description": "A coding agent for low-cost models",
+      "author": "openinterpreter",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269465738,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505665,
+        "github_stars_today": 299,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/DeepTutor",
+      "title": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "author": "HKUDS",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426600,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503592,
+        "github_stars_today": 172,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "title": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "author": "HenryNdubuaku",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946160,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150766,
+        "github_stars_today": 725,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "author": "Shubhamsaboo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694122332,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015018042,
+        "github_stars_today": 1236,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/coreyhaines31/marketingskills",
+      "title": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "author": "coreyhaines31",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269440058,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506335,
+        "github_stars_today": 340,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/YimMenu/YimMenuV2",
+      "title": "YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "author": "YimMenu",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941475,
+        "github_language": "C++",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150356,
+        "github_stars_today": 38,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "title": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "author": "hasaneyldrm",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414664,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501759,
+        "github_stars_today": 949,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-16T10:05:27Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "title": "LLM Networking with MikroTik",
+      "description": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 88 # Comments: 40",
+      "author": "",
+      "published_at": "Wed, 15 Jul 2026 22:23:27 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-16T10:05:34Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "description": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 200 # Comments: 71",
+      "author": "",
+      "published_at": "Wed, 15 Jul 2026 21:16:36 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-16T10:05:34Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "title": "AI Data Centers and the Concentration of Wealth",
+      "description": "<p><a href=\"https://lobste.rs/s/iow7ts/ai_data_centers_concentration_wealth\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 15 Jul 2026 16:06:48 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-16T10:05:35Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+      "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+      "description": "<p>The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\". It is Open Access so the link to the PDF is <a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262052504.pdf\" rel=\"ugc\">here</a></p> <p>The book has a companion <a href=\"findingeliza.org\" rel=\"ugc\">site</a> - I was monitoring this since I first heard the <a href=\"https://corecursive.com/eliza-with-jeff-shrager/\" rel=\"ugc\">episode</a> on CoRecursive.</p> <p><a href=\"https://lobste.rs/s/hquwey/inventing_eliza_how_first_chatbot_shaped\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 15 Jul 2026 09:12:05 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-16T10:05:35Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+      "title": "Verifiable AI inference",
+      "description": "<p><a href=\"https://lobste.rs/s/xkk9ja/verifiable_ai_inference\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 13:31:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-16T10:05:35Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://zserge.com/posts/tensor/",
+      "title": "Tensor is the might",
+      "description": "<p><a href=\"https://lobste.rs/s/uhzuf7/tensor_is_might\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 07:56:11 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-16T10:05:35Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+      "description": "<p><a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 11 Jul 2026 18:22:20 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-16T10:05:35Z"
+    }
+  ]
+}

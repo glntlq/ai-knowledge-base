@@ -1,0 +1,26 @@
+{
+  "id": "68f11ef4cac898a187c597aa0ee1a304c34922a1cb62033b6acaf256aec0c78d",
+  "title": "LLM Networking with MikroTik",
+  "source_url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+  "source_type": "hacker_news",
+  "summary": "本文介绍如何利用MikroTik路由器构建大语言模型（LLM）专用网络，以解决LLM推理服务的高带宽、低延迟需求。作者通过配置MikroTik的VLAN、QoS策略和防火墙规则，为LLM流量创建独立网络路径，避免与常规业务流量争用资源。文章详细说明了使用RouterOS的简单队列（Simple Queue）和HTB（Hierarchical Token Bucket）进行带宽保障，以及通过BGP动态路由实现多路径冗余。此外，还涉及使用MikroTik的API和脚本自动化LLM网络配置，提升运维效率。该方案适用于数据中心或边缘场景中部署LLM推理集群，可显著降低推理延迟并提高吞吐量。",
+  "content_markdown": null,
+  "tags": [
+    "mikrotik",
+    "llm",
+    "networking",
+    "routeros",
+    "qos"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-07-14T00:00:00Z",
+  "collected_at": "2026-07-16T10:05:34Z",
+  "analyzed_at": "2026-07-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
