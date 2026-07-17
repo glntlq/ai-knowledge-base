@@ -1,0 +1,30 @@
+{
+  "id": "b0fdce3d72e28860c7d5c6ff87e5856fbaa7ea66a28ec7c74fc469e11476e6ab",
+  "title": "PostHog/posthog",
+  "source_url": "https://github.com/PostHog/posthog",
+  "source_type": "github_trending",
+  "summary": "PostHog 是一个领先的开源产品分析平台，旨在帮助团队构建自主驱动的产品。它提供了一套全面的开发者工具，包括 AI 可观测性、用户行为分析、会话回放、功能标志、A/B 实验、错误跟踪和日志管理。这些工具能够捕获 AI 代理所需的所有上下文，以诊断问题、发现机会并快速修复。用户可以通过 Slack、Web、桌面应用或 MCP 协议统一管理所有功能。PostHog 强调自托管和隐私优先，适用于需要深度产品洞察和自动化决策的团队。",
+  "content_markdown": null,
+  "tags": [
+    "product-analytics",
+    "open-source",
+    "ai-observability",
+    "session-replay",
+    "feature-flags"
+  ],
+  "language": "zh",
+  "author": "PostHog",
+  "published_at": null,
+  "collected_at": "2026-07-17T09:53:52Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436010,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503001,
+    "github_stars_today": 77,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

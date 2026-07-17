@@ -1,0 +1,30 @@
+{
+  "id": "20320af4e8ee93302b9308a603b4f33efe2c08948b77448cc6da3da17a89791c",
+  "title": "ibelick/ui-skills",
+  "source_url": "https://github.com/ibelick/ui-skills",
+  "source_type": "github_trending",
+  "summary": "ibelick/ui-skills 是一个面向设计工程师的 GitHub 仓库，专注于提升 UI 开发技能。该项目提供了一系列实用技巧、最佳实践和代码示例，涵盖现代前端技术栈（如 React、CSS 动画、响应式设计等），帮助设计工程师在构建用户界面时更高效地实现设计意图。仓库内容强调设计思维与工程实现的结合，适合希望深化前端能力的设计师或工程师。",
+  "content_markdown": null,
+  "tags": [
+    "ui-development",
+    "design-engineering",
+    "react",
+    "css-animation",
+    "frontend"
+  ],
+  "language": "zh",
+  "author": "ibelick",
+  "published_at": null,
+  "collected_at": "2026-07-17T09:53:52Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944552,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150189,
+    "github_stars_today": 178,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

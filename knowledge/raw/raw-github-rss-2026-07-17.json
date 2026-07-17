@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-07-17T09:53:51Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/apache/ossie",
+      "title": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "author": "apache",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941100,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150142,
+        "github_stars_today": 60,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Nutlope/hallmark",
+      "title": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "author": "Nutlope",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411517,
+        "github_language": "CSS",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150570,
+        "github_stars_today": 3372,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenCut-app/OpenCut",
+      "title": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "author": "OpenCut-app",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269474488,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507519,
+        "github_stars_today": 3537,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/PostHog/posthog",
+      "title": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "author": "PostHog",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436010,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503001,
+        "github_stars_today": 77,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openinterpreter/openinterpreter",
+      "title": "openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "author": "openinterpreter",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269466179,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505684,
+        "github_stars_today": 661,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "title": "PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "author": "PrismML-Eng",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941632,
+        "github_language": "Shell",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150158,
+        "github_stars_today": 196,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "title": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "author": "hasaneyldrm",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269415285,
+        "github_language": "HTML",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501842,
+        "github_stars_today": 710,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "author": "Shubhamsaboo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694123324,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015018175,
+        "github_stars_today": 923,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/lobehub/lobehub",
+      "title": "lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "author": "lobehub",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269480379,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015626,
+        "github_stars_today": 71,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/YimMenu/YimMenuV2",
+      "title": "YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "author": "YimMenu",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941537,
+        "github_language": "C++",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150363,
+        "github_stars_today": 128,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/HKUDS/DeepTutor",
+      "title": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+      "author": "HKUDS",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427137,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503630,
+        "github_stars_today": 656,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694175020,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015015004,
+        "github_stars_today": 2060,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/github/copilot-sdk",
+      "title": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "author": "github",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949737,
+        "github_language": "Java",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501322,
+        "github_stars_today": 13,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ibelick/ui-skills",
+      "title": "ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "author": "ibelick",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944552,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150189,
+        "github_stars_today": 178,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Graphify-Labs/graphify",
+      "title": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "author": "Graphify-Labs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269489634,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508744,
+        "github_stars_today": 1107,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "author": "codecrafters-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694526735,
+        "github_language": "Markdown",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015049846,
+        "github_stars_today": 435,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ossu/computer-science",
+      "title": "ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
+      "author": "ossu",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694206785,
+        "github_language": "HTML",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015025637,
+        "github_stars_today": 107,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-17T09:53:52Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "title": "UIUC AI Teaching Assistant",
+      "description": "Article URL: https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc Comments URL: https://news.ycombinator.com/item?id=48942721 Points: 17 # Comments: 0",
+      "author": "",
+      "published_at": "Fri, 17 Jul 2026 02:23:18 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-17T09:54:01Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "description": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 251 # Comments: 88",
+      "author": "",
+      "published_at": "Thu, 16 Jul 2026 20:18:15 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-17T09:54:01Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "description": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 272 # Comments: 370",
+      "author": "",
+      "published_at": "Thu, 16 Jul 2026 20:03:23 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-17T09:54:01Z"
+    }
+  ]
+}

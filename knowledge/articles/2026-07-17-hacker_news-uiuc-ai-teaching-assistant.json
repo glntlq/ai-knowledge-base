@@ -1,0 +1,30 @@
+{
+  "id": "71b98c094506633e13bc56bf5ff604a3b0dd09f515da50be7671a945bd448223",
+  "title": "UIUC AI Teaching Assistant",
+  "source_url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+  "source_type": "hacker_news",
+  "summary": "UIUC AI Teaching Assistant 是伊利诺伊大学厄巴纳-香槟分校（UIUC）AI创新中心开发的开源AI教学助手项目。该项目旨在利用大型语言模型（LLM）为课程提供智能问答、作业辅导和教学支持，以减轻教师负担并提升学生学习体验。系统支持课程内容定制、多轮对话、知识库检索等功能，并提供了易于集成的API接口。该项目在Hacker News上获得关注，体现了教育领域对AI辅助教学工具的需求。其开源特性允许教育机构自由部署和定制，有望推动AI在高等教育中的实际应用。",
+  "content_markdown": null,
+  "tags": [
+    "ai-education",
+    "teaching-assistant",
+    "llm",
+    "open-source",
+    "hacker-news"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Fri, 17 Jul 2026 02:23:18 +0000",
+  "collected_at": "2026-07-17T09:54:01Z",
+  "analyzed_at": "2026-07-17T09:55:06Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "published_at": null,
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z"
+  }
+}

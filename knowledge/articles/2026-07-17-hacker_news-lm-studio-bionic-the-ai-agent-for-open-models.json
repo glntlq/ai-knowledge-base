@@ -1,0 +1,26 @@
+{
+  "id": "b3774e606c33b053b099e8448147efdd7aee047df10d5d25d2bc21436748929e",
+  "title": "LM Studio Bionic: the AI agent for open models",
+  "source_url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+  "source_type": "hacker_news",
+  "summary": "LM Studio 推出 Bionic 功能，旨在为开源模型提供 AI 代理能力。该功能允许用户通过自然语言与本地运行的开源模型交互，执行代码生成、文件操作、网络搜索等复杂任务。Bionic 基于代理框架，支持工具调用和任务规划，显著提升了开源模型的实用性和自动化水平。文章介绍了 Bionic 的设计理念、技术实现（如函数调用、上下文管理）以及使用场景，强调其隐私保护（本地运行）和低成本优势。LM Studio Bionic 的发布标志着开源模型从单纯对话向自主代理的演进，为开发者提供了构建智能工作流的灵活工具。",
+  "content_markdown": null,
+  "tags": [
+    "lm-studio",
+    "ai-agent",
+    "open-source-models",
+    "tool-calling",
+    "local-ai"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-17T09:54:01Z",
+  "analyzed_at": "2025-04-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
