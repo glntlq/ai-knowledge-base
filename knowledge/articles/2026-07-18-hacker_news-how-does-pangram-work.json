@@ -1,0 +1,25 @@
+{
+  "id": "8467b8cdb6dd30a544dc86cb9bf97eaca36d930903b595462652a8b74960d44d",
+  "title": "How does Pangram work?",
+  "source_url": "https://pangram.substack.com/p/how-does-pangram-work",
+  "source_type": "hacker_news",
+  "summary": "Pangram 是一个基于 Substack 的博客，本文解释了其工作原理。Pangram 可能是一个专注于技术或编程的博客，通过订阅模式提供内容。文章可能讨论了如何利用 Substack 平台发布文章、管理订阅者以及通过评论功能与读者互动。由于描述中提到了 Lobste.rs 的评论链接，表明该内容在技术社区中引发了讨论。整体上，Pangram 通过简洁的发布流程和社区互动机制运作，适合技术爱好者订阅和参与。",
+  "content_markdown": null,
+  "tags": [
+    "substack",
+    "blogging",
+    "community",
+    "technology"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-18T09:21:43Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 6,
+    "difficulty": "beginner"
+  }
+}

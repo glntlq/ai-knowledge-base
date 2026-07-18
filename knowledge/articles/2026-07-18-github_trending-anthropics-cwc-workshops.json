@@ -1,0 +1,30 @@
+{
+  "id": "22f8e69b9dc70da261e6cd2eaea7aefa690978c5e47713aa5bad3fa983c6835b",
+  "title": "anthropics/cwc-workshops",
+  "source_url": "https://github.com/anthropics/cwc-workshops",
+  "source_type": "github_trending",
+  "summary": "Anthropics 发布的 CWC 工作坊（cwc-workshops）是一个专注于构建基于 Claude 的上下文感知 AI 助手的开源项目。该项目提供了一系列动手实践的工作坊材料，旨在帮助开发者学习如何利用 Anthropic 的 Claude API 开发具备上下文理解能力的智能应用。内容涵盖从基础 API 调用到高级上下文管理、工具使用和对话设计等主题，适合希望深入掌握 Claude 模型集成与应用的开发者。通过逐步教程和示例代码，开发者可以快速上手并构建实用的 AI 助手。",
+  "content_markdown": null,
+  "tags": [
+    "anthropic",
+    "claude",
+    "ai-assistant",
+    "workshop",
+    "context-aware"
+  ],
+  "language": "zh",
+  "author": "anthropics",
+  "published_at": null,
+  "collected_at": "2026-07-18T09:21:42Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941665,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150491,
+    "github_stars_today": 45,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

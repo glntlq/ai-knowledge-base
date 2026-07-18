@@ -1,0 +1,30 @@
+{
+  "id": "56c1444a8c6d1d88259cd316623606873d1554b805f22efb417b86d822907b82",
+  "title": "tirth8205/code-review-graph",
+  "source_url": "https://github.com/tirth8205/code-review-graph",
+  "source_type": "github_trending",
+  "summary": "code-review-graph 是一个本地优先的代码智能图工具，专为 MCP（模型上下文协议）和 CLI 设计。它通过构建代码库的持久化映射，使 AI 编码工具仅读取相关上下文，从而在代码审查和大型仓库工作流中实现基准测试的上下文缩减。该项目旨在解决 AI 工具在处理大型代码库时因上下文过大导致的效率问题，通过图结构优化上下文选择，提升代码审查和开发流程的性能。",
+  "content_markdown": null,
+  "tags": [
+    "code-intelligence",
+    "mcp",
+    "cli",
+    "code-review",
+    "graph"
+  ],
+  "language": "en",
+  "author": "tirth8205",
+  "published_at": null,
+  "collected_at": "2026-07-18T09:21:42Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419908,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502113,
+    "github_stars_today": 74,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
