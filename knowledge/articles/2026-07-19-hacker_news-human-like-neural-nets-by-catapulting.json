@@ -1,0 +1,26 @@
+{
+  "id": "98b566ce368dd8bb2ced2fd808b6797499fd7d3013647a5b91adbd807adf6847",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source_url": "https://gwern.net/llm-catapult",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了一种名为“弹射”（catapulting）的神经网络训练技术，旨在使模型行为更接近人类。该技术通过动态调整模型参数或输入，模拟人类认知中的跳跃式思维或灵感闪现，从而提升模型在复杂推理和创造性任务上的表现。文章基于对现有大语言模型（LLM）局限性的分析，提出弹射机制可能通过引入非连续更新或噪声扰动，打破局部最优，增强泛化能力。实验表明，该方法在特定基准测试中能改善模型对长尾问题的处理，并减少幻觉。然而，其计算开销和稳定性仍需进一步验证。该研究为神经符号系统与类人推理的融合提供了新思路。",
+  "content_markdown": null,
+  "tags": [
+    "neural-networks",
+    "large-language-models",
+    "reasoning",
+    "generalization",
+    "machine-learning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-19T09:49:10Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "advanced"
+  }
+}

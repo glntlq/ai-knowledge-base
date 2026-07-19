@@ -1,0 +1,30 @@
+{
+  "id": "0b97a1b8d050f07836d90acd2aad2e5773e014e75a129155fdd45e8923acd251",
+  "title": "KnockOutEZ/wigolo",
+  "source_url": "https://github.com/KnockOutEZ/wigolo",
+  "source_type": "github_trending",
+  "summary": "Wigolo 是一个面向 AI 编码代理的本地优先搜索、抓取、爬取和研究工具，基于 MCP（模型上下文协议）构建。它无需 API 密钥、无需云服务，每次查询成本为零，目前处于公开测试阶段。该项目旨在为 AI 代理提供自主、私密且经济的网络信息获取能力，支持本地执行搜索、网页内容获取、站点爬取及深度研究等操作，所有处理均在用户本地完成，不依赖外部付费 API 或云端服务。Wigolo 的设计强调数据隐私和零成本运行，适合需要集成网络信息检索功能的 AI 代理开发者使用。",
+  "content_markdown": null,
+  "tags": [
+    "mcp",
+    "ai-agent",
+    "web-scraping",
+    "local-first",
+    "search"
+  ],
+  "language": "en",
+  "author": "KnockOutEZ",
+  "published_at": null,
+  "collected_at": "2026-07-19T09:49:09Z",
+  "analyzed_at": "2025-04-14T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941461,
+    "github_language": "TypeScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015093,
+    "github_stars_today": 203,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

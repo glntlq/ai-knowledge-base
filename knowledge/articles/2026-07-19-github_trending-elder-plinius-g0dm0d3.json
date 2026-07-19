@@ -1,0 +1,34 @@
+{
+  "id": "183532ab2dc4d83e9f8d94e86ee13271b95077031bc0268113940b7ed307dc20",
+  "title": "elder-plinius/G0DM0D3",
+  "source_url": "https://github.com/elder-plinius/G0DM0D3",
+  "source_type": "github_trending",
+  "summary": "G0DM0D3 是一个旨在解放 AI 聊天能力的开源项目，通过绕过或修改 AI 模型的限制，实现更自由、无约束的对话体验。该项目由 elder-plinius 开发，托管于 GitHub，主要面向对 AI 安全、伦理及模型行为控制感兴趣的开发者。其核心功能包括注入提示、修改模型输出策略等，以突破主流 AI 聊天机器人的内容过滤机制。项目代码基于 Python，提供命令行接口和可配置的对抗性提示库。该工具引发了关于 AI 安全与自由使用的讨论，适用于研究 AI 对齐、红队测试及探索模型边界。注意：使用此类工具可能违反服务条款，需谨慎评估法律与伦理风险。",
+  "content_markdown": null,
+  "tags": [
+    "ai-safety",
+    "jailbreak",
+    "prompt-injection",
+    "red-teaming",
+    "python"
+  ],
+  "language": "zh",
+  "author": "elder-plinius",
+  "published_at": null,
+  "collected_at": "2026-07-19T09:49:09Z",
+  "analyzed_at": "2026-07-19T09:49:38Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949611,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502263,
+    "github_stars_today": 69,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-10T00:00:00Z",
+    "analyzed_at": "2025-04-10T00:00:00Z"
+  }
+}

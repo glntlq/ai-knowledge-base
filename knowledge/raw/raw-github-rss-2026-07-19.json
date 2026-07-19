@@ -1,0 +1,294 @@
+{
+  "collected_at": "2026-07-19T09:49:08Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/Robbyant/lingbot-map",
+      "title": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "author": "Robbyant",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413281,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501377,
+        "github_stars_today": 831,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/apache/ossie",
+      "title": "apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "author": "apache",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941349,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150158,
+        "github_stars_today": 47,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/PostHog/posthog",
+      "title": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "author": "PostHog",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436738,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503039,
+        "github_stars_today": 338,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ibelick/ui-skills",
+      "title": "ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "author": "ibelick",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945257,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150224,
+        "github_stars_today": 123,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439297,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506572,
+        "github_stars_today": 191,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tirth8205/code-review-graph",
+      "title": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "author": "tirth8205",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420385,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502135,
+        "github_stars_today": 355,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/elder-plinius/G0DM0D3",
+      "title": "elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "author": "elder-plinius",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949611,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502263,
+        "github_stars_today": 69,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "author": "lyogavin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423475,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502666,
+        "github_stars_today": 161,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/KnockOutEZ/wigolo",
+      "title": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "author": "KnockOutEZ",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941461,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015093,
+        "github_stars_today": 203,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "title": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "author": "codecrafters-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694528535,
+        "github_language": "Markdown",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015050012,
+        "github_stars_today": 1126,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/MoonshotAI/kimi-cli",
+      "title": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "author": "MoonshotAI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949642,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501169,
+        "github_stars_today": 65,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-19T09:49:09Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://gwern.net/llm-catapult",
+      "title": "Human-like Neural Nets by Catapulting",
+      "description": "<p><a href=\"https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 18 Jul 2026 18:32:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://pangram.substack.com/p/how-does-pangram-work",
+      "title": "How does Pangram work?",
+      "description": "<p><a href=\"https://lobste.rs/s/femw5f/how_does_pangram_work\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 18 Jul 2026 01:17:08 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+      "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+      "description": "<p><a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 16 Jul 2026 10:29:48 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+      "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+      "description": "<p>The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\". It is Open Access so the link to the PDF is <a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262052504.pdf\" rel=\"ugc\">here</a></p> <p>The book has a companion <a href=\"findingeliza.org\" rel=\"ugc\">site</a> - I was monitoring this since I first heard the <a href=\"https://corecursive.com/eliza-with-jeff-shrager/\" rel=\"ugc\">episode</a> on CoRecursive.</p> <p><a href=\"https://lobste.rs/s/hquwey/inventing_eliza_how_first_chatbot_shaped\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 15 Jul 2026 09:12:05 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+      "title": "Verifiable AI inference",
+      "description": "<p><a href=\"https://lobste.rs/s/xkk9ja/verifiable_ai_inference\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 13:31:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://zserge.com/posts/tensor/",
+      "title": "Tensor is the might",
+      "description": "<p><a href=\"https://lobste.rs/s/uhzuf7/tensor_is_might\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 14 Jul 2026 07:56:11 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+      "description": "<p><a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 11 Jul 2026 18:22:20 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+      "title": "AI Surveillance and Social Progress",
+      "description": "<p><a href=\"https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 11 Jul 2026 04:40:40 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/vagos/llmpl",
+      "title": "A Prolog library for interfacing with LLMs",
+      "description": "<p><a href=\"https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 09 Jul 2026 08:52:12 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-19T09:49:10Z"
+    }
+  ]
+}
