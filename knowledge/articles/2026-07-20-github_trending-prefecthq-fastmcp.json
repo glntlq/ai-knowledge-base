@@ -1,0 +1,35 @@
+{
+  "id": "6fb5fa9a22018833e8ee0377715853e341f685fa1aa322088570185445f02bd0",
+  "title": "PrefectHQ/fastmcp",
+  "source_url": "https://github.com/PrefectHQ/fastmcp",
+  "source_type": "github_trending",
+  "summary": "FastMCP 是一个由 PrefectHQ 开发的高性能 Python 框架，旨在简化 MCP（Model Context Protocol）服务器和客户端的构建。它提供了一种快速、符合 Python 风格（Pythonic）的开发体验，支持异步操作、类型安全、自动文档生成以及插件化扩展。该框架优化了与大型语言模型（LLM）的上下文交互，适用于需要高效管理模型上下文的 AI 应用场景。FastMCP 的设计注重开发效率和运行时性能，通过简洁的 API 和内置的序列化、验证机制，降低了 MCP 协议的实现门槛。项目在 GitHub 上开源，适合需要快速搭建 MCP 服务的 Python 开发者。",
+  "content_markdown": null,
+  "tags": [
+    "mcp",
+    "python",
+    "framework",
+    "llm",
+    "async"
+  ],
+  "language": "zh",
+  "author": "PrefectHQ",
+  "published_at": null,
+  "collected_at": "2026-07-20T10:48:40Z",
+  "analyzed_at": "2026-07-20T10:49:57Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426342,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502150,
+    "github_stars_today": 77,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

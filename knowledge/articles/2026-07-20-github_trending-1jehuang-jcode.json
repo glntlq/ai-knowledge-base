@@ -1,0 +1,30 @@
+{
+  "id": "856d42c2e590106b2b62bcc3217eb80631feea662703661a08594577cdbe281a",
+  "title": "1jehuang/jcode",
+  "source_url": "https://github.com/1jehuang/jcode",
+  "source_type": "github_trending",
+  "summary": "jcode 是一个面向代码智能体的开源 harness 框架，旨在为代码生成、理解和自动化提供统一的代理接口。它通过模块化设计整合了多种大语言模型（LLM）后端，支持代码补全、重构、测试生成和文档编写等任务。项目强调“最智能”的代理能力，可能集成了上下文感知、多步推理和错误恢复机制，以提升代码相关操作的准确性和效率。该工具适合开发者集成到 CI/CD 流水线或 IDE 插件中，降低手动编码负担。",
+  "content_markdown": null,
+  "tags": [
+    "code-agent",
+    "llm-integration",
+    "code-generation",
+    "developer-tools",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "1jehuang",
+  "published_at": null,
+  "collected_at": "2026-07-20T10:48:40Z",
+  "analyzed_at": "2025-04-13T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949182,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501058,
+    "github_stars_today": 235,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

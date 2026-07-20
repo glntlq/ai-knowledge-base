@@ -1,0 +1,30 @@
+{
+  "id": "a2aaa8053a44d9eaa1a9d2bdfc527334986fabfa22e004d2fade943ede0b9fb6",
+  "title": "kvcache-ai/ktransformers",
+  "source_url": "https://github.com/kvcache-ai/ktransformers",
+  "source_type": "github_trending",
+  "summary": "ktransformers 是一个灵活的框架，旨在优化异构环境下的 LLM 推理与微调。它通过利用 KV 缓存技术，实现了对大型语言模型的高效部署，支持在多种硬件（如 CPU、GPU）上混合运行，以降低显存占用并提升吞吐量。该框架提供了模块化接口，便于集成不同的优化策略，如量化、稀疏化和注意力机制改进。适用于研究者和工程师快速实验和部署高性能 LLM 应用，尤其适合资源受限场景。",
+  "content_markdown": null,
+  "tags": [
+    "llm-inference",
+    "kv-cache",
+    "heterogeneous-computing",
+    "fine-tuning",
+    "optimization"
+  ],
+  "language": "zh",
+  "author": "kvcache-ai",
+  "published_at": null,
+  "collected_at": "2026-07-20T10:48:40Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269418584,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501459,
+    "github_stars_today": 360,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

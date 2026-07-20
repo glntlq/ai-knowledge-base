@@ -1,0 +1,30 @@
+{
+  "id": "8bf68b7b0302c1da66de32851beb22131d86ce5e87755c6a5669acc5f63c5d13",
+  "title": "AstrBotDevs/AstrBot",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "source_type": "github_trending",
+  "summary": "AstrBot 是一个集成了多种即时通讯平台、大语言模型、插件和 AI 功能的 AI 代理助手与开发框架。它支持作为开源替代方案，提供灵活的扩展性和可定制性，适用于构建智能对话系统和自动化工作流。项目旨在降低 AI 应用开发门槛，通过模块化设计实现快速集成与部署。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "llm",
+    "development-framework",
+    "open-source",
+    "chatbot"
+  ],
+  "language": "zh",
+  "author": "AstrBotDevs",
+  "published_at": null,
+  "collected_at": "2026-07-20T10:48:40Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436878,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502556,
+    "github_stars_today": 83,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

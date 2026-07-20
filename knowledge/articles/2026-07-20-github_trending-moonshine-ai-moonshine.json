@@ -1,0 +1,30 @@
+{
+  "id": "9b89648873aa25003b6c50739037415aa9fa3843d03046f777a470f413dceed8",
+  "title": "moonshine-ai/moonshine",
+  "source_url": "https://github.com/moonshine-ai/moonshine",
+  "source_type": "github_trending",
+  "summary": "Moonshine 是一个专注于低延迟语音交互的开源工具包，集成了语音转文本（ASR）、意图识别和文本转语音（TTS）三大核心功能。其设计目标是为构建语音代理和语音界面提供实时、高效的解决方案。项目采用优化的模型架构和推理流水线，显著降低端到端延迟，适用于需要快速响应的场景，如智能助手、语音控制、实时翻译等。Moonshine 支持多种语言和自定义意图，便于开发者集成到现有系统中。该工具包以模块化设计为特点，允许单独使用或组合各组件，同时提供预训练模型和轻量级部署选项，降低开发门槛。项目在 GitHub 上开源，社区活跃，持续更新以提升性能和扩展功能。",
+  "content_markdown": null,
+  "tags": [
+    "speech-recognition",
+    "text-to-speech",
+    "intent-recognition",
+    "voice-ai",
+    "low-latency"
+  ],
+  "language": "zh",
+  "author": "moonshine-ai",
+  "published_at": null,
+  "collected_at": "2026-07-20T10:48:40Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949403,
+    "github_language": "C++",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150502,
+    "github_stars_today": 264,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e2cae3955e75993e6db8d8ea3c6dba792c9c92a0f643f5329bbb94e3aa436407",
+  "title": "handy-computer/transcribe.cpp",
+  "source_url": "https://github.com/handy-computer/transcribe.cpp",
+  "source_type": "github_trending",
+  "summary": "transcribe.cpp 是一个基于 ggml 库的轻量级语音识别推理工具，支持超过 16 种模型家族（如 Whisper、Wav2Vec2 等），专注于在本地设备上高效运行。该项目采用 C++ 实现，无需 GPU 即可在 CPU 上完成实时或批量语音转文本任务，适合边缘计算和隐私敏感场景。其核心优势在于跨平台兼容性（Linux、macOS、Windows）和低资源占用，通过 ggml 的量化技术减少模型体积与计算开销。项目处于活跃开发阶段，提供简洁的 API 和命令行接口，便于集成到其他应用中。",
+  "content_markdown": null,
+  "tags": [
+    "speech-recognition",
+    "ggml",
+    "cpp",
+    "on-device-ml",
+    "transcription"
+  ],
+  "language": "en",
+  "author": "handy-computer",
+  "published_at": null,
+  "collected_at": "2026-07-20T10:48:40Z",
+  "analyzed_at": "2026-07-20T10:50:16Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941016,
+    "github_language": "C++",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015025,
+    "github_stars_today": 401,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-01T00:00:00Z",
+    "analyzed_at": "2025-04-01T01:00:00Z",
+    "published_at": null
+  }
+}

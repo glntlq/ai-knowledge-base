@@ -1,0 +1,30 @@
+{
+  "id": "711479fca0d5f9eb660d9a4c333a06fea9a5927a54d76a9e9c6c38cbf466d363",
+  "title": "tokio-rs/topcoat",
+  "source_url": "https://github.com/tokio-rs/topcoat",
+  "source_type": "github_trending",
+  "summary": "Topcoat 是 Tokio 生态下的一个全栈 Web 框架，旨在提供开箱即用的开发体验。它集成了异步运行时、路由、中间件、模板引擎、数据库连接等常见组件，减少开发者选择与配置成本。基于 Rust 和 Tokio 异步运行时，Topcoat 强调高性能与安全性，适用于构建现代 Web 应用和 API 服务。项目仍处于早期阶段，但已展示出对生产级特性的支持，如请求处理、会话管理、静态文件服务等。其设计哲学是“电池包含”，让开发者能快速启动项目而无需从零搭建基础设施。",
+  "content_markdown": null,
+  "tags": [
+    "rust",
+    "web-framework",
+    "tokio",
+    "async",
+    "full-stack"
+  ],
+  "language": "zh",
+  "author": "tokio-rs",
+  "published_at": null,
+  "collected_at": "2026-07-20T10:48:40Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941263,
+    "github_language": "Rust",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015034,
+    "github_stars_today": 439,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

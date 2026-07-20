@@ -1,0 +1,30 @@
+{
+  "id": "def7d46dd8d0f250c215a19201b9ad6d3b5dd6f2d3080f10cc5c1bb9d34496b3",
+  "title": "microsoft/Ontology-Playground",
+  "source_url": "https://github.com/microsoft/Ontology-Playground",
+  "source_type": "github_trending",
+  "summary": "Ontology-Playground 是微软开源的一款免费、零后端的静态 Web 应用，旨在帮助用户学习和实践本体论（Ontology）及 Microsoft Fabric IQ。它提供预构建本体目录，支持可视化设计、导出为 RDF/XML 格式，并允许分享交互式图表。该工具完全基于前端实现，无需服务器，适合初学者快速上手本体建模与知识图谱基础概念。",
+  "content_markdown": null,
+  "tags": [
+    "ontology",
+    "knowledge-graph",
+    "rdf",
+    "microsoft-fabric",
+    "web-app"
+  ],
+  "language": "zh",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-07-20T10:48:40Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941514,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150218,
+    "github_stars_today": 487,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner"
+  }
+}
