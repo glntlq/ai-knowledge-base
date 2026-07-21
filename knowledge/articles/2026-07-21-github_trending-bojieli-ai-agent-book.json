@@ -1,0 +1,30 @@
+{
+  "id": "1fd21102221573ba8cf7c4f069b7a33def752a7be26486390dad50787bab3e6c",
+  "title": "bojieli/ai-agent-book",
+  "source_url": "https://github.com/bojieli/ai-agent-book",
+  "source_type": "github_trending",
+  "summary": "《深入理解 AI Agent：设计原理与工程实践》开源仓库，由李博杰撰写，提供全书正文、编译版PDF及按章配套代码。内容涵盖AI Agent的核心设计原理、工程实践方法，包括智能体架构、规划与决策、工具使用、多智能体协作等关键主题。适合开发者系统学习AI Agent从理论到落地的完整知识体系，代码示例可直接用于实际项目。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "deep-learning",
+    "engineering-practice",
+    "open-source-book",
+    "python"
+  ],
+  "language": "zh",
+  "author": "bojieli",
+  "published_at": null,
+  "collected_at": "2026-07-21T10:22:54Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412990,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501232,
+    "github_stars_today": 4434,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
