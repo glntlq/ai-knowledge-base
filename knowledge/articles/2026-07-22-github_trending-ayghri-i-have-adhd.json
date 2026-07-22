@@ -1,0 +1,30 @@
+{
+  "id": "d734ae9f1113f4a29e1b5e84f1c6dd3b69f527002e8c4ac2c69b68fa4fca0ff0",
+  "title": "ayghri/i-have-adhd",
+  "source_url": "https://github.com/ayghri/i-have-adhd",
+  "source_type": "github_trending",
+  "summary": "该项目提供一种针对编码代理（coding agent）的技能，旨在防止其将答案埋没在冗长输出中，生成更符合ADHD（注意力缺陷多动障碍）用户需求的友好输出。通过优化信息呈现方式，减少认知负荷，帮助用户快速定位关键内容。适用于需要高效获取代码建议或解决方案的场景，尤其适合注意力易分散的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "adhd",
+    "coding-agent",
+    "developer-tools",
+    "productivity",
+    "accessibility"
+  ],
+  "language": "en",
+  "author": "ayghri",
+  "published_at": null,
+  "collected_at": "2026-07-22T10:22:38Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947522,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150323,
+    "github_stars_today": 1866,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

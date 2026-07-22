@@ -1,0 +1,30 @@
+{
+  "id": "3d0c0e8ac378d25260228d3c26f055a280f1c5614173f776e68203445fc8087c",
+  "title": "DioxusLabs/dioxus",
+  "source_url": "https://github.com/DioxusLabs/dioxus",
+  "source_type": "github_trending",
+  "summary": "Dioxus 是一个用于构建全栈应用的 Rust 框架，支持 Web、桌面和移动平台。它采用类似 React 的声明式组件模型，利用 Rust 的性能和安全性，提供高效的 UI 开发体验。Dioxus 的核心特性包括：基于虚拟 DOM 的增量渲染、跨平台支持（通过 WebAssembly 用于 Web，通过系统原生渲染器用于桌面和移动）、内置状态管理和路由、以及热重载等开发工具。该框架旨在简化 Rust 在前端领域的应用，使开发者能够用单一语言编写全栈应用，同时保持高性能和低资源占用。Dioxus 的生态系统正在快速发展，适合需要跨平台部署且对性能有高要求的项目。",
+  "content_markdown": null,
+  "tags": [
+    "rust",
+    "fullstack-framework",
+    "cross-platform",
+    "webassembly",
+    "ui-framework"
+  ],
+  "language": "zh",
+  "author": "DioxusLabs",
+  "published_at": null,
+  "collected_at": "2026-07-22T10:22:38Z",
+  "analyzed_at": "2025-04-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269437832,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501779,
+    "github_stars_today": 271,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

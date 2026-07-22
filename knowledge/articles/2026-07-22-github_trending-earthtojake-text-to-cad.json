@@ -1,0 +1,35 @@
+{
+  "id": "25e91d03750a1e4dc8340e044bdf105dadcafea51268902cbc8b32753bbd90b5",
+  "title": "earthtojake/text-to-cad",
+  "source_url": "https://github.com/earthtojake/text-to-cad",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向CAD、机器人及硬件设计的智能体技能集合，旨在通过自然语言文本直接驱动三维建模与硬件设计流程。它整合了多种AI代理能力，支持从文本描述自动生成CAD模型、机器人组件及硬件原理图，降低传统设计软件的使用门槛。项目基于开源社区贡献，提供模块化工具链，可集成至现有设计工作流，加速从概念到原型的迭代。核心功能包括文本到CAD的转换、参数化模型生成、设计规则检查及与主流CAD软件的接口。适用于快速原型设计、教育及自动化设计场景，尤其适合缺乏专业CAD技能但需要快速验证硬件概念的开发者。项目处于早期阶段，依赖社区反馈持续优化技能库的准确性与扩展性。",
+  "content_markdown": null,
+  "tags": [
+    "cad",
+    "robotics",
+    "hardware-design",
+    "ai-agents",
+    "text-to-cad"
+  ],
+  "language": "zh",
+  "author": "earthtojake",
+  "published_at": null,
+  "collected_at": "2026-07-22T10:22:38Z",
+  "analyzed_at": "2026-07-22T10:22:55Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949471,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501046,
+    "github_stars_today": 291,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-09T12:00:00Z",
+    "analyzed_at": "2025-04-09T12:30:00Z",
+    "published_at": null
+  }
+}

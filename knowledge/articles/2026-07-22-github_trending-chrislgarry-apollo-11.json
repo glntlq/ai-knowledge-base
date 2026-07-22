@@ -1,0 +1,35 @@
+{
+  "id": "936ad0d0c2d313602120fb82cb818ced4494db70b2082f490460d1d0e82737c9",
+  "title": "chrislgarry/Apollo-11",
+  "source_url": "https://github.com/chrislgarry/Apollo-11",
+  "source_type": "github_trending",
+  "summary": "该项目是阿波罗11号制导计算机（AGC）的原始源代码，包含指令舱和登月舱的飞行软件。代码采用汇编语言编写，展示了早期航天器实时控制系统的核心逻辑，包括导航、姿态控制和发动机点火等关键功能。作为人类首次登月任务的技术遗产，该代码具有极高的历史与教育价值，为研究嵌入式系统、实时计算和航天工程提供了第一手资料。",
+  "content_markdown": null,
+  "tags": [
+    "apollo-guidance-computer",
+    "assembly",
+    "spacecraft-software",
+    "historical-code",
+    "embedded-systems"
+  ],
+  "language": "en",
+  "author": "chrislgarry",
+  "published_at": null,
+  "collected_at": "2026-07-22T10:22:38Z",
+  "analyzed_at": "2026-07-22T10:23:25Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269470220,
+    "github_language": "Assembly",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507858,
+    "github_stars_today": 1235,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "advanced",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-12T00:00:00Z",
+    "analyzed_at": "2025-04-12T00:00:00Z",
+    "published_at": null
+  }
+}

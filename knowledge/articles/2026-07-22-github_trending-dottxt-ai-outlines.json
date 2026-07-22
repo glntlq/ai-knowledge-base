@@ -1,0 +1,34 @@
+{
+  "id": "9aa6fdd9090c58608aa8a0a606e919f9ba78298b5727189a78b2433753dd5760",
+  "title": "dottxt-ai/outlines",
+  "source_url": "https://github.com/dottxt-ai/outlines",
+  "source_type": "github_trending",
+  "summary": "Outlines 是一个专注于为大型语言模型（LLM）生成结构化输出的开源 Python 库。它通过定义输出模式（如 JSON Schema、Pydantic 模型或正则表达式），确保模型输出严格遵循预定义格式，从而解决 LLM 输出不可控、难以解析的问题。该库支持多种主流模型后端（包括 Hugging Face Transformers、vLLM、Ollama 等），并采用高效的索引映射和约束解码技术，在推理过程中实时引导生成，避免后处理修正。Outlines 适用于需要可靠结构化数据的场景，如 API 响应生成、数据提取、表单填充等，显著提升 LLM 在工程化应用中的可用性和准确性。项目在 GitHub 上活跃，社区贡献丰富，文档完善。",
+  "content_markdown": null,
+  "tags": [
+    "structured-output",
+    "llm",
+    "python",
+    "json-schema",
+    "constraint-decoding"
+  ],
+  "language": "zh",
+  "author": "dottxt-ai",
+  "published_at": null,
+  "collected_at": "2026-07-22T10:22:38Z",
+  "analyzed_at": "2026-07-22T10:23:49Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414963,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150801,
+    "github_stars_today": 65,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z"
+  }
+}

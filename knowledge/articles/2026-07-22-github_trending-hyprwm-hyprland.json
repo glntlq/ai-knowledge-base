@@ -1,0 +1,30 @@
+{
+  "id": "fe6e2972e60e4cf2b79a4cdca3ff40538020d879109348236df9bbe02137c7ef",
+  "title": "hyprwm/Hyprland",
+  "source_url": "https://github.com/hyprwm/Hyprland",
+  "source_type": "github_trending",
+  "summary": "Hyprland 是一款独立、高度可定制的动态平铺 Wayland 合成器，专注于在不牺牲外观的前提下提供流畅的窗口管理体验。它采用现代 C++ 编写，利用 wlroots 库实现底层 Wayland 协议支持，支持动态平铺、浮动窗口、多显示器配置、丰富的动画效果以及通过配置文件进行深度定制。Hyprland 以其出色的性能、低延迟渲染和美观的视觉效果（如模糊、阴影、圆角）在 Linux 社区中广受好评，尤其适合追求高效工作流与个性化桌面环境的用户。项目活跃维护，拥有完善的文档和插件生态，是 Wayland 生态中备受关注的平铺合成器之一。",
+  "content_markdown": null,
+  "tags": [
+    "wayland-compositor",
+    "tiling-window-manager",
+    "linux-desktop",
+    "hyprland",
+    "wlroots"
+  ],
+  "language": "zh",
+  "author": "hyprwm",
+  "published_at": null,
+  "collected_at": "2026-07-22T10:22:38Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269437160,
+    "github_language": "C++",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501866,
+    "github_stars_today": 58,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}
