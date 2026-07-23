@@ -1,0 +1,30 @@
+{
+  "id": "a59c0fae216d2b4cd98852b3baaedc8d5da0fc81b4ab48a756456ce4a247b44c",
+  "title": "dreamhunter2333/cloudflare_temp_email",
+  "source_url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+  "source_type": "github_trending",
+  "summary": "基于 Cloudflare Workers 和 Pages 构建的免费临时域名邮箱系统，支持收发邮件、附件处理、IMAP/SMTP 协议及 Telegram Bot 集成。利用 Cloudflare 的全球边缘网络实现低延迟邮件处理，无需自建服务器。用户可自定义域名，创建临时邮箱地址，邮件内容通过 Workers 解析并存储于 KV 或 D1 数据库。支持通过 Telegram Bot 接收通知和发送邮件，适合隐私保护、测试注册等场景。项目开源，部署简单，提供完整的前后端界面。",
+  "content_markdown": null,
+  "tags": [
+    "cloudflare-workers",
+    "temp-email",
+    "imap",
+    "smtp",
+    "telegram-bot"
+  ],
+  "language": "zh",
+  "author": "dreamhunter2333",
+  "published_at": null,
+  "collected_at": "2026-07-23T10:18:46Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410946,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507324,
+    "github_stars_today": 68,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

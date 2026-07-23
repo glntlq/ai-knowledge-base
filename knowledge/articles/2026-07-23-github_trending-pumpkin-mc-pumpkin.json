@@ -1,0 +1,34 @@
+{
+  "id": "efcd281e69766648e16b81fe1f9e60533e6378cebf310c917838d503cdfe7263",
+  "title": "Pumpkin-MC/Pumpkin",
+  "source_url": "https://github.com/Pumpkin-MC/Pumpkin",
+  "source_type": "github_trending",
+  "summary": "Pumpkin 是一个开源项目，旨在让每个人都能托管快速高效的 Minecraft 服务器。它通过优化服务器性能和资源管理，降低了运行 Minecraft 服务器的门槛，特别适合个人或小型团队使用。项目采用模块化设计，支持自定义配置和插件扩展，以提升游戏体验和服务器稳定性。Pumpkin 的目标是简化服务器部署流程，同时保持高性能和低延迟，适用于从休闲玩家到专业运维的多种场景。该项目在 GitHub 上活跃开发，社区贡献者持续改进代码和文档，确保兼容最新 Minecraft 版本。",
+  "content_markdown": null,
+  "tags": [
+    "minecraft",
+    "server-software",
+    "open-source",
+    "performance-optimization"
+  ],
+  "language": "zh",
+  "author": "Pumpkin-MC",
+  "published_at": null,
+  "collected_at": "2026-07-23T10:18:46Z",
+  "analyzed_at": "2026-07-23T10:20:01Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948654,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150601,
+    "github_stars_today": 108,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-01T12:00:00Z",
+    "analyzed_at": "2025-04-01T12:30:00Z",
+    "published_at": null
+  }
+}

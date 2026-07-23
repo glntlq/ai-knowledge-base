@@ -1,0 +1,25 @@
+{
+  "id": "ded61c418c5fd91657e5c32d5b1a7625ed5c778524df0d509dbbb6457736db02",
+  "title": "Are AI labs pelicanmaxxing?",
+  "source_url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了AI实验室在模型发布策略上的“鹈鹕最大化”（pelicanmaxxing）现象，即通过频繁发布小规模增量更新而非重大突破来维持公众关注和资本流入。作者分析了这种策略背后的激励机制，包括研究机构对论文数量的追求、初创公司对融资的需求以及大型科技公司对市场预期的管理。文章指出，这种模式可能导致AI领域创新速度的表面繁荣与实际进展的脱节，并引发对资源分配和研究方向可持续性的担忧。同时，作者讨论了社区和投资者如何识别真正有影响力的工作，以及如何平衡短期曝光与长期技术积累。文章结合Hacker News上的讨论，反映了业界对当前AI发展节奏的反思。",
+  "content_markdown": null,
+  "tags": [
+    "ai-labs",
+    "research-strategy",
+    "innovation-incentives",
+    "tech-critique"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-23T10:19:04Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

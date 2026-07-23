@@ -1,0 +1,30 @@
+{
+  "id": "402ed32af7b5e057ac5a45d6703028d7f7356658ad279be9ee4fd0cc0745c91e",
+  "title": "ComposioHQ/awesome-claude-skills",
+  "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精选的Claude Skills资源列表，汇集了用于定制Claude AI工作流的工具、技能和资源。它旨在帮助开发者高效地扩展Claude的功能，涵盖从基础配置到高级工作流自动化的多种场景。列表包括官方和社区贡献的技能，涉及代码生成、数据分析、自动化任务等方向，并提供了详细的分类和说明。通过整合这些资源，用户可以快速找到适合自己需求的Claude扩展方案，提升AI助手的实用性和灵活性。该项目由ComposioHQ维护，持续更新以跟踪Claude生态的最新发展。",
+  "content_markdown": null,
+  "tags": [
+    "claude",
+    "ai-workflows",
+    "awesome-list",
+    "developer-tools",
+    "llm"
+  ],
+  "language": "zh",
+  "author": "ComposioHQ",
+  "published_at": null,
+  "collected_at": "2026-07-23T10:18:46Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269469072,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507826,
+    "github_stars_today": 163,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
