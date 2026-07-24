@@ -1,0 +1,30 @@
+{
+  "id": "08be2b9b54d02c95542924666d9c9cf1eb351b869cd6d508e36478f61b66e76e",
+  "title": "jellyfin/jellyfin",
+  "source_url": "https://github.com/jellyfin/jellyfin",
+  "source_type": "github_trending",
+  "summary": "Jellyfin 是一个自由开源的媒体系统服务器后端与 API，旨在提供类似 Plex 和 Emby 的媒体管理、流媒体播放功能，但完全免费且无任何付费限制。该项目基于 .NET 构建，支持跨平台部署（Windows、Linux、macOS、Docker 等），能够管理电影、电视剧、音乐、照片等媒体库，并提供实时转码、DLNA/UPnP 支持、多用户管理、插件扩展等特性。Jellyfin 强调用户隐私与数据自主权，所有数据均存储在本地，无需依赖外部云服务。其活跃的社区持续贡献新功能与修复，已成为自托管媒体解决方案的首选之一。",
+  "content_markdown": null,
+  "tags": [
+    "media-server",
+    "streaming",
+    "self-hosted",
+    "open-source",
+    "dotnet"
+  ],
+  "language": "zh",
+  "author": "jellyfin",
+  "published_at": null,
+  "collected_at": "2026-07-24T10:13:20Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454867,
+    "github_language": "C#",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505172,
+    "github_stars_today": 66,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

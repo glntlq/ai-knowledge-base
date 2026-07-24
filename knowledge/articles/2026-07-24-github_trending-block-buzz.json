@@ -1,0 +1,30 @@
+{
+  "id": "8230e24d10ad97288600ae16585bd4915d47c6b8313e106b8fb191bc5fbcfda9",
+  "title": "block/buzz",
+  "source_url": "https://github.com/block/buzz",
+  "source_type": "github_trending",
+  "summary": "Buzz 是一个由 Block（原 Square）开发的开源蜂巢思维通信平台，旨在提供去中心化、安全且高效的实时消息传递解决方案。该项目基于现代分布式架构设计，支持端到端加密、群组通信及可扩展的插件系统，适用于需要高隐私性和低延迟的协作场景。其核心特性包括去中心化身份验证、消息持久化存储以及跨平台兼容性。作为 Block 在开源领域的又一贡献，Buzz 强调用户数据主权与抗审查能力，为开发者提供了构建自主通信网络的工具集。项目采用 Rust 和 WebAssembly 实现高性能核心，前端则通过 React 提供流畅交互体验。当前处于活跃开发阶段，社区贡献者可通过 GitHub 参与协议改进与功能扩展。",
+  "content_markdown": null,
+  "tags": [
+    "decentralized-communication",
+    "end-to-end-encryption",
+    "real-time-messaging",
+    "rust",
+    "webassembly"
+  ],
+  "language": "zh",
+  "author": "block",
+  "published_at": null,
+  "collected_at": "2026-07-24T10:13:20Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948162,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150633,
+    "github_stars_today": 2162,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "712f2f16de0a8b369948d57f45ca7299ddf9d325fb3e53ca2ae8e62653772e07",
+  "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+  "source_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+  "source_type": "hacker_news",
+  "summary": "美国初创企业创始人联合呼吁政府不要切断中国开源权重AI模型的访问。这些模型（如DeepSeek等）对全球AI创新生态至关重要，限制访问将损害美国初创公司的研发能力、增加成本并延缓技术进步。请愿者强调，开放合作是AI领域保持竞争力的关键，过度管制可能适得其反。事件反映了中美科技脱钩背景下，产业界对政策影响的担忧。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "open-source",
+    "us-china-relations",
+    "startups",
+    "regulation"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-07-22T00:00:00Z",
+  "collected_at": "2026-07-24T10:13:21Z",
+  "analyzed_at": "2026-07-22T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

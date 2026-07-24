@@ -1,0 +1,26 @@
+{
+  "id": "3a596bf530ff6eda433ece247b5241a7bf4986d71a3bad7aad840e88321d00ca",
+  "title": "Not just development, distribution of software may change as well",
+  "source_url": "https://antirez.com/news/170",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了软件开发与分发模式的潜在变革。作者指出，随着容器化、无服务器计算和边缘计算的兴起，传统软件打包与交付方式正面临挑战。未来软件可能不再以独立二进制文件形式分发，而是作为服务或通过即时编译、流式加载等技术动态组合。这种转变将影响开发者工具链、许可证管理及安全模型。文章强调，尽管开发流程已高度自动化，但分发环节的革新仍处于早期阶段，需关注标准化与互操作性问题。",
+  "content_markdown": null,
+  "tags": [
+    "software-distribution",
+    "containerization",
+    "serverless",
+    "edge-computing",
+    "devops"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-24T10:13:21Z",
+  "analyzed_at": "2025-04-13T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

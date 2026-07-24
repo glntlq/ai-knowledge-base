@@ -1,0 +1,34 @@
+{
+  "id": "07f1274b8b105c3534bbe493328dee331527945d3f7177d4e698c6a1096a6aca",
+  "title": "Automattic/harper",
+  "source_url": "https://github.com/Automattic/harper",
+  "source_type": "github_trending",
+  "summary": "Harper 是一个由 Automattic 开发的离线、隐私优先的语法检查工具。它基于 Rust 语言构建，具有高性能和快速响应的特点。作为开源项目，Harper 无需网络连接即可运行，确保用户数据不会上传至第三方服务器，从而保护隐私。该工具支持多种语言和平台，可集成到编辑器或浏览器中，提供实时语法和拼写建议。其核心优势在于本地处理能力，避免了传统云服务的延迟和隐私风险。Harper 适用于注重数据安全的个人用户、开发者以及企业环境，尤其适合需要离线工作或对隐私有严格要求的场景。项目在 GitHub 上活跃维护，社区贡献持续优化其准确性和功能。",
+  "content_markdown": null,
+  "tags": [
+    "grammar-checker",
+    "privacy-first",
+    "offline",
+    "rust",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "Automattic",
+  "published_at": null,
+  "collected_at": "2026-07-24T10:13:20Z",
+  "analyzed_at": "2026-07-24T10:14:05Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412637,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150470,
+    "github_stars_today": 624,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z"
+  }
+}

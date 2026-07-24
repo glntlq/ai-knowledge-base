@@ -1,0 +1,34 @@
+{
+  "id": "deaec470dddde37cae54adb005a524bd1005d8ba24a3a9c608884cca771c0c5d",
+  "title": "citrolabs/ego-lite",
+  "source_url": "https://github.com/citrolabs/ego-lite",
+  "source_type": "github_trending",
+  "summary": "Ego Lite 是一款专为人类与 AI 代理并行工作而设计的浏览器，旨在提升人机协作效率。它通过创新的界面和交互模式，让用户和 AI 代理能在同一浏览器环境中同时操作，互不干扰。该浏览器支持 AI 代理独立执行任务（如数据抓取、表单填写、内容分析），同时用户可进行浏览、阅读或创作。Ego Lite 强调隐私保护与性能优化，采用轻量级架构，减少资源占用。其核心价值在于打破传统浏览器仅服务于人类的局限，为 AI 工作流提供原生支持，适用于自动化测试、信息收集、智能助手等场景。项目处于早期开发阶段，代码开源，社区活跃。",
+  "content_markdown": null,
+  "tags": [
+    "browser",
+    "ai-agents",
+    "productivity",
+    "open-source",
+    "human-ai-collaboration"
+  ],
+  "language": "zh",
+  "author": "citrolabs",
+  "published_at": null,
+  "collected_at": "2026-07-24T10:13:20Z",
+  "analyzed_at": "2026-07-24T10:13:39Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942058,
+    "github_language": "JavaScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150106,
+    "github_stars_today": 247,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:30:00Z"
+  }
+}

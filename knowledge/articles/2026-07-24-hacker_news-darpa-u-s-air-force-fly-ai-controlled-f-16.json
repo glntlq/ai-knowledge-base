@@ -1,0 +1,26 @@
+{
+  "id": "7df28099147e43d5470a16d17c31ea921eb6042fe431226835c17dad44a201dd",
+  "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+  "source_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+  "source_type": "hacker_news",
+  "summary": "DARPA与美国空军成功完成AI控制F-16战斗机的实飞测试，标志着人工智能在军事航空领域的重大突破。该测试基于DARPA的ACE（空战演进）项目，AI飞行员在真实空战环境中展示了自主决策、战术机动和对抗能力。此次飞行验证了AI在复杂动态空战中的可靠性，为未来人机协同作战奠定基础。项目旨在通过AI增强飞行员决策效率，减少反应时间，并探索AI在非预设场景下的适应性。测试中，AI系统成功应对了多架敌机模拟攻击，展现了超越人类飞行员在某些战术场景中的表现。这一进展引发了对AI军事伦理、安全性和控制机制的讨论，但军方强调AI始终处于人类监督之下。该成果预计将加速AI在无人机编队、自主空战和训练模拟中的应用。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "military-aviation",
+    "autonomous-systems",
+    "darpa",
+    "f-16"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-24T10:13:21Z",
+  "analyzed_at": "2026-02-18T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

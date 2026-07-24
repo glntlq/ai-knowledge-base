@@ -1,0 +1,310 @@
+{
+  "collected_at": "2026-07-24T10:13:19Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/block/buzz",
+      "title": "block/buzz",
+      "description": "A hive mind communication platform",
+      "author": "block",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948162,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150633,
+        "github_stars_today": 2162,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/koala73/worldmonitor",
+      "title": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "author": "koala73",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269472570,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010883,
+        "github_stars_today": 3175,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/shiyu-coder/Kronos",
+      "title": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "author": "shiyu-coder",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269433284,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505662,
+        "github_stars_today": 401,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "title": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "author": "Pumpkin-MC",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949109,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150622,
+        "github_stars_today": 565,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/citrolabs/ego-lite",
+      "title": "citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "author": "citrolabs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942058,
+        "github_language": "JavaScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150106,
+        "github_stars_today": 247,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "author": "chrislgarry",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269471247,
+        "github_language": "Assembly",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507929,
+        "github_stars_today": 592,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/diegosouzapw/OmniRoute",
+      "title": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "author": "diegosouzapw",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269427942,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503669,
+        "github_stars_today": 1929,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "title": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "author": "ComposioHQ",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269469714,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001507866,
+        "github_stars_today": 636,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/earthtojake/text-to-cad",
+      "title": "earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "author": "earthtojake",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410259,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501119,
+        "github_stars_today": 230,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/agegr/pi-web",
+      "title": "agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "author": "agegr",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942535,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150338,
+        "github_stars_today": 315,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/alibaba/open-code-review",
+      "title": "alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "author": "alibaba",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412067,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150823,
+        "github_stars_today": 180,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "author": "ruvnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269485538,
+        "github_language": "Rust",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011409,
+        "github_stars_today": 1708,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/likec4/likec4",
+      "title": "likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "author": "likec4",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944842,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150328,
+        "github_stars_today": 472,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Automattic/harper",
+      "title": "Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "author": "Automattic",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412637,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150470,
+        "github_stars_today": 624,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jellyfin/jellyfin",
+      "title": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "author": "jellyfin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454867,
+        "github_language": "C#",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505172,
+        "github_stars_today": 66,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-24T10:13:20Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "description": "https://littletech.org/ https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 941 # Comments: 778",
+      "author": "",
+      "published_at": "Thu, 23 Jul 2026 15:18:40 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-24T10:13:21Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/palmier-io/palmier-pro",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "description": "Hi HN, we are Marcos and Harrison, cofounders of Palmier ( https://palmier.io ). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos: - Making some AI transitions: https://www.youtube.com/watch?v=hbM_-eR1GX4 - Multicam editing with Codex: https://www.youtube.com/watch?v=SjS2q2LT1q8 - Cutting long form clips into shorts: https://www.youtube.com/watch?v=PR66eN2ouuQ We built Palmier Pro as an internal tool when we were making AI launch videos for other startups. The main problem it solved in the beginning was the back-and-forth between AI generation platform and video editor. The iteration loop was awkward: AI videos → download → import to editor → edit → realize we need to change the AI video → repeat. So we built a minimal video editor where we could let Claude generate AI videos inside the editor. As we gave more and more tools to the agent, we wanted to push to see what else agents can do in the video editing space. So today, your Claude/Codex can: - Manage projects inside Palmier Pro - Import media from a public URL or filesystem to the project, and organize them in folders - Search media (by embedding footages using SigLIP2 running locally) - Edit the timeline (tracks/clips/keyframes operations) - Generate images, videos, sound effects, captions, music - Export videos There are two ways for LLMs to interact with the editor: by connecting to the local MCP server, or using the in-app chat. Both use the same tools and APIs exposed by the video editor. We have seen people using MCP server to connect to their own workflow to automate massive-scale video editing (e.g. given this same podcast style, replicate it with other footages that I have). We have also seen people using the in-app chat where it lives closer to the editor UI, with lower latency for faster iteration. We don't believe that AI is going to replace human creativity (nor should it), but where it can really help is in automating the gruntwork in video editing. Most work in the editing workflow is more mechanical than creative. Our vision is to build a video editor where AI can enable more individuals to create. Throughout our experiments, AI is not very good at creative editing, but given a pattern (transcription-based, beat-based), it can do a decent job at rough cut. We built Palmier Pro in Swift as an MVP because we wanted better performance and minimal dependencies (no nodejs/webview), with some native macOS APIs like SpeechAnalyzer and CoreML for us to run some models locally. We use SpeechAnalyzer for local transcriber, SigLip2 to embed video frames, beat_this for beat detection, Silero VAD for silence detection, all running locally. The tradeoff is that we don't support Linux or Windows at the moment. Palmier Pro is open source and free to try out (macOS 26 only at the moment, though - we'll support more platforms over time, but for now are focusing on iterating the core product). No login required except for the AI generation features, which route requests to our backend. We are offering free credits on sign up so you can try out the AI generation as well. We'd love to hear your feedback! Comments URL: https://news.ycombinator.com/item?id=49022911 Points: 158 # Comments: 26",
+      "author": "",
+      "published_at": "Thu, 23 Jul 2026 15:11:37 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-24T10:13:21Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "description": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 247 # Comments: 272",
+      "author": "",
+      "published_at": "Thu, 23 Jul 2026 13:51:36 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-24T10:13:21Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+      "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+      "description": "<p><a href=\"https://lobste.rs/s/o9vjlt/tour_mlir_dialect_stack_everyone_depends\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 23 Jul 2026 23:54:16 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-24T10:13:21Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://antirez.com/news/170",
+      "title": "Not just development, distribution of software may change as well",
+      "description": "<p><a href=\"https://lobste.rs/s/wfural/not_just_development_distribution\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 23 Jul 2026 09:16:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-24T10:13:21Z"
+    }
+  ]
+}
