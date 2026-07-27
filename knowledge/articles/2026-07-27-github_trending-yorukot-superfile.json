@@ -1,0 +1,30 @@
+{
+  "id": "5f3633503b0fe2b8a3333a360e54363ef4004a298b48bcdbba1de0ea9f8c7f03",
+  "title": "yorukot/superfile",
+  "source_url": "https://github.com/yorukot/superfile",
+  "source_type": "github_trending",
+  "summary": "Superfile 是一个用 Go 语言编写的现代化终端文件管理器，以其美观、时尚的界面和丰富的功能在 GitHub 上受到关注。它支持多面板布局、文件预览、标签页、书签、搜索、批量重命名、文件操作（复制、移动、删除、重命名）等核心功能，并集成了图片、视频、文本、PDF 等多种文件类型的预览能力。Superfile 强调用户体验，提供可定制的主题和快捷键，支持鼠标操作，兼容 Linux、macOS 和 Windows 系统。该项目旨在替代传统的终端文件管理器（如 ranger、lf），通过更现代的交互设计和视觉风格提升命令行下的文件管理效率。其代码开源，社区活跃，适合追求高效与美观的开发者使用。",
+  "content_markdown": null,
+  "tags": [
+    "terminal-file-manager",
+    "go",
+    "cli",
+    "file-management",
+    "tui"
+  ],
+  "language": "en",
+  "author": "yorukot",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:02Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420519,
+    "github_language": "Go",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150651,
+    "github_stars_today": 131,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

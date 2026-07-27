@@ -1,0 +1,26 @@
+{
+  "id": "5c913ebbfd7da72196bde58376727711a54678e4f29e87d5c27c7d0974110f62",
+  "title": "What Rose Petals Teach Us about Induction",
+  "source_url": "https://www.oranlooney.com/post/rose-petals/",
+  "source_type": "hacker_news",
+  "summary": "本文通过玫瑰花瓣的排列模式，深入浅出地解释了数学归纳法的核心思想。作者以斐波那契数列在自然界中的体现为引子，展示了如何从观察到的具体模式（如花瓣数）抽象出一般规律，并利用归纳法证明其普遍性。文章不仅阐述了归纳法的基本步骤（基础情况和归纳步骤），还探讨了其与递归、数学证明以及自然现象建模的深刻联系。通过玫瑰花瓣这一直观案例，读者能理解归纳法如何从有限观察推导出无限结论，并认识到其在计算机科学（如算法正确性证明）和数学中的基础地位。文章强调，归纳法不仅是证明工具，更是一种发现和思考问题的方式，有助于培养结构化思维和抽象推理能力。",
+  "content_markdown": null,
+  "tags": [
+    "mathematical-induction",
+    "fibonacci-sequence",
+    "proof-techniques",
+    "recursion",
+    "natural-phenomena"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:04Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

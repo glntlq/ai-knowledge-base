@@ -1,0 +1,30 @@
+{
+  "id": "e77efff607e801a9d51f3f8145feb80f05f3b6c08c0ff022cfedf995fcba7696",
+  "title": "permissionlesstech/bitchat",
+  "source_url": "https://github.com/permissionlesstech/bitchat",
+  "source_type": "github_trending",
+  "summary": "BitChat 是一个基于蓝牙 Mesh 网络的去中心化聊天工具，旨在提供类似 IRC 的通信体验。它利用蓝牙 Mesh 技术实现设备间的多跳通信，无需互联网连接或中央服务器，适用于离线环境、应急通信或局部区域内的即时消息传递。项目强调隐私和自主性，所有数据仅在本地 Mesh 网络中传输。该工具适合对去中心化通信、物联网或蓝牙协议感兴趣的开发者，可作为研究蓝牙 Mesh 应用或构建离线社交网络的参考实现。",
+  "content_markdown": null,
+  "tags": [
+    "bluetooth-mesh",
+    "decentralized-chat",
+    "offline-communication",
+    "irc-like",
+    "mesh-network"
+  ],
+  "language": "zh",
+  "author": "permissionlesstech",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:02Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431441,
+    "github_language": "Swift",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504947,
+    "github_stars_today": 1166,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

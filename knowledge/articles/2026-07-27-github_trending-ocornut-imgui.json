@@ -1,0 +1,35 @@
+{
+  "id": "e51c994a79f231a06e2f6f8b65262179149816343c0986a7a87b027fa67f8101",
+  "title": "ocornut/imgui",
+  "source_url": "https://github.com/ocornut/imgui",
+  "source_type": "github_trending",
+  "summary": "Dear ImGui 是一个为 C++ 设计的轻量级图形用户界面库，以无冗余、最小依赖为核心理念。它提供即时模式 GUI 框架，适用于工具开发、调试界面、内容创建等场景。该库无需外部依赖，仅需标准 C++ 编译环境，支持 DirectX、OpenGL、Vulkan 等多种渲染后端。其设计强调快速迭代和易用性，开发者可通过简单 API 调用构建动态 UI，尤其适合嵌入到游戏引擎、实时渲染应用或数据可视化工具中。项目在 GitHub 上持续活跃，拥有广泛社区支持，是 C++ 生态中高效构建调试工具和编辑器界面的首选方案之一。",
+  "content_markdown": null,
+  "tags": [
+    "c",
+    "gui",
+    "immediate-mode",
+    "cross-platform",
+    "graphics"
+  ],
+  "language": "zh",
+  "author": "ocornut",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:02Z",
+  "analyzed_at": "2026-07-27T11:17:48Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269475109,
+    "github_language": "C++",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011963,
+    "github_stars_today": 48,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "status": "pending",
+    "collected_at": "2025-04-08T12:00:00Z",
+    "analyzed_at": "2025-04-08T12:05:00Z",
+    "published_at": null
+  }
+}

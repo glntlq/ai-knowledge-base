@@ -1,0 +1,30 @@
+{
+  "id": "8023965737303f6ff1f1c2d94fecdc6c48c33b2d34f7c754ce84fb9a8711adb8",
+  "title": "amnezia-vpn/amnezia-client",
+  "source_url": "https://github.com/amnezia-vpn/amnezia-client",
+  "source_type": "github_trending",
+  "summary": "Amnezia VPN Client 是一个开源的跨平台 VPN 客户端，支持桌面和移动设备。该项目旨在提供安全、隐私保护的网络连接，通过加密隧道技术隐藏用户真实 IP 地址，防止数据被窃听或篡改。客户端采用现代加密协议，支持多种 VPN 协议（如 OpenVPN、WireGuard 等），并具备易于使用的图形界面。作为 GitHub 上的热门项目，它吸引了大量开发者关注，适合需要高隐私保护的用户或希望自建 VPN 服务的团队。代码库结构清晰，文档完善，便于二次开发或集成。",
+  "content_markdown": null,
+  "tags": [
+    "vpn",
+    "privacy",
+    "open-source",
+    "cross-platform",
+    "security"
+  ],
+  "language": "zh",
+  "author": "amnezia-vpn",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:02Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413551,
+    "github_language": "C++",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501017,
+    "github_stars_today": 35,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

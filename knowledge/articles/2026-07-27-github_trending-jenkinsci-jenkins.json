@@ -1,0 +1,30 @@
+{
+  "id": "9734a4fb7b949d1d0b151a07c26b556ae96cdf444d94cc3e6130bb13c59337ac",
+  "title": "jenkinsci/jenkins",
+  "source_url": "https://github.com/jenkinsci/jenkins",
+  "source_type": "github_trending",
+  "summary": "Jenkins 是一个开源的自动化服务器，广泛用于持续集成和持续交付（CI/CD）流程。该项目由 Jenkins 社区维护，支持通过插件扩展功能，可与多种版本控制系统、构建工具和部署平台集成。Jenkins 提供了丰富的流水线即代码（Pipeline as Code）能力，允许用户通过 Jenkinsfile 定义构建、测试和部署流程。其核心优势在于高度可扩展性和庞大的插件生态系统，适用于从简单任务到复杂工作流的自动化需求。作为 DevOps 工具链中的关键组件，Jenkins 帮助团队实现软件交付的自动化和标准化，提升开发效率与质量。",
+  "content_markdown": null,
+  "tags": [
+    "ci-cd",
+    "automation",
+    "devops",
+    "jenkins",
+    "continuous-integration"
+  ],
+  "language": "zh",
+  "author": "jenkinsci",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:02Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425799,
+    "github_language": "Java",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509664,
+    "github_stars_today": 18,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

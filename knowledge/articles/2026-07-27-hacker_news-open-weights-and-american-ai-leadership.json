@@ -1,0 +1,26 @@
+{
+  "id": "1a578fc99cc8fdbc5615fdacdbafdd458b8cf87bffe5137e074176d0f26678e4",
+  "title": "Open Weights and American AI Leadership",
+  "source_url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+  "source_type": "hacker_news",
+  "summary": "微软发布关于开放权重模型与美国AI领导力的政策立场，强调开放权重（open-weight）AI模型在促进创新、透明度和全球合作中的关键作用，同时指出需建立适当治理框架以平衡安全风险。文章认为，美国通过支持开放权重模型可巩固其在AI领域的全球领导地位，避免技术垄断并推动民主化访问。微软呼吁政策制定者采取差异化监管，区分开源与开放权重，并投资于安全研究、红队测试及出口管制协调。该立场反映了科技巨头在AI治理中寻求开放与安全平衡的典型策略，旨在影响美国及国际AI政策走向。",
+  "content_markdown": null,
+  "tags": [
+    "open-weight",
+    "ai-governance",
+    "us-policy",
+    "microsoft",
+    "ai-safety"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:04Z",
+  "analyzed_at": "2025-04-09T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

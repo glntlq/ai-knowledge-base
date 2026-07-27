@@ -1,0 +1,29 @@
+{
+  "id": "69695f63fedc323018695c69443876fd80a8bba46bca1e7a87bf7fceea19b5e0",
+  "title": "vudovn/ag-kit",
+  "source_url": "https://github.com/vudovn/ag-kit",
+  "source_type": "github_trending",
+  "summary": "ag-kit 是一个开源工具包，旨在简化自动化工作流的构建与执行。它提供模块化组件和可扩展接口，支持任务编排、状态管理和错误处理，适用于 CI/CD、数据处理等场景。项目采用轻量级设计，易于集成到现有系统，并提供了丰富的文档和示例。",
+  "content_markdown": null,
+  "tags": [
+    "automation",
+    "workflow",
+    "ci-cd",
+    "toolkit"
+  ],
+  "language": "en",
+  "author": "vudovn",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:02Z",
+  "analyzed_at": "2025-04-10T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947839,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501504,
+    "github_stars_today": 5,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

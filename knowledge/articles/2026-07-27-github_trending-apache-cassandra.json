@@ -1,0 +1,30 @@
+{
+  "id": "b8ed35fae4093c8ff14ead75920b32d285a22249bae6bd06343e25566b696b58",
+  "title": "apache/cassandra",
+  "source_url": "https://github.com/apache/cassandra",
+  "source_type": "github_trending",
+  "summary": "Apache Cassandra 是一个开源的分布式事务数据库，专为处理大规模数据而设计。它在线性扩展性和容错性方面表现出色，能够在商用硬件或云基础设施上运行，同时保持高性能。Cassandra 采用无主架构，支持跨多个数据中心的自动复制，确保高可用性和数据持久性。其数据模型基于列族，类似于键值存储，但提供了更丰富的查询能力。Cassandra 广泛应用于需要高写入吞吐量和低延迟的场景，如物联网、实时分析、消息系统等。它通过一致性哈希和 gossip 协议实现节点间通信，支持最终一致性或可调一致性级别。该项目由 Apache 软件基金会维护，拥有活跃的社区和丰富的生态系统，包括监控工具、客户端驱动和集成框架。",
+  "content_markdown": null,
+  "tags": [
+    "distributed-database",
+    "nosql",
+    "apache",
+    "fault-tolerance",
+    "scalability"
+  ],
+  "language": "zh",
+  "author": "apache",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:02Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949886,
+    "github_language": "Java",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503988,
+    "github_stars_today": 7,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

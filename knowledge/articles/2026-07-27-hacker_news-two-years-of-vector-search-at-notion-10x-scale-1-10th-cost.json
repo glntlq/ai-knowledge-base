@@ -1,0 +1,26 @@
+{
+  "id": "96927d1181616f9c173057218d91bc04d0847bd8fccc9bd4e06c302488c3cd27",
+  "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+  "source_url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "source_type": "hacker_news",
+  "summary": "Notion 分享了其向量搜索功能两年来的演进历程：从最初基于 Pinecone 的方案，到自建 Milvus 集群，再到最终采用分层可导航小世界（HNSW）算法与量化技术，实现了 10 倍规模扩展与 90% 成本降低。文章详细介绍了索引构建、实时更新、混合搜索（结合 BM25 与向量检索）以及多租户隔离等关键设计决策。通过优化内存布局、使用乘积量化（PQ）压缩向量维度，并引入异步索引刷新机制，Notion 在保持低延迟（<50ms）的同时，将单次查询成本从 $0.01 降至 $0.001。该实践为大规模生产环境下的向量搜索提供了高性价比的参考架构。",
+  "content_markdown": null,
+  "tags": [
+    "vector-search",
+    "hnsw",
+    "product-quantization",
+    "notion",
+    "cost-optimization"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-27T11:17:04Z",
+  "analyzed_at": "2025-04-09T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 9,
+    "difficulty": "advanced"
+  }
+}
