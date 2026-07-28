@@ -1,0 +1,30 @@
+{
+  "id": "a5b3bdba416011eba579f1e31889101d0b0fa697b6da4e14b93bfe92ad0ac4b6",
+  "title": "opengeos/GeoLibre",
+  "source_url": "https://github.com/opengeos/GeoLibre",
+  "source_type": "github_trending",
+  "summary": "GeoLibre 是一个轻量级、云原生的地理信息系统（GIS）平台，专为可视化、探索和分析地理空间数据而设计。它支持在 Web 浏览器、桌面、移动设备以及 Jupyter Notebook 中运行，具备跨平台兼容性。该平台采用现代云原生架构，无需复杂部署即可快速启动，适合从数据科学家到 GIS 专业人员的广泛用户。其核心功能包括交互式地图渲染、空间查询、图层管理和数据导入导出，并可通过插件扩展。GeoLibre 强调易用性和性能，旨在降低地理空间分析的门槛，同时保持对标准地理空间格式（如 GeoJSON、Shapefile）的支持。项目在 GitHub 上开源，采用 MIT 许可证，社区活跃，持续集成和文档完善。",
+  "content_markdown": null,
+  "tags": [
+    "gis",
+    "geospatial",
+    "cloud-native",
+    "jupyter",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "opengeos",
+  "published_at": null,
+  "collected_at": "2026-07-28T10:31:09Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943012,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150369,
+    "github_stars_today": 420,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
