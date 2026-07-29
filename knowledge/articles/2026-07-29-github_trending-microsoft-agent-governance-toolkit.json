@@ -1,0 +1,30 @@
+{
+  "id": "f19a1feca9bb7973a73ea034371411fbfac7dba95a38379001a81e47bd7479d2",
+  "title": "microsoft/agent-governance-toolkit",
+  "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+  "source_type": "github_trending",
+  "summary": "微软开源的AI Agent治理工具包，专注于为自主AI代理提供策略执行、零信任身份验证、执行沙箱和可靠性工程。该工具包全面覆盖OWASP Agentic Top 10安全风险，包括代理权限控制、数据保护、日志审计等关键治理能力。通过策略即代码（Policy-as-Code）实现细粒度访问控制，支持多种身份认证协议（如OAuth2.0、JWT），并提供隔离执行环境防止恶意操作。内置可靠性监控模块，可追踪代理行为并自动触发降级或熔断机制。适用于企业级AI代理部署场景，帮助开发者在保障安全合规的前提下构建自主决策系统。项目采用模块化架构，支持与LangChain、AutoGen等主流框架集成，降低治理落地门槛。",
+  "content_markdown": null,
+  "tags": [
+    "ai-governance",
+    "zero-trust",
+    "policy-enforcement",
+    "owasp-top-10",
+    "microsoft"
+  ],
+  "language": "zh",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-07-29T10:35:30Z",
+  "analyzed_at": "2025-04-14T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945403,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150855,
+    "github_stars_today": 46,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

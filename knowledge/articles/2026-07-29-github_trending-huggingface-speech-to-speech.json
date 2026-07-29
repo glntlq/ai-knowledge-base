@@ -1,0 +1,34 @@
+{
+  "id": "e09a30061b2dd10c09638f4d0d3bf7465461bca52c93769e48c27ab9ca89520f",
+  "title": "huggingface/speech-to-speech",
+  "source_url": "https://github.com/huggingface/speech-to-speech",
+  "source_type": "github_trending",
+  "summary": "该项目由 Hugging Face 推出，旨在利用开源模型构建本地语音代理。它提供了一套完整的工具链，支持语音识别、语音合成及对话管理，用户无需依赖云端服务即可在本地设备上实现端到端的语音交互。项目基于 Transformers 库，集成了 Whisper、TTS 等模型，并优化了低延迟推理。适用于智能家居、车载系统、离线助手等场景，强调隐私保护和离线可用性。",
+  "content_markdown": null,
+  "tags": [
+    "speech-to-speech",
+    "voice-agent",
+    "huggingface",
+    "open-source",
+    "local-inference"
+  ],
+  "language": "zh",
+  "author": "huggingface",
+  "published_at": null,
+  "collected_at": "2026-07-29T10:35:30Z",
+  "analyzed_at": "2026-07-29T10:36:51Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947558,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150979,
+    "github_stars_today": 227,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "published_at": null,
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z"
+  }
+}

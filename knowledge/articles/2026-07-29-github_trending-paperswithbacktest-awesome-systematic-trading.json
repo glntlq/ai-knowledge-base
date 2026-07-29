@@ -1,0 +1,30 @@
+{
+  "id": "bd3f160cead696c5c307212881e053189cb5550f0b057bfecae7d0fd8cd1b99e",
+  "title": "paperswithbacktest/awesome-systematic-trading",
+  "source_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精选的系统化交易资源列表，汇集了优秀的库、包、策略、书籍、博客和教程，旨在为量化交易者和研究人员提供一站式参考。内容涵盖从基础到高级的系统化交易工具，包括回测框架、数据源、风险管理、机器学习模型及实盘交易接口等。资源按类别组织，便于用户快速定位所需信息，适合希望构建或优化自动化交易系统的开发者。项目持续更新，社区活跃，是系统化交易领域的重要知识库。",
+  "content_markdown": null,
+  "tags": [
+    "systematic-trading",
+    "quantitative-finance",
+    "trading-strategies",
+    "machine-learning",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "paperswithbacktest",
+  "published_at": null,
+  "collected_at": "2026-07-29T10:35:30Z",
+  "analyzed_at": "2025-04-08T12:30:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410066,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501324,
+    "github_stars_today": 309,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
