@@ -1,0 +1,26 @@
+{
+  "id": "b7c61ddb42344a83987fc3ac29211e7dc8ee32fd8c1565d4d1aabdc0ee7aabd7",
+  "title": "LLM Honeypot",
+  "source_url": "https://llm2human.pages.dev/",
+  "source_type": "hacker_news",
+  "summary": "LLM Honeypot 是一个基于大语言模型（LLM）的蜜罐系统，旨在通过模拟人类对话行为来检测和诱捕恶意爬虫或自动化脚本。该项目利用 LLM 生成自然语言响应，使攻击者难以区分真实用户与蜜罐，从而有效识别并记录恶意活动。系统设计轻量，易于部署，适用于网站安全防护、反爬虫策略及安全研究场景。通过分析交互日志，可提取攻击者行为模式，提升威胁情报能力。项目代码开源，支持自定义配置，适合安全工程师和研究人员用于实战演练与防御测试。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "honeypot",
+    "security",
+    "anti-bot",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-30T10:22:07Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

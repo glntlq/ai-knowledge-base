@@ -1,0 +1,30 @@
+{
+  "id": "f5c6c6d253da649744909f27f8b8b5bbe2be6fdc150e649fed5a74e1999ce155",
+  "title": "deepfakes/faceswap",
+  "source_url": "https://github.com/deepfakes/faceswap",
+  "source_type": "github_trending",
+  "summary": "Deepfakes/faceswap 是一个开源深度学习工具，用于创建和交换面部图像。该项目基于 TensorFlow、Keras 和 OpenCV，提供命令行和图形界面，支持训练自定义模型以生成逼真的面部替换。它广泛应用于娱乐、影视制作，但也引发深度伪造伦理与安全讨论。项目强调合法使用，并包含检测伪造的指南。作为 GitHub 上最知名的 deepfake 项目之一，它推动了面部合成技术的普及，但需注意滥用风险。",
+  "content_markdown": null,
+  "tags": [
+    "deep-learning",
+    "face-swap",
+    "tensorflow",
+    "computer-vision",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "deepfakes",
+  "published_at": null,
+  "collected_at": "2026-07-30T10:22:07Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269456633,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013450,
+    "github_stars_today": 166,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5710f04b3e1b42d8320ceeca7ce35d14a2ebecdf70d7dbccff9da1eb6ea7eea1",
+  "title": "MoonshotAI/FlashKDA",
+  "source_url": "https://github.com/MoonshotAI/FlashKDA",
+  "source_type": "github_trending",
+  "summary": "FlashKDA 是由 MoonshotAI 开源的高性能 Kimi Delta Attention 内核实现，专注于优化注意力机制的计算效率。该项目针对大语言模型中的注意力层，通过创新的内核设计显著提升推理和训练速度，降低显存占用。FlashKDA 基于 Delta Attention 算法，结合 CUDA 和 Triton 等底层优化技术，实现了对长序列场景的高效支持。该工具适用于需要高性能注意力计算的 AI 研究和应用场景，如长文本理解、多轮对话等。项目代码开源，提供了详细的文档和示例，便于开发者集成和二次开发。FlashKDA 的发布有助于推动注意力机制在工业界的落地，尤其适合对推理延迟和资源消耗有严格要求的部署环境。",
+  "content_markdown": null,
+  "tags": [
+    "attention-mechanism",
+    "cuda",
+    "triton",
+    "large-language-models",
+    "performance-optimization"
+  ],
+  "language": "zh",
+  "author": "MoonshotAI",
+  "published_at": null,
+  "collected_at": "2026-07-30T10:22:07Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941078,
+    "github_language": "Cuda",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150102,
+    "github_stars_today": 91,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

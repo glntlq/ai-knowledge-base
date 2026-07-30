@@ -1,0 +1,30 @@
+{
+  "id": "9bb6e6a0ecea4c10c2e27c8e811d39dc2602da8710012130df41ad0903330a22",
+  "title": "grokability/snipe-it",
+  "source_url": "https://github.com/grokability/snipe-it",
+  "source_type": "github_trending",
+  "summary": "Snipe-IT 是一个免费开源的 IT 资产/许可证管理系统，专为中小型组织设计。它提供全面的资产管理功能，包括硬件、软件、许可证和耗材的跟踪，支持资产生命周期管理、用户分配、审计日志、报告生成以及自定义字段。系统基于 Laravel 框架构建，具有现代化的 Web 界面和 RESTful API，便于集成和扩展。Snipe-IT 强调易用性和可部署性，支持 Docker 一键部署，并拥有活跃的社区和丰富的文档。该项目在 GitHub 上持续维护，适合需要自托管资产管理的团队。",
+  "content_markdown": null,
+  "tags": [
+    "it-asset-management",
+    "open-source",
+    "laravel",
+    "license-management",
+    "self-hosted"
+  ],
+  "language": "zh",
+  "author": "grokability",
+  "published_at": null,
+  "collected_at": "2026-07-30T10:22:07Z",
+  "analyzed_at": "2025-04-09T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414596,
+    "github_language": "PHP",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503908,
+    "github_stars_today": 164,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

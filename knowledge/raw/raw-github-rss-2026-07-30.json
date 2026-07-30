@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-07-30T10:22:06Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/opengeos/GeoLibre",
+      "title": "opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "author": "opengeos",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944382,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150449,
+        "github_stars_today": 671,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/moeru-ai/airi",
+      "title": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "author": "moeru-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269445695,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504511,
+        "github_stars_today": 682,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694235931,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015035898,
+        "github_stars_today": 857,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/huggingface/speech-to-speech",
+      "title": "huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "author": "huggingface",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948172,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501023,
+        "github_stars_today": 827,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/1jehuang/jcode",
+      "title": "1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "author": "1jehuang",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413804,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501520,
+        "github_stars_today": 640,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/grokability/snipe-it",
+      "title": "grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "author": "grokability",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414596,
+        "github_language": "PHP",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503908,
+        "github_stars_today": 164,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/deepfakes/faceswap",
+      "title": "deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "author": "deepfakes",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269456633,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013450,
+        "github_stars_today": 166,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/VibeVoice",
+      "title": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269451557,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505724,
+        "github_stars_today": 336,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/different-ai/openwork",
+      "title": "different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "author": "different-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269418278,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501869,
+        "github_stars_today": 97,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694263656,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015023541,
+        "github_stars_today": 616,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/MoonshotAI/FlashKDA",
+      "title": "MoonshotAI/FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "author": "MoonshotAI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941078,
+        "github_language": "Cuda",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150102,
+        "github_stars_today": 91,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NanmiCoder/MediaCrawler",
+      "title": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "author": "NanmiCoder",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269459393,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011708,
+        "github_stars_today": 154,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/alibaba/open-code-review",
+      "title": "alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "author": "alibaba",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416344,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501101,
+        "github_stars_today": 359,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "title": "paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "author": "paperswithbacktest",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410669,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501370,
+        "github_stars_today": 945,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/maderix/ANE",
+      "title": "maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "author": "maderix",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947207,
+        "github_language": "Objective-C",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150963,
+        "github_stars_today": 22,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/pascalorg/editor",
+      "title": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "author": "pascalorg",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419837,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502611,
+        "github_stars_today": 1022,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/virgiliojr94/book-to-skill",
+      "title": "virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "author": "virgiliojr94",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413367,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501454,
+        "github_stars_today": 1421,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://llm2human.pages.dev/",
+      "title": "LLM Honeypot",
+      "description": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 261 # Comments: 68",
+      "author": "",
+      "published_at": "Wed, 29 Jul 2026 22:51:03 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "title": "AI's top startups are barely publishing their research",
+      "description": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 482 # Comments: 245",
+      "author": "",
+      "published_at": "Wed, 29 Jul 2026 21:25:40 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "description": "Article URL: https://huggingface.co/blog/agent-intrusion-technical-timeline Comments URL: https://news.ycombinator.com/item?id=49089500 Points: 388 # Comments: 213",
+      "author": "",
+      "published_at": "Tue, 28 Jul 2026 20:28:33 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-07-30T10:22:07Z"
+    }
+  ]
+}

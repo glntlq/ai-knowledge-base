@@ -1,0 +1,30 @@
+{
+  "id": "ff47111734ead0e1de00cb00cc1b17853400589e30d45ff54ab6d69aaca29735",
+  "title": "maderix/ANE",
+  "source_url": "https://github.com/maderix/ANE",
+  "source_type": "github_trending",
+  "summary": "该项目通过逆向工程苹果私有API，实现了在Apple Neural Engine（ANE）上直接训练神经网络。它绕过了官方Core ML框架的限制，提供了对ANE底层硬件的直接访问，从而可能获得更高的性能和更低的功耗。项目包含对ANE指令集、内存管理和执行流程的详细分析，并提供了示例代码和工具，帮助开发者在ANE上部署和训练自定义模型。这对于希望在Apple设备上充分利用神经引擎进行机器学习任务的研究者和工程师具有重要价值，尤其是在需要低延迟和高效能的应用场景中。",
+  "content_markdown": null,
+  "tags": [
+    "apple-neural-engine",
+    "reverse-engineering",
+    "neural-network-training",
+    "machine-learning",
+    "ios"
+  ],
+  "language": "zh",
+  "author": "maderix",
+  "published_at": null,
+  "collected_at": "2026-07-30T10:22:07Z",
+  "analyzed_at": "2025-04-08T12:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947207,
+    "github_language": "Objective-C",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150963,
+    "github_stars_today": 22,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

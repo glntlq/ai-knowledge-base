@@ -1,0 +1,26 @@
+{
+  "id": "0c6a714928308fc692c026ef13d8543384c6e0203f64767e055a7848fcf9d4ab",
+  "title": "AI's top startups are barely publishing their research",
+  "source_url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+  "source_type": "hacker_news",
+  "summary": "本文指出，顶级AI初创公司正大幅减少研究成果的公开出版，转向闭源模式以保护商业优势。这种趋势与学术界开放共享的传统相悖，可能阻碍AI领域的整体进步。文章分析了OpenAI、Anthropic等公司近年论文发表量下降的数据，并讨论了闭源对科研可重复性、知识传播及行业创新的负面影响。同时，文章也提及部分初创公司仍坚持开源，但整体趋势令人担忧。",
+  "content_markdown": null,
+  "tags": [
+    "ai-research",
+    "open-source",
+    "startups",
+    "publication-trend",
+    "science-policy"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-30T10:22:07Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
