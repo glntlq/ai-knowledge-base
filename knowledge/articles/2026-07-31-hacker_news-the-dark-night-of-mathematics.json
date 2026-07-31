@@ -1,0 +1,26 @@
+{
+  "id": "eb2aac45242f634223ad30a457b688859906985d94f640104cf01823bd9c3c08",
+  "title": "The Dark Night of Mathematics",
+  "source_url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了数学在当代科学与社会中的深层危机，指出数学基础的不确定性及其在应用中的异化。作者以“黑暗之夜”为隐喻，反思数学形式化体系与直觉、意义之间的断裂，并批判了过度依赖计算工具和纯逻辑推演的趋势。文章强调，数学的严谨性若脱离对现实世界的解释力，将沦为空洞的符号游戏。同时，作者呼吁重新审视数学的本质，恢复其作为人类理解自然和自身认知工具的地位。文中还涉及数学教育、哲学基础以及数学与物理学的互动，提出数学需要一种“现象学转向”，以重建与经验世界的联系。整体上，这是一篇面向数学从业者和哲学爱好者的思辨性文章，兼具历史深度和当代关切。",
+  "content_markdown": null,
+  "tags": [
+    "mathematics",
+    "philosophy-of-math",
+    "foundations",
+    "epistemology",
+    "science-critique"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-31T10:35:43Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

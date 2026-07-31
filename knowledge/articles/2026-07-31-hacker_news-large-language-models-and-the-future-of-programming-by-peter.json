@@ -1,0 +1,30 @@
+{
+  "id": "cb7f1b78ef02239bf015e9314500285a20419208664dbc68051ffe6ff120bad8",
+  "title": "Large Language Models and the Future of Programming by Peter Norvig (2023)",
+  "source_url": "https://www.youtube.com/watch?v=ia6aJIplmtc",
+  "source_type": "hacker_news",
+  "summary": "Peter Norvig 在 2023 年的演讲中深入探讨了大型语言模型（LLM）对编程未来的影响。他回顾了编程范式的演变，从早期符号 AI 到统计学习，再到当前基于 Transformer 的 LLM。Norvig 强调，LLM 并非取代程序员，而是改变编程的本质：从编写精确指令转向更高层次的意图表达和代码审查。他分析了 LLM 在代码生成、调试、文档编写等方面的潜力与局限，指出模型可能产生幻觉、缺乏可解释性，并需要人类监督。Norvig 提出，未来程序员将更多扮演“AI 协调者”角色，负责定义问题、验证输出和整合系统。他还讨论了教育、工具链和软件工程实践的适应性变革，呼吁开发者拥抱新工具，同时保持批判性思维。演讲以乐观但审慎的基调收尾，认为 LLM 将提升生产力，但核心的工程判断力和创造力仍属人类。",
+  "content_markdown": null,
+  "tags": [
+    "large-language-models",
+    "programming",
+    "ai-assisted-development",
+    "future-of-coding",
+    "peter-norvig"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": "Wed, 29 Jul 2026 01:00:21 -0500",
+  "collected_at": "2026-07-31T10:35:43Z",
+  "analyzed_at": "2026-07-31T10:36:47Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "status": "pending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}

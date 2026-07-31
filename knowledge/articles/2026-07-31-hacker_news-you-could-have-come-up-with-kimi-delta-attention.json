@@ -1,0 +1,26 @@
+{
+  "id": "066dadcd5d5d4684c9967a993e8be543c5265132bde7d99c67ab0fc41299b802",
+  "title": "You Could Have Come Up With Kimi Delta Attention",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "source_type": "hacker_news",
+  "summary": "本文深入浅出地解析了 Kimi 模型中的 Delta Attention 机制，指出其核心思想——通过引入可学习的 delta 项来动态调整注意力权重，从而在保持计算效率的同时提升长序列建模能力。作者从标准注意力公式出发，逐步推导 Delta Attention 的数学形式，并解释了它如何通过残差连接和门控机制实现更灵活的信息交互。文章强调，这一设计并非高不可攀，而是基于对注意力本质的深刻理解，任何研究者都能从基础原理出发独立推导。同时，作者分析了 Delta Attention 在训练稳定性、推理速度及内存占用方面的优势，并对比了其与稀疏注意力、线性注意力等方法的异同。最后，文章讨论了该机制在长文本处理、多模态任务中的潜在应用，并指出了未来可优化的方向。整体而言，本文为理解现代注意力变体提供了清晰的思路，适合对模型架构创新感兴趣的读者。",
+  "content_markdown": null,
+  "tags": [
+    "attention-mechanism",
+    "transformer",
+    "deep-learning",
+    "kimi",
+    "model-architecture"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-07-31T10:35:43Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

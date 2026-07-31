@@ -1,0 +1,306 @@
+{
+  "collected_at": "2026-07-31T10:35:38Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/huggingface/speech-to-speech",
+      "title": "huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "author": "huggingface",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949513,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501166,
+        "github_stars_today": 628,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/AI-For-Beginners",
+      "title": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454806,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011069,
+        "github_stars_today": 155,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "title": "paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "author": "paperswithbacktest",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411427,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501443,
+        "github_stars_today": 621,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/different-ai/openwork",
+      "title": "different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "author": "different-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419087,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501935,
+        "github_stars_today": 915,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/WhiskeySockets/Baileys",
+      "title": "WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "author": "WhiskeySockets",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410521,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503261,
+        "github_stars_today": 19,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/pascalorg/editor",
+      "title": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "author": "pascalorg",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420344,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502636,
+        "github_stars_today": 625,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "author": "mvanhorn",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269455830,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504806,
+        "github_stars_today": 378,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/dotnet/aspnetcore",
+      "title": "dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "author": "dotnet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438333,
+        "github_language": "C#",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010860,
+        "github_stars_today": 7,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/PowerToys",
+      "title": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694137296,
+        "github_language": "C",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508372,
+        "github_stars_today": 70,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ansible/ansible",
+      "title": "ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com .",
+      "author": "ansible",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269469990,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015024259,
+        "github_stars_today": 29,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "author": "ChromeDevTools",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269448241,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503272,
+        "github_stars_today": 80,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jenkinsci/jenkins",
+      "title": "jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "author": "jenkinsci",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426369,
+        "github_language": "Java",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509722,
+        "github_stars_today": 25,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/agavra/tuicr",
+      "title": "agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "author": "agavra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941999,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150167,
+        "github_stars_today": 190,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694236469,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015035951,
+        "github_stars_today": 804,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-07-31T10:35:40Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.haykranen.nl/2026/07/30/wikimania-2026-every-wikimedian-toolmaker/",
+      "title": "Why every Wikimedian should be a toolmaker",
+      "description": "<p><a href=\"https://lobste.rs/s/vamsks/why_every_wikimedian_should_be_toolmaker\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 30 Jul 2026 07:14:59 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-31T10:35:43Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+      "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+      "description": "<p><a href=\"https://lobste.rs/s/hbtqfe/writing_php_virtual_machine_rust_with_lot\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 29 Jul 2026 09:02:35 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-31T10:35:43Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+      "title": "The Dark Night of Mathematics",
+      "description": "<p><a href=\"https://lobste.rs/s/hrhb42/dark_night_mathematics\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 29 Jul 2026 07:35:26 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-31T10:35:43Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=ia6aJIplmtc",
+      "title": "Large Language Models and the Future of Programming by Peter Norvig (2023)",
+      "description": "<p><a href=\"https://lobste.rs/s/bouq9b/large_language_models_future\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 29 Jul 2026 01:00:21 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-31T10:35:43Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "title": "You Could Have Come Up With Kimi Delta Attention",
+      "description": "<p><a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 28 Jul 2026 12:01:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-31T10:35:43Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+      "title": "Languages as designed latent spaces",
+      "description": "<p><a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 25 Jul 2026 10:13:27 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-07-31T10:35:43Z"
+    }
+  ]
+}

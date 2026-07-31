@@ -1,0 +1,30 @@
+{
+  "id": "591782a20588b046163efe89d18908c9decc97cd95725a0641b9fb494496db29",
+  "title": "WhiskeySockets/Baileys",
+  "source_url": "https://github.com/WhiskeySockets/Baileys",
+  "source_type": "github_trending",
+  "summary": "Baileys 是一个基于 TypeScript/JavaScript 的库，用于通过 WhatsApp Web 协议进行通信。它采用 Socket 架构，允许开发者以编程方式发送和接收 WhatsApp 消息，实现自动化交互。该项目在 GitHub 上活跃，提供了丰富的 API 和示例，支持多设备、群组、媒体消息等功能。由于其非官方性质，使用时需注意 WhatsApp 服务条款和潜在封号风险。该库适合构建聊天机器人、客户服务自动化等应用，是 Node.js 生态中流行的 WhatsApp 集成方案。",
+  "content_markdown": null,
+  "tags": [
+    "whatsapp",
+    "typescript",
+    "javascript",
+    "socket",
+    "api"
+  ],
+  "language": "en",
+  "author": "WhiskeySockets",
+  "published_at": null,
+  "collected_at": "2026-07-31T10:35:40Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410521,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503261,
+    "github_stars_today": 19,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
