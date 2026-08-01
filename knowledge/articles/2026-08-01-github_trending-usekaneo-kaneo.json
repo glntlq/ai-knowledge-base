@@ -1,0 +1,30 @@
+{
+  "id": "aca84f28c51a1a43715590b6768bc78566883953402a492f46d590ab07ec0912",
+  "title": "usekaneo/kaneo",
+  "source_url": "https://github.com/usekaneo/kaneo",
+  "source_type": "github_trending",
+  "summary": "Kaneo 是一个开源项目管理工具，其设计理念是“你所需的一切，不多不少”，强调简洁高效，让工具适应团队而非相反。项目托管于 GitHub，仓库地址为 usekaneo/kaneo。它旨在提供一种不臃肿、不复杂的项目管理体验，可能涵盖任务跟踪、协作等功能，适合追求轻量级解决方案的团队或个人。作为开源项目，Kaneo 允许用户自托管，保障数据隐私和定制灵活性。其核心卖点在于平衡功能与简洁性，避免常见项目管理软件的过度复杂化。该项目在 GitHub 上受到关注，反映了开发者社区对精简、实用工具的需求。",
+  "content_markdown": null,
+  "tags": [
+    "project-management",
+    "open-source",
+    "self-hosted",
+    "productivity",
+    "kanban"
+  ],
+  "language": "en",
+  "author": "usekaneo",
+  "published_at": null,
+  "collected_at": "2026-08-01T09:55:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945342,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150463,
+    "github_stars_today": 194,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

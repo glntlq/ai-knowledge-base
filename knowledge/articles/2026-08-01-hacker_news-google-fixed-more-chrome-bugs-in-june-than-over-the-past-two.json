@@ -1,0 +1,26 @@
+{
+  "id": "16e96d1a448e255224e29c9c90e24cc41436bb03c2dab1205cd0dbd4cc4648e7",
+  "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+  "source_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+  "source_type": "hacker_news",
+  "summary": "谷歌在2025年6月修复的Chrome浏览器安全漏洞数量超过了过去两年的总和，这一显著提升主要归功于AI技术的应用。通过引入AI辅助的漏洞检测与修复流程，谷歌大幅提高了安全响应的效率和覆盖面。文章强调，AI不仅帮助自动识别和分类潜在威胁，还能加速补丁的开发与部署，从而在更短时间内解决更多安全问题。这一进展标志着浏览器安全维护进入新阶段，但也引发了对AI在安全领域应用边界的讨论。谷歌表示，将继续深化AI在Chrome安全体系中的角色，以应对日益复杂的网络威胁。",
+  "content_markdown": null,
+  "tags": [
+    "chrome",
+    "ai-security",
+    "vulnerability-management",
+    "google",
+    "browser-security"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-01T09:55:11Z",
+  "analyzed_at": "2025-07-01T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

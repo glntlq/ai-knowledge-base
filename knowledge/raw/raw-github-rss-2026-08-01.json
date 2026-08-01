@@ -1,0 +1,298 @@
+{
+  "collected_at": "2026-08-01T09:55:10Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "title": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "author": "zhaoxuya520",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411239,
+        "github_language": "PowerShell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501724,
+        "github_stars_today": 335,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/different-ai/openwork",
+      "title": "different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "author": "different-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419758,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502050,
+        "github_stars_today": 806,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "author": "mvanhorn",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269456460,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504931,
+        "github_stars_today": 658,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "title": "paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "author": "paperswithbacktest",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411948,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501492,
+        "github_stars_today": 763,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/AI-For-Beginners",
+      "title": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269455649,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011192,
+        "github_stars_today": 1592,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/github/copilot-sdk",
+      "title": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "author": "github",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410193,
+        "github_language": "Java",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501379,
+        "github_stars_today": 7,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/chatwoot/chatwoot",
+      "title": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "author": "chatwoot",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435258,
+        "github_language": "Ruby",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508446,
+        "github_stars_today": 35,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/agavra/tuicr",
+      "title": "agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "author": "agavra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942221,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150177,
+        "github_stars_today": 335,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/usekaneo/kaneo",
+      "title": "usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "author": "usekaneo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945342,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150463,
+        "github_stars_today": 194,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "title": "geo-tp/ESP32-Bit-Pirate",
+      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "author": "geo-tp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945192,
+        "github_language": "C++",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150418,
+        "github_stars_today": 83,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/deepfakes/faceswap",
+      "title": "deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "author": "deepfakes",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269457145,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013484,
+        "github_stars_today": 93,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/1jehuang/jcode",
+      "title": "1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "author": "1jehuang",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414776,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501628,
+        "github_stars_today": 527,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "title": "AI doesn't generate working products, that's still your job",
+      "description": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 34 # Comments: 14",
+      "author": "",
+      "published_at": "Sat, 01 Aug 2026 07:52:10 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://microsoft.github.io/flint-chart/",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "description": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 120 # Comments: 37",
+      "author": "",
+      "published_at": "Sat, 01 Aug 2026 02:45:09 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/yc-software/qm",
+      "title": "qm – Multiplayer agent harness for work",
+      "description": "Article URL: https://github.com/yc-software/qm Comments URL: https://news.ycombinator.com/item?id=49126604 Points: 572 # Comments: 117",
+      "author": "",
+      "published_at": "Fri, 31 Jul 2026 18:04:58 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "description": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 519 # Comments: 532",
+      "author": "",
+      "published_at": "Fri, 31 Jul 2026 07:29:22 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "description": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs Comments URL: https://news.ycombinator.com/item?id=49108840 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 30 Jul 2026 12:01:05 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-01T09:55:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://github.com/baidu/vLLM-Kunlun",
+      "title": "vLLM for Baidu Kunlun",
+      "description": "<p><a href=\"https://lobste.rs/s/sbu76n/vllm_for_baidu_kunlun\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 31 Jul 2026 03:01:26 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-01T09:55:12Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+      "title": "Writing the PHP Virtual Machine in Rust (with a lot of help from AI)",
+      "description": "<p><a href=\"https://lobste.rs/s/hbtqfe/writing_php_virtual_machine_rust_with_lot\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 29 Jul 2026 09:02:35 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-01T09:55:12Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+      "title": "The Dark Night of Mathematics",
+      "description": "<p><a href=\"https://lobste.rs/s/hrhb42/dark_night_mathematics\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 29 Jul 2026 07:35:26 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-01T09:55:12Z"
+    }
+  ]
+}

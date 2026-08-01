@@ -1,0 +1,26 @@
+{
+  "id": "5bf8e54be6dcb1cbfc38221a280a52e033e89203129225d0826053fbd65cf85f",
+  "title": "vLLM for Baidu Kunlun",
+  "source_url": "https://github.com/baidu/vLLM-Kunlun",
+  "source_type": "hacker_news",
+  "summary": "百度昆仑芯（Baidu Kunlun）是百度自研的AI加速芯片，其与vLLM推理框架的适配项目vLLM-Kunlun已在GitHub开源。该项目旨在将vLLM的高性能推理能力迁移至昆仑芯平台，支持大语言模型的高效部署。通过优化内核、内存管理和调度策略，vLLM-Kunlun实现了对昆仑芯硬件的深度适配，提升了推理吞吐并降低了延迟。该项目的意义在于扩展了国产AI芯片的软件生态，为开发者提供了在昆仑芯上运行主流LLM的便捷方案，同时展示了vLLM框架的可移植性。当前项目处于早期阶段，但已具备基础推理能力，未来有望支持更多模型和优化特性。",
+  "content_markdown": null,
+  "tags": [
+    "vllm",
+    "baidu-kunlun",
+    "llm-inference",
+    "ai-accelerator",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-01T09:55:12Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

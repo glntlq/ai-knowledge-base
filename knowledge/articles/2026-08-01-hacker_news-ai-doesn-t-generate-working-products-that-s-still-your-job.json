@@ -1,0 +1,26 @@
+{
+  "id": "69ff66a69852e21317fdd6bf6bd092d954fe5f2b375cfadef5355676473231fe",
+  "title": "AI doesn't generate working products, that's still your job",
+  "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了当前AI编程工具（如Copilot、ChatGPT）的局限性，指出它们能生成代码片段或原型，但无法交付可工作的完整产品。作者强调，产品化涉及需求分析、架构设计、测试、部署、维护等复杂工程实践，这些仍依赖人类工程师的判断与责任。AI生成的代码常缺乏上下文理解、存在安全隐患或不符合业务逻辑，因此开发者必须将其视为辅助工具而非替代品。文章呼吁开发者提升自身技能，掌握产品思维，并谨慎审查AI输出，以确保软件质量与可靠性。核心观点是：AI降低编码门槛，但产品成功仍取决于人的决策与工程能力。",
+  "content_markdown": null,
+  "tags": [
+    "ai-coding",
+    "software-engineering",
+    "product-development",
+    "developer-tools",
+    "code-review"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-01T09:55:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

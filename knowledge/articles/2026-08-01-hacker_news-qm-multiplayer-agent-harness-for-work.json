@@ -1,0 +1,26 @@
+{
+  "id": "85cf9e25c60be5d4bee74ec7e1092b93966c4cedc721a9d28b2326fbade34ebc",
+  "title": "qm – Multiplayer agent harness for work",
+  "source_url": "https://github.com/yc-software/qm",
+  "source_type": "hacker_news",
+  "summary": "qm 是一个面向工作场景的多智能体协作框架，旨在将多个 AI 代理组织成可协同工作的“多人”系统。它提供了一套工具和运行时，用于定义、调度和协调代理之间的任务分配与消息传递，支持复杂工作流的自动化。该项目在 Hacker News 上获得 572 分和 117 条评论，引发了对多代理系统实用性和编排模式的讨论。qm 强调“harness”概念，即通过轻量级约束和接口让代理高效协作，而非完全自主。其设计可能适用于软件开发、数据分析等需要多步骤协作的领域。目前项目处于早期阶段，但社区关注度较高，适合对多代理架构感兴趣的开发者探索。",
+  "content_markdown": null,
+  "tags": [
+    "multi-agent",
+    "ai-agents",
+    "workflow-automation",
+    "orchestration",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-01T09:55:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

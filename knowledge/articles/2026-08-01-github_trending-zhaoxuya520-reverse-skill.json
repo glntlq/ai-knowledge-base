@@ -1,0 +1,30 @@
+{
+  "id": "84dde246b871e177d06996d4a47dacc6ef1785f0ecdcd06fcd3f56de06461388",
+  "title": "zhaoxuya520/reverse-skill",
+  "source_url": "https://github.com/zhaoxuya520/reverse-skill",
+  "source_type": "github_trending",
+  "summary": "reverse-skill 是一个面向 AI 编程客户端的技能路由包，专注于逆向工程、授权渗透测试与安全研究。它通过 AI 自动路由技术，根据任务需求动态选择最佳技能路径，并按需自举工具链，避免冗余加载。项目内置自进化经验库，能够从历史操作中持续学习，优化后续决策。该工具包兼容 Claude Code、Kiro、Cursor、Cline 等主流 AI 代码助手，为安全测试人员提供结构化的技能调用框架，提升自动化渗透与逆向分析的效率。其核心价值在于将分散的安全工具与 AI 能力整合，实现智能化的任务编排与知识沉淀。",
+  "content_markdown": null,
+  "tags": [
+    "reverse-engineering",
+    "penetration-testing",
+    "security-research",
+    "ai-agents",
+    "toolchain"
+  ],
+  "language": "zh",
+  "author": "zhaoxuya520",
+  "published_at": null,
+  "collected_at": "2026-08-01T09:55:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411239,
+    "github_language": "PowerShell",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501724,
+    "github_stars_today": 335,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
