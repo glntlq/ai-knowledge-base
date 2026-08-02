@@ -1,0 +1,30 @@
+{
+  "id": "c1601b2a650a68db559f9394860d3fb3c560c459fe6a74f861c1034a1edfa6bd",
+  "title": "microsoft/generative-ai-for-beginners",
+  "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "source_type": "github_trending",
+  "summary": "微软推出的《Generative AI for Beginners》是一套面向初学者的生成式人工智能入门课程，包含21个课时，旨在帮助学习者快速上手构建生成式AI应用。课程内容覆盖生成式AI的核心概念、提示工程、大语言模型（LLM）基础、文本生成、图像生成、音频生成、多模态应用、RAG（检索增强生成）、AI Agent（智能体）以及负责任AI等主题。每个课时均包含理论讲解、代码示例和实践项目，并提供Jupyter Notebook和Python代码，便于动手实操。课程还提供了完整的教学视频、幻灯片和配套资源，适合开发者、学生及技术爱好者自学或作为教学材料。该项目在GitHub上开源，持续更新，社区活跃，是学习生成式AI的优质免费资源。",
+  "content_markdown": null,
+  "tags": [
+    "generative-ai",
+    "llm",
+    "prompt-engineering",
+    "education",
+    "microsoft"
+  ],
+  "language": "zh",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-08-02T09:53:15Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694114429,
+    "github_language": "Jupyter Notebook",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015061247,
+    "github_stars_today": 108,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "beginner"
+  }
+}

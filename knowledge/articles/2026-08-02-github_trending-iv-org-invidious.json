@@ -1,0 +1,30 @@
+{
+  "id": "27d01330932d283de5d7c26eb531e7eb2a9d56ee10ef78acab1f1469b65b000f",
+  "title": "iv-org/invidious",
+  "source_url": "https://github.com/iv-org/invidious",
+  "source_type": "github_trending",
+  "summary": "Invidious 是一个开源的 YouTube 替代前端，旨在提供隐私保护、无广告、无追踪的观看体验。它允许用户在不登录 Google 账户的情况下浏览、搜索和播放 YouTube 视频，并支持订阅频道、创建播放列表、下载音视频等功能。该项目采用 Crystal 语言编写，后端使用 PostgreSQL 数据库，前端为轻量级网页界面，支持自托管部署。Invidious 通过代理视频流和屏蔽追踪器来保护用户隐私，同时提供 API 接口供第三方应用集成。该项目在 GitHub 上活跃，拥有大量星标和贡献者，是隐私导向用户和自托管爱好者的热门选择。",
+  "content_markdown": null,
+  "tags": [
+    "youtube",
+    "privacy",
+    "self-hosted",
+    "crystal",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "iv-org",
+  "published_at": null,
+  "collected_at": "2026-08-02T09:53:15Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421713,
+    "github_language": "Crystal",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502438,
+    "github_stars_today": 435,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

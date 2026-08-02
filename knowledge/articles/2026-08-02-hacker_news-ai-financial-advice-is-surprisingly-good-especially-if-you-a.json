@@ -1,0 +1,26 @@
+{
+  "id": "4508164c21e033e54e18c98bf73995ede4250b313e8452fafc68ed98f5676a32",
+  "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+  "source_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+  "source_type": "hacker_news",
+  "summary": "麻省理工斯隆管理学院的研究表明，AI（如ChatGPT）提供的财务建议质量出人意料地高，尤其在用户提出正确问题时。研究测试了AI对个人财务问题的回答，发现其建议与人类专家相当，甚至在某些方面更优，且能避免常见行为偏差。然而，AI建议的有效性高度依赖于提问方式：具体、情境化的问题能获得更精准的答案。研究强调，AI可作为财务教育的工具，但用户需具备基本财务素养以提出关键问题，并警惕AI可能产生的幻觉或过时信息。该发现对金融科技和普惠金融具有启示，但需谨慎对待AI建议的局限性。",
+  "content_markdown": null,
+  "tags": [
+    "ai-finance",
+    "financial-advice",
+    "llm",
+    "personal-finance",
+    "fintech"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-02T09:53:49Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

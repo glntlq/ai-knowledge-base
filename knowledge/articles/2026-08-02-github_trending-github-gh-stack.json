@@ -1,0 +1,30 @@
+{
+  "id": "09d8eb80d0536999d854813b788a0f8ad0381b35c70a442a7add947af8a7f41d",
+  "title": "github/gh-stack",
+  "source_url": "https://github.com/github/gh-stack",
+  "source_type": "github_trending",
+  "summary": "gh-stack 是 GitHub 官方推出的命令行工具，用于简化堆叠式拉取请求（Stacked PRs）的工作流程。它允许开发者将一系列相互依赖的变更拆分为多个小型的、按顺序排列的 PR，每个 PR 独立审查和合并，从而提升代码审查效率并减少冲突。该工具基于 GitHub CLI 构建，提供创建、同步、更新和重新排序堆叠 PR 的命令，并自动处理分支间的依赖关系。它特别适合大型功能开发或需要频繁集成上游变更的场景，能够显著改善团队协作体验。gh-stack 目前处于积极开发阶段，支持 macOS、Linux 和 Windows 平台，可通过 GitHub CLI 扩展方式安装。",
+  "content_markdown": null,
+  "tags": [
+    "github-cli",
+    "stacked-pr",
+    "developer-tools",
+    "workflow",
+    "cli"
+  ],
+  "language": "zh",
+  "author": "github",
+  "published_at": null,
+  "collected_at": "2026-08-02T09:53:15Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694884,
+    "github_language": "Go",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015038,
+    "github_stars_today": 46,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

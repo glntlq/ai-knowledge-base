@@ -1,0 +1,30 @@
+{
+  "id": "3bddf6736ae6980c778a745c41f84e9a2fe707141d7e32b9b87d8cfcafff3ce4",
+  "title": "microsoft/TRELLIS.2",
+  "source_url": "https://github.com/microsoft/TRELLIS.2",
+  "source_type": "github_trending",
+  "summary": "TRELLIS.2 是微软发布的一个面向 3D 生成领域的开源项目，其核心创新在于引入原生且紧凑的结构化潜空间（structured latents），旨在提升 3D 内容生成的效率与质量。该项目在 GitHub 上受到广泛关注，代表了 3D 生成技术的前沿方向。通过将 3D 数据编码为结构化且紧凑的潜在表示，TRELLIS.2 有望解决传统 3D 生成方法在计算复杂度和生成保真度之间的平衡问题，为游戏、影视、虚拟现实等领域的 3D 资产生产提供新的技术路径。项目代码开源，便于研究者和开发者复现与二次开发。",
+  "content_markdown": null,
+  "tags": [
+    "3d-generation",
+    "structured-latents",
+    "deep-learning",
+    "computer-vision",
+    "microsoft"
+  ],
+  "language": "en",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-08-02T09:53:15Z",
+  "analyzed_at": "2025-04-11T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410043,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501207,
+    "github_stars_today": 107,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "advanced"
+  }
+}

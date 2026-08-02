@@ -1,0 +1,30 @@
+{
+  "id": "42e57e16787553d9172875aa884e6ce889d780e48acaab5a81cc1224a69cd14d",
+  "title": "NomaDamas/k-skill",
+  "source_url": "https://github.com/NomaDamas/k-skill",
+  "source_type": "github_trending",
+  "summary": "k-skill 是一个面向韩语用户的开源技能集合项目，旨在将 AI 代理（agent）的行为和交互方式“韩国化”。该项目收集并整理了多种针对韩语场景优化的技能（skills），覆盖日常对话、信息检索、任务执行等方向，帮助开发者快速构建更贴合韩国文化和使用习惯的 AI 应用。通过提供预定义的技能模块，k-skill 降低了 AI 代理在韩语环境下的开发门槛，并促进了韩语自然语言处理与代理生态的融合。项目托管于 GitHub，采用开源协作模式，适合对多语言 AI 代理开发感兴趣的开发者参考或贡献。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "korean-language",
+    "skills",
+    "nlp",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "NomaDamas",
+  "published_at": null,
+  "collected_at": "2026-08-02T09:53:15Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946810,
+    "github_language": "JavaScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150801,
+    "github_stars_today": 53,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
