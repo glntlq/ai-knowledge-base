@@ -1,0 +1,30 @@
+{
+  "id": "25de20aece79d857cdbfc6f025e8817808a3e1ca2d9eef21fa017dcd021ff4c3",
+  "title": "antirez/ds4",
+  "source_url": "https://github.com/antirez/ds4",
+  "source_type": "github_trending",
+  "summary": "antirez（Redis 作者）开源了 ds4，一个专为 DeepSeek 4 Flash 和 PRO 模型设计的本地推理引擎，支持 Apple Metal、NVIDIA CUDA 和 AMD ROCm 三大主流计算平台。该项目旨在提供高性能的本地推理能力，使开发者能够在个人设备上运行 DeepSeek 4 系列模型，无需依赖云端服务。ds4 针对不同硬件进行了优化，充分利用 Metal 的 GPU 加速、CUDA 的生态优势以及 ROCm 的开放特性，覆盖 Mac、NVIDIA 和 AMD 用户。项目代码结构清晰，注重易用性和可扩展性，适合对本地大模型推理感兴趣的开发者研究和使用。作为技术探索，ds4 展示了在异构硬件上实现高效推理的实践，为社区提供了有价值的参考。",
+  "content_markdown": null,
+  "tags": [
+    "inference-engine",
+    "deepseek",
+    "metal",
+    "cuda",
+    "rocm"
+  ],
+  "language": "en",
+  "author": "antirez",
+  "published_at": null,
+  "collected_at": "2026-08-03T11:19:04Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420199,
+    "github_language": "C",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501788,
+    "github_stars_today": 139,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

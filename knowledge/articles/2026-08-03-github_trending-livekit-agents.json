@@ -1,0 +1,33 @@
+{
+  "id": "d9e2c7ee7dcd9c85c273a6f963b853a55c0654a296f94364c5f4e6cd97b93e86",
+  "title": "livekit/agents",
+  "source_url": "https://github.com/livekit/agents",
+  "source_type": "github_trending",
+  "summary": "LiveKit Agents 是一个用于构建实时语音 AI 代理的开源框架，支持音频、视频和文本多模态交互。它提供高层次的抽象，使开发者能够快速集成语音识别（STT）、语音合成（TTS）和大语言模型（LLM），并管理实时会话的编排、状态和中断处理。框架基于 LiveKit 的实时通信基础设施，支持 WebRTC 低延迟传输，适用于语音助手、客服机器人、虚拟会议等场景。项目活跃，社区持续贡献，提供 Python 和 JavaScript SDK，并支持多种主流 AI 服务提供商。该框架强调生产级可靠性，包含可插拔组件和丰富的示例，降低了构建实时语音 AI 应用的门槛。",
+  "content_markdown": null,
+  "tags": [
+    "voice-ai",
+    "realtime",
+    "webrtc",
+    "llm",
+    "framework"
+  ],
+  "language": "en",
+  "author": "livekit",
+  "published_at": null,
+  "collected_at": "2026-08-03T11:19:04Z",
+  "analyzed_at": "2026-08-03T11:19:57Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411776,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503447,
+    "github_stars_today": 129,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "collected_at": "2025-04-08T00:00:00Z",
+    "analyzed_at": "2025-04-08T00:00:00Z",
+    "published_at": null
+  }
+}

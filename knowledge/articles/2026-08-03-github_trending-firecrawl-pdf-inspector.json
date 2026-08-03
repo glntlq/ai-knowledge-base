@@ -1,0 +1,29 @@
+{
+  "id": "708c61e0cdaf0247eff497e6b57fdf68c095da5a41b07ca340a8aff3feb201cd",
+  "title": "firecrawl/pdf-inspector",
+  "source_url": "https://github.com/firecrawl/pdf-inspector",
+  "source_type": "github_trending",
+  "summary": "pdf-inspector 是一个基于 Rust 的高性能 PDF 检查与分类库，专注于快速识别 PDF 是扫描件还是文本型文档，并提取文本内容。它通过智能检测机制，帮助开发者自动路由 PDF 处理流程，避免对扫描件执行无效的文本提取操作。该库设计轻量、高效，适合集成到需要批量处理 PDF 的系统中，如文档管理系统、数据提取管道或自动化工作流。其核心优势在于速度与准确性，能够显著提升 PDF 处理的智能化水平。",
+  "content_markdown": null,
+  "tags": [
+    "rust",
+    "pdf",
+    "text-extraction",
+    "document-classification"
+  ],
+  "language": "en",
+  "author": "firecrawl",
+  "published_at": null,
+  "collected_at": "2026-08-03T11:19:04Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946642,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150467,
+    "github_stars_today": 1769,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
