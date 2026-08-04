@@ -1,0 +1,25 @@
+{
+  "id": "5f35131f517d50f3113d8d8ccd4288ced5e2bcdfc83b69d3b265f8911f481a57",
+  "title": "Categorization with NLP",
+  "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了使用自然语言处理（NLP）技术进行文本分类的方法与实践。作者从实际需求出发，介绍了文本分类的基本流程，包括数据预处理、特征提取、模型选择与评估。重点比较了传统机器学习方法（如TF-IDF结合朴素贝叶斯、支持向量机）与深度学习方法（如基于Transformer的预训练模型）在分类任务中的表现，并讨论了各自的适用场景与优缺点。文章还涉及了多标签分类、类别不平衡处理、模型部署等工程实践问题，强调了在真实业务中平衡准确率、召回率与推理速度的重要性。通过具体案例，作者展示了如何利用NLP工具库（如spaCy、Hugging Face Transformers）快速构建分类系统，并给出了优化建议。整体而言，本文为开发者提供了从理论到实践的文本分类指南，适合对NLP应用感兴趣的工程师参考。",
+  "content_markdown": null,
+  "tags": [
+    "nlp",
+    "text-classification",
+    "machine-learning",
+    "transformers"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-07-30T00:00:00Z",
+  "collected_at": "2026-08-04T10:34:49Z",
+  "analyzed_at": "2026-07-30T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

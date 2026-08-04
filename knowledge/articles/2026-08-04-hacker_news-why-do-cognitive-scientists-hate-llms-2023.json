@@ -1,0 +1,26 @@
+{
+  "id": "6b98e1f040a66ad0f6d8bec1b6d09354559b7587c249f9cc0330af5c71e926b1",
+  "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+  "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+  "source_type": "hacker_news",
+  "summary": "本文基于2023年的一场讲座，探讨认知科学家对大型语言模型（LLM）的普遍质疑。作者指出，认知科学家认为LLM缺乏真正的理解、推理和因果建模能力，仅依赖统计关联，无法模拟人类认知的丰富性，如具身性、社会互动和符号操作。文章分析了双方分歧的根源：认知科学强调心智的预测加工、主动推理和结构约束，而LLM则基于海量数据训练，其内部表征难以与人类概念对齐。作者认为，尽管LLM在语言任务上表现惊人，但认知科学家的批评揭示了其根本局限，并呼吁跨学科合作，将认知科学的理论洞见融入LLM设计，以推动更接近人类智能的模型发展。",
+  "content_markdown": null,
+  "tags": [
+    "large-language-models",
+    "cognitive-science",
+    "ai-criticism",
+    "machine-learning",
+    "philosophy-of-mind"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2023-10-16T00:00:00Z",
+  "collected_at": "2026-08-04T10:34:49Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
