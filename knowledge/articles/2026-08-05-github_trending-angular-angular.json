@@ -1,0 +1,30 @@
+{
+  "id": "f2f55951cefcae7d2809784da60e1041be57b300928f117d41a880ae18de4efa",
+  "title": "angular/angular",
+  "source_url": "https://github.com/angular/angular",
+  "source_type": "github_trending",
+  "summary": "Angular 是一个由 Google 维护的开源前端框架，用于构建高性能、可扩展的 Web 应用程序。它基于 TypeScript，提供完整的工具链，包括组件化架构、依赖注入、路由、表单处理、HTTP 客户端等。Angular 采用模块化设计，支持懒加载和 AOT 编译，以优化性能。其强大的 CLI 工具简化了开发、测试和部署流程。Angular 拥有活跃的社区和丰富的生态系统，适合构建企业级单页应用（SPA）和渐进式 Web 应用（PWA）。该框架强调可维护性和可测试性，适合中大型团队协作。",
+  "content_markdown": null,
+  "tags": [
+    "angular",
+    "typescript",
+    "frontend-framework",
+    "web-development",
+    "spa"
+  ],
+  "language": "en",
+  "author": "angular",
+  "published_at": null,
+  "collected_at": "2026-08-05T10:31:14Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694100925,
+    "github_language": "TypeScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015027403,
+    "github_stars_today": 13,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

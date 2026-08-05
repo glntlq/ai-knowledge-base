@@ -1,0 +1,322 @@
+{
+  "collected_at": "2026-08-05T10:31:13Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "author": "TencentCloud",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414560,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501321,
+        "github_stars_today": 1111,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "title": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "author": "zhaoxuya520",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269418707,
+        "github_language": "PowerShell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502556,
+        "github_stars_today": 2297,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/firecrawl/pdf-inspector",
+      "title": "firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "author": "firecrawl",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410740,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150702,
+        "github_stars_today": 2540,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/uber/ADR",
+      "title": "uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "author": "uber",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694840,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015075,
+        "github_stars_today": 148,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694266889,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015023856,
+        "github_stars_today": 653,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "title": "microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694116560,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015061625,
+        "github_stars_today": 783,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/cypress-io/cypress",
+      "title": "cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "author": "cypress-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450906,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503634,
+        "github_stars_today": 11,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "author": "lyogavin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269428731,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503087,
+        "github_stars_today": 1711,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/webpack/webpack",
+      "title": "webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "author": "webpack",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269465984,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509530,
+        "github_stars_today": 10,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/gabime/spdlog",
+      "title": "gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "author": "gabime",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429424,
+        "github_language": "C++",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505373,
+        "github_stars_today": 10,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/denoland/deno",
+      "title": "denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "author": "denoland",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694108121,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506309,
+        "github_stars_today": 31,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/usekaneo/kaneo",
+      "title": "usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "author": "usekaneo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947437,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150586,
+        "github_stars_today": 559,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/livekit/agents",
+      "title": "livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "author": "livekit",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412611,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503495,
+        "github_stars_today": 432,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/angular/angular",
+      "title": "angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "author": "angular",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694100925,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015027403,
+        "github_stars_today": 13,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tailwindlabs/tailwindcss",
+      "title": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "author": "tailwindlabs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269496631,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505539,
+        "github_stars_today": 52,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/browser-use/video-use",
+      "title": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "author": "browser-use",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419611,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502424,
+        "github_stars_today": 320,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "author": "esengine",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431158,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502003,
+        "github_stars_today": 922,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "author": "EveryInc",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423977,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501960,
+        "github_stars_today": 40,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-05T10:31:14Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-05T10:31:34Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+      "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+      "description": "<p><a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:45:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-05T10:31:34Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5bc5f2d39e6b4e20f192fa4595d162349c677419ab2b4f0340201a3862483be5",
+  "title": "webpack/webpack",
+  "source_url": "https://github.com/webpack/webpack",
+  "source_type": "github_trending",
+  "summary": "webpack 是一个广受欢迎的 JavaScript 模块打包器，旨在将项目中分散的模块（如 CommonJS、AMD、ES6 模块、CSS、图片、JSON、CoffeeScript、LESS 等）打包成少量优化后的静态资源。其核心特性包括代码分割（Code Splitting），允许按需加载应用部分，从而提升首屏加载性能。通过强大的 loader 机制，webpack 能处理几乎任何类型的文件，并支持自定义 loader 以满足特定需求。此外，webpack 提供丰富的插件系统、开发服务器、热模块替换等功能，极大提升了开发体验。作为前端工程化的基石，webpack 被广泛应用于各类现代 Web 项目，并持续演进以支持最新的 Web 标准。",
+  "content_markdown": null,
+  "tags": [
+    "webpack",
+    "module-bundler",
+    "javascript",
+    "build-tool",
+    "code-splitting"
+  ],
+  "language": "en",
+  "author": "webpack",
+  "published_at": null,
+  "collected_at": "2026-08-05T10:31:14Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269465984,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509530,
+    "github_stars_today": 10,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

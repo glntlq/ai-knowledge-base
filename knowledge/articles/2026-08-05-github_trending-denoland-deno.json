@@ -1,0 +1,30 @@
+{
+  "id": "a08672989b589416fc088ab5dc7beaeb6ebe9571580ff48cfc4140a7d4291e14",
+  "title": "denoland/deno",
+  "source_url": "https://github.com/denoland/deno",
+  "source_type": "github_trending",
+  "summary": "Deno 是一个由 Ryan Dahl（Node.js 的创始人）创建的现代 JavaScript 和 TypeScript 运行时，基于 V8 引擎并使用 Rust 编写。它旨在解决 Node.js 中的一些设计缺陷，提供更安全、更现代化的开发体验。Deno 默认支持 TypeScript，无需额外配置；采用沙箱安全模型，默认无网络和文件系统访问权限，需显式授权；内置模块系统，支持从 URL 导入模块，并兼容 npm 包；提供标准库和丰富的内置工具（如测试运行器、代码格式化器、依赖检查器等）。Deno 还支持 WebAssembly，并致力于 Web 标准兼容。其设计强调简单性、安全性和现代性，适合构建高性能、安全的服务端应用和工具。",
+  "content_markdown": null,
+  "tags": [
+    "deno",
+    "javascript",
+    "typescript",
+    "runtime",
+    "rust"
+  ],
+  "language": "en",
+  "author": "denoland",
+  "published_at": null,
+  "collected_at": "2026-08-05T10:31:14Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694108121,
+    "github_language": "Rust",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506309,
+    "github_stars_today": 31,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

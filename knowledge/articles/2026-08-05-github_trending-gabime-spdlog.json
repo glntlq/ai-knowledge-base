@@ -1,0 +1,29 @@
+{
+  "id": "dee5c273da5c23619e49eeb446dadc6354b5a44fa3db1d4854ba54cbc8637da9",
+  "title": "gabime/spdlog",
+  "source_url": "https://github.com/gabime/spdlog",
+  "source_type": "github_trending",
+  "summary": "spdlog 是一个高性能的 C++ 日志库，以其极快的速度和易用性著称。它支持多种日志目标（如控制台、文件、syslog 等），并提供灵活的格式化选项。spdlog 采用头文件为主的实现，易于集成到现有项目中，同时支持异步日志记录，以减少 I/O 阻塞。其 API 设计简洁，支持编译期和运行期日志级别过滤，并可通过插件扩展。该项目在 GitHub 上拥有大量星标，是 C++ 社区中广泛使用的日志解决方案。",
+  "content_markdown": null,
+  "tags": [
+    "c",
+    "logging",
+    "library",
+    "high-performance"
+  ],
+  "language": "en",
+  "author": "gabime",
+  "published_at": null,
+  "collected_at": "2026-08-05T10:31:14Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429424,
+    "github_language": "C++",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505373,
+    "github_stars_today": 10,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
