@@ -1,0 +1,302 @@
+{
+  "collected_at": "2026-08-06T10:35:06Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/cloudflare/computer",
+      "title": "cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "author": "cloudflare",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944229,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150205,
+        "github_stars_today": 891,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/huangruiteng/loopx",
+      "title": "huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "author": "huangruiteng",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942548,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150185,
+        "github_stars_today": 326,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "author": "TencentCloud",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269415590,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501405,
+        "github_stars_today": 1892,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/donnemartin/system-design-primer",
+      "title": "donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "author": "donnemartin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694361870,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015057673,
+        "github_stars_today": 303,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/firecrawl/pdf-inspector",
+      "title": "firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "author": "firecrawl",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411940,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150802,
+        "github_stars_today": 1582,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "author": "esengine",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432028,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502067,
+        "github_stars_today": 747,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "author": "addyosmani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269482274,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508843,
+        "github_stars_today": 226,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694267689,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015023917,
+        "github_stars_today": 931,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/roboflow/supervision",
+      "title": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "author": "roboflow",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449106,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504625,
+        "github_stars_today": 146,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/vercel/next.js",
+      "title": "vercel/next.js",
+      "description": "The React Framework",
+      "author": "vercel",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694141636,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015031682,
+        "github_stars_today": 68,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tailwindlabs/tailwindcss",
+      "title": "tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "author": "tailwindlabs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269497016,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505555,
+        "github_stars_today": 408,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/uber/ADR",
+      "title": "uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "author": "uber",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941176,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015092,
+        "github_stars_today": 354,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/lyogavin/airllm",
+      "title": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "author": "lyogavin",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429392,
+        "github_language": "Jupyter Notebook",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503141,
+        "github_stars_today": 833,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-06T10:35:06Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.primeintellect.ai/blog/prime-agent",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "description": "Article URL: https://www.primeintellect.ai/blog/prime-agent Comments URL: https://news.ycombinator.com/item?id=49189075 Points: 185 # Comments: 37",
+      "author": "",
+      "published_at": "Wed, 05 Aug 2026 21:11:57 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-06T10:35:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.fogus.me/llm/born-against.html",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "description": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 278 # Comments: 265",
+      "author": "",
+      "published_at": "Wed, 05 Aug 2026 18:37:49 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-06T10:35:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2510.01395",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "description": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 128 # Comments: 68",
+      "author": "",
+      "published_at": "Wed, 05 Aug 2026 18:17:03 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-06T10:35:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "description": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs Comments URL: https://news.ycombinator.com/item?id=49108840 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 30 Jul 2026 12:01:05 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-06T10:35:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+      "title": "Anthropic AI created fake profiles to deceive people in attempted hack",
+      "description": "<p><a href=\"https://lobste.rs/s/mfiyoy/anthropic_ai_created_fake_profiles\">Comments</a></p>",
+      "author": "",
+      "published_at": "Thu, 06 Aug 2026 04:07:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-06T10:35:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+      "title": "After the AI Hype – What’s Real, and What’s Next",
+      "description": "<p><a href=\"https://lobste.rs/s/lbqtuf/after_ai_hype_what_s_real_what_s_next\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 05 Aug 2026 18:25:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-06T10:35:59Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-06T10:35:59Z"
+    }
+  ]
+}

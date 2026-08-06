@@ -1,0 +1,30 @@
+{
+  "id": "28e2612fca224363014c5360fa9f08e912cb32ae3eef09b143be3dfbbda655cc",
+  "title": "Born Against, or why hobby programming communities are against LLM usage",
+  "source_url": "https://blog.fogus.me/llm/born-against.html",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了业余编程社区为何普遍抵制大型语言模型（LLM）的使用。作者认为，业余编程的核心价值在于创造、学习和个人表达，而LLM的介入削弱了这些价值，将编程从一种探索性、手工艺式的活动降格为对机器生成代码的审查和修补。社区成员担心LLM会导致技能退化、同质化输出，并破坏开源和黑客文化中“亲手构建”的伦理。文章还分析了LLM在知识获取和问题解决上的便利性如何与业余编程的“过程导向”相冲突，并指出这种抵制并非单纯的技术保守，而是对技术异化人类创造力的文化抵抗。作者呼吁重新审视LLM在编程中的角色，强调保留人类判断和创造性的重要性。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "hobby-programming",
+    "programming-culture",
+    "ai-ethics",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Wed, 05 Aug 2026 18:37:49 +0000",
+  "collected_at": "2026-08-06T10:35:59Z",
+  "analyzed_at": "2026-08-06T10:36:54Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

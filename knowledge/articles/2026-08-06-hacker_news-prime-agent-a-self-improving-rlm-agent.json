@@ -1,0 +1,25 @@
+{
+  "id": "e329965c5c993686e7e36bdbebf0051354775d073088176364f977a571d278a4",
+  "title": "Prime Agent: A self-improving RLM agent",
+  "source_url": "https://www.primeintellect.ai/blog/prime-agent",
+  "source_type": "hacker_news",
+  "summary": "Prime Agent 是 Prime Intellect 推出的一个自改进强化学习智能体（RLM agent），旨在通过强化学习实现自主迭代优化。该智能体能够根据环境反馈自动调整策略，无需人工干预即可持续提升性能。其核心机制包括：利用强化学习算法（如 PPO）训练策略网络，结合环境交互产生的奖励信号进行优化；同时引入自改进循环，使智能体能够评估自身行为并生成改进目标。文章还讨论了该智能体在复杂任务（如代码生成、机器人控制）中的应用潜力，并强调了其在样本效率和泛化能力上的优势。Prime Agent 的设计体现了从传统监督学习向自主决策智能体转变的趋势，为构建通用人工智能提供了新思路。该项目在 Hacker News 上获得 185 分和 37 条评论，引发社区对强化学习智能体自我进化能力的广泛讨论。",
+  "content_markdown": null,
+  "tags": [
+    "reinforcement-learning",
+    "self-improving-agent",
+    "rlm",
+    "ai-agent"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-06T10:35:59Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

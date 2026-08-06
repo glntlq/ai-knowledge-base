@@ -1,0 +1,30 @@
+{
+  "id": "447202828ff953566615e469b44453af87dc4472beb245fb6506c07cc79852b3",
+  "title": "cloudflare/computer",
+  "source_url": "https://github.com/cloudflare/computer",
+  "source_type": "github_trending",
+  "summary": "Cloudflare 开源项目 'computer' 旨在为 AI 代理提供虚拟计算机环境，使其能够执行代码、操作文件系统、运行命令等，从而扩展代理的自主操作能力。该项目由 Cloudflare 开发，基于其边缘网络基础设施，可能利用 Workers 或容器技术实现隔离的运行时。'Give your agent a computer' 的标语表明其核心目标是让 AI 代理拥有可交互的计算资源，适用于自动化任务、代码执行、数据分析等场景。项目处于早期阶段，代码库结构清晰，提供了 API 和示例，便于开发者集成。该工具可能对构建自主代理、RPA（机器人流程自动化）或云端开发环境有重要价值，同时体现了 Cloudflare 在 AI 基础设施领域的布局。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "cloudflare",
+    "virtual-computer",
+    "sandbox",
+    "automation"
+  ],
+  "language": "en",
+  "author": "cloudflare",
+  "published_at": null,
+  "collected_at": "2026-08-06T10:35:06Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944229,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150205,
+    "github_stars_today": 891,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
