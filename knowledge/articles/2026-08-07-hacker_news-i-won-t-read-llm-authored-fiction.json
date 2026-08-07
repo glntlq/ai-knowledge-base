@@ -1,0 +1,26 @@
+{
+  "id": "bcbe9ff16b4d691d7a0a535885387dce7ec2e8adcd92cbaf0058fb17ddbcb6ab",
+  "title": "I won't read LLM authored fiction",
+  "source_url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+  "source_type": "hacker_news",
+  "summary": "作者明确表示不会阅读由大型语言模型（LLM）创作的虚构文学作品，并阐述了其核心理由。他认为，文学的核心价值在于人类作者独特的生命体验、情感深度与思想探索，而LLM生成的内容本质上是基于统计模式的文本拼接，缺乏真实的意图、情感与个人风格。作者担忧，若读者习惯接受AI生成的故事，将削弱对文学原创性和人类创造力的尊重，并可能导致文化同质化。文章还讨论了AI在文学创作中的辅助角色与完全替代之间的界限，强调人类作者在叙事结构、人物塑造和主题隐喻上的不可替代性。作者并非完全否定AI工具，而是反对将其作为文学创作的主体。该观点引发了对AI时代文学价值与创作伦理的广泛讨论，评论区呈现支持与反对的两极分化。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "ai-ethics",
+    "literature",
+    "creative-writing",
+    "human-creativity"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-07T08:55:44Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

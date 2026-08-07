@@ -1,0 +1,30 @@
+{
+  "id": "95aca64003dc87ad9549d152520e2e98805c92d658ca5e9af5eb6c41987bb40e",
+  "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+  "source_url": "https://www.aleksagordic.com/blog/vllm",
+  "source_type": "hacker_news",
+  "summary": "本文深入剖析了vLLM这一高性能大语言模型推理系统的内部架构，重点解析其实现高吞吐量的关键技术。文章详细介绍了PagedAttention机制，该机制通过将KV缓存分页管理，显著减少内存碎片并提高显存利用率，从而支持更大的批处理大小。同时，文章阐述了vLLM的连续批处理（continuous batching）策略，能够在请求完成时立即插入新请求，避免等待，进一步提升吞吐量。此外，还涉及了张量并行、流水线并行等分布式推理技术，以及CUDA图优化、内核融合等底层优化手段。文章结合系统设计权衡，解释了vLLM如何平衡延迟与吞吐，并讨论了其在实际部署中的性能表现和局限性。对于希望理解现代LLM推理引擎工作原理的读者，本文提供了清晰的系统级视角和工程实践细节。",
+  "content_markdown": null,
+  "tags": [
+    "llm-inference",
+    "vllm",
+    "high-throughput",
+    "pagedattention",
+    "system-design"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Thu, 06 Aug 2026 21:30:21 +0000",
+  "collected_at": "2026-08-07T08:55:44Z",
+  "analyzed_at": "2026-08-07T08:56:35Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}

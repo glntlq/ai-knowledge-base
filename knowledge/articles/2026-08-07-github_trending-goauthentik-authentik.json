@@ -1,0 +1,30 @@
+{
+  "id": "286758f8a9738cf5e4784d4d0e954d3df4cc738357f0f50cb25e21116f9004a7",
+  "title": "goauthentik/authentik",
+  "source_url": "https://github.com/goauthentik/authentik",
+  "source_type": "github_trending",
+  "summary": "goauthentik/authentik 是一个开源的身份认证与访问管理（IAM）平台，旨在为现代应用提供统一的认证粘合层。它支持多种认证方式，包括 LDAP、OAuth2/OIDC、SAML 和代理认证，并集成了基于策略的访问控制、用户生命周期管理、多因素认证（MFA）等功能。该项目采用 Django 和 Go 编写，前端基于 Web 组件，提供可扩展的 API 和事件日志，适合作为企业级身份提供者（IdP）或网关。其设计强调灵活性和可定制性，能够与现有基础设施无缝集成，是自建身份认证解决方案的热门选择。",
+  "content_markdown": null,
+  "tags": [
+    "identity-management",
+    "authentication",
+    "oauth2",
+    "saml",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "goauthentik",
+  "published_at": null,
+  "collected_at": "2026-08-07T08:55:38Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423292,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501783,
+    "github_stars_today": 138,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

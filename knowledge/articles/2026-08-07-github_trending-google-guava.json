@@ -1,0 +1,30 @@
+{
+  "id": "fe02abcc07761c1e9f05f4afb0dcf6a3a29071d4e6e4b6826c901ae80236e62f",
+  "title": "google/guava",
+  "source_url": "https://github.com/google/guava",
+  "source_type": "github_trending",
+  "summary": "Guava 是 Google 开源的 Java 核心库，提供集合、缓存、函数式编程、并发、字符串处理、I/O、哈希、事件总线等实用工具，旨在简化 Java 开发并减少样板代码。它包含不可变集合、多重映射、双向映射、图结构等增强集合类型，以及强大的缓存框架和并发原语。Guava 遵循 Apache 2.0 许可证，广泛应用于 Android 和 Java 8+ 项目，是 Java 生态中最流行的第三方库之一。其 API 设计严谨，性能优化良好，被众多知名项目依赖。",
+  "content_markdown": null,
+  "tags": [
+    "java",
+    "guava",
+    "collections",
+    "caching",
+    "concurrency"
+  ],
+  "language": "en",
+  "author": "google",
+  "published_at": null,
+  "collected_at": "2026-08-07T08:55:38Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269451689,
+    "github_language": "Java",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011167,
+    "github_stars_today": 13,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

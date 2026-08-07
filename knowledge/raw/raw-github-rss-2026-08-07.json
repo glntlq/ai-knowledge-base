@@ -1,0 +1,302 @@
+{
+  "collected_at": "2026-08-07T08:55:37Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "author": "TencentCloud",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416991,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501524,
+        "github_stars_today": 1057,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "author": "addyosmani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269483297,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508919,
+        "github_stars_today": 593,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/cloudflare/computer",
+      "title": "cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "author": "cloudflare",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945121,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150259,
+        "github_stars_today": 2802,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694207862,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017944,
+        "github_stars_today": 1873,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/goauthentik/authentik",
+      "title": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "author": "goauthentik",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423292,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501783,
+        "github_stars_today": 138,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/huangruiteng/loopx",
+      "title": "huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "author": "huangruiteng",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943154,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150236,
+        "github_stars_today": 847,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google/guava",
+      "title": "google/guava",
+      "description": "Google core libraries for Java",
+      "author": "google",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269451689,
+        "github_language": "Java",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011167,
+        "github_stars_today": 13,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TapXWorld/ChinaTextbook",
+      "title": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "author": "TapXWorld",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269477506,
+        "github_language": "Roff",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017495,
+        "github_stars_today": 134,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "author": "Significant-Gravitas",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694186150,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015046056,
+        "github_stars_today": 37,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tirth8205/code-review-graph",
+      "title": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "author": "tirth8205",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429223,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502689,
+        "github_stars_today": 237,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "title": "esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "author": "esengine",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432715,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502111,
+        "github_stars_today": 888,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694268379,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015023977,
+        "github_stars_today": 858,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/firecrawl/pdf-inspector",
+      "title": "firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "author": "firecrawl",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412775,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150859,
+        "github_stars_today": 1190,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-07T08:55:38Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+      "title": "I won't read LLM authored fiction",
+      "description": "Article URL: https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction Comments URL: https://news.ycombinator.com/item?id=49207146 Points: 49 # Comments: 50",
+      "author": "",
+      "published_at": "Fri, 07 Aug 2026 07:45:56 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-07T08:55:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "description": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/ Comments URL: https://news.ycombinator.com/item?id=49204546 Points: 56 # Comments: 77",
+      "author": "",
+      "published_at": "Fri, 07 Aug 2026 00:37:30 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-07T08:55:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.aleksagordic.com/blog/vllm",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "description": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 103 # Comments: 5",
+      "author": "",
+      "published_at": "Thu, 06 Aug 2026 21:30:21 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-07T08:55:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "description": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 298 # Comments: 210",
+      "author": "",
+      "published_at": "Thu, 06 Aug 2026 11:58:07 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-07T08:55:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-07T08:55:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+      "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+      "description": "<p><a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:45:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-07T08:55:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/vyy2jf/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:11:41 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-07T08:55:44Z"
+    }
+  ]
+}

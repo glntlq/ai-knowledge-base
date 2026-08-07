@@ -1,0 +1,30 @@
+{
+  "id": "de12c8ee3d94543a046ae7badc1d8eba394467ac1a2142c5797d65ed2c5b2606",
+  "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+  "source_url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+  "source_type": "hacker_news",
+  "summary": "新奥尔良市正在测试Carbyne公司开发的AI驱动的紧急呼叫分诊软件，该软件旨在辅助911呼叫处理，通过自动分析来电内容、优先排序紧急事件，并可能减少人工调度员的负担。测试引发了对AI在应急响应中可靠性的关注，包括误判风险、隐私问题以及对弱势群体的影响。支持者认为AI能加快响应速度、优化资源分配，而批评者担忧技术故障可能导致延误或错误响应。该测试是公共安全领域AI应用的一个案例，反映了紧急服务数字化转型的趋势。目前尚无全面部署的时间表，测试结果将决定后续推广。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "emergency-services",
+    "public-safety",
+    "call-triage",
+    "carbyne"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Fri, 07 Aug 2026 00:37:30 +0000",
+  "collected_at": "2026-08-07T08:55:44Z",
+  "analyzed_at": "2026-08-07T08:56:31Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "collected_at": "2026-07-28T00:00:00Z",
+    "analyzed_at": "2026-07-28T00:00:00Z",
+    "published_at": "2026-07-28T00:00:00Z"
+  }
+}

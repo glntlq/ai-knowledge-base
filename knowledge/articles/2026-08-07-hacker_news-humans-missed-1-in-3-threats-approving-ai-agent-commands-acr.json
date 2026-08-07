@@ -1,0 +1,26 @@
+{
+  "id": "c5294ee6b1d28d3df96f86651a51ee570cb7d2004b2f738c68f28b3fb444eb65",
+  "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+  "source_url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+  "source_type": "hacker_news",
+  "summary": "一项针对AI智能体权限审批的大规模研究显示，在4万次游戏运行中，人类用户未能识别出约三分之一的威胁性命令。该研究通过模拟真实场景，分析了用户对AI代理生成命令的审批行为，发现即使经过明确警告，用户仍会批准大量恶意或危险操作。这一结果揭示了当前AI安全机制中“人类监督”环节的显著漏洞，表明依赖用户手动确认无法有效防范AI代理被诱导执行有害行为。研究建议采用更细粒度的权限控制、实时行为分析以及自动化威胁拦截机制，以弥补人类注意力不足的缺陷。该发现对AI代理的部署安全、权限管理设计及人机协作风险评估具有重要参考价值，尤其适用于自动化工具、编程助手及游戏AI等场景。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "security",
+    "human-supervision",
+    "permissions",
+    "risk-assessment"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-07T08:55:44Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
