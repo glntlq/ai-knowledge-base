@@ -1,0 +1,30 @@
+{
+  "id": "f4ede6849536d464620a9ffaa6600fcb5f080902e4dfb3c0134660ca03495d86",
+  "title": "denoland/celld",
+  "source_url": "https://github.com/denoland/celld",
+  "source_type": "github_trending",
+  "summary": "denoland/celld 是 Deno 团队推出的自托管、分布式持久对象（Durable Objects）运行时，旨在为边缘计算提供状态ful的协调层。它允许开发者以对象形式管理分布式状态，支持自动故障转移、持久化存储和跨区域复制，简化了有状态服务的构建与部署。项目基于 Deno 运行时，利用其安全性和 TypeScript 支持，提供简洁的 API 和 CLI 工具，适合构建实时协作、游戏服务器、物联网等需要强一致性和高可用性的应用。当前处于早期阶段，但已展示出在边缘环境下的潜力，与 Cloudflare Durable Objects 类似但更开放、可自托管。",
+  "content_markdown": null,
+  "tags": [
+    "durable-objects",
+    "distributed-systems",
+    "edge-computing",
+    "deno",
+    "self-hosted"
+  ],
+  "language": "zh",
+  "author": "denoland",
+  "published_at": null,
+  "collected_at": "2026-08-08T08:36:29Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942324,
+    "github_language": "Rust",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015066,
+    "github_stars_today": 516,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

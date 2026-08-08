@@ -1,0 +1,26 @@
+{
+  "id": "6b1dbcebb824607f851f6aa175f6050b897552b7b907c9c50848af845daf9ba7",
+  "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+  "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+  "source_type": "hacker_news",
+  "summary": "本文以随机游走混合时间（mixing time）为理论框架，剖析社交媒体中“兔子洞”现象与信息茧房的形成机制。作者将社交网络建模为图结构，指出不同社区（clusters）之间的连接稀疏性导致随机游走（代表信息传播）在局部社区内快速混合，而跨社区混合时间极长，从而造成用户长期滞留于同质化内容。文章类比Twitter并非“城镇广场”，而是类似“高中食堂”的多个小圈子，强调算法推荐进一步强化了这种聚类效应。通过数学视角解释为何极端观点和虚假信息容易在封闭群体中发酵，并探讨了干预策略（如增加跨社区弱连接）对缩短混合时间、促进信息多样性的潜在作用。内容兼具理论深度与现实洞察，适合对网络科学、计算社会学感兴趣的读者。",
+  "content_markdown": null,
+  "tags": [
+    "random-walk",
+    "social-networks",
+    "information-diffusion",
+    "echo-chambers",
+    "network-science"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-08T08:36:29Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

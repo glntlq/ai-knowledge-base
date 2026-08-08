@@ -1,0 +1,30 @@
+{
+  "id": "6246ec8c04b925e8d9331be07787d23a776855bb78a1e8b0cd2448d5aade003d",
+  "title": "pranshuparmar/witr",
+  "source_url": "https://github.com/pranshuparmar/witr",
+  "source_type": "github_trending",
+  "summary": "Witr 是一款开源命令行工具，旨在帮助用户追溯系统中任意进程、端口、容器或文件的启动来源，解答“为什么这个在运行”的疑问。它提供 CLI 和 TUI 两种交互界面，便于快速定位系统资源与父进程的关联关系，适用于系统诊断、安全审计和运维排障场景。该工具强调轻量、易用，通过简洁的命令即可生成资源溯源视图，提升对系统运行状态的可观测性。项目当前处于活跃开发阶段，适合对系统内部机制感兴趣的开发者或运维人员使用。",
+  "content_markdown": null,
+  "tags": [
+    "cli",
+    "tui",
+    "process-monitoring",
+    "system-diagnostics",
+    "observability"
+  ],
+  "language": "en",
+  "author": "pranshuparmar",
+  "published_at": null,
+  "collected_at": "2026-08-08T08:36:29Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419948,
+    "github_language": "Go",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150650,
+    "github_stars_today": 234,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

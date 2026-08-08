@@ -1,0 +1,30 @@
+{
+  "id": "63544b6761febf17a31868fa8aa65730e9152f06ec87d5e9729bc3f3bf4538c9",
+  "title": "PrimeIntellect-ai/prime-agent",
+  "source_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+  "source_type": "github_trending",
+  "summary": "Prime Agent 是一个面向编码工作流和长期自主任务的自改进强化学习智能体（RLM）。它通过强化学习机制，在任务执行过程中不断自我优化，提升代码生成、调试和复杂任务处理的效率与准确性。该项目旨在解决传统编码助手在长周期、多步骤任务中表现不佳的问题，通过自主学习和环境反馈实现持续进化。其核心特性包括：支持长时间运行的自主任务、与现有开发工具链的集成、以及基于奖励信号的策略优化。该智能体适用于自动化代码修复、功能实现、测试生成等场景，为开发者提供更智能的编程辅助，减少人工干预。项目处于早期阶段，但展示了强化学习在软件工程领域的应用潜力。",
+  "content_markdown": null,
+  "tags": [
+    "reinforcement-learning",
+    "coding-agent",
+    "autonomous-task",
+    "self-improving",
+    "ai-agent"
+  ],
+  "language": "en",
+  "author": "PrimeIntellect-ai",
+  "published_at": null,
+  "collected_at": "2026-08-08T08:36:29Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947226,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150596,
+    "github_stars_today": 2293,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "advanced"
+  }
+}
