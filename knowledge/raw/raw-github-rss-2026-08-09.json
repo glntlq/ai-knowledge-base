@@ -1,0 +1,298 @@
+{
+  "collected_at": "2026-08-09T08:37:43Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "title": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "author": "PrimeIntellect-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949569,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150923,
+        "github_stars_today": 2483,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "author": "addyosmani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269484769,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509124,
+        "github_stars_today": 779,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TapXWorld/ChinaTextbook",
+      "title": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "author": "TapXWorld",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269478087,
+        "github_language": "Roff",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017686,
+        "github_stars_today": 118,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google/skills",
+      "title": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "author": "google",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416908,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501377,
+        "github_stars_today": 481,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694210417,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015018174,
+        "github_stars_today": 1359,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/goauthentik/authentik",
+      "title": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "author": "goauthentik",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424079,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501844,
+        "github_stars_today": 467,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "author": "TauricResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269496712,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015018678,
+        "github_stars_today": 153,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google/guava",
+      "title": "google/guava",
+      "description": "Google core libraries for Java",
+      "author": "google",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269451880,
+        "github_language": "Java",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011182,
+        "github_stars_today": 93,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/LadybirdBrowser/ladybird",
+      "title": "LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "author": "LadybirdBrowser",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269465075,
+        "github_language": "C++",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503107,
+        "github_stars_today": 48,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/denoland/celld",
+      "title": "denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "author": "denoland",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942719,
+        "github_language": "Rust",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015078,
+        "github_stars_today": 432,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/litu54/DevOps-Interview-Guide",
+      "title": "litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
+      "author": "litu54",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694771,
+        "github_language": null,
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150909,
+        "github_stars_today": 68,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/bannedbook/fanqiang",
+      "title": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "author": "bannedbook",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450083,
+        "github_language": "Kotlin",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508268,
+        "github_stars_today": 101,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-09T08:37:43Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+      "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+      "description": "<p><a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 07 Aug 2026 16:22:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-09T08:37:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-09T08:37:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+      "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+      "description": "<p><a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:45:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-09T08:37:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/vyy2jf/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:11:41 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-09T08:37:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://localai.io/blog/why-we-write-our-own-engines/",
+      "title": "Why we write our own C and C++ inference engines",
+      "description": "<p><a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 31 Jul 2026 11:17:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-09T08:37:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "title": "You Could Have Come Up With Kimi Delta Attention",
+      "description": "<p><a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 28 Jul 2026 12:01:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-09T08:37:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+      "title": "Languages as designed latent spaces",
+      "description": "<p><a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 25 Jul 2026 10:13:27 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-09T08:37:44Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.oranlooney.com/post/rose-petals/",
+      "title": "What Rose Petals Teach Us about Induction",
+      "description": "<p><a href=\"https://lobste.rs/s/wwelib/what_rose_petals_teach_us_about_induction\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 22 Jul 2026 23:02:57 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-09T08:37:44Z"
+    }
+  ]
+}

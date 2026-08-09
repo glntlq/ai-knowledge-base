@@ -1,0 +1,30 @@
+{
+  "id": "171f37b38fd49d100d094097d8d92e8a891c224b56bf260b412ab84a84e541e3",
+  "title": "litu54/DevOps-Interview-Guide",
+  "source_url": "https://github.com/litu54/DevOps-Interview-Guide",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向 DevOps 工程师的面试准备指南，内容涵盖 Linux 基础、CI/CD、容器化（Docker）、编排（Kubernetes）、配置管理（Ansible）、监控告警、云平台（AWS/Azure/GCP）以及常见面试题与实战案例。指南以问答形式组织，便于快速查阅，适合初中级 DevOps 候选人系统复习，也适合面试官参考出题。项目持续更新，社区贡献活跃，是 DevOps 领域热门的开源学习资源。",
+  "content_markdown": null,
+  "tags": [
+    "devops",
+    "interview",
+    "kubernetes",
+    "ci-cd",
+    "linux"
+  ],
+  "language": "en",
+  "author": "litu54",
+  "published_at": null,
+  "collected_at": "2026-08-09T08:37:43Z",
+  "analyzed_at": "2025-04-11T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694771,
+    "github_language": null,
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150909,
+    "github_stars_today": 68,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

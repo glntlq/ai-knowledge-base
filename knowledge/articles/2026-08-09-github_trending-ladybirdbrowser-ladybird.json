@@ -1,0 +1,30 @@
+{
+  "id": "03f2522c34bbd31a81d54c3e7e5ee4ca0ea2f6b69e4089c9c1aeb9386114950f",
+  "title": "LadybirdBrowser/ladybird",
+  "source_url": "https://github.com/LadybirdBrowser/ladybird",
+  "source_type": "github_trending",
+  "summary": "Ladybird 是一个真正独立的开源网页浏览器项目，由 LadybirdBrowser 组织维护，旨在摆脱对主流浏览器引擎（如 Blink、Gecko 和 WebKit）的依赖，从零开始构建自己的渲染引擎。该项目强调独立性、透明性和用户隐私，不包含任何来自大型科技公司的代码或遥测。目前 Ladybird 仍处于早期开发阶段，但已支持基本的网页浏览功能，并计划逐步完善对现代 Web 标准的支持。其代码库主要使用 C++ 编写，采用跨平台架构，支持 Linux、macOS 等系统。该项目在 GitHub 上受到广泛关注，吸引了大量开发者贡献，被视为浏览器领域的一股新兴力量，可能对未来的 Web 生态产生重要影响。",
+  "content_markdown": null,
+  "tags": [
+    "web-browser",
+    "c-plus-plus",
+    "open-source",
+    "rendering-engine",
+    "privacy"
+  ],
+  "language": "en",
+  "author": "LadybirdBrowser",
+  "published_at": null,
+  "collected_at": "2026-08-09T08:37:43Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269465075,
+    "github_language": "C++",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503107,
+    "github_stars_today": 48,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
