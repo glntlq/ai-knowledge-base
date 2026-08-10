@@ -1,0 +1,298 @@
+{
+  "collected_at": "2026-08-10T09:16:11Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "title": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "author": "PrimeIntellect-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412231,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501233,
+        "github_stars_today": 2356,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/vitali87/code-graph-rag",
+      "title": "vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "author": "vitali87",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943288,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150536,
+        "github_stars_today": 96,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/msitarzewski/agency-agents",
+      "title": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "author": "msitarzewski",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694141251,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015023044,
+        "github_stars_today": 858,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/pranshuparmar/witr",
+      "title": "pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "author": "pranshuparmar",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421087,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150738,
+        "github_stars_today": 210,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google-deepmind/weathernext",
+      "title": "google-deepmind/weathernext",
+      "description": "",
+      "author": "google-deepmind",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947206,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150944,
+        "github_stars_today": 86,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/addyosmani/agent-skills",
+      "title": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "author": "addyosmani",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269485401,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509186,
+        "github_stars_today": 680,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "author": "ZhuLinsen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269461585,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015052135,
+        "github_stars_today": 306,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/goauthentik/authentik",
+      "title": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "author": "goauthentik",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424422,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501867,
+        "github_stars_today": 310,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google/skills",
+      "title": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "author": "google",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417458,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501402,
+        "github_stars_today": 528,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Comfy-Org/ComfyUI",
+      "title": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "author": "Comfy-Org",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694125908,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014873,
+        "github_stars_today": 365,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/harveyai/harvey-labs",
+      "title": "harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "author": "harveyai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694934,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150183,
+        "github_stars_today": 47,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/pingdotgg/t3code",
+      "title": "pingdotgg/t3code",
+      "description": "",
+      "author": "pingdotgg",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417807,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504027,
+        "github_stars_today": 163,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-10T09:16:12Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://danluu.com/pl-tokens/",
+      "title": "How do programming languages impact token efficiency and correctness?",
+      "description": "<p><a href=\"https://lobste.rs/s/4waghh/how_do_programming_languages_impact\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 10 Aug 2026 02:47:36 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-10T09:16:18Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+      "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+      "description": "<p><a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 07 Aug 2026 16:22:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-10T09:16:18Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-10T09:16:18Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+      "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+      "description": "<p><a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:45:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-10T09:16:18Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/vyy2jf/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:11:41 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-10T09:16:18Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://localai.io/blog/why-we-write-our-own-engines/",
+      "title": "Why we write our own C and C++ inference engines",
+      "description": "<p><a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 31 Jul 2026 11:17:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-10T09:16:18Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "title": "You Could Have Come Up With Kimi Delta Attention",
+      "description": "<p><a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 28 Jul 2026 12:01:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-10T09:16:18Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+      "title": "Languages as designed latent spaces",
+      "description": "<p><a href=\"https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 25 Jul 2026 10:13:27 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-10T09:16:18Z"
+    }
+  ]
+}

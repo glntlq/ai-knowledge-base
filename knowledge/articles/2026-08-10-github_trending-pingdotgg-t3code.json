@@ -1,0 +1,29 @@
+{
+  "id": "ab0f67409e95a8ce1394ca9aeb6fcb26ba5dfd00ff6fca6ea559855972c1890e",
+  "title": "pingdotgg/t3code",
+  "source_url": "https://github.com/pingdotgg/t3code",
+  "source_type": "github_trending",
+  "summary": "T3 Code 是 pingdotgg 团队推出的开源项目，旨在为开发者提供一套高效、可扩展的代码生成与开发工具链。该项目基于 TypeScript 生态，整合了现代前端开发的最佳实践，支持快速搭建全栈应用。其核心特性包括模块化架构、类型安全、自动化代码生成以及灵活的配置系统，能够显著提升开发效率。项目在 GitHub 上受到广泛关注，适合希望采用现代工具链的中高级开发者。",
+  "content_markdown": null,
+  "tags": [
+    "typescript",
+    "code-generation",
+    "developer-tools",
+    "full-stack"
+  ],
+  "language": "en",
+  "author": "pingdotgg",
+  "published_at": null,
+  "collected_at": "2026-08-10T09:16:12Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269417807,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504027,
+    "github_stars_today": 163,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

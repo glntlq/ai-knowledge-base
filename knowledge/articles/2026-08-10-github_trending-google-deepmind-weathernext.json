@@ -1,0 +1,30 @@
+{
+  "id": "33ed013947c7aecf93d93da725cab5af0772e197e1a00dfd63e8cf8dcfd15527",
+  "title": "google-deepmind/weathernext",
+  "source_url": "https://github.com/google-deepmind/weathernext",
+  "source_type": "github_trending",
+  "summary": "WeatherNext 是 Google DeepMind 开源的中期天气预报模型，基于图神经网络（GNN）与扩散模型，提供确定性预报（WeatherNext Gen）和概率性预报（WeatherNext Diff）两种模式。该模型在 0.25° 分辨率下，可预测未来 14 天的温度、降水、风速等关键气象变量，其性能在多个指标上优于传统数值天气预报（NWP）系统，尤其在极端天气事件（如热浪、强降水）的预测上表现出显著优势。项目开源了模型权重、推理代码及训练/评估工具，支持从原始气象再分析数据（如 ERA5）进行端到端处理，并提供了与 ECMWF 基准对比的示例。该模型旨在为气象研究、灾害预警和能源管理等领域提供高效、可扩展的 AI 预报方案，降低高精度天气预报的门槛。",
+  "content_markdown": null,
+  "tags": [
+    "weather-forecasting",
+    "graph-neural-network",
+    "diffusion-model",
+    "deepmind",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "google-deepmind",
+  "published_at": null,
+  "collected_at": "2026-08-10T09:16:12Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947206,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150944,
+    "github_stars_today": 86,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "57c0418a2d58a23cba7b503500b8629bfdb2c1b064d68ca956e2c403d3e23585",
+  "title": "How do programming languages impact token efficiency and correctness?",
+  "source_url": "https://danluu.com/pl-tokens/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了编程语言选择对令牌（token）效率和正确性的影响，基于作者对多种语言在代码生成任务中的实验观察。文章指出，不同语言在相同功能实现下所需的令牌数量差异显著，例如Python和Ruby等动态语言通常比C++或Java更简洁，从而在基于大语言模型的代码生成中可能更高效。然而，令牌效率并非唯一考量，语言特性（如类型系统、内存管理）会影响生成代码的正确性和可维护性。作者通过具体示例展示了语言设计如何影响模型输出的准确率，并讨论了在AI辅助编程中权衡令牌成本与代码质量的策略。文章强调，开发者应结合任务需求选择语言，而非单纯追求令牌最小化，同时提示了语言生态和工具链对实际开发效率的潜在影响。",
+  "content_markdown": null,
+  "tags": [
+    "programming-languages",
+    "token-efficiency",
+    "code-generation",
+    "llm",
+    "ai-assisted-development"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-10T09:16:18Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
