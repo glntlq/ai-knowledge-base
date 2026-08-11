@@ -1,0 +1,29 @@
+{
+  "id": "bccc2c2cd123a3418e11b8f08120b1928f39c4d89a9c70df5ffb299a175d75bf",
+  "title": "paperclipai/paperclip",
+  "source_url": "https://github.com/paperclipai/paperclip",
+  "source_type": "github_trending",
+  "summary": "Paperclip 是一个开源应用，旨在帮助团队在工作中管理和协调 AI 代理（agents）。它提供了一个统一的平台，让用户能够创建、部署、监控和优化多个代理，从而简化工作流程并提升生产力。该项目在 GitHub 上受到广泛关注，被视为代理管理领域的实用工具。其核心价值在于开源、易用和可扩展，适合希望将 AI 代理集成到日常业务中的团队。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "agent-management",
+    "open-source",
+    "workflow-automation"
+  ],
+  "language": "en",
+  "author": "paperclipai",
+  "published_at": null,
+  "collected_at": "2026-08-11T08:50:38Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269476810,
+    "github_language": "TypeScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014221,
+    "github_stars_today": 198,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

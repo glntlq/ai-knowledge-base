@@ -1,0 +1,26 @@
+{
+  "id": "9497023e878653f0ed14435e139661d0cc79350bab18b5ad04dd046f704a8a01",
+  "title": "How Claude marks AI-generated content",
+  "source_url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了Anthropic在Claude中引入的AI内容标记机制，旨在提升生成内容的透明度和可追溯性。该机制采用加密水印技术，在Claude生成的文本中嵌入不可见的元数据，不改变文本可读性，但可通过专用检测工具验证内容是否由AI生成。文章详细说明了标记的工作原理、适用范围（包括免费版和付费版用户）、隐私保护措施（如不收集额外数据）以及局限性（如对翻译、改写或截断内容的检测可能失效）。此外，文章还提及了与C2PA标准的兼容性，以及用户如何通过官方工具检查内容来源。该功能是AI治理和内容溯源领域的重要实践，有助于减少深度伪造和虚假信息传播，但也引发了对隐私和误用的讨论。整体而言，该机制平衡了创新与责任，为行业提供了参考范例。",
+  "content_markdown": null,
+  "tags": [
+    "ai-content-marking",
+    "watermarking",
+    "transparency",
+    "claude",
+    "content-authenticity"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-11T08:50:38Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

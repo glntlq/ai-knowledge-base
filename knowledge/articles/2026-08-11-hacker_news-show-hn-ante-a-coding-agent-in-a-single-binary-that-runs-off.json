@@ -1,0 +1,26 @@
+{
+  "id": "144c7d072f242dd66c3e06bf28b18edc00275ecca2a7f6c13d32aa44eb58be05",
+  "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+  "source_url": "https://github.com/AntigmaLabs/ante",
+  "source_type": "hacker_news",
+  "summary": "Ante 是一个以单一二进制文件分发、可完全离线运行的编码代理工具，由 AntigmaLabs 开发并在 Hacker News 上展示。它旨在提供轻量级、无依赖的本地 AI 辅助编程体验，适合对数据隐私和离线环境有要求的开发者。项目在 HN 上获得 130 分和 78 条评论，引发社区关注。其核心优势在于无需云端服务即可执行代码生成、补全等任务，但具体支持的模型和功能细节尚待进一步披露。该工具可能基于本地语言模型，强调安全性和便携性，但当前仍处于早期阶段，需关注其实际性能、模型兼容性和扩展性。",
+  "content_markdown": null,
+  "tags": [
+    "coding-agent",
+    "offline-ai",
+    "single-binary",
+    "local-llm",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-11T08:50:38Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

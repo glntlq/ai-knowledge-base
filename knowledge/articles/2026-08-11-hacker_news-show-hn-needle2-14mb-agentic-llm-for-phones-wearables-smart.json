@@ -1,0 +1,26 @@
+{
+  "id": "fc646a73b3b18d55df3cd56a889b6dcf31093d6934f9131a256dfab4417a85ce",
+  "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+  "source_url": "https://cactuscompute.com/needle",
+  "source_type": "hacker_news",
+  "summary": "Needle2 是 Cactus 团队发布的第二代超轻量级智能体大语言模型，模型体积仅 14MB，参数规模 45M（2bit 量化），可在 28MB 内存中完成完整会话。基于 Simple Attention Networks 架构，推理效率极高：在树莓派 5 上解码速度达 500 tokens/s，在 Meta Quest 3S 和 Apple Vision Pro 等 VR 设备上为 400-1500 tokens/s，在 200 美元以下的低端手机上也能达到 300-700 tokens/s。相比同等性能的小模型（如 LFM2.5 230M 和 Apple Foundation Model），Needle2 体积小 5-70 倍，且每 token 计算量（70 MFLOPs）远低于传统 Transformer（164 MFLOPs），功耗降低 7-85 倍，适合手机、可穿戴设备、智能家居、小型机器人和微控制器等边缘设备。Needle2 支持工具调用、设备使用和结构化抽取，可通过传入 schema 实现分类、摘要等任务，并支持在 Mac/PC 上快速微调（几分钟到几小时）。每个响应附带置信度分数，低置信度时可自动升级到云端大模型。项目提供 Python 包和在线 playground。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "edge-ai",
+    "tiny-model",
+    "tool-calling",
+    "structured-extraction"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-11T08:50:38Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
