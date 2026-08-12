@@ -1,0 +1,30 @@
+{
+  "id": "1bc2a5bcd3106d7d04c0d454ea10573b18941c381046d79c821948cb77ed8445",
+  "title": "cathrynlavery/diagram-design",
+  "source_url": "https://github.com/cathrynlavery/diagram-design",
+  "source_type": "github_trending",
+  "summary": "该项目提供29种适用于Claude Code的编辑级图表设计模板，全部采用自包含的HTML+SVG实现，不依赖外部库，刻意避免阴影效果和Mermaid生成的通用风格。每个模板均为独立文件，可直接嵌入或引用，适合在AI辅助编程、文档生成、数据可视化等场景中快速产出高质量、风格统一的图表。项目强调设计规范与代码可维护性，为开发者提供了一套轻量、可定制的图表解决方案，尤其适合需要精确控制视觉呈现的编辑场景。",
+  "content_markdown": null,
+  "tags": [
+    "html",
+    "svg",
+    "diagram",
+    "claude-code",
+    "data-visualization"
+  ],
+  "language": "en",
+  "author": "cathrynlavery",
+  "published_at": null,
+  "collected_at": "2026-08-12T09:08:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826947800,
+    "github_language": "HTML",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150515,
+    "github_stars_today": 1616,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "7eaea323ed8b4f019dae9ae2d92002bf23c2c4a43fb4b4e6e4a62d50b7bbcfa5",
+  "title": "jaywcjlove/awesome-mac",
+  "source_url": "https://github.com/jaywcjlove/awesome-mac",
+  "source_type": "github_trending",
+  "summary": "awesome-mac 是一个专注于收集高质量 macOS 软件并系统分类的开源项目，旨在帮助用户快速查找和使用各类 Mac 应用。该项目由 jaywcjlove 维护，内容涵盖开发工具、设计、办公、娱乐、系统优化等多个类别，每个类别下均列出推荐软件及其简介和下载链接。项目持续更新，社区贡献活跃，是 macOS 用户发现优秀软件的重要参考资源。",
+  "content_markdown": null,
+  "tags": [
+    "macos",
+    "awesome-list",
+    "software-collection",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "jaywcjlove",
+  "published_at": null,
+  "collected_at": "2026-08-12T09:08:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694110690,
+    "github_language": "Swift",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508428,
+    "github_stars_today": 298,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2f24fa8b816537d510be03cd61ebebe8341bf3afdc0e87493bedb5e0b2a4c36f",
+  "title": "practical-tutorials/project-based-learning",
+  "source_url": "https://github.com/practical-tutorials/project-based-learning",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精心策划的基于项目的编程教程列表，旨在帮助开发者通过构建实际项目来学习编程。它涵盖了多种编程语言和技术栈，包括Web开发、移动应用、游戏开发、数据科学等，每个教程都提供了从零开始构建完整项目的详细步骤。该列表持续更新，收录了社区中高质量的资源，适合不同水平的开发者，尤其是希望通过实践提升技能的初学者和中级开发者。项目在GitHub上广受欢迎，是开发者寻找实战练习和项目灵感的重要参考。",
+  "content_markdown": null,
+  "tags": [
+    "project-based-learning",
+    "programming-tutorials",
+    "curated-list",
+    "learning-resources"
+  ],
+  "language": "en",
+  "author": "practical-tutorials",
+  "published_at": null,
+  "collected_at": "2026-08-12T09:08:11Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694278688,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015035797,
+    "github_stars_today": 401,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner"
+  }
+}

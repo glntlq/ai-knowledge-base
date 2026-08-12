@@ -1,0 +1,29 @@
+{
+  "id": "47679b10ef3cb71fdb345476f0ead6778677aea18b9dc8f14109dee39fc2a19f",
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "source_url": "https://stolen-thoughts.com/",
+  "source_type": "hacker_news",
+  "summary": "本文揭示了一种针对专有LLM API的推理轨迹窃取攻击。攻击者利用API的流式输出或日志接口，通过精心构造的提示词诱导模型输出包含内部推理步骤的详细内容，从而绕过服务商对思维链（CoT）的保护。文章分析了多种主流商业API（如OpenAI、Anthropic）的漏洞，指出即使模型被训练为隐藏推理过程，仍可通过特定解码策略或异常输入提取敏感信息。作者提出了防御措施，包括输出过滤、差分隐私、限制流式传输以及强化提示注入防护。该研究对AI安全领域具有重要警示意义，强调推理轨迹作为知识产权和隐私数据需更严格的保护。",
+  "content_markdown": null,
+  "tags": [
+    "llm-security",
+    "prompt-injection",
+    "reasoning-traces",
+    "api-security",
+    "ai-privacy"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": "Tue, 11 Aug 2026 13:22:00 +0000",
+  "collected_at": "2026-08-12T09:08:12Z",
+  "analyzed_at": "2026-08-12T09:09:15Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "advanced",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}
