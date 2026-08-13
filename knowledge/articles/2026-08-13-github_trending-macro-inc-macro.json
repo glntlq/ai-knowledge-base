@@ -1,0 +1,30 @@
+{
+  "id": "e5b534adeb3813271205f8d0a765220fe8da5c895768a27f2eb1b058d3470049",
+  "title": "macro-inc/macro",
+  "source_url": "https://github.com/macro-inc/macro",
+  "source_type": "github_trending",
+  "summary": "Macro 是一个面向团队的统一工作空间，将电子邮件、聊天、文档、任务、智能体、通话和 CRM 集成于一体，并通过 @ 提及机制与共享 AI 记忆实现各模块的互联。该项目旨在解决团队工具碎片化问题，提供一站式协作体验，利用 AI 增强信息关联与检索。当前处于开发阶段，适合关注团队协作工具和 AI 集成应用的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "team-collaboration",
+    "ai-memory",
+    "workspace",
+    "crm",
+    "productivity"
+  ],
+  "language": "en",
+  "author": "macro-inc",
+  "published_at": null,
+  "collected_at": "2026-08-13T09:08:24Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942266,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150256,
+    "github_stars_today": 227,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

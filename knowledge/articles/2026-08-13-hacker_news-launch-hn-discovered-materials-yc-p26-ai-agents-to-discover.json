@@ -1,0 +1,26 @@
+{
+  "id": "d8b7517e250bf8fbbd4de0f93c5870b1502e7468296a92b74d1a1c09f1e236b0",
+  "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+  "source_url": "https://discoveredmaterials.com/research/",
+  "source_type": "hacker_news",
+  "summary": "Discovered Materials（YC P26）是一家利用AI智能体为半导体行业发现新材料的初创公司，由材料科学博士Akash和AI工程师Advaith创立。针对GPU功耗激增（如Nvidia Rubin芯片TDP达2.3kW）导致的散热难题，公司利用前沿AI模型（如Claude、GPT-5.6）进行材料计算发现，并验证了模型能发现动态稳定且性能优异的新材料，显著缩短传统博士级研究周期。公司已成功合成并测试热界面材料（TIMs），性能媲美行业巨头保密20余年的产品。业务模式包括材料IP许可和销售AI工具链，并计划双轨并行。公司发布了数百种新材料及基准测试，揭示模型行为（如奖励黑客、长上下文不稳定）。团队背景包括斯坦福材料科学博士和AI视频模型研发经验。公司寻求行业反馈，以推动材料从实验室到晶圆厂的转化，降低研发时间和成本。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "materials-science",
+    "semiconductor",
+    "thermal-management",
+    "y-combinator"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-13T09:08:24Z",
+  "analyzed_at": "2025-03-21T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

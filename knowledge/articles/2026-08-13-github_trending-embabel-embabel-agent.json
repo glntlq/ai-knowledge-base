@@ -1,0 +1,30 @@
+{
+  "id": "1a76c6d961ed1e2234331c9b5654b6bb138c4b4c550a1950c28c0496ae38bca2",
+  "title": "embabel/embabel-agent",
+  "source_url": "https://github.com/embabel/embabel-agent",
+  "source_type": "github_trending",
+  "summary": "embabel-agent 是一个面向 JVM 的智能体（Agent）框架，发音为 Em-BAY-bel。该框架旨在为 Java 虚拟机生态提供构建智能体应用的基础设施，可能涵盖任务规划、工具调用、记忆管理等核心能力。作为新兴的开源项目，它可能强调与现有 JVM 技术栈（如 Spring、Kotlin）的集成，并利用 Java 的类型安全和性能优势。目前项目处于早期阶段，具体功能细节和文档尚不明确，但定位清晰，专注于 JVM 平台，适合希望在 Java/Kotlin 环境中开发 AI 代理的开发者关注。",
+  "content_markdown": null,
+  "tags": [
+    "jvm",
+    "agent-framework",
+    "java",
+    "ai",
+    "kotlin"
+  ],
+  "language": "en",
+  "author": "embabel",
+  "published_at": null,
+  "collected_at": "2026-08-13T09:08:24Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944266,
+    "github_language": "Kotlin",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150414,
+    "github_stars_today": 40,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

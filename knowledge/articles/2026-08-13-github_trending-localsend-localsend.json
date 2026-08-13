@@ -1,0 +1,30 @@
+{
+  "id": "2cef0cde024321c6d9ffb9919430dd9c2fdfa370cfa439f1cba90a0cb5fbc834",
+  "title": "localsend/localsend",
+  "source_url": "https://github.com/localsend/localsend",
+  "source_type": "github_trending",
+  "summary": "LocalSend 是一个开源的跨平台文件传输工具，旨在作为苹果 AirDrop 的替代方案，支持 Windows、macOS、Linux、Android 和 iOS 等主流操作系统。它通过本地网络进行点对点传输，无需互联网连接，不依赖中央服务器，从而保障用户隐私和数据安全。项目采用 Flutter 开发，界面简洁易用，支持多文件批量发送、接收确认、设备发现等功能。LocalSend 在 GitHub 上拥有较高关注度，社区活跃，持续迭代更新。其核心优势在于跨平台兼容性和开放性，适合个人用户在不同设备间快速共享文件，也适用于企业或组织内部的安全文件交换场景。该项目遵循 MIT 许可证，允许自由使用和修改，吸引了大量开发者参与贡献。",
+  "content_markdown": null,
+  "tags": [
+    "file-transfer",
+    "cross-platform",
+    "open-source",
+    "privacy",
+    "flutter"
+  ],
+  "language": "zh",
+  "author": "localsend",
+  "published_at": null,
+  "collected_at": "2026-08-13T09:08:24Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269488087,
+    "github_language": "Dart",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504886,
+    "github_stars_today": 213,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner"
+  }
+}

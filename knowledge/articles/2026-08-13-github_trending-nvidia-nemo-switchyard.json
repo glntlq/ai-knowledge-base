@@ -1,0 +1,30 @@
+{
+  "id": "6082227a50e5e0550026fb4ad749e1e057a3700674f8d01bbd977cbd6b2ae7de",
+  "title": "NVIDIA-NeMo/Switchyard",
+  "source_url": "https://github.com/NVIDIA-NeMo/Switchyard",
+  "source_type": "github_trending",
+  "summary": "Switchyard 是 NVIDIA NeMo 团队推出的开源工具，旨在简化大语言模型（LLM）的评估与基准测试流程。它提供统一的接口来运行多种评估基准，支持自定义数据集和模型接入，并生成结构化报告。该工具强调可扩展性和可重复性，帮助开发者高效比较不同模型或同一模型在不同配置下的表现。其设计注重与 NeMo 生态的集成，同时保持框架无关，可适配 Hugging Face 等主流模型库。对于需要系统评估 LLM 性能的研究者和工程师，Switchyard 降低了搭建评估管线的复杂度，提升了实验效率。",
+  "content_markdown": null,
+  "tags": [
+    "llm-evaluation",
+    "benchmarking",
+    "nvidia-nemo",
+    "open-source",
+    "python"
+  ],
+  "language": "zh",
+  "author": "NVIDIA-NeMo",
+  "published_at": null,
+  "collected_at": "2026-08-13T09:08:24Z",
+  "analyzed_at": "2025-04-10T01:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694977,
+    "github_language": "Rust",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015097,
+    "github_stars_today": 421,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

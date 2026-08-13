@@ -1,0 +1,30 @@
+{
+  "id": "c7877f73db3f0641ace159408b0d1ce74db8d6f17577af3655f61623adbc828e",
+  "title": "hugohe3/ppt-master",
+  "source_url": "https://github.com/hugohe3/ppt-master",
+  "source_type": "github_trending",
+  "summary": "ppt-master 是一个由 Hugo He 开发的 AI 工具，能够将文档或主题自动转换为原生 PowerPoint 演示文稿。它生成的内容包含原生形状、过渡和动画效果，支持按需创建数据驱动的图表和表格，并能根据演讲者备注生成音频旁白。此外，该工具还支持用户自定义 .pptx 模板，以便保持品牌一致性。该项目旨在提升演示文稿制作的效率与质量，适合需要快速生成专业幻灯片的用户。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "powerpoint",
+    "presentation",
+    "automation",
+    "template"
+  ],
+  "language": "en",
+  "author": "hugohe3",
+  "published_at": null,
+  "collected_at": "2026-08-13T09:08:24Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269446196,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503750,
+    "github_stars_today": 476,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

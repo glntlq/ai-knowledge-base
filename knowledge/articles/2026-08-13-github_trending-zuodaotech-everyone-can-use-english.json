@@ -1,0 +1,29 @@
+{
+  "id": "330f0632e4be346db0f9a189317f606dfd5d2c28bb64c49e1287c72f2d58b5df",
+  "title": "ZuodaoTech/everyone-can-use-english",
+  "source_url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向中文用户的英语学习资源集合，旨在帮助用户通过系统化的方法提升英语能力。内容涵盖听力、口语、阅读、写作等多个维度，提供从基础到进阶的学习路径，并整合了实用的学习工具和材料。项目强调日常实践与持续输入，适合不同水平的英语学习者参考使用。",
+  "content_markdown": null,
+  "tags": [
+    "english-learning",
+    "language-education",
+    "open-source",
+    "resources"
+  ],
+  "language": "zh",
+  "author": "ZuodaoTech",
+  "published_at": null,
+  "collected_at": "2026-08-13T09:08:24Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269436341,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505040,
+    "github_stars_today": 86,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}
