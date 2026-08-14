@@ -1,0 +1,30 @@
+{
+  "id": "3fe8499391cf54985e787a570ff7938e52a03f293beba0cd611a20e8cd37f7ff",
+  "title": "lightningpixel/modly",
+  "source_url": "https://github.com/lightningpixel/modly",
+  "source_type": "github_trending",
+  "summary": "Modly 是一款桌面应用程序，利用本地 AI 从图像生成 3D 模型，完全在用户 GPU 上运行，无需云端依赖。该工具面向设计师、开发者及 3D 内容创作者，提供从单张或多张图片自动重建三维几何体的工作流。其核心优势在于隐私保护（数据不出设备）和低成本（无需 API 费用）。项目当前处于早期阶段，支持主流 GPU（NVIDIA/AMD），并计划扩展更多模型格式导出。该仓库在 GitHub 上受到关注，反映了本地 AI 与 3D 生成结合的趋势。",
+  "content_markdown": null,
+  "tags": [
+    "3d-modeling",
+    "local-ai",
+    "gpu",
+    "image-to-3d",
+    "desktop-app"
+  ],
+  "language": "en",
+  "author": "lightningpixel",
+  "published_at": null,
+  "collected_at": "2026-08-14T09:04:14Z",
+  "analyzed_at": "2025-04-10T01:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945648,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150589,
+    "github_stars_today": 118,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

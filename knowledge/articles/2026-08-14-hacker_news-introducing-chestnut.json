@@ -1,0 +1,25 @@
+{
+  "id": "4153ed864395ae3f271df61a130ea620a15ff960ec88aa6cd53e520d3ae16942",
+  "title": "Introducing chestnut",
+  "source_url": "https://blog.comma.ai/chestnut/",
+  "source_type": "hacker_news",
+  "summary": "comma.ai 发布博客文章，正式介绍其内部开发的工具“chestnut”。该工具旨在解决自动驾驶领域数据管理与模型训练中的特定问题，通过高效的数据处理与工作流优化，提升开发效率。文章详细阐述了 chestnut 的设计理念、核心功能及其在 comma.ai 技术栈中的定位，并提供了相关讨论链接。作为开源社区关注的项目，chestnut 的发布引起了开发者对自动驾驶数据工具链的进一步探讨。",
+  "content_markdown": null,
+  "tags": [
+    "autonomous-driving",
+    "data-tools",
+    "open-source",
+    "workflow"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-14T09:04:19Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

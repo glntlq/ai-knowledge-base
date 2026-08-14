@@ -1,0 +1,30 @@
+{
+  "id": "000a0bfda4f33318b512d876e4265344178793be9d787858cfbf1750384ecf00",
+  "title": "holaboss-ai/holaOS",
+  "source_url": "https://github.com/holaboss-ai/holaOS",
+  "source_type": "github_trending",
+  "summary": "holaOS 是一个开源的 All-in-One AI 智能体工作空间，旨在统一管理多种 AI 代理（如 Claude Code、Codex）并集成超过 100 种工具及 MCP（模型上下文协议）生态。它提供共享内存机制，使不同代理能够协同工作，并支持跨应用、浏览器和文件系统的操作。用户既可使用内置模型，也可自带密钥（BYOK）接入自有模型。该项目定位为 AI 代理的集成环境，强调可扩展性和互操作性，适合开发者和团队构建复杂的自动化工作流。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "mcp",
+    "open-source",
+    "workflow-automation",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "holaboss-ai",
+  "published_at": null,
+  "collected_at": "2026-08-14T09:04:14Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946864,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150616,
+    "github_stars_today": 241,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

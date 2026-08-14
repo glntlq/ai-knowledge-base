@@ -1,0 +1,30 @@
+{
+  "id": "d9b9e3effd9e8dbfc2fb9b2245482d832f232f9d0e460a18caaafbe848aad650",
+  "title": "kepano/obsidian-skills",
+  "source_url": "https://github.com/kepano/obsidian-skills",
+  "source_type": "github_trending",
+  "summary": "该项目为 Obsidian 提供 Agent skills，旨在教会 AI 代理使用 Obsidian 的命令行工具和开放格式（如 Markdown、Bases、JSON Canvas）进行知识管理。通过定义明确的技能，代理能够高效地操作 Obsidian 库，包括创建、编辑、检索笔记，以及处理基于 JSON Canvas 的可视化内容。项目强调开放标准和本地优先，使 AI 能够无缝集成到 Obsidian 工作流中，提升自动化笔记管理和知识组织能力。该仓库由 Obsidian 官方开发者维护，是连接 AI 代理与 Obsidian 生态的重要桥梁，适合希望利用 AI 增强笔记生产力的用户。",
+  "content_markdown": null,
+  "tags": [
+    "obsidian",
+    "ai-agents",
+    "markdown",
+    "json-canvas",
+    "cli"
+  ],
+  "language": "en",
+  "author": "kepano",
+  "published_at": null,
+  "collected_at": "2026-08-14T09:04:14Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269446105,
+    "github_language": null,
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503307,
+    "github_stars_today": 292,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

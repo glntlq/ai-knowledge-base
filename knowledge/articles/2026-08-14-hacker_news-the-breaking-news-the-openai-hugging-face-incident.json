@@ -1,0 +1,25 @@
+{
+  "id": "2cef13bd2fd9337edd0fd87c06d7a25fd0e1814034ee009a755a0919fd49a298",
+  "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+  "source_url": "https://youtu.be/87DyyMV0kCY",
+  "source_type": "hacker_news",
+  "summary": "该事件涉及OpenAI与Hugging Face之间的一次突发性冲突，具体细节未在摘要中明确，但可能涉及模型滥用、API访问或政策分歧。视频标题暗示这是一起‘突发新闻’，可能对AI社区产生重要影响，引发关于开放性与商业化的讨论。内容来源为RSS订阅，原始链接指向Lobsters评论，表明技术社区对此高度关注。摘要需基于有限信息，强调事件的不确定性和潜在影响，并建议关注后续发展。",
+  "content_markdown": null,
+  "tags": [
+    "openai",
+    "hugging-face",
+    "ai-ethics",
+    "tech-news"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-14T09:04:19Z",
+  "analyzed_at": "2025-04-08T12:05:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 5,
+    "difficulty": "intermediate"
+  }
+}

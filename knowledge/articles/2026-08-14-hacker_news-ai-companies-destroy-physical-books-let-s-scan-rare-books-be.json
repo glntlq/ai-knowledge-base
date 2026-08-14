@@ -1,0 +1,25 @@
+{
+  "id": "95084e9b681b13da964c4d592748ca49ad129ad3117ac94e769f80ca63b0f315",
+  "title": "AI companies destroy physical books — let’s scan rare books before it’s too late",
+  "source_url": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+  "source_type": "hacker_news",
+  "summary": "文章指出，AI 公司为训练大语言模型，大量扫描图书馆和档案馆的实体书籍，导致许多稀有或绝版书籍在扫描过程中被物理销毁。作者呼吁在书籍被彻底损毁前，优先对稀有书籍进行数字化保存。文章强调，虽然AI发展需要数据，但不应以牺牲文化遗产为代价，并建议建立紧急扫描项目，保护人类知识遗产。",
+  "content_markdown": null,
+  "tags": [
+    "ai-training",
+    "book-scanning",
+    "cultural-heritage",
+    "digital-preservation"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-14T09:04:19Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

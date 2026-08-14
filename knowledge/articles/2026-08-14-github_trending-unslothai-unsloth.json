@@ -1,0 +1,30 @@
+{
+  "id": "db9d74acb4de5d57827b3538eb52ecc8e4d741112c2ccd3b34c3b6fb76e9e872",
+  "title": "unslothai/unsloth",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "source_type": "github_trending",
+  "summary": "unslothai/unsloth 是一个开源项目，提供本地化界面，用于运行和训练大型语言模型（LLM）及扩散模型。该项目支持包括 Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX 在内的多种最新模型，旨在降低 AI 模型本地部署与微调的门槛。通过优化内存使用和计算效率，unsloth 使得在消费级硬件上运行和训练大模型成为可能，适合开发者、研究人员和 AI 爱好者进行实验与产品原型开发。项目在 GitHub 上持续更新，社区活跃，提供了丰富的文档和示例，帮助用户快速上手。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "diffusion-models",
+    "local-training",
+    "fine-tuning",
+    "ai-tools"
+  ],
+  "language": "en",
+  "author": "unslothai",
+  "published_at": null,
+  "collected_at": "2026-08-14T09:04:14Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269471241,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506422,
+    "github_stars_today": 328,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
