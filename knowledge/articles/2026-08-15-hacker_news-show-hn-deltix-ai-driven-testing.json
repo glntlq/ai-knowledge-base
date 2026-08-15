@@ -1,0 +1,26 @@
+{
+  "id": "e6c5e25ffd8e0fe6901c617e008ae7dc02cba2b58f5b54cdc00aad91d2665ece",
+  "title": "Show HN: Deltix – AI Driven Testing",
+  "source_url": "https://app.deltix.ai",
+  "source_type": "hacker_news",
+  "summary": "Deltix 是一个基于人工智能的测试平台，旨在通过 AI 驱动的方式自动化软件测试流程。该工具利用机器学习技术智能生成测试用例、预测缺陷并优化测试覆盖，从而减少人工干预，提升测试效率与准确性。其核心优势在于能够自适应应用变化，动态调整测试策略，适用于敏捷开发和持续集成环境。Deltix 通过自然语言处理解析需求文档，自动生成可执行的测试脚本，并集成主流 CI/CD 工具，帮助团队实现测试左移。该平台面向开发者和 QA 工程师，提供可视化仪表盘和详细报告，支持快速定位问题。当前项目在 Hacker News 上引发讨论，获得 26 分和 9 条评论，显示出社区对 AI 测试工具的兴趣。Deltix 的定位是填补传统测试工具在智能化方面的空白，尤其适合需要频繁回归测试的复杂应用。",
+  "content_markdown": null,
+  "tags": [
+    "ai-testing",
+    "test-automation",
+    "machine-learning",
+    "devtools",
+    "ci-cd"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-15T08:23:20Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

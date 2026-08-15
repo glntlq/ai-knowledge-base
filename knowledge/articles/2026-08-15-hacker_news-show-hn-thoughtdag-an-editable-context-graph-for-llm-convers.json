@@ -1,0 +1,26 @@
+{
+  "id": "3f725e2c6a3138fa440dd26963e875719f58cc4dd0018227eda905e7f45c3903",
+  "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+  "source_url": "https://chenxiachan.github.io/thoughtdag/",
+  "source_type": "hacker_news",
+  "summary": "ThoughtDAG 是一个面向大语言模型对话的可编辑上下文图工具，旨在解决传统线性对话历史在复杂多线程任务中的信息组织与检索问题。它允许用户以有向无环图（DAG）结构管理对话上下文，支持节点编辑、分支重组和关系可视化，从而提升多主题、多轮次对话的连贯性与可控性。该项目通过浏览器端交互界面实现，强调用户对上下文的显式操控，而非依赖模型自动记忆。当前版本聚焦于轻量级集成，可嵌入现有LLM应用或作为独立辅助工具。其核心价值在于将对话历史从扁平列表升级为结构化知识图谱，便于回溯、修改和复用，适用于研究、写作、编程等需要长程推理的场景。项目处于早期阶段，社区反馈关注其与主流LLM API的兼容性及协作功能扩展。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "context-management",
+    "knowledge-graph",
+    "conversation-ui",
+    "dag"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-15T08:23:20Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

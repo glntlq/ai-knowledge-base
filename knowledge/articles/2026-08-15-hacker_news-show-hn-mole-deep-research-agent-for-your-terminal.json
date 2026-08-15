@@ -1,0 +1,26 @@
+{
+  "id": "ca731c357c0c5b9f31fc0c34d1b48f90d32f8e1715ad4384f22cddaba85600b2",
+  "title": "Show HN: Mole – Deep research agent for your terminal",
+  "source_url": "https://github.com/lajosdeme/mole",
+  "source_type": "hacker_news",
+  "summary": "Mole 是一款面向终端环境的深度研究代理，旨在解决 AI 研究工具常见的预算超支、来源混乱和数据隐私问题。其核心特性包括：强制预算控制（实测超支率为 0%）、每个论断附带可验证来源、以及本地数据隐私边界（如 CSV 文件分析不出本机）。Mole 兼容多种 LLM，包括编码代理、订阅服务和本地模型，且免费开源。该工具由 lajosdeme 开发，在 Hacker News 上以 Show HN 形式发布，获得 69 分和 10 条评论，社区反馈积极。Mole 特别适合需要可控成本、可追溯来源和隐私保护的研究任务，为终端用户提供高效、透明的 AI 研究体验。",
+  "content_markdown": null,
+  "tags": [
+    "deep-research",
+    "terminal",
+    "privacy",
+    "budget-control",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-15T08:23:20Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

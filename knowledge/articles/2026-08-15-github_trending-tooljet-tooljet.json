@@ -1,0 +1,34 @@
+{
+  "id": "f565342b96e3f4d09528fd955b05af6c4e4f8206b5af186e12ebd7d230eaa852",
+  "title": "ToolJet/ToolJet",
+  "source_url": "https://github.com/ToolJet/ToolJet",
+  "source_type": "github_trending",
+  "summary": "ToolJet 是一个开源的企业级应用生成平台，旨在帮助团队快速构建内部工具、仪表盘、业务应用、工作流和 AI 代理。它提供了可视化拖拽式界面，支持连接多种数据源（如数据库、API、SaaS 服务），并内置丰富的组件库和权限管理功能。ToolJet 的核心优势在于其开放性和可扩展性，允许开发者通过自定义 JavaScript 代码和插件来增强功能，同时支持自托管部署，确保数据安全。作为 ToolJet AI 的基础，该平台集成了 AI 能力，能够自动化生成应用和智能工作流，显著提升开发效率。项目在 GitHub 上活跃，社区贡献度高，适合需要快速交付内部工具的中大型团队。",
+  "content_markdown": null,
+  "tags": [
+    "low-code",
+    "internal-tools",
+    "open-source",
+    "workflow-automation",
+    "ai-agents"
+  ],
+  "language": "en",
+  "author": "ToolJet",
+  "published_at": null,
+  "collected_at": "2026-08-15T08:23:19Z",
+  "analyzed_at": "2026-08-15T08:24:12Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439218,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505275,
+    "github_stars_today": 132,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": null
+  }
+}
