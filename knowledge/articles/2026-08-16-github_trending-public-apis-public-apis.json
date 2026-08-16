@@ -1,0 +1,30 @@
+{
+  "id": "b8252b9b14db835d0c82c82e8a820041bbb75e5f9e4feb246c07b1150fe35a5a",
+  "title": "public-apis/public-apis",
+  "source_url": "https://github.com/public-apis/public-apis",
+  "source_type": "github_trending",
+  "summary": "public-apis/public-apis 是 GitHub 上最受欢迎的开源项目之一，汇集了涵盖动物、动漫、反恶意软件、艺术设计、书籍、商业、日历、云存储、货币、数据验证、开发工具、字典、娱乐、环境、金融、食品饮料、游戏、地理、政府、健康、新闻、开放数据、专利、摄影、科学、安全、购物、社交、体育、交通、天气等数十个类别的免费公共 API 列表。该项目由社区维护，持续更新，为开发者提供发现和测试公共 API 的便捷入口，支持快速原型开发和教学演示。每个 API 条目通常包含名称、描述、认证方式（如 API key、OAuth）、是否支持 HTTPS 以及 CORS 支持情况，方便开发者评估集成难度。项目采用 Markdown 格式维护，结构清晰，易于贡献。作为开放数据资源，它极大降低了开发者寻找免费 API 的成本，是构建应用和探索 API 生态的重要参考。",
+  "content_markdown": null,
+  "tags": [
+    "api",
+    "free-api",
+    "public-apis",
+    "developer-tools",
+    "awesome-list"
+  ],
+  "language": "en",
+  "author": "public-apis",
+  "published_at": null,
+  "collected_at": "2026-08-16T08:24:47Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694460613,
+    "github_language": "Python",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015050889,
+    "github_stars_today": 2260,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "beginner"
+  }
+}
