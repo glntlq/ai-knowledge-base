@@ -1,0 +1,278 @@
+{
+  "collected_at": "2026-08-17T08:38:30Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/cordiverse/cordis",
+      "title": "cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "author": "cordiverse",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945233,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150281,
+        "github_stars_today": 720,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-17T08:38:32Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/basecamp/omarchy",
+      "title": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "author": "basecamp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425700,
+        "github_language": "Shell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502614,
+        "github_stars_today": 270,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-17T08:38:32Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/unslothai/unsloth",
+      "title": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "author": "unslothai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269472912,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506569,
+        "github_stars_today": 572,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-17T08:38:32Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenCut-app/OpenCut",
+      "title": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "author": "OpenCut-app",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269484217,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508311,
+        "github_stars_today": 150,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-17T08:38:32Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/public-apis/public-apis",
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "author": "public-apis",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694462497,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015051083,
+        "github_stars_today": 1588,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-17T08:38:32Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ToolJet/ToolJet",
+      "title": "ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "author": "ToolJet",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269440293,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505345,
+        "github_stars_today": 452,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-17T08:38:32Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/cactus-compute/needle",
+      "title": "cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "author": "cactus-compute",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826946879,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150442,
+        "github_stars_today": 443,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-17T08:38:32Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://duti.dev/blog/2026/spr/",
+      "title": "HackEurope 2026: A short rant on AI and hackathons",
+      "description": "Article URL: https://duti.dev/blog/2026/spr/ Comments URL: https://news.ycombinator.com/item?id=49327490 Points: 11 # Comments: 1",
+      "author": "",
+      "published_at": "Mon, 17 Aug 2026 07:28:43 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
+      "description": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 56 # Comments: 11",
+      "author": "",
+      "published_at": "Sun, 16 Aug 2026 20:01:13 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://math-ai-org.github.io/mathcode/",
+      "title": "MathCode, Mathematical Coding Agent",
+      "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 90 # Comments: 28",
+      "author": "",
+      "published_at": "Sun, 16 Aug 2026 18:17:10 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "title": "The AI Credit Resale Economy",
+      "description": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 277 # Comments: 113",
+      "author": "",
+      "published_at": "Sun, 16 Aug 2026 14:44:55 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "title": "The Limits of AI (1985)",
+      "description": "<p><a href=\"https://lobste.rs/s/xculjp/limits_ai_1985\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sun, 16 Aug 2026 19:20:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2604.04902",
+      "title": "Are Latent Reasoning Models Easily Interpretable?",
+      "description": "<p>Models normally do all their reasoning in a continuous hidden state instead of spitting out readable text which makes them hard to monitor. The authors tested the Coconut and CODI models and it turns out these models barely even use their hidden reasoning steps for logical tasks like PrOntoQA and ProsQA. You can force the models to stop thinking early and they almost always spit out the same response anyway. It turns out that their high performance on logical tasks actually comes from their specific training data rather than the extra thinking during inference.</p> <p>Things get even more interesting when the models actually need those reasoning tokens for math problems. The researchers wanted to know if standard step-by-step math solutions were hidden inside the latent space, and projected the hidden states back into regular vocabulary words to check. And sure enough when the models got the math problem right the researchers found the correct intermediate math steps in their hidden states up to 93% of the time. The finding strongly suggests that the models are basically doing standard math steps in the background.</p> <p>They confirmed the exact math operations taking place by tweaking numbers in the prompt and seeing how the hidden states reacted which allowed decoding a verified reasoning path for a large majority of correct predictions. But they could rarely do this for incorrect predictions proving that models are actually way more interpretable than the AI community assumed. And you can even use that interpretability as a signal to guess if the model is about to give a right or wrong answer.</p> <p><a href=\"https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 15 Aug 2026 11:17:13 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://youtu.be/87DyyMV0kCY",
+      "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+      "description": "<p><a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 11 Aug 2026 11:50:09 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+      "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+      "description": "<p><a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 07 Aug 2026 16:22:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+      "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+      "description": "<p><a href=\"https://lobste.rs/s/vytqfi/why_do_cognitive_scientists_hate_llms\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:45:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/vyy2jf/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 12:11:41 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://localai.io/blog/why-we-write-our-own-engines/",
+      "title": "Why we write our own C and C++ inference engines",
+      "description": "<p><a href=\"https://lobste.rs/s/t7zdif/why_we_write_our_own_c_c_inference_engines\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 31 Jul 2026 11:17:44 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "title": "You Could Have Come Up With Kimi Delta Attention",
+      "description": "<p><a href=\"https://lobste.rs/s/jjap0n/you_could_have_come_up_with_kimi_delta\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 28 Jul 2026 12:01:39 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-17T08:38:37Z"
+    }
+  ]
+}

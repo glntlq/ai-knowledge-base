@@ -1,0 +1,30 @@
+{
+  "id": "ca68beea6ded63a661fd439059a89aafeab705474c05fd2da4d7b39fa9e46d3a",
+  "title": "basecamp/omarchy",
+  "source_url": "https://github.com/basecamp/omarchy",
+  "source_type": "github_trending",
+  "summary": "Omarchy 是 Basecamp 团队推出的一个 Linux 发行版，主打美观、现代且高度定制化（Opinionated）。它基于 Arch Linux 构建，旨在提供开箱即用的优雅桌面体验，同时保留 Arch 的滚动更新和灵活性。项目强调简洁的视觉设计、精心预配置的桌面环境（如 GNOME）以及一系列默认优化，减少用户配置成本。Omarchy 适合追求高效、美观且愿意接受 Arch 生态的开发者或技术爱好者。该仓库目前处于早期阶段，但已吸引大量关注，反映了 Basecamp 在操作系统领域的探索。",
+  "content_markdown": null,
+  "tags": [
+    "linux",
+    "arch-linux",
+    "desktop-environment",
+    "opinionated",
+    "basecamp"
+  ],
+  "language": "en",
+  "author": "basecamp",
+  "published_at": null,
+  "collected_at": "2026-08-17T08:38:32Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269425700,
+    "github_language": "Shell",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502614,
+    "github_stars_today": 270,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c99e4af42d8037c7549c0c34d102134b2a996acc25c8ec2116889b7412f12c6a",
+  "title": "HackEurope 2026: A short rant on AI and hackathons",
+  "source_url": "https://duti.dev/blog/2026/spr/",
+  "source_type": "hacker_news",
+  "summary": "本文是作者对2026年HackEurope黑客马拉松中AI应用现状的简短吐槽。作者观察到，大量参赛项目仅简单包装ChatGPT等大语言模型，缺乏真正的技术深度和创新性，沦为“AI套壳”应用。文章批评了这种浮躁的风气，认为黑客松应鼓励更扎实的工程实践和原创算法，而非追逐AI热点。作者还指出，AI工具的普及降低了开发门槛，但也导致同质化严重，评委难以区分优劣。文章呼吁回归黑客精神，重视基础技术、用户体验和实际问题的解决，而非盲目跟风。整体上，这是一篇反思AI时代黑客松文化异化的评论文章，带有批判性和建设性建议。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "hackathon",
+    "llm",
+    "tech-culture",
+    "critique"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-17T08:38:37Z",
+  "analyzed_at": "2026-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2d41aef6f20b163552e2e7a77e084e3f5354f98a60871c17ce5f66cb9bf21360",
+  "title": "The Limits of AI (1985)",
+  "source_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一段1985年的视频《The Limits of AI》，内容探讨早期人工智能的边界与局限。视频发布于人工智能发展初期，当时符号主义与专家系统盛行，但已有人意识到AI能力的根本限制。视频可能涉及计算理论、知识表示、常识推理等核心难题，并预见了后续AI寒冬的部分原因。对于理解AI历史脉络和当前技术瓶颈的根源具有参考价值。",
+  "content_markdown": null,
+  "tags": [
+    "artificial-intelligence",
+    "history",
+    "limitations",
+    "symbolic-ai"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "1985-01-01T00:00:00Z",
+  "collected_at": "2026-08-17T08:38:37Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "be6b6799066a3de0d1bef9d0ab962b6b98a22ff2c14c2485c1ddf75b77a04d5c",
+  "title": "The AI Credit Resale Economy",
+  "source_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了AI算力市场中新兴的“代币转售经济”现象，即中间商通过批量采购或预留AI模型API额度（如token），再以加价或分拆方式转售给无法直接获取或需要灵活用量的用户。文章分析了这类“代币经纪人”的商业模式、市场驱动因素（如大模型API供不应求、企业预算碎片化）以及潜在风险，包括价格波动、供应商政策变化和合规问题。作者认为，这种二级市场虽能缓解短期供需矛盾，但长期可能加剧资源分配不透明，并呼吁平台方加强监管。文章基于行业观察，未提供具体数据，但指出了该生态对AI应用普及的双刃剑效应。",
+  "content_markdown": null,
+  "tags": [
+    "ai-economy",
+    "token-resale",
+    "api-marketplace",
+    "cloud-computing",
+    "market-intermediaries"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-17T08:38:37Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
