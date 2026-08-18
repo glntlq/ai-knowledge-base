@@ -1,0 +1,29 @@
+{
+  "id": "8647810293e60063ac79d0eb5ef40de40ec6a5aafcdf062c727c9ac3f68f4f28",
+  "title": "agalwood/Motrix",
+  "source_url": "https://github.com/agalwood/Motrix",
+  "source_type": "github_trending",
+  "summary": "Motrix 是一款功能全面的开源下载管理器，支持 HTTP、FTP、BitTorrent、Magnet 等协议，并集成了 aria2 作为下载引擎。它提供简洁的图形界面，支持多任务并行下载、限速、代理设置、自动更新等功能，适用于 Windows、macOS 和 Linux 平台。项目在 GitHub 上活跃，社区维护良好，适合需要高效、跨平台下载工具的用户。",
+  "content_markdown": null,
+  "tags": [
+    "download-manager",
+    "aria2",
+    "cross-platform",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "agalwood",
+  "published_at": null,
+  "collected_at": "2026-08-18T08:32:15Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269453320,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504934,
+    "github_stars_today": 344,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "beginner"
+  }
+}

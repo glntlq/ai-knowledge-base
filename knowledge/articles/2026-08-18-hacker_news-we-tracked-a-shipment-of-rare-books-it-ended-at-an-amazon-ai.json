@@ -1,0 +1,26 @@
+{
+  "id": "c004dec5a95306fc0b1bab52909adedc8338620a44556df20eb1290113e4725c",
+  "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+  "source_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+  "source_type": "hacker_news",
+  "summary": "一篇调查报道追踪了一批稀有书籍的运输轨迹，最终发现其目的地是亚马逊的AI训练设施。报道暗示，这些书籍可能被用于训练大型语言模型，以提升AI对稀有文本和特定知识领域的理解能力。文章引发了对版权、文化遗产数字化以及AI训练数据来源透明度的讨论，反映了当前AI行业在数据获取方面的争议性实践。",
+  "content_markdown": null,
+  "tags": [
+    "ai-training",
+    "copyright",
+    "data-sourcing",
+    "rare-books",
+    "amazon"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-18T08:32:17Z",
+  "analyzed_at": "2026-08-17T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

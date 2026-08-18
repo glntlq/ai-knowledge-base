@@ -1,0 +1,30 @@
+{
+  "id": "53c214ee01d7dadca5b69fe5411be7a69c608a06de9cf0b3bb25b1ab3d065ad7",
+  "title": "jundot/omlx",
+  "source_url": "https://github.com/jundot/omlx",
+  "source_type": "github_trending",
+  "summary": "omlx 是一个专为 Apple Silicon 设计的 LLM 推理服务器，支持连续批处理和 SSD 缓存，并通过 macOS 菜单栏进行管理。该项目旨在优化本地大语言模型的推理效率，利用 Apple Silicon 的统一内存架构和高速 SSD 来减少内存占用并提升吞吐量。连续批处理技术允许动态合并请求，提高 GPU 利用率；SSD 缓存则通过将部分模型权重或 KV 缓存卸载到磁盘，突破内存限制，支持运行更大规模的模型。用户可通过菜单栏轻松启动、监控和管理推理服务，无需深入命令行操作。该项目适合希望在 Mac 上高效运行本地 LLM 的开发者、研究人员和 AI 爱好者，尤其关注性能优化和资源受限场景。当前项目处于活跃开发阶段，提供了详细的文档和安装指南。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "inference-server",
+    "apple-silicon",
+    "continuous-batching",
+    "ssd-caching"
+  ],
+  "language": "en",
+  "author": "jundot",
+  "published_at": null,
+  "collected_at": "2026-08-18T08:32:15Z",
+  "analyzed_at": "2025-04-11T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419133,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501647,
+    "github_stars_today": 78,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

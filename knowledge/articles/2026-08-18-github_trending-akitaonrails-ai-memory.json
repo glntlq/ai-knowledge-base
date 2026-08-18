@@ -1,0 +1,30 @@
+{
+  "id": "73fb776b94b0e383aa8d0356616c2579c7e9ec8b5f7031b05dc547e4de484a8f",
+  "title": "akitaonrails/ai-memory",
+  "source_url": "https://github.com/akitaonrails/ai-memory",
+  "source_type": "github_trending",
+  "summary": "ai-memory 是一个为 AI 编码代理命令行工具（CLI）提供长期记忆解决方案的开源项目，旨在解决不同代理供应商之间切换时的上下文交接问题。它通过持久化存储代理的交互历史、决策和项目状态，使代理能够在多次会话中保持连贯性，并支持跨工具的记忆共享。该项目由 akitaonrails 开发，适用于需要复杂、多步骤编码任务的开发者，可显著提升 AI 辅助编程的效率和一致性。其核心价值在于打破代理会话的孤立性，为 AI 编码工作流提供结构化的记忆层。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "memory",
+    "cli",
+    "developer-tools",
+    "context-management"
+  ],
+  "language": "en",
+  "author": "akitaonrails",
+  "published_at": null,
+  "collected_at": "2026-08-18T08:32:15Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942348,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150211,
+    "github_stars_today": 207,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
