@@ -1,0 +1,26 @@
+{
+  "id": "e91d91dec303f3e525c345aaf20d2ba22857ad4ac397e66fb5d7bbcd0f354a7a",
+  "title": "AI usage patterns in software teams",
+  "source_url": "https://linear.app/data",
+  "source_type": "hacker_news",
+  "summary": "本文基于Linear团队的实际观察，总结了软件团队中AI使用的常见模式。文章指出，AI在开发流程中的渗透已从代码生成扩展到需求分析、架构设计、代码审查、测试生成和文档编写等多个环节。团队采用AI的主要模式包括：作为结对编程助手、自动化重复性任务、辅助技术决策、以及作为知识获取的入口。文章强调，成功的AI集成并非简单引入工具，而是需要调整团队工作流程和协作方式，并关注AI输出质量与人工审查的平衡。同时，文章也指出了常见陷阱，如过度依赖AI导致代码质量下降、上下文丢失以及团队技能退化等。最终，作者建议团队应明确AI的使用边界，建立反馈机制，并持续评估AI工具对生产力和代码库健康度的影响。",
+  "content_markdown": null,
+  "tags": [
+    "ai-assisted-development",
+    "software-engineering",
+    "team-workflow",
+    "developer-tools",
+    "code-review"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-19T08:32:49Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

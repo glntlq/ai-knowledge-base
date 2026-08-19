@@ -1,0 +1,298 @@
+{
+  "collected_at": "2026-08-19T08:32:45Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "author": "harry0703",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694109289,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015016593,
+        "github_stars_today": 2304,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/chaitanyagiri/munder-difflin",
+      "title": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "author": "chaitanyagiri",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942318,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150263,
+        "github_stars_today": 306,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/akitaonrails/ai-memory",
+      "title": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "author": "akitaonrails",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942960,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150248,
+        "github_stars_today": 648,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/volcengine/OpenViking",
+      "title": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "author": "volcengine",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429712,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502318,
+        "github_stars_today": 213,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "author": "mukul975",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269429433,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503507,
+        "github_stars_today": 730,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/public-apis/public-apis",
+      "title": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "author": "public-apis",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694465101,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015051352,
+        "github_stars_today": 1005,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/basecamp/omarchy",
+      "title": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "author": "basecamp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269426579,
+        "github_language": "Shell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502698,
+        "github_stars_today": 356,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/agalwood/Motrix",
+      "title": "agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "author": "agalwood",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269453892,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504955,
+        "github_stars_today": 609,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "title": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "author": "NawfalMotii79",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269424446,
+        "github_language": "PLSQL",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505609,
+        "github_stars_today": 192,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/jundot/omlx",
+      "title": "jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "author": "jundot",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419574,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501678,
+        "github_stars_today": 370,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "title": "genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "author": "genlayerlabs",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416082,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150802,
+        "github_stars_today": 535,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenCut-app/OpenCut",
+      "title": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "author": "OpenCut-app",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269485010,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508370,
+        "github_stars_today": 192,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-19T08:32:47Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://linear.app/data",
+      "title": "AI usage patterns in software teams",
+      "description": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 131 # Comments: 67",
+      "author": "",
+      "published_at": "Tue, 18 Aug 2026 22:08:07 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-19T08:32:49Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+      "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+      "description": "<p><a href=\"https://lobste.rs/s/ctbbjj/what_is_cross_entropy_compression_is\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 18 Aug 2026 23:49:02 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-19T08:32:49Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "description": "<p><a href=\"https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 17 Aug 2026 12:54:19 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-19T08:32:49Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "title": "The Limits of AI (1985)",
+      "description": "<p><a href=\"https://lobste.rs/s/xculjp/limits_ai_1985\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sun, 16 Aug 2026 19:20:07 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-19T08:32:49Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2604.04902",
+      "title": "Are Latent Reasoning Models Easily Interpretable?",
+      "description": "<p>Models normally do all their reasoning in a continuous hidden state instead of spitting out readable text which makes them hard to monitor. The authors tested the Coconut and CODI models and it turns out these models barely even use their hidden reasoning steps for logical tasks like PrOntoQA and ProsQA. You can force the models to stop thinking early and they almost always spit out the same response anyway. It turns out that their high performance on logical tasks actually comes from their specific training data rather than the extra thinking during inference.</p> <p>Things get even more interesting when the models actually need those reasoning tokens for math problems. The researchers wanted to know if standard step-by-step math solutions were hidden inside the latent space, and projected the hidden states back into regular vocabulary words to check. And sure enough when the models got the math problem right the researchers found the correct intermediate math steps in their hidden states up to 93% of the time. The finding strongly suggests that the models are basically doing standard math steps in the background.</p> <p>They confirmed the exact math operations taking place by tweaking numbers in the prompt and seeing how the hidden states reacted which allowed decoding a verified reasoning path for a large majority of correct predictions. But they could rarely do this for incorrect predictions proving that models are actually way more interpretable than the AI community assumed. And you can even use that interpretability as a signal to guess if the model is about to give a right or wrong answer.</p> <p><a href=\"https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily\">Comments</a></p>",
+      "author": "",
+      "published_at": "Sat, 15 Aug 2026 11:17:13 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-19T08:32:49Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://youtu.be/87DyyMV0kCY",
+      "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+      "description": "<p><a href=\"https://lobste.rs/s/ahonc7/breaking_news_openai_hugging_face\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 11 Aug 2026 11:50:09 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-19T08:32:49Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+      "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+      "description": "<p><a href=\"https://lobste.rs/s/hmi3v1/social_media_rabbit_holes_clusters\">Comments</a></p>",
+      "author": "",
+      "published_at": "Fri, 07 Aug 2026 16:22:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-19T08:32:49Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+      "title": "Categorization with NLP",
+      "description": "<p><a href=\"https://lobste.rs/s/yndrxm/categorization_with_nlp\">Comments</a></p>",
+      "author": "",
+      "published_at": "Mon, 03 Aug 2026 13:10:54 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-19T08:32:49Z"
+    }
+  ]
+}

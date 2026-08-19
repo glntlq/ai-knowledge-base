@@ -1,0 +1,30 @@
+{
+  "id": "861ee4b2514ce42bd138d7901b93a82a16af238c131cd5a54a4348035a578a3e",
+  "title": "chaitanyagiri/munder-difflin",
+  "source_url": "https://github.com/chaitanyagiri/munder-difflin",
+  "source_type": "github_trending",
+  "summary": "Munder-Difflin 是一个本地多智能体（multi-agent）编排框架，旨在简化多个 AI 代理在本地环境中的协同工作。该项目提供轻量级的 harness（控制框架），支持定义、调度和协调多个代理执行复杂任务，强调隐私和本地优先，避免依赖云端 API。其设计注重易用性和可扩展性，适合开发者快速搭建多代理系统，用于自动化工作流、研究或原型开发。项目处于早期阶段，代码结构清晰，文档初步完善，适合对多代理系统感兴趣的开发者探索。",
+  "content_markdown": null,
+  "tags": [
+    "multi-agent",
+    "local-first",
+    "orchestration",
+    "ai-agents",
+    "harness"
+  ],
+  "language": "en",
+  "author": "chaitanyagiri",
+  "published_at": null,
+  "collected_at": "2026-08-19T08:32:47Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942318,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150263,
+    "github_stars_today": 306,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

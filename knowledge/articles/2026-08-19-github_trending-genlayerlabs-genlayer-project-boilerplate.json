@@ -1,0 +1,30 @@
+{
+  "id": "a4edcda9fbc94abe9a3f1e5212666ca52dc98c9c6c527ed92ba0bff6f1a077ca",
+  "title": "genlayerlabs/genlayer-project-boilerplate",
+  "source_url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+  "source_type": "github_trending",
+  "summary": "genlayerlabs/genlayer-project-boilerplate 是一个面向 GenLayer 区块链的项目脚手架模板，旨在帮助开发者快速启动基于 GenLayer 的智能合约与去中心化应用（dApp）开发。该模板集成了项目初始化、合约编写、测试与部署等基础流程，并提供了清晰的目录结构和配置示例，降低了新项目的搭建门槛。GenLayer 作为新一代区块链平台，其核心特点是支持自然语言智能合约，通过“真实智能合约”机制实现链上逻辑与外部世界数据的交互。此 boilerplate 为开发者提供了标准化的开发环境，便于快速验证想法并构建可运行的 MVP。项目当前处于早期阶段，适合对 GenLayer 生态感兴趣的开发者参考与使用。",
+  "content_markdown": null,
+  "tags": [
+    "genlayer",
+    "blockchain",
+    "smart-contracts",
+    "boilerplate",
+    "dapp"
+  ],
+  "language": "en",
+  "author": "genlayerlabs",
+  "published_at": null,
+  "collected_at": "2026-08-19T08:32:47Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416082,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150802,
+    "github_stars_today": 535,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "beginner"
+  }
+}
