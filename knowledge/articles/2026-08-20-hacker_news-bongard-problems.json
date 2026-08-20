@@ -1,0 +1,26 @@
+{
+  "id": "10bb86c96e78fb87fdaa18bebd1813139ccaf2197be4f3cf1b920ecb92b30b04",
+  "title": "Bongard Problems",
+  "source_url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了Bongard问题，一种由俄罗斯计算机科学家Mikhail Bongard在1960年代设计的视觉推理谜题，旨在挑战和评估模式识别与抽象推理能力。每个Bongard问题包含六个正例和六个反例，要求找出区分两组的规则。文章探讨了Bongard问题在人工智能研究中的历史意义，特别是对早期机器学习、认知科学和视觉推理的影响。作者分析了解决这类问题的难度，指出其需要组合视觉特征、逻辑归纳和创造性思维，并讨论了现代AI系统（如深度学习模型）在此类任务上的表现与局限。文章还提及了Bongard问题作为基准测试在评估AI推理能力方面的潜在价值，以及如何启发新的算法设计。最后，作者分享了自己尝试解决这些问题的体验，并提供了相关资源和进一步阅读的链接。",
+  "content_markdown": null,
+  "tags": [
+    "bongard-problems",
+    "visual-reasoning",
+    "ai-benchmark",
+    "pattern-recognition",
+    "cognitive-science"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-08-19T00:00:00Z",
+  "collected_at": "2026-08-20T08:33:26Z",
+  "analyzed_at": "2026-08-19T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4d81a7fa1b0d1b6b25d20768fbd5d985b4a7fecb3cb01acc8e03b3fe03bdb599",
+  "title": "fx :Tiny, open, native coding agent.",
+  "source_url": "https://fx.sh",
+  "source_type": "hacker_news",
+  "summary": "fx 是一个极简、开源、原生的编程代理（coding agent），旨在提供轻量级且可扩展的 AI 辅助开发体验。它强调“微小”（tiny）和“开放”（open），核心设计理念是让开发者能够轻松集成和定制，避免重型工具的复杂性。fx 支持原生环境运行，可能具备代码生成、自动补全、重构等常见编程代理功能，并允许用户通过插件或配置扩展其能力。该项目在 Hacker News 上获得较高关注（255 分，106 条评论），反映出开发者社区对轻量级 AI 工具的兴趣。fx 适合希望将 AI 编程助手嵌入现有工作流、追求透明度和可控性的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "coding-agent",
+    "open-source",
+    "ai-assistant",
+    "developer-tools",
+    "cli"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-20T08:33:26Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

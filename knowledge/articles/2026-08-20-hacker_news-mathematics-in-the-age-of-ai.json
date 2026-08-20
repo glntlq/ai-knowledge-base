@@ -1,0 +1,26 @@
+{
+  "id": "a18cd17a560abfbf6aa3b254d1408491aa88e79f5ced9227d70eaf4224484725",
+  "title": "Mathematics in the age of AI",
+  "source_url": "https://arxiv.org/abs/2608.16753",
+  "source_type": "hacker_news",
+  "summary": "本文探讨人工智能时代数学研究所面临的范式转变。随着机器学习与深度学习技术的快速发展，数学研究的方法论正经历深刻变革：一方面，AI 作为工具被用于辅助定理证明、模式发现与数值实验，加速了数学探索的进程；另一方面，AI 的数学能力也引发了对数学本质、证明价值以及人类数学家角色的重新审视。文章基于 arXiv 论文，分析了 AI 在数学研究中的应用现状、潜在风险与机遇，并讨论了数学教育、学术评价体系以及数学与计算机科学交叉融合的未来趋势。作者认为，AI 不会取代数学家，而是将重塑数学研究的生态，促使数学家更专注于概念创新与抽象思维，同时需要建立新的规范来确保 AI 辅助结果的可靠性与可解释性。",
+  "content_markdown": null,
+  "tags": [
+    "ai-mathematics",
+    "machine-learning",
+    "mathematical-research",
+    "theorem-proving",
+    "ai-education"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-20T08:33:26Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

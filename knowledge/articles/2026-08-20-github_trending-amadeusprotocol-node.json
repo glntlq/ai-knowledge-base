@@ -1,0 +1,30 @@
+{
+  "id": "d0aac12c9d9a1cb43dafe82c072db2dc473f5498e51be14584bce9e8711bd679",
+  "title": "amadeusprotocol/node",
+  "source_url": "https://github.com/amadeusprotocol/node",
+  "source_type": "github_trending",
+  "summary": "amadeusprotocol/node 是 Amadeus 协议的核心节点实现，旨在为去中心化应用提供高性能、可扩展的基础设施。该项目基于 Node.js 构建，采用模块化架构，支持多种共识机制和网络配置，便于开发者快速部署和定制。它提供了完整的 API 接口和文档，涵盖节点管理、交易处理、智能合约执行等关键功能。项目处于早期阶段，但代码结构清晰，测试覆盖较好，适合对区块链底层技术感兴趣的开发者学习和贡献。",
+  "content_markdown": null,
+  "tags": [
+    "blockchain",
+    "nodejs",
+    "decentralized",
+    "protocol",
+    "infrastructure"
+  ],
+  "language": "en",
+  "author": "amadeusprotocol",
+  "published_at": null,
+  "collected_at": "2026-08-20T08:33:26Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944856,
+    "github_language": "Rust",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015089,
+    "github_stars_today": 1397,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

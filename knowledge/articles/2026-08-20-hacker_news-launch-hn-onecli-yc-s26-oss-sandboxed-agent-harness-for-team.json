@@ -1,0 +1,26 @@
+{
+  "id": "aa4a243ff1c89dc3418bc36a9b6e4952769358ff2fe99705f946931a8501186e",
+  "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+  "source_url": "https://github.com/onecli/onecli",
+  "source_type": "hacker_news",
+  "summary": "OneCLI (YC S26) 是一个面向团队的开源沙箱化 AI 代理框架，由两位网络安全背景的创始人（Jonathan 和 Guy）开发。它源于为 AI 代理构建的 Rust 凭据保险库，后转型为完整的代理管理平台。核心特性包括：每个员工拥有隔离的沙箱代理，支持连接 GitHub、Gmail、Notion 等；通过聊天界面实现确定性的人工审批流程；集中式团队策略管理，统一执行；团队级全局连接（如共享 LLM 密钥）。安全架构强调代理不持有真实密钥，凭据在网关层按请求注入，策略在网络层强制执行，代理无法绕过。每个代理运行在独立 VM 中，限制爆炸半径。底层使用 Rust 引擎（jcode）驱动代理循环，提供完整身份追踪。平台完全开源（Apache-2.0），支持自托管或云部署，企业可验证代码和安全性。应用场景包括自动化公司生命周期管理、CRM 维护、潜在客户开发等。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "sandboxing",
+    "security",
+    "open-source",
+    "rust"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-20T08:33:26Z",
+  "analyzed_at": "2025-04-08T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
