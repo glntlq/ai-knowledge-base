@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-08-21T08:35:56Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/modular/modular",
+      "title": "modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "author": "modular",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269428255,
+        "github_language": "Mojo",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503019,
+        "github_stars_today": 268,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694227674,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015019496,
+        "github_stars_today": 2192,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AprilNEA/OpenLogi",
+      "title": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "author": "AprilNEA",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412293,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150337,
+        "github_stars_today": 1545,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694275245,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015024623,
+        "github_stars_today": 727,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/cursor/plugins",
+      "title": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "author": "cursor",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944209,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150347,
+        "github_stars_today": 449,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/santifer/career-ops",
+      "title": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "author": "santifer",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269467025,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015012843,
+        "github_stars_today": 816,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/akitaonrails/ai-memory",
+      "title": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "author": "akitaonrails",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943782,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150286,
+        "github_stars_today": 332,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "author": "harry0703",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694113358,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017185,
+        "github_stars_today": 2761,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/agent-substrate/substrate",
+      "title": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "author": "agent-substrate",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941492,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150255,
+        "github_stars_today": 22,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/chaitanyagiri/munder-difflin",
+      "title": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "author": "chaitanyagiri",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943240,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150359,
+        "github_stars_today": 507,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/PostHog/posthog",
+      "title": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "author": "PostHog",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438113,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503222,
+        "github_stars_today": 60,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "title": "mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "author": "mahlernim",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941906,
+        "github_language": "Kotlin",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150206,
+        "github_stars_today": 657,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/volcengine/OpenViking",
+      "title": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "author": "volcengine",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431294,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502408,
+        "github_stars_today": 950,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/JuliusBrussee/caveman",
+      "title": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "author": "JuliusBrussee",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269499841,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505781,
+        "github_stars_today": 258,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/makeplane/plane",
+      "title": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "author": "makeplane",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269456690,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505412,
+        "github_stars_today": 98,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Tencent/AI-Infra-Guard",
+      "title": "Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "author": "Tencent",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945141,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150497,
+        "github_stars_today": 50,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/RyanCodrai/turbovec",
+      "title": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "author": "RyanCodrai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416061,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501391,
+        "github_stars_today": 230,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://gitcode.com/Ascend/AscendNPU-IR",
+      "title": "AscendNPU-IR: MLIR for Ascend",
+      "description": "<p><a href=\"https://lobste.rs/s/zpk6cj/ascendnpu_ir_mlir_for_ascend\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 19 Aug 2026 18:47:50 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+      "title": "Bongard Problems",
+      "description": "<p><a href=\"https://lobste.rs/s/q6atrp/bongard_problems\">Comments</a></p>",
+      "author": "",
+      "published_at": "Wed, 19 Aug 2026 17:12:09 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+      "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+      "description": "<p><a href=\"https://lobste.rs/s/ctbbjj/what_is_cross_entropy_compression_is\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 18 Aug 2026 23:49:02 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-21T08:35:58Z"
+    }
+  ]
+}

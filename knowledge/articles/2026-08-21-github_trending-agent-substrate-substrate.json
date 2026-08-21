@@ -1,0 +1,30 @@
+{
+  "id": "1c5b0f7eab96849af46ef5b1afa89b373c0652bc3fe13eae8a7e5a239584b88f",
+  "title": "agent-substrate/substrate",
+  "source_url": "https://github.com/agent-substrate/substrate",
+  "source_type": "github_trending",
+  "summary": "Agent Substrate 是一个面向智能体（Agent）系统的核心基础设施项目，旨在为构建复杂、可扩展的 AI 代理提供底层框架。该项目强调模块化与可组合性，可能包含状态管理、任务调度、工具调用、记忆机制等关键组件，以支持开发者快速搭建生产级智能体应用。其设计可能借鉴了微服务与事件驱动架构，通过定义清晰的接口和抽象层，使不同 AI 模型、工具和服务能够无缝集成。作为 GitHub 上的热门项目，它吸引了关注智能体开发的前沿开发者，可能提供了丰富的 API、配置选项和示例，以降低使用门槛。尽管描述简洁，但项目定位为“核心系统”，暗示其功能深度和架构重要性，适合对智能体工程化有需求的中高级开发者。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "framework",
+    "infrastructure",
+    "modular",
+    "agent-substrate"
+  ],
+  "language": "en",
+  "author": "agent-substrate",
+  "published_at": null,
+  "collected_at": "2026-08-21T08:35:58Z",
+  "analyzed_at": "2025-04-12T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941492,
+    "github_language": "Go",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150255,
+    "github_stars_today": 22,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "advanced"
+  }
+}

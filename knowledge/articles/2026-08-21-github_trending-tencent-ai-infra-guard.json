@@ -1,0 +1,30 @@
+{
+  "id": "fe8b7688e803a40d97a0ce25bc66a7067cf001f6ff2331753d67e8d8b91ffb3c",
+  "title": "Tencent/AI-Infra-Guard",
+  "source_url": "https://github.com/Tencent/AI-Infra-Guard",
+  "source_type": "github_trending",
+  "summary": "腾讯开源的 AI-Infra-Guard 是一个全栈 AI 红队平台，旨在通过多维扫描保障 AI 生态系统安全。该平台提供 Agent 扫描、技能扫描、MCP（模型上下文协议）扫描、AI 基础设施扫描以及 LLM 越狱评估等核心功能，覆盖从模型到应用层的安全检测。它能够帮助安全团队识别 AI 系统中的潜在漏洞，包括提示注入、越狱攻击、不安全的工具调用和基础设施配置缺陷。项目采用模块化设计，支持灵活集成，适用于 DevSecOps 流程。该工具对于构建安全的 AI 应用、评估第三方 AI 组件以及合规审计具有重要价值。其开源性质允许社区贡献和定制，推动了 AI 安全领域的标准化和最佳实践。",
+  "content_markdown": null,
+  "tags": [
+    "ai-security",
+    "red-teaming",
+    "llm-security",
+    "mcp",
+    "security-tools"
+  ],
+  "language": "zh",
+  "author": "Tencent",
+  "published_at": null,
+  "collected_at": "2026-08-21T08:35:58Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945141,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150497,
+    "github_stars_today": 50,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

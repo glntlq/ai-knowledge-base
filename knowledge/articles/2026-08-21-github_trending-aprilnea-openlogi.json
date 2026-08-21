@@ -1,0 +1,30 @@
+{
+  "id": "688d35ad5f025d870f69f46d4135b273ac65bb9c1bb9a35ff14de0e9c19ca0b4",
+  "title": "AprilNEA/OpenLogi",
+  "source_url": "https://github.com/AprilNEA/OpenLogi",
+  "source_type": "github_trending",
+  "summary": "OpenLogi 是一个用 Rust 编写的本地优先、原生替代 Logitech Options+ 的开源工具。它通过 HID++ 协议直接与罗技设备通信，支持按键重映射、DPI 调节和 SmartShift 功能，无需账户或遥测，强调隐私和离线使用。该项目旨在为罗技外设用户提供更轻量、可控的配置方案，适合对隐私敏感或希望深度定制设备的用户。",
+  "content_markdown": null,
+  "tags": [
+    "rust",
+    "logitech",
+    "hid",
+    "local-first",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "AprilNEA",
+  "published_at": null,
+  "collected_at": "2026-08-21T08:35:58Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412293,
+    "github_language": "Rust",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150337,
+    "github_stars_today": 1545,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "e17d5f33d37493b38ef96a244ff6b5574ea7f18f81e4bfbffb221a127f3ccbb6",
+  "title": "modular/modular",
+  "source_url": "https://github.com/modular/modular",
+  "source_type": "github_trending",
+  "summary": "Modular 是一个面向 AI 开发者的平台，包含 MAX 和 Mojo 两大核心组件。MAX 提供统一的运行时和编译基础设施，支持在多种硬件（如 CPU、GPU）上高效部署 AI 模型；Mojo 则是一种专为 AI 设计的编程语言，结合了 Python 的易用性与 C 的性能，支持低层硬件访问和自动并行化。该项目旨在简化 AI 应用的开发与部署流程，解决现有工具链碎片化、性能瓶颈等问题。Modular 平台强调可移植性、高性能和易用性，适用于从研究到生产的全链路 AI 工作流。其开源仓库提供了核心代码、文档和示例，吸引了大量开发者关注，成为 AI 基础设施领域的热门项目。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "compiler",
+    "programming-language",
+    "runtime",
+    "mojo"
+  ],
+  "language": "zh",
+  "author": "modular",
+  "published_at": null,
+  "collected_at": "2026-08-21T08:35:58Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269428255,
+    "github_language": "Mojo",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503019,
+    "github_stars_today": 268,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
