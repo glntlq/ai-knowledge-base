@@ -1,0 +1,30 @@
+{
+  "id": "5b8892fba049c16a71a9a06cac2a838b95ccf39ca96f146610d65d45fc237b4d",
+  "title": "TryGhost/Ghost",
+  "source_url": "https://github.com/TryGhost/Ghost",
+  "source_type": "github_trending",
+  "summary": "Ghost 是一个开源、独立的现代发布平台，专注于为创作者、出版商和团队提供内容管理、会员管理、订阅和新闻通讯功能。它基于 Node.js 构建，提供简洁的编辑体验、强大的 API 和可扩展的主题系统。Ghost 强调性能、安全性和易用性，支持多用户协作、SEO 优化、邮件订阅和付费会员等商业化能力。该项目在 GitHub 上活跃，拥有庞大的社区和丰富的文档，适合从个人博客到企业出版等多种场景。其核心优势在于将内容创作与商业变现工具整合，帮助创作者建立独立的在线业务。",
+  "content_markdown": null,
+  "tags": [
+    "cms",
+    "nodejs",
+    "publishing",
+    "membership",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "TryGhost",
+  "published_at": null,
+  "collected_at": "2026-08-22T08:24:54Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269454987,
+    "github_language": "JavaScript",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011907,
+    "github_stars_today": 32,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "d62a0fb9de140691cb9454e8cd71980870b2ac6d5eb5ef5859514b83e2088540",
+  "title": "ruvnet/ruflo",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "source_type": "github_trending",
+  "summary": "ruflo 是一个开源的智能体元框架（agent meta-harness），旨在构建和部署多智能体群（multi-player swarms），协调自主工作流，并开发对话式 AI 系统。其核心特性包括自适应记忆（adaptive memory）、自学习智能（self-learning intelligence）、RAG（检索增强生成）集成，以及对 Claude Code、Codex、Hermes 等多种模型/工具链的原生支持。该框架强调可扩展性和灵活性，适用于复杂任务分解、多智能体协作和持续学习场景。通过提供统一的抽象层，ruflo 简化了智能体系统的编排与管理，使开发者能够快速构建从简单对话到复杂自主决策的 AI 应用。项目处于活跃开发阶段，适合对智能体架构和自动化工作流感兴趣的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "agent-framework",
+    "multi-agent",
+    "rag",
+    "workflow-automation",
+    "ai-orchestration"
+  ],
+  "language": "en",
+  "author": "ruvnet",
+  "published_at": null,
+  "collected_at": "2026-08-22T08:24:54Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269468744,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508253,
+    "github_stars_today": 140,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

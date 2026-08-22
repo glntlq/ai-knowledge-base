@@ -1,0 +1,30 @@
+{
+  "id": "dc83f93f8ab992a6ee61336b66c2e91dbec7c763e563139a13c181d2c27bc6ac",
+  "title": "microsoft/onnxruntime",
+  "source_url": "https://github.com/microsoft/onnxruntime",
+  "source_type": "github_trending",
+  "summary": "ONNX Runtime 是微软推出的跨平台、高性能机器学习推理与训练加速引擎。它支持 ONNX 格式的模型，并能在多种硬件（如 CPU、GPU、FPGA）和操作系统上运行，通过图优化、算子融合和硬件特定内核等技术显著提升模型执行效率。该项目不仅提供推理加速，还支持训练加速，并具备丰富的 API（Python、C++、C# 等）和工具链，广泛应用于云、边缘和嵌入式场景。其活跃的社区和持续的版本更新使其成为生产环境中部署机器学习模型的重要选择。",
+  "content_markdown": null,
+  "tags": [
+    "onnx",
+    "machine-learning",
+    "inference",
+    "cross-platform",
+    "optimization"
+  ],
+  "language": "en",
+  "author": "microsoft",
+  "published_at": null,
+  "collected_at": "2026-08-22T08:24:54Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269421536,
+    "github_language": "C++",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504152,
+    "github_stars_today": 5,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
