@@ -1,0 +1,30 @@
+{
+  "id": "3206c6a43abd3d6a8827d7e2131332970781d26de4014d7c1392ab9916096ef7",
+  "title": "Wei-Shaw/sub2api",
+  "source_url": "https://github.com/Wei-Shaw/sub2api",
+  "source_type": "github_trending",
+  "summary": "Sub2API 是一个开源的订阅中转服务，旨在将 Claude、OpenAI、Gemini、Grok 等主流 AI 服务的订阅统一接入到一个 API 端点，方便用户管理和使用多个 AI 服务。它支持拼车共享功能，允许多个用户共享订阅，从而有效分摊成本，特别适合团队或个人降低 AI 使用费用。该项目强调原生工具的无缝集成，用户无需修改现有代码即可切换或组合不同 AI 服务。作为 GitHub 上的热门项目，Sub2API 为 AI 应用开发提供了灵活、经济的 API 管理方案，尤其适合需要多模型调用的场景。",
+  "content_markdown": null,
+  "tags": [
+    "ai-api",
+    "api-gateway",
+    "subscription-management",
+    "open-source",
+    "cost-sharing"
+  ],
+  "language": "zh",
+  "author": "Wei-Shaw",
+  "published_at": null,
+  "collected_at": "2026-08-23T08:25:06Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438905,
+    "github_language": "Go",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508048,
+    "github_stars_today": 278,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

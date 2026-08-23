@@ -1,0 +1,26 @@
+{
+  "id": "c6ec80e954d0da5bf331eeb2deb2f78d2f81d2a478e8224c760b30de25c4298f",
+  "title": "Why your local LLM feels dumber than it is",
+  "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了本地部署的大语言模型（LLM）在性能表现上可能不如预期的问题，并分析了背后的原因。文章指出，本地LLM的“笨拙”感往往并非模型本身能力不足，而是由于推理配置不当、量化精度损失、上下文窗口限制、提示词工程缺失以及硬件资源瓶颈等外部因素所致。作者通过实际案例和对比实验，展示了如何通过调整采样参数（如温度、top-p）、优化量化方案（如GPTQ、AWQ）、合理设置上下文长度以及改进提示词策略来显著提升本地模型的输出质量。此外，文章还强调了模型选择与任务匹配的重要性，并提供了针对不同硬件配置的调优建议。最终，作者呼吁用户理性看待本地LLM的局限性，并通过系统性的优化手段充分挖掘其潜力。",
+  "content_markdown": null,
+  "tags": [
+    "local-llm",
+    "llm-optimization",
+    "quantization",
+    "prompt-engineering",
+    "inference-tuning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-23T08:25:22Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

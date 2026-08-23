@@ -1,0 +1,318 @@
+{
+  "collected_at": "2026-08-23T08:25:04Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/openai/codex",
+      "title": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "author": "openai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694114288,
+        "github_language": "Rust",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017450,
+        "github_stars_today": 1544,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "author": "mattpocock",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694232770,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015019861,
+        "github_stars_today": 2683,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "title": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "author": "affaan-m",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694242294,
+        "github_language": "JavaScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015036708,
+        "github_stars_today": 411,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/obra/superpowers",
+      "title": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "author": "obra",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694276373,
+        "github_language": "Shell",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015024722,
+        "github_stars_today": 592,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Wei-Shaw/sub2api",
+      "title": "Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "author": "Wei-Shaw",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438905,
+        "github_language": "Go",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508048,
+        "github_stars_today": 278,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/makeplane/plane",
+      "title": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "author": "makeplane",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269457358,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505452,
+        "github_stars_today": 263,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/n8n-io/n8n",
+      "title": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "author": "n8n-io",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694201961,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015060315,
+        "github_stars_today": 149,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694142668,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015022847,
+        "github_stars_today": 127,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AprilNEA/OpenLogi",
+      "title": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "author": "AprilNEA",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269414221,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150379,
+        "github_stars_today": 959,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/modular/modular",
+      "title": "modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "author": "modular",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269428897,
+        "github_language": "Mojo",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503067,
+        "github_stars_today": 395,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "author": "multica-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694205486,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015021021,
+        "github_stars_today": 315,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "title": "mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "author": "mahlernim",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942617,
+        "github_language": "Kotlin",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150309,
+        "github_stars_today": 441,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ripienaar/free-for-dev",
+      "title": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "author": "ripienaar",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694134085,
+        "github_language": "HTML",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015014036,
+        "github_stars_today": 829,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/microsoft/TypeScript",
+      "title": "microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "author": "microsoft",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694110589,
+        "github_language": "Go",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015013746,
+        "github_stars_today": 104,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/cursor/plugins",
+      "title": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "author": "cursor",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826944725,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150385,
+        "github_stars_today": 286,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/PostHog/posthog",
+      "title": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "author": "PostHog",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269438714,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503248,
+        "github_stars_today": 286,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Tencent/AI-Infra-Guard",
+      "title": "Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "author": "Tencent",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945601,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150527,
+        "github_stars_today": 150,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-23T08:25:06Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title": "Why your local LLM feels dumber than it is",
+      "description": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 319 # Comments: 107",
+      "author": "",
+      "published_at": "Sat, 22 Aug 2026 18:14:16 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-23T08:25:22Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://munderdiffl.in/",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "description": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 277 # Comments: 118",
+      "author": "",
+      "published_at": "Sat, 22 Aug 2026 09:49:14 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-23T08:25:22Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "description": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 153 # Comments: 51",
+      "author": "",
+      "published_at": "Fri, 21 Aug 2026 13:43:33 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-23T08:25:22Z"
+    }
+  ]
+}

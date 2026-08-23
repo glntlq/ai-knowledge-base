@@ -1,0 +1,26 @@
+{
+  "id": "4528c63266761c1eca22e029b21aaed951bcae516c98409e881d7b100edc6d82",
+  "title": "Munder Difflin – Agent harness to run an office of your clones",
+  "source_url": "https://munderdiffl.in/",
+  "source_type": "hacker_news",
+  "summary": "Munder Difflin 是一个开源的 AI 智能体框架，旨在让用户运行一个由自身数字克隆组成的“办公室”。该工具允许创建多个具有不同角色和职责的 AI 代理，这些代理可以协同完成复杂任务，模拟真实团队的工作流程。项目名称致敬了美剧《办公室》中的虚构纸业公司，强调其“克隆人办公”的趣味性。该框架提供了任务分配、协作机制和结果汇总等功能，适用于自动化工作流、并行任务处理等场景。当前在 Hacker News 上获得较高关注（277 分，118 条评论），反映出开发者社区对多智能体协作工具的兴趣。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "multi-agent",
+    "automation",
+    "workflow",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-23T08:25:22Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
