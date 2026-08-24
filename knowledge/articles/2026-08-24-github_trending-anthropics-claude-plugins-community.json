@@ -1,0 +1,30 @@
+{
+  "id": "f67239dd5b4f7b1fec7c1a5ee9054d22a983dea82167e112c895eff516472f68",
+  "title": "anthropics/claude-plugins-community",
+  "source_url": "https://github.com/anthropics/claude-plugins-community",
+  "source_type": "github_trending",
+  "summary": "anthropics/claude-plugins-community 是 Anthropic 官方维护的 Claude 插件社区市场，为 Claude Cowork 和 Claude Code 提供插件分发与发现平台。该仓库作为只读镜像，用户可通过 clau.de/plugin-directory-submission 提交插件。项目旨在通过社区驱动的方式扩展 Claude 的功能边界，涵盖工具集成、工作流自动化等场景。对于开发者而言，该仓库是了解 Claude 插件生态、获取现成插件以及提交自定义插件的重要入口。当前状态为社区活跃维护，适合希望扩展 Claude 能力的开发者关注。",
+  "content_markdown": null,
+  "tags": [
+    "claude",
+    "plugins",
+    "marketplace",
+    "ai-tools",
+    "community"
+  ],
+  "language": "en",
+  "author": "anthropics",
+  "published_at": null,
+  "collected_at": "2026-08-24T08:43:17Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941130,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150138,
+    "github_stars_today": 225,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

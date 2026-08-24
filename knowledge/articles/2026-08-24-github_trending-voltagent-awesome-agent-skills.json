@@ -1,0 +1,30 @@
+{
+  "id": "f6186e952df843e360d942be9deac76428796d8832f5823f12e342f9eb7f264f",
+  "title": "VoltAgent/awesome-agent-skills",
+  "source_url": "https://github.com/VoltAgent/awesome-agent-skills",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精选的智能体技能（agent skills）集合，收录了来自官方开发团队和社区的1000多个技能，兼容Claude Code、Codex、Gemini CLI、Cursor等主流AI编程工具。技能以SKILL.md文件形式定义，包含指令、示例和资源，可增强AI代理的特定能力。项目按类别（如编码、设计、研究等）组织，并提供安装和使用指南，支持通过Claude Code插件或手动方式安装。该资源旨在帮助开发者快速扩展AI代理的功能，提升自动化任务的效率和质量。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agents",
+    "skills",
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "language": "en",
+  "author": "VoltAgent",
+  "published_at": null,
+  "collected_at": "2026-08-24T08:43:17Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431516,
+    "github_language": null,
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503371,
+    "github_stars_today": 156,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}
