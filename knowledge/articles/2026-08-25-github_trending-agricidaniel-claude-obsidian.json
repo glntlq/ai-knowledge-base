@@ -1,0 +1,30 @@
+{
+  "id": "75757189dd72370ba929b36f486bcf3486d3e4b60ab03176cfdff747e57b0353",
+  "title": "AgriciDaniel/claude-obsidian",
+  "source_url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "source_type": "github_trending",
+  "summary": "claude-obsidian 是一个基于 Obsidian 和 Claude Code 的自组织 AI 第二大脑项目，旨在将任意来源的内容自动读取、关联并归档为纯 Markdown 格式的个人知识图谱。该项目借鉴了 Karpathy 的 LLM Wiki 模式，强调用户对数据的完全所有权，可作为开源 Notion 替代方案。核心功能包括 AI 笔记、个人知识管理（PKM）以及自动化的知识连接与整理。通过 Claude 的语义理解能力，系统能够将分散的笔记、网页、文档等自动链接成相互关联的知识网络，减少手动整理负担。项目适合 Obsidian 用户、知识管理爱好者以及希望构建本地优先 AI 工作流的开发者。",
+  "content_markdown": null,
+  "tags": [
+    "obsidian",
+    "claude",
+    "ai",
+    "knowledge-management",
+    "pkm"
+  ],
+  "language": "en",
+  "author": "AgriciDaniel",
+  "published_at": null,
+  "collected_at": "2026-08-25T08:37:43Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412185,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501354,
+    "github_stars_today": 310,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "3e37ae91aed483ceec608bc289d9bdf9b1c2a5a60ec9459ef8f20d45b57b7d2c",
+  "title": "tashfeenahmed/freellmapi",
+  "source_url": "https://github.com/tashfeenahmed/freellmapi",
+  "source_type": "github_trending",
+  "summary": "freellmapi 是一个聚合型开源项目，提供每月 74 亿 token 的免费 LLM 访问能力，整合了 34 个免费提供商和 635 个免费模型端点，并通过统一的 /v1 接口对外提供服务，兼容 OpenAI API 格式。项目支持智能路由、自动故障转移和加密密钥管理，同时允许用户接入自定义的 OpenAI 兼容端点。该项目定位为个人实验用途，不适用于生产环境。其核心价值在于降低开发者尝试多种 LLM 的门槛，简化多模型调用的集成复杂度。",
+  "content_markdown": null,
+  "tags": [
+    "llm",
+    "openai-compatible",
+    "api-aggregator",
+    "free-tier",
+    "routing"
+  ],
+  "language": "en",
+  "author": "tashfeenahmed",
+  "published_at": null,
+  "collected_at": "2026-08-25T08:37:43Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420003,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502893,
+    "github_stars_today": 174,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

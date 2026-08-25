@@ -1,0 +1,26 @@
+{
+  "id": "bd4be5862fcf06844e45c7916ac033ce6dc02b3686bf78a6e45712d481a5d283",
+  "title": "Training AI to Paint with Code",
+  "source_url": "https://surya.website/rling-qwen-to-paint-with-code",
+  "source_type": "hacker_news",
+  "summary": "本文介绍作者通过强化学习（RL）微调 Qwen 模型，使其能够根据自然语言指令生成绘制图形的代码。作者将绘画任务转化为代码生成问题，利用 RL 训练模型优化代码的视觉输出效果。文章详细描述了训练流程、奖励函数设计（基于像素差异或美学评分）、以及模型在生成 SVG 或 Python 绘图代码上的表现。实验表明，经过 RL 微调后，模型能生成更符合描述、更具美感的图形代码，且泛化能力有所提升。作者还讨论了 RL 与监督微调（SFT）的差异，以及训练中的挑战（如奖励稀疏、探索效率）。该工作展示了 RL 在代码生成与创意任务中的潜力，为 AI 辅助艺术创作提供了新思路。",
+  "content_markdown": null,
+  "tags": [
+    "reinforcement-learning",
+    "code-generation",
+    "qwen",
+    "ai-art",
+    "fine-tuning"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-25T08:37:44Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

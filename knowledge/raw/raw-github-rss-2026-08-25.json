@@ -1,0 +1,326 @@
+{
+  "collected_at": "2026-08-25T08:37:42Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/Alishahryar1/free-claude-code",
+      "title": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "author": "Alishahryar1",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449406,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508049,
+        "github_stars_today": 891,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openai/codex",
+      "title": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "author": "openai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694117615,
+        "github_language": "Rust",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015017939,
+        "github_stars_today": 1994,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "title": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "author": "MadsLorentzen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269434499,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015011968,
+        "github_stars_today": 434,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "author": "multica-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694206802,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015021108,
+        "github_stars_today": 588,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/makeplane/plane",
+      "title": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "author": "makeplane",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269458138,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505503,
+        "github_stars_today": 243,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "author": "NousResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694236075,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015047626,
+        "github_stars_today": 896,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-plugins-community",
+      "title": "anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941490,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150162,
+        "github_stars_today": 489,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AprilNEA/OpenLogi",
+      "title": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "author": "AprilNEA",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416121,
+        "github_language": "Rust",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150440,
+        "github_stars_today": 1097,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/apache/maka",
+      "title": "apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "author": "apache",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943062,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150312,
+        "github_stars_today": 411,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/PostHog/posthog",
+      "title": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "author": "PostHog",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439095,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503278,
+        "github_stars_today": 83,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openclaw/openclaw",
+      "title": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "author": "openclaw",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694387521,
+        "github_language": "TypeScript",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015081352,
+        "github_stars_today": 173,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "title": "AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "author": "AgriciDaniel",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412185,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501354,
+        "github_stars_today": 310,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269448501,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508518,
+        "github_stars_today": 349,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/basecamp/omarchy",
+      "title": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "author": "basecamp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269430530,
+        "github_language": "Shell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503099,
+        "github_stars_today": 1056,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tashfeenahmed/freellmapi",
+      "title": "tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "author": "tashfeenahmed",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269420003,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502893,
+        "github_stars_today": 174,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/dani-garcia/vaultwarden",
+      "title": "dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "author": "dani-garcia",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269466179,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503143,
+        "github_stars_today": 175,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "title": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "author": "freestylefly",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269416231,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501698,
+        "github_stars_today": 2449,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "title": "VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "author": "VoltAgent",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269432089,
+        "github_language": null,
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503411,
+        "github_stars_today": 602,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "author": "tinyhumansai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269437459,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503713,
+        "github_stars_today": 515,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-25T08:37:43Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "title": "Training AI to Paint with Code",
+      "description": "Article URL: https://surya.website/rling-qwen-to-paint-with-code Comments URL: https://news.ycombinator.com/item?id=49411800 Points: 82 # Comments: 9",
+      "author": "",
+      "published_at": "Sun, 23 Aug 2026 19:39:29 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-25T08:37:44Z"
+    }
+  ]
+}
