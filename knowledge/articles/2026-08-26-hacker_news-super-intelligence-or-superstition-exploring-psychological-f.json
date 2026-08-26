@@ -1,0 +1,30 @@
+{
+  "id": "9b5e4e89bc97b08e6640422a23f0d9ffef5b297714bf66bc990522b91e30f5a2",
+  "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+  "source_url": "https://arxiv.org/abs/2408.06602",
+  "source_type": "hacker_news",
+  "summary": "该研究探讨了影响人们对AI预测个人行为信念的心理因素，质疑AI是否真能实现超级智能或仅是一种迷信。通过实验，研究者发现人们倾向于相信AI的预测，即使这些预测基于有限或不准确的数据。这种信念受到对AI的总体信任、技术乐观主义以及个人对控制感需求的影响。研究还发现，当AI预测与个人自我认知一致时，信念更强，而负面预测则引发防御性反应。结果表明，AI预测的感知准确性并非主要取决于算法性能，而是心理和社会因素。研究强调，在AI应用中需考虑这些认知偏差，以避免过度依赖AI决策。该论文发表于arXiv，为AI伦理和人机交互提供了心理学视角。",
+  "content_markdown": null,
+  "tags": [
+    "ai-psychology",
+    "human-ai-interaction",
+    "cognitive-bias",
+    "ai-ethics",
+    "decision-making"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "Tue, 25 Aug 2026 10:03:24 -0500",
+  "collected_at": "2026-08-26T08:38:41Z",
+  "analyzed_at": "2026-08-26T08:39:39Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "hacker_news",
+    "collected_at": "2025-04-14T00:00:00Z",
+    "analyzed_at": "2025-04-14T00:00:00Z",
+    "published_at": "2024-08-12"
+  }
+}

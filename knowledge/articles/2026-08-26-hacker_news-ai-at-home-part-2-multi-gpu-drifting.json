@@ -1,0 +1,26 @@
+{
+  "id": "6754b509352a8f9d84fea72108a3428d65d93f66bb5bf80b6dd67979b7de06af",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "source_type": "hacker_news",
+  "summary": "本文是“AI At Home”系列的第二部分，聚焦于多GPU环境下运行AI模型时遇到的“漂移”（drifting）问题。作者基于自建多GPU系统的实践经验，详细描述了在多卡并行推理或训练中，由于硬件差异、驱动版本、PCIe拓扑、温度控制等因素导致的性能不一致和结果偏移现象。文章通过具体案例和测试数据，分析了多GPU任务调度中的负载均衡难题，并提出了若干优化策略，如调整NCCL通信参数、合理设置环境变量、优化PCIe通道分配等。此外，作者还探讨了在家庭环境中搭建多GPU系统的成本效益与维护挑战，强调了软件配置与硬件协同的重要性。内容兼具技术深度与实操性，适合有一定AI基础设施经验的开发者参考。",
+  "content_markdown": null,
+  "tags": [
+    "multi-gpu",
+    "ai-infrastructure",
+    "performance-tuning",
+    "nccl",
+    "homelab"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-26T08:38:41Z",
+  "analyzed_at": "2025-04-11T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://lobste.rs/t/ai.rss",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

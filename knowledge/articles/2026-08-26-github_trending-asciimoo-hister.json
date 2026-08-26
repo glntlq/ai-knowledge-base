@@ -1,0 +1,30 @@
+{
+  "id": "c21285e4d78ed3d588ed723f4c0a7072b6ac2b84a337f1ae43021895c9d1bc1a",
+  "title": "asciimoo/hister",
+  "source_url": "https://github.com/asciimoo/hister",
+  "source_type": "github_trending",
+  "summary": "hister 是一个开源的、自托管的个人搜索引擎项目，旨在让用户完全掌控自己的搜索数据和结果。它通过抓取用户指定的网页内容并建立索引，提供无追踪、无广告的搜索体验，强调隐私保护和数据自主权。项目基于 Python 构建，支持自定义抓取规则和搜索界面，适合对隐私敏感或希望构建个性化搜索工具的用户。当前项目处于早期阶段，功能相对基础，但架构清晰，易于扩展。",
+  "content_markdown": null,
+  "tags": [
+    "search-engine",
+    "self-hosted",
+    "privacy",
+    "python",
+    "web-scraping"
+  ],
+  "language": "en",
+  "author": "asciimoo",
+  "published_at": null,
+  "collected_at": "2026-08-26T08:38:40Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942960,
+    "github_language": "Go",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150132,
+    "github_stars_today": 98,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

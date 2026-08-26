@@ -1,0 +1,314 @@
+{
+  "collected_at": "2026-08-26T08:38:39Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "title": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "author": "freestylefly",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269419827,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502011,
+        "github_stars_today": 1698,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-plugins-community",
+      "title": "anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826941946,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150181,
+        "github_stars_today": 351,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "title": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "author": "MadsLorentzen",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435754,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015012220,
+        "github_stars_today": 1265,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/apache/maka",
+      "title": "apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "author": "apache",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826943498,
+        "github_language": "TypeScript",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150343,
+        "github_stars_today": 543,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "author": "TauricResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694100548,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015019392,
+        "github_stars_today": 218,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "title": "AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "author": "AgriciDaniel",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269412999,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501390,
+        "github_stars_today": 813,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269449307,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508602,
+        "github_stars_today": 569,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tinyhumansai/openhuman",
+      "title": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "author": "tinyhumansai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269437948,
+        "github_language": "Rust",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503742,
+        "github_stars_today": 542,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/basecamp/omarchy",
+      "title": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "author": "basecamp",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269431571,
+        "github_language": "Shell",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503206,
+        "github_stars_today": 1083,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "author": "Shubhamsaboo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694134427,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015019761,
+        "github_stars_today": 161,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "author": "multica-ai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694207432,
+        "github_language": null,
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015021154,
+        "github_stars_today": 830,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/openai/codex",
+      "title": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "author": "openai",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694118505,
+        "github_language": "Rust",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015018057,
+        "github_stars_today": 1181,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/marin-community/marin",
+      "title": "marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "author": "marin-community",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942292,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150203,
+        "github_stars_today": 231,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "title": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "author": "DietrichGebert",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694111618,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506133,
+        "github_stars_today": 982,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-plugins-official",
+      "title": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269434192,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503876,
+        "github_stars_today": 55,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/asciimoo/hister",
+      "title": "asciimoo/hister",
+      "description": "Your own search engine",
+      "author": "asciimoo",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942960,
+        "github_language": "Go",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150132,
+        "github_stars_today": 98,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-26T08:38:40Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "title": "AI At Home Part 2: Multi GPU Drifting",
+      "description": "<p><a href=\"https://lobste.rs/s/qc6pjd/ai_at_home_part_2_multi_gpu_drifting\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 25 Aug 2026 13:20:38 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-26T08:38:41Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+      "title": "A Manifesto for Responsible Agentic Coding",
+      "description": "<p><a href=\"https://lobste.rs/s/voyeoa/manifesto_for_responsible_agentic\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 25 Aug 2026 12:17:14 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-26T08:38:41Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "description": "<p><a href=\"https://lobste.rs/s/iwsopp/apple_s_new_desktop_computers_are\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 25 Aug 2026 10:04:08 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-26T08:38:41Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2408.06602",
+      "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+      "description": "<p><a href=\"https://lobste.rs/s/2djazj/super_intelligence_superstition\">Comments</a></p>",
+      "author": "",
+      "published_at": "Tue, 25 Aug 2026 10:03:24 -0500",
+      "metadata": {
+        "rss_feed": "https://lobste.rs/t/ai.rss"
+      },
+      "collected_at": "2026-08-26T08:38:41Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2559c7434b0eb2be99a9970f0a3cd634e36287c592e8b43fc82d0870cfc37a77",
+  "title": "DietrichGebert/ponytail",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "source_type": "github_trending",
+  "summary": "ponytail 是一个开源项目，旨在通过提示词工程让 AI 代理模仿“最懒的高级开发人员”的思维方式，强调“最好的代码是未写出的代码”。该项目通过注入特定的思考模式，引导 AI 在生成代码时优先考虑最小化实现、避免过度工程化，从而减少不必要的代码量，提升开发效率。它适用于代码生成、代码审查等场景，帮助开发者获得更简洁、更符合 YAGNI 原则的 AI 辅助结果。项目托管于 GitHub，采用 MIT 许可证，目前处于早期阶段，但理念新颖，对 AI 辅助开发实践有启发意义。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "prompt-engineering",
+    "code-generation",
+    "minimalism",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "DietrichGebert",
+  "published_at": null,
+  "collected_at": "2026-08-26T08:38:40Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694111618,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506133,
+    "github_stars_today": 982,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}

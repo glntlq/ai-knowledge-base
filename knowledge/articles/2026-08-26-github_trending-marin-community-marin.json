@@ -1,0 +1,30 @@
+{
+  "id": "1796204037768c31907f58f142cdfd05dba64e961b4bd83778b3b5207a8458ef",
+  "title": "marin-community/marin",
+  "source_url": "https://github.com/marin-community/marin",
+  "source_type": "github_trending",
+  "summary": "Marin 是一个开源框架，专为基础模型（Foundation Models）的研究与开发而设计。该框架旨在为研究人员和开发者提供一套统一的工具链，以简化基础模型的构建、训练、评估和部署流程。它可能涵盖了从数据处理、模型架构设计到分布式训练和推理优化的全生命周期支持。作为开源项目，Marin 鼓励社区贡献，并可能提供了模块化、可扩展的接口，以便用户根据特定需求进行定制。该框架的出现反映了当前AI领域对标准化、高效开发基础模型工具的需求，有助于降低研究门槛并加速创新。",
+  "content_markdown": null,
+  "tags": [
+    "foundation-models",
+    "open-source",
+    "framework",
+    "ai",
+    "deep-learning"
+  ],
+  "language": "en",
+  "author": "marin-community",
+  "published_at": null,
+  "collected_at": "2026-08-26T08:38:40Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942292,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150203,
+    "github_stars_today": 231,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}
