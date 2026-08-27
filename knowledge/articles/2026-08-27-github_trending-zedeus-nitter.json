@@ -1,0 +1,30 @@
+{
+  "id": "0ebe931d2221ebcfe2e25dbe45567b65b9ff09e852fa5ed98cb8c2fec0085981",
+  "title": "zedeus/nitter",
+  "source_url": "https://github.com/zedeus/nitter",
+  "source_type": "github_trending",
+  "summary": "Nitter 是一个开源的 Twitter 替代前端，旨在提供隐私友好的 Twitter 浏览体验。它无需 JavaScript 或登录即可访问推文、用户资料和媒体内容，有效规避官方平台的跟踪和广告。项目采用 Nim 语言编写，支持自托管，并提供公共实例。Nitter 通过代理 Twitter 的 API 和网页内容，实现了轻量级、快速的访问方式，同时支持 RSS 订阅、图片代理、主题定制等功能。该项目在 GitHub 上广受关注，是隐私保护工具中的热门选择，适合对数据隐私有要求的用户或开发者自建服务。",
+  "content_markdown": null,
+  "tags": [
+    "twitter",
+    "privacy",
+    "self-hosted",
+    "nim",
+    "rss"
+  ],
+  "language": "zh",
+  "author": "zedeus",
+  "published_at": null,
+  "collected_at": "2026-08-27T18:48:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413784,
+    "github_language": "Nim",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501105,
+    "github_stars_today": 63,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

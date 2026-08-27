@@ -1,0 +1,30 @@
+{
+  "id": "9036eb2f5ead2b9fbc0864fc267b5fd8a1438eb4f78f04a6c222a7158bd199da",
+  "title": "google/googletest",
+  "source_url": "https://github.com/google/googletest",
+  "source_type": "github_trending",
+  "summary": "GoogleTest 是 Google 开源的 C++ 测试框架，包含 GoogleTest 和 GoogleMock 两部分，支持单元测试、接口模拟、死亡测试、参数化测试等丰富功能。它遵循 xUnit 架构，提供丰富的断言宏、测试固件（fixture）和测试发现机制，并支持跨平台（Linux、macOS、Windows）以及多种构建系统（CMake、Bazel、Meson 等）。GoogleTest 以其易用性、稳定性和强大的社区支持成为 C++ 领域最流行的测试框架之一，广泛应用于 Google 内部及众多开源项目。该仓库是官方镜像，持续维护，最新版本为 1.14.0（2023 年发布），要求 C++14 及以上标准。",
+  "content_markdown": null,
+  "tags": [
+    "c",
+    "testing",
+    "unit-testing",
+    "mock",
+    "google"
+  ],
+  "language": "en",
+  "author": "google",
+  "published_at": null,
+  "collected_at": "2026-08-27T18:48:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439012,
+    "github_language": "C++",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010862,
+    "github_stars_today": 4,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}

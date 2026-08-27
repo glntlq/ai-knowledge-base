@@ -1,0 +1,30 @@
+{
+  "id": "d7d221d21aa5d952da0385ae52ea3e33583cd27d4fd98f59b32eb1b1f9796d1c",
+  "title": "thedotmack/claude-mem",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "source_type": "github_trending",
+  "summary": "claude-mem 是一个为 AI 代理提供跨会话持久上下文记忆的开源工具。它自动捕获代理在会话中的所有活动，利用 AI 进行压缩，并在未来会话中注入相关上下文，从而显著提升代理的连续性和个性化体验。该工具兼容多种主流 AI 代理，包括 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot 和 OpenCode 等，具有广泛的适用性。通过消除每次会话从零开始的问题，claude-mem 能够减少重复交互，提高工作效率，尤其适合需要长期记忆和上下文管理的复杂任务场景。项目在 GitHub 上受到关注，体现了开发者对 AI 代理记忆增强需求的强烈兴趣。",
+  "content_markdown": null,
+  "tags": [
+    "ai-agent",
+    "context-management",
+    "memory",
+    "claude",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "thedotmack",
+  "published_at": null,
+  "collected_at": "2026-08-27T18:48:11Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269492175,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508102,
+    "github_stars_today": 260,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

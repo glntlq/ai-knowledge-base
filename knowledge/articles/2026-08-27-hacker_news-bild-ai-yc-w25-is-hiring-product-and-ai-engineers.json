@@ -1,0 +1,26 @@
+{
+  "id": "1d01c08d9ec997bd22d305ad315363e6f37b099c9ff5371732a5755c30130f2a",
+  "title": "Bild AI (YC W25) is hiring product and AI engineers",
+  "source_url": "https://www.bild.ai/jobs",
+  "source_type": "hacker_news",
+  "summary": "Bild AI（YC W25 孵化）正在招聘产品工程师和 AI 工程师。该公司专注于 AI 领域，处于早期创业阶段，由 Y Combinator 支持。招聘信息发布于其官网，并同步至 Hacker News 讨论区。该职位可能涉及构建 AI 产品、优化模型、开发应用等职责。对于有志于加入早期 AI 创业公司的工程师而言，这是一个机会。目前帖子在 Hacker News 上尚无评论和点赞，但招聘需求本身反映了 AI 创业公司对技术人才的持续需求。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "hiring",
+    "startup",
+    "y-combinator",
+    "engineering"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-27T18:48:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 6,
+    "difficulty": "beginner"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a8d69a5acb80f5c01c9c0addc3a9eb68bab4ed01ab05088607df1dbd4ef95d75",
+  "title": "tt-a1i/archify",
+  "source_url": "https://github.com/tt-a1i/archify",
+  "source_type": "github_trending",
+  "summary": "Archify 是一个面向 AI 代理的技能包，专注于生成美观且可验证的架构图、工作流图、时序图、数据流图和生命周期图。其输出为自包含的 HTML 文件，支持动态效果和清晰导出，便于集成到文档或演示中。该项目旨在提升 AI 生成图表的专业性和可验证性，适合需要可视化系统设计的开发者或团队。",
+  "content_markdown": null,
+  "tags": [
+    "architecture-diagrams",
+    "ai-agent",
+    "visualization",
+    "html-export"
+  ],
+  "language": "en",
+  "author": "tt-a1i",
+  "published_at": null,
+  "collected_at": "2026-08-27T18:48:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422586,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501452,
+    "github_stars_today": 4260,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

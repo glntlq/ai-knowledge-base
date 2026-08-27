@@ -1,0 +1,26 @@
+{
+  "id": "4150d0aa5b34fa27b1e5a3a6a166f1f1058769e0490d6fe3db73cbf9fa530562",
+  "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+  "source_url": "https://aiandeducation.mit.edu/report/",
+  "source_type": "hacker_news",
+  "summary": "MIT 成立人工智能教学、学习与研究应用特别委员会，并发布首份报告，旨在为校园内 AI 工具的负责任使用提供指导。报告聚焦于生成式 AI 对教育的影响，提出在保持学术诚信和人文价值的前提下，将 AI 融入课程设计、评估方式和研究实践。委员会强调透明、公平和问责原则，建议教师明确 AI 使用边界，学生需掌握 AI 素养，同时呼吁建立持续评估机制以应对技术快速迭代。报告还探讨了 AI 对劳动力市场、教育公平和知识生产模式的深层影响，主张通过跨学科协作制定动态政策。该倡议反映了顶尖高校在 AI 时代重塑教育范式的探索，其建议或为其他教育机构提供参考。",
+  "content_markdown": null,
+  "tags": [
+    "artificial-intelligence",
+    "education",
+    "mit",
+    "ai-policy",
+    "higher-education"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": null,
+  "collected_at": "2026-08-27T18:48:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

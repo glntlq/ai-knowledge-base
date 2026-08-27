@@ -1,0 +1,322 @@
+{
+  "collected_at": "2026-08-27T18:48:10Z",
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "limit": 20,
+  "items": [
+    {
+      "source": "github",
+      "source_url": "https://github.com/zedeus/nitter",
+      "title": "zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "author": "zedeus",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413784,
+        "github_language": "Nim",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501105,
+        "github_stars_today": 63,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "title": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "author": "freestylefly",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422892,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502279,
+        "github_stars_today": 2093,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/tt-a1i/archify",
+      "title": "tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "author": "tt-a1i",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269422586,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501452,
+        "github_stars_today": 4260,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/JetBrains/go-modern-guidelines",
+      "title": "JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "author": "JetBrains",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942005,
+        "github_language": "Go",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015060,
+        "github_stars_today": 314,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/anthropics/claude-plugins-official",
+      "title": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "author": "anthropics",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269434609,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503906,
+        "github_stars_today": 290,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "author": "K-Dense-AI",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269435210,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001503386,
+        "github_stars_today": 494,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "title": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "author": "DietrichGebert",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694113834,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506225,
+        "github_stars_today": 1610,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/calesthio/OpenMontage",
+      "title": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "author": "calesthio",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269452176,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001506539,
+        "github_stars_today": 1284,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "author": "rohitg00",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269450060,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508704,
+        "github_stars_today": 547,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ConardLi/garden-skills",
+      "title": "ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "author": "ConardLi",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411271,
+        "github_language": "CSS",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501405,
+        "github_stars_today": 413,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/thedotmack/claude-mem",
+      "title": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "author": "thedotmack",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269492175,
+        "github_language": "JavaScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508102,
+        "github_stars_today": 260,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/google/googletest",
+      "title": "google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "author": "google",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269439012,
+        "github_language": "C++",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015010862,
+        "github_stars_today": 4,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "title": "AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "author": "AgriciDaniel",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269413881,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501419,
+        "github_stars_today": 631,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/marin-community/marin",
+      "title": "marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "author": "marin-community",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942658,
+        "github_language": "Python",
+        "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150226,
+        "github_stars_today": 255,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "title": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "author": "ComposioHQ",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269473535,
+        "github_language": "Python",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508434,
+        "github_stars_today": 125,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/actions/checkout",
+      "title": "actions/checkout",
+      "description": "Action for checking out a repo",
+      "author": "actions",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826948694,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502749,
+        "github_stars_today": 4,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/OpenCut-app/OpenCut",
+      "title": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "author": "OpenCut-app",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269487303,
+        "github_language": "TypeScript",
+        "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508615,
+        "github_stars_today": 460,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "github",
+      "source_url": "https://github.com/TauricResearch/TradingAgents",
+      "title": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "author": "TauricResearch",
+      "published_at": null,
+      "metadata": {
+        "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694101087,
+        "github_language": "Python",
+        "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015019454,
+        "github_stars_today": 323,
+        "github_trending_url": "https://github.com/trending"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://www.bild.ai/jobs",
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "description": "Article URL: https://www.bild.ai/jobs Comments URL: https://news.ycombinator.com/item?id=49467837 Points: 0 # Comments: 0",
+      "author": "",
+      "published_at": "Thu, 27 Aug 2026 17:00:14 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    },
+    {
+      "source": "rss",
+      "source_url": "https://aiandeducation.mit.edu/report/",
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "description": "Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49464314 Points: 78 # Comments: 56",
+      "author": "",
+      "published_at": "Thu, 27 Aug 2026 13:07:45 +0000",
+      "metadata": {
+        "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG"
+      },
+      "collected_at": "2026-08-27T18:48:11Z"
+    }
+  ]
+}

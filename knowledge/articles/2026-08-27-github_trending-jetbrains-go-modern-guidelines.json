@@ -1,0 +1,29 @@
+{
+  "id": "c697bfb459876eb6f4ff12204b5358aed3e1b5d20fa6e3dd0316f7541aa77617",
+  "title": "JetBrains/go-modern-guidelines",
+  "source_url": "https://github.com/JetBrains/go-modern-guidelines",
+  "source_type": "github_trending",
+  "summary": "JetBrains 发布的《Go 现代指南》旨在帮助 AI 编码代理编写符合现代 Go 实践的高质量代码。该指南由 JetBrains 的 Go 团队维护，覆盖了从项目结构、命名规范、错误处理、并发模式到性能优化等关键主题，强调使用 Go 1.21+ 的新特性（如泛型、slices 包、maps 包）以及标准库的最佳实践。指南特别针对 AI 辅助编码场景，提供了清晰的规则和示例，以减少常见错误并提升代码的可读性、可维护性和安全性。内容适合 Go 开发者参考，尤其是希望利用 AI 工具提升编码效率的团队。",
+  "content_markdown": null,
+  "tags": [
+    "go",
+    "ai-coding",
+    "best-practices",
+    "guidelines"
+  ],
+  "language": "zh",
+  "author": "JetBrains",
+  "published_at": null,
+  "collected_at": "2026-08-27T18:48:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942005,
+    "github_language": "Go",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015060,
+    "github_stars_today": 314,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

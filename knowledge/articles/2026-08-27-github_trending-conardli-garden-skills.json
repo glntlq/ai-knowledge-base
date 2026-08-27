@@ -1,0 +1,30 @@
+{
+  "id": "95ed232a714ebf9bd128398fd919f9855a343bd0c5fac3cc335690a049397745",
+  "title": "ConardLi/garden-skills",
+  "source_url": "https://github.com/ConardLi/garden-skills",
+  "source_type": "github_trending",
+  "summary": "ConardLi/garden-skills 是一个由 ConardLi 维护的开源技能集合仓库，汇集了多种实用技能，涵盖网页设计、知识检索、图像生成等领域。该项目旨在为开发者提供即用型技能模块，帮助快速构建智能应用或增强现有工作流。仓库结构清晰，每个技能包含独立的说明文档和示例代码，便于学习和集成。作为 GitHub 上的热门项目，它反映了当前开发者对多功能工具库的需求，尤其适合希望扩展 AI 或自动化能力的开发者参考。",
+  "content_markdown": null,
+  "tags": [
+    "open-source",
+    "skills",
+    "web-design",
+    "knowledge-retrieval",
+    "image-generation"
+  ],
+  "language": "zh",
+  "author": "ConardLi",
+  "published_at": null,
+  "collected_at": "2026-08-27T18:48:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269411271,
+    "github_language": "CSS",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501405,
+    "github_stars_today": 413,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "beginner"
+  }
+}
