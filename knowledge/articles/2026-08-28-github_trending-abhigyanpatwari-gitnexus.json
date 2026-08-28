@@ -1,0 +1,30 @@
+{
+  "id": "f0e5b045dfc5a8fd6042e1481e22929694f548a6a5346720b17ba7e4d46d0642",
+  "title": "abhigyanpatwari/GitNexus",
+  "source_url": "https://github.com/abhigyanpatwari/GitNexus",
+  "source_type": "github_trending",
+  "summary": "GitNexus 是一款零服务器代码智能引擎，完全在浏览器中运行，通过客户端知识图谱技术帮助开发者探索和理解代码库。用户可直接拖入 Git 仓库（支持 GitHub、GitLab、Azure 及本地仓库）或 ZIP 文件，系统自动构建交互式知识图谱，并内置基于图检索增强生成（Graph RAG）的智能代理，支持自然语言问答和代码导航。该工具强调隐私与便捷，无需后端服务，适合本地代码分析、架构理解和团队协作。其核心优势在于将静态代码转化为动态知识网络，降低大型项目的认知负担，提升开发效率。",
+  "content_markdown": null,
+  "tags": [
+    "knowledge-graph",
+    "code-intelligence",
+    "graph-rag",
+    "client-side",
+    "developer-tools"
+  ],
+  "language": "en",
+  "author": "abhigyanpatwari",
+  "published_at": null,
+  "collected_at": "2026-08-28T19:52:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269446118,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001505096,
+    "github_stars_today": 189,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

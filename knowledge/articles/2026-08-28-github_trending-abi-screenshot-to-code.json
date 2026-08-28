@@ -1,0 +1,30 @@
+{
+  "id": "751e806c989a86eae82ac106dacccd47616f4ee9c48a3a12ecab54ec98042dcb",
+  "title": "abi/screenshot-to-code",
+  "source_url": "https://github.com/abi/screenshot-to-code",
+  "source_type": "github_trending",
+  "summary": "screenshot-to-code 是一个开源工具，允许用户上传截图并自动生成对应的前端代码，支持 HTML/Tailwind、React 和 Vue 等多种技术栈。该项目利用 AI 模型（如 GPT-4 Vision）将视觉设计转换为可用的代码，旨在加速前端开发流程，降低从设计到实现的转换成本。它提供了简洁的界面和多种配置选项，适合设计师、开发者以及产品经理快速原型验证。项目在 GitHub 上受到广泛关注，成为热门趋势，体现了 AI 辅助编程在视觉生成领域的应用潜力。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "code-generation",
+    "frontend",
+    "screenshot-to-code",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "abi",
+  "published_at": null,
+  "collected_at": "2026-08-28T19:52:11Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269475475,
+    "github_language": "Python",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001509216,
+    "github_stars_today": 309,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

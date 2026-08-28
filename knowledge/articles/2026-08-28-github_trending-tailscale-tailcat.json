@@ -1,0 +1,30 @@
+{
+  "id": "793644ad6784516a3b9bdb3591da86b9cb135e483e93b563e6ce6dc7dd488af6",
+  "title": "tailscale/tailcat",
+  "source_url": "https://github.com/tailscale/tailcat",
+  "source_type": "github_trending",
+  "summary": "tailcat 是 Tailscale 团队开源的一个网络工具，其设计目标是提供类似 netcat 的功能，但运行在 Tailscale 的数据平面上，同时不依赖 Tailscale 的控制平面。这意味着用户可以在已建立的 Tailscale 网络连接上直接进行原始数据传输，而无需通过协调服务器进行额外的握手或配置。该工具适用于需要快速、轻量级网络调试或数据传输的场景，尤其适合在 Tailscale 网络内部使用。它继承了 netcat 的简洁性，同时利用了 Tailscale 的加密和身份验证能力，但避免了控制平面的开销。项目目前处于早期阶段，代码量较小，适合开发者学习和扩展。",
+  "content_markdown": null,
+  "tags": [
+    "netcat",
+    "tailscale",
+    "networking",
+    "cli",
+    "security"
+  ],
+  "language": "en",
+  "author": "tailscale",
+  "published_at": null,
+  "collected_at": "2026-08-28T19:52:11Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826942551,
+    "github_language": "Go",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015067,
+    "github_stars_today": 986,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

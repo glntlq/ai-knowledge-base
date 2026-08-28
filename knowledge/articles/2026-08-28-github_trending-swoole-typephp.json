@@ -1,0 +1,30 @@
+{
+  "id": "8b5ab095d1c8d42f53f4719a6e234e16d53968e7220442ccc954ba42285b7475",
+  "title": "swoole/typephp",
+  "source_url": "https://github.com/swoole/typephp",
+  "source_type": "github_trending",
+  "summary": "TypePHP 是 Swoole 团队推出的实验性项目，旨在将 PHP 代码编译为原生二进制可执行文件，从而显著提升性能并摆脱对传统 PHP 运行时（如 Zend Engine）的依赖。该项目利用 Swoole 在底层网络和并发处理方面的深厚积累，探索 PHP 静态编译的可能性。当前处于早期阶段，支持 PHP 语法子集，通过类型推断和优化生成机器码，适用于 CLI 场景。其核心价值在于为 PHP 提供高性能部署选项，同时保留 PHP 的开发效率。项目在 GitHub 上开源，吸引了对 PHP 性能优化和编译技术感兴趣的开发者。由于仍处于概念验证阶段，生产环境使用需谨慎，但为 PHP 生态的未来发展提供了重要方向。",
+  "content_markdown": null,
+  "tags": [
+    "php",
+    "compiler",
+    "native-binary",
+    "swoole",
+    "performance"
+  ],
+  "language": "en",
+  "author": "swoole",
+  "published_at": null,
+  "collected_at": "2026-08-28T19:52:11Z",
+  "analyzed_at": "2025-04-10T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694782,
+    "github_language": "PHP",
+    "github_forks": 160016161116553728780414336757575457575000757587822522501115087822522500122522515212822512251011150851522522500135625878225225011150532575750101507575000150675757575010015757500001538757575010150757500015038,
+    "github_stars_today": 188,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

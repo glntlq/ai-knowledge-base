@@ -1,0 +1,30 @@
+{
+  "id": "7f7860ec9e46be1c00d2822d74df732b7315e448f9f3ff27a84faad2670aec42",
+  "title": "bilawalsidhu/gods-eye-view",
+  "source_url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "source_type": "github_trending",
+  "summary": "Gods Eye View 是一个运行在浏览器中的开源间谍卫星模拟器，它利用真实数据在逼真的 3D 地球上展示实时空间情报。该项目将卫星追踪、地理空间数据可视化与交互式 3D 渲染相结合，用户可以通过直观的界面观察卫星轨迹、覆盖区域及地球表面信息。它基于现代 Web 技术构建，支持实时数据流，适合地理空间爱好者、开发者及教育用途。项目代码开源，便于社区贡献和二次开发，为空间情报可视化提供了一个创新的示例。",
+  "content_markdown": null,
+  "tags": [
+    "satellite-tracking",
+    "geospatial",
+    "3d-globe",
+    "data-visualization",
+    "webgl"
+  ],
+  "language": "en",
+  "author": "bilawalsidhu",
+  "published_at": null,
+  "collected_at": "2026-08-28T19:52:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410760,
+    "github_language": "JavaScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001502193,
+    "github_stars_today": 3398,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

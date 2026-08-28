@@ -1,0 +1,30 @@
+{
+  "id": "c04358c609a5c694cafaf139e6a0758010bc2908226d88349e680e4e9ce69144",
+  "title": "NationalSecurityAgency/ghidra",
+  "source_url": "https://github.com/NationalSecurityAgency/ghidra",
+  "source_type": "github_trending",
+  "summary": "Ghidra 是美国国家安全局（NSA）开发并开源的一款软件逆向工程（SRE）框架，旨在提供强大的二进制分析能力。它包含反汇编器、反编译器、脚本引擎和图形化用户界面，支持多种处理器架构和文件格式。Ghidra 允许安全研究人员、恶意软件分析师和逆向工程师通过其插件系统和 Python/Java 脚本接口进行深度定制，从而高效地分析恶意代码、漏洞研究和协议逆向。其开源特性促进了社区协作，使其成为 IDA Pro 等商业工具的重要替代品。该框架强调可扩展性和协作性，支持团队共享项目数据，适用于从初学者到高级专家的不同用户群体。",
+  "content_markdown": null,
+  "tags": [
+    "reverse-engineering",
+    "disassembler",
+    "decompiler",
+    "security",
+    "framework"
+  ],
+  "language": "en",
+  "author": "NationalSecurityAgency",
+  "published_at": null,
+  "collected_at": "2026-08-28T19:52:11Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269473277,
+    "github_language": "Java",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001508010,
+    "github_stars_today": 205,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 9,
+    "difficulty": "intermediate"
+  }
+}
