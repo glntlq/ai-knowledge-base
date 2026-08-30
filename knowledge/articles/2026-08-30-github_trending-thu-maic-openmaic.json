@@ -1,0 +1,29 @@
+{
+  "id": "fdff369e72777f969ae62f58cba168fc61325cd773c68fab5ab1e38f01ddcf56",
+  "title": "THU-MAIC/OpenMAIC",
+  "source_url": "https://github.com/THU-MAIC/OpenMAIC",
+  "source_type": "github_trending",
+  "summary": "OpenMAIC（Open Multi-Agent Interactive Classroom）是清华大学MAIC团队开源的多智能体交互式课堂系统，旨在通过一键部署提供沉浸式多智能体学习体验。该系统利用大语言模型驱动的多个智能体模拟真实课堂中的教师、助教和学生角色，支持个性化互动教学、自动答疑和协作学习。项目强调易用性，用户可通过简单配置快速搭建虚拟课堂，适用于在线教育、技能培训及AI教学研究等场景。OpenMAIC融合了多智能体协作、对话管理和教育技术，为探索智能体在教育领域的应用提供了开源基础。",
+  "content_markdown": null,
+  "tags": [
+    "multi-agent",
+    "education",
+    "llm",
+    "open-source"
+  ],
+  "language": "zh",
+  "author": "THU-MAIC",
+  "published_at": null,
+  "collected_at": "2026-08-30T13:30:17Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269423078,
+    "github_language": "TypeScript",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001504409,
+    "github_stars_today": 907,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

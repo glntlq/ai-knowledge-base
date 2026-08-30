@@ -1,0 +1,29 @@
+{
+  "id": "efca70ab798bb421b6e465653ed3bc6961294075a1207eb8c5b1d82fe818299b",
+  "title": "corsairdev/corsair",
+  "source_url": "https://github.com/corsairdev/corsair",
+  "source_type": "github_trending",
+  "summary": "Corsair 是一个开源项目，旨在简化用户与应用之间的连接流程，提供统一的接入层。该项目可能涉及身份验证、授权或应用集成，帮助开发者快速实现用户与应用的无缝对接。其核心价值在于降低集成复杂度，提升用户体验。项目处于早期阶段，代码结构清晰，适合作为学习或二次开发的基础。",
+  "content_markdown": null,
+  "tags": [
+    "authentication",
+    "integration",
+    "developer-tools",
+    "open-source"
+  ],
+  "language": "en",
+  "author": "corsairdev",
+  "published_at": null,
+  "collected_at": "2026-08-30T13:30:17Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410787,
+    "github_language": "TypeScript",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150514,
+    "github_stars_today": 99,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 6,
+    "difficulty": "intermediate"
+  }
+}

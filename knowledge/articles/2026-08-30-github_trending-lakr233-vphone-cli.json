@@ -1,0 +1,30 @@
+{
+  "id": "6da3aeac38a835e412e988e2913652b057509c2ce61c812d8cb14f486d945369",
+  "title": "Lakr233/vphone-cli",
+  "source_url": "https://github.com/Lakr233/vphone-cli",
+  "source_type": "github_trending",
+  "summary": "vphone-cli 是一个由 Lakr233 开发的命令行工具，用于在 macOS 上管理虚拟 iPhone 设备（Virtual iPhone）。它提供了一套简洁的命令行接口，允许开发者快速创建、启动、停止和删除虚拟设备，并支持设备状态的查询与日志查看。该工具旨在简化 iOS 开发中的多设备测试流程，尤其适合需要频繁切换不同 iOS 版本或设备配置的场景。vphone-cli 基于 Apple 的虚拟化框架构建，无需额外安装模拟器，即可在 Apple Silicon Mac 上高效运行。项目目前处于活跃开发阶段，提供了详细的文档和示例，适合有一定 iOS 开发经验的开发者使用。",
+  "content_markdown": null,
+  "tags": [
+    "cli",
+    "ios",
+    "virtualization",
+    "macos",
+    "developer-tools"
+  ],
+  "language": "zh",
+  "author": "Lakr233",
+  "published_at": null,
+  "collected_at": "2026-08-30T13:30:17Z",
+  "analyzed_at": "2025-04-09T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826949394,
+    "github_language": "Swift",
+    "github_forks": 16001616111655372878041433675757545757500075758782252250111508782252250012252251521282251225101115085152252250013562587822522501115053257575010150757500015067575757501001575750000153875757501015075750001501276,
+    "github_stars_today": 633,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate"
+  }
+}

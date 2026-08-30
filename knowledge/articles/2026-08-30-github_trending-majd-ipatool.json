@@ -1,0 +1,30 @@
+{
+  "id": "756809e07233f550dc26344624ad1b459df00bcc0d494a8cd1bb0961059958d0",
+  "title": "majd/ipatool",
+  "source_url": "https://github.com/majd/ipatool",
+  "source_type": "github_trending",
+  "summary": "ipatool 是一个开源的命令行工具，用于从 App Store 搜索并下载 iOS、iPadOS、tvOS 和 visionOS 应用的 IPA 安装包。它简化了应用包的获取流程，适用于开发测试、自动化集成和逆向分析等场景。该工具支持通过关键词搜索应用、查看应用详情、下载指定版本的 IPA 文件，并提供了登录 App Store 账号的能力以访问受限内容。ipatool 使用 Swift 编写，跨平台支持 macOS 和 Linux，可通过 Homebrew 或源码编译安装。其设计注重易用性和可扩展性，是移动开发者和安全研究人员的实用工具。",
+  "content_markdown": null,
+  "tags": [
+    "ios",
+    "command-line-tool",
+    "app-store",
+    "ipa",
+    "swift"
+  ],
+  "language": "zh",
+  "author": "majd",
+  "published_at": null,
+  "collected_at": "2026-08-30T13:30:17Z",
+  "analyzed_at": "2025-04-14T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 160016161116825757500167341818823815421612757500141612793046297719419275175100110887918123473766198757500110887972419481863747575001416128421611732766875750018250244566155575750015644130974522421847575001216664528308427691456757500169802771456533084757500121666422421833096457575001564418269410050,
+    "github_language": "Go",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150869,
+    "github_stars_today": 56,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a1e9c62e11fbab494604c24cf593a2edadc8b94a0631a94a173f89cca0505c03",
+  "title": "pollen-robotics/microduck_rl",
+  "source_url": "https://github.com/pollen-robotics/microduck_rl",
+  "source_type": "github_trending",
+  "summary": "Microduck RL 是 Pollen Robotics 为 Microduck 机器人提供的强化学习训练环境，基于 MJLab 仿真平台构建。该项目旨在为 Microduck 双足机器人提供标准化的 RL 训练框架，支持多种运动任务（如行走、转向等），并集成领域随机化、域迁移等关键技术，以提升策略在真实硬件上的鲁棒性。仓库包含环境定义、训练脚本、配置文件和预训练模型示例，便于研究者复现和扩展。项目采用 Python 和 MJX（MuJoCo JAX）实现，支持 GPU 加速，适合机器人学习领域的研究者与工程师使用。通过该环境，用户可快速上手 Microduck 的强化学习训练流程，并利用其模块化设计进行自定义任务开发。",
+  "content_markdown": null,
+  "tags": [
+    "reinforcement-learning",
+    "robotics",
+    "mujoco",
+    "mjx",
+    "simulation"
+  ],
+  "language": "en",
+  "author": "pollen-robotics",
+  "published_at": null,
+  "collected_at": "2026-08-30T13:30:17Z",
+  "analyzed_at": "2025-04-09T01:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 1600161611168257575001673418188238154216127575001416127930462977194192751751001108879181234737661987575001108879724194818637475750014161284216117327668757500182502445661555757500156441309745224218475750012166645283084276914567575001698027714565330847575001216664224218330964575750015644182694663,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150121,
+    "github_stars_today": 147,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

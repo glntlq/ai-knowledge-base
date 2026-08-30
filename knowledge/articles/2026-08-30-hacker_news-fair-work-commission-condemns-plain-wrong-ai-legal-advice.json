@@ -1,0 +1,26 @@
+{
+  "id": "650ea3528d7b1b638a485652d5f6c4abc2c7ed2badca263acd73d5a733ae53cb",
+  "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+  "source_url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+  "source_type": "hacker_news",
+  "summary": "澳大利亚公平工作委员会（Fair Work Commission）在一项裁决中严厉批评了由人工智能生成的法律意见，称其“完全错误”（plain wrong）。该案凸显了AI在法律等专业领域应用的重大风险，尤其是在缺乏严格人工审核的情况下。委员会指出，AI生成的内容可能看似合理，但实则包含严重法律谬误，若被采信将损害司法公正。此事件引发了对AI工具在专业场景中可靠性、责任归属及监管必要性的广泛讨论。专家呼吁，在AI系统输出用于决策前，必须建立更严格的验证机制和人工复核流程，同时提升用户对AI局限性的认知。该案例为法律科技及AI治理提供了重要警示，强调了技术应用与专业伦理之间的平衡。",
+  "content_markdown": null,
+  "tags": [
+    "ai",
+    "legal-tech",
+    "ai-governance",
+    "australia",
+    "regulation"
+  ],
+  "language": "zh",
+  "author": "",
+  "published_at": "2026-08-29T00:00:00Z",
+  "collected_at": "2026-08-30T13:30:37Z",
+  "analyzed_at": "2026-08-29T00:00:00Z",
+  "status": "pending",
+  "metadata": {
+    "rss_feed": "https://hnrss.org/frontpage?q=AI+OR+LLM+OR+agent+OR+RAG",
+    "quality_score": 8,
+    "difficulty": "intermediate"
+  }
+}

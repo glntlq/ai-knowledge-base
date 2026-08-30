@@ -1,0 +1,34 @@
+{
+  "id": "87d75215e32cfd7db7e95458ade61a380a00c9db38f5553fa907d9e04a73a384",
+  "title": "handsomestWei/patent-disclosure-skill",
+  "source_url": "https://github.com/handsomestWei/patent-disclosure-skill",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向中国专利撰写场景的 AI 技能包（skill），旨在辅助用户完成专利点挖掘、交底书编写（涵盖发明、实用新型、外观设计三类）、专利通俗解读、政策动向嗅探以及审查意见答复。其核心价值在于将专利撰写流程标准化、智能化，降低技术人员的撰写门槛，提升专利申报效率与质量。项目通过结构化提示词或工作流，引导用户从技术方案中提炼创新点，并按照中国国家知识产权局的要求生成规范的交底书文本。同时，该技能还具备对最新专利政策、审查动态的感知能力，帮助用户及时调整申请策略。对于企业研发人员、知识产权代理人和创新管理者而言，该工具可作为日常专利工作的辅助助手，减少重复性文书工作，聚焦于技术创新本身。项目以 GitHub 开源形式发布，便于社区协作与持续迭代。",
+  "content_markdown": null,
+  "tags": [
+    "patent",
+    "ai-assistant",
+    "chinese-nlp",
+    "legal-tech",
+    "knowledge-management"
+  ],
+  "language": "zh",
+  "author": "handsomestWei",
+  "published_at": null,
+  "collected_at": "2026-08-30T13:30:17Z",
+  "analyzed_at": "2026-08-30T13:31:18Z",
+  "status": "pending",
+  "metadata": {
+    "github_stars": 16001616111682575750016734181882381542161275750014161279304629771941927517510011088791812347376619875750011088797241948186374757500141612842161173276687575001825024456615557575001564413097452242184757500121666452830842769145675750016980277145653308475750012166642242183309645757500156441826945541,
+    "github_language": "Python",
+    "github_forks": 1600161611165537287804143367575754575750007575878225225011150878225225001225225152128225122510111508515225225001356258782252250111505325757501015075750001506757575750100157575000015387575750101507575000150691,
+    "github_stars_today": 38,
+    "github_trending_url": "https://github.com/trending",
+    "quality_score": 7,
+    "difficulty": "intermediate",
+    "source_type": "github_trending",
+    "collected_at": "2025-04-09T00:00:00Z",
+    "analyzed_at": "2025-04-09T00:00:00Z",
+    "published_at": null
+  }
+}
